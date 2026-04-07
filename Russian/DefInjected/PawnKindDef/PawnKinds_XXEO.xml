@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <XEO_Trader.label>XEO Trader</XEO_Trader.label>
+  <XEO_Rioter.label>XEO Rioter</XEO_Rioter.label>
+  <XEO_Robin.label>XEO Robin</XEO_Robin.label>
+  <XEO_Omen.label>XEO Omen</XEO_Omen.label>
+  <XEO_Blade.label>XEO Blade</XEO_Blade.label>
+  <XEO_Musha.label>XEO Musha</XEO_Musha.label>
+  <XEO_TMusha.label>XEO Templar Musha</XEO_TMusha.label>
+  <XEO_AssassinMaster.label>XEO Assassin Master</XEO_AssassinMaster.label>
+  <XEO_Presbyterian.label>XEO Elder Unit</XEO_Presbyterian.label>
+
+  <XEO_TraderRatkin.label>XEO Trader</XEO_TraderRatkin.label>
+  <XEO_RioterRatkin.label>XEO Rioter</XEO_RioterRatkin.label>
+  <XEO_RobinRatkin.label>XEO Robin</XEO_RobinRatkin.label>
+  <XEO_OmenRatkin.label>XEO Omen</XEO_OmenRatkin.label>
+  <XEO_BladeRatkin.label>XEO Blade</XEO_BladeRatkin.label>
+  <XEO_MushaRatkin.label>XEO Musha</XEO_MushaRatkin.label>
+  <XEO_TMushaRatkin.label>XEO Templar Musha</XEO_TMushaRatkin.label>
+  <XEO_AssassinMasterRatkin.label>XEO Assassin Master</XEO_AssassinMasterRatkin.label>
+
+  <XEO_TraderAstoriel.label>XEO Trader</XEO_TraderAstoriel.label>
+  <XEO_RioterAstoriel.label>XEO Rioter</XEO_RioterAstoriel.label>
+  <XEO_RobinAstoriel.label>XEO Robin</XEO_RobinAstoriel.label>
+  <XEO_OmenAstoriel.label>XEO Omen</XEO_OmenAstoriel.label>
+  <XEO_BladeAstoriel.label>XEO Blade</XEO_BladeAstoriel.label>
+  <XEO_MushaAstoriel.label>XEO Musha</XEO_MushaAstoriel.label>
+  <XEO_TMushaAstoriel.label>XEO Templar Musha</XEO_TMushaAstoriel.label>
+  <XEO_AssassinMasterAstoriel.label>XEO Assassin Master</XEO_AssassinMasterAstoriel.label>
+
+  <XEO_TraderRevia.label>XEO Trader</XEO_TraderRevia.label>
+  <XEO_RioterRevia.label>XEO Rioter</XEO_RioterRevia.label>
+  <XEO_RobinRevia.label>XEO Robin</XEO_RobinRevia.label>
+  <XEO_OmenRevia.label>XEO Omen</XEO_OmenRevia.label>
+  <XEO_BladeRevia.label>XEO Blade</XEO_BladeRevia.label>
+  <XEO_MushaRevia.label>XEO Musha</XEO_MushaRevia.label>
+  <XEO_TMushaRevia.label>XEO Templar Musha</XEO_TMushaRevia.label>
+  <XEO_AssassinMasterRevia.label>XEO Assassin Master</XEO_AssassinMasterRevia.label>
+
+  <XEO_TraderFerian.label>XEO Trader</XEO_TraderFerian.label>
+  <XEO_RioterFerian.label>XEO Rioter</XEO_RioterFerian.label>
+  <XEO_RobinFerian.label>XEO Robin</XEO_RobinFerian.label>
+  <XEO_OmenFerian.label>XEO Omen</XEO_OmenFerian.label>
+  <XEO_BladeFerian.label>XEO Blade</XEO_BladeFerian.label>
+  <XEO_MushaFerian.label>XEO Musha</XEO_MushaFerian.label>
+  <XEO_TMushaFerian.label>XEO Templar Musha</XEO_TMushaFerian.label>
+  <XEO_AssassinMasterFerian.label>XEO Assassin Master</XEO_AssassinMasterFerian.label>
+
+  <XEO_TraderLapelli.label>XEO Trader</XEO_TraderLapelli.label>
+  <XEO_RioterLapelli.label>XEO Rioter</XEO_RioterLapelli.label>
+  <XEO_RobinLapelli.label>XEO Robin</XEO_RobinLapelli.label>
+  <XEO_OmenLapelli.label>XEO Omen</XEO_OmenLapelli.label>
+  <XEO_BladeLapelli.label>XEO Blade</XEO_BladeLapelli.label>
+  <XEO_MushaLapelli.label>XEO Musha</XEO_MushaLapelli.label>
+  <XEO_TMushaLapelli.label>XEO Templar Musha</XEO_TMushaLapelli.label>
+  <XEO_AssassinMasterLapelli.label>XEO Assassin Master</XEO_AssassinMasterLapelli.label>
+
+  <XEO_TraderKurin.label>XEO Trader</XEO_TraderKurin.label>
+  <XEO_RioterKurin.label>XEO Rioter</XEO_RioterKurin.label>
+  <XEO_RobinKurin.label>XEO Robin</XEO_RobinKurin.label>
+  <XEO_OmenKurin.label>XEO Omen</XEO_OmenKurin.label>
+  <XEO_BladeKurin.label>XEO Blade</XEO_BladeKurin.label>
+  <XEO_MushaKurin.label>XEO Musha</XEO_MushaKurin.label>
+  <XEO_TMushaKurin.label>XEO Templar Musha</XEO_TMushaKurin.label>
+  <XEO_AssassinMasterKurin.label>XEO Assassin Master</XEO_AssassinMasterKurin.label>
+
+</LanguageData>

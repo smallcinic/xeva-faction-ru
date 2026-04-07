@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AP_Chainsaw.label>Chain Saw</AP_Chainsaw.label>
+  <AP_Chainsaw.description>Sawwwwwwwwwwwww!!! Legend has it that the Pirate King was a lumberjack before he became a king, and after his many battles, he discovered he'd never forgotten the feel of a chainsaw. So the Pirate King asked the master craftsman of the time to design the weapon. He was very pleased with the huge and terrifying shape of the weapon.The pirates were so impressed that they began to make copies of the weapon, but it was so heavy that ordinary people could not use it properly. Some scholars believe it was the main cause of the Pirate King's death in the assassination.</AP_Chainsaw.description>
+  <AP_Chainsaw.tools.0.label>Swing</AP_Chainsaw.tools.0.label>
+  <AP_Chainsaw.tools.1.label>Drag Saw</AP_Chainsaw.tools.1.label>
+  <AP_Chainsaw.tools.2.label>Saw Cut</AP_Chainsaw.tools.2.label>
+  <AP_ChainsawM.label>Chain Saw MIL</AP_ChainsawM.label>
+  <AP_ChainsawM.description>Sawwwwwwwwwwwww!!! Legend has it that the Pirate King was a lumberjack before he became a king, and after his many battles, he discovered he'd never forgotten the feel of a chainsaw. So the Pirate King asked the master craftsman of the time to design the weapon. He was very pleased with the huge and terrifying shape of the weapon.The pirates were so impressed that they began to make copies of the weapon, but it was so heavy that ordinary people could not use it properly. Some scholars believe it was the main cause of the Pirate King's death in the assassination.</AP_ChainsawM.description>
+  <AP_ChainsawM.tools.0.label>Swing</AP_ChainsawM.tools.0.label>
+  <AP_ChainsawM.tools.1.label>Drag Saw</AP_ChainsawM.tools.1.label>
+  <AP_ChainsawM.tools.2.label>Saw Cut</AP_ChainsawM.tools.2.label>
+
+  <AP_CutSaber.label>Cut Saber</AP_CutSaber.label>
+  <AP_CutSaber.description>The damage type of this weapon is heat damage. Thermal weapons from the Pirate King's time, although ancient, their thermal blades are still effective against most modern armor, and some nostalgic pirates use them as melee weapons.</AP_CutSaber.description>
+  <AP_CutSaber.tools.0.label>Hilt Hit</AP_CutSaber.tools.0.label>
+  <AP_CutSaber.tools.1.label>Slice</AP_CutSaber.tools.1.label>
+  <AP_CutSaber.tools.2.label>Row Cut</AP_CutSaber.tools.2.label>
+  <AP_CutSaberM.label>Cut Saber MIL</AP_CutSaberM.label>
+  <AP_CutSaberM.description>The damage type of this weapon is heat damage. Thermal weapons from the Pirate King's time, although ancient, their thermal blades are still effective against most modern armor, and some nostalgic pirates use them as melee weapons.</AP_CutSaberM.description>
+  <AP_CutSaberM.tools.0.label>Hilt Hit</AP_CutSaberM.tools.0.label>
+  <AP_CutSaberM.tools.1.label>Slice</AP_CutSaberM.tools.1.label>
+  <AP_CutSaberM.tools.2.label>Row Cut</AP_CutSaberM.tools.2.label>
+
+  <DB_Hammer.label>Impact Hammer</DB_Hammer.label>
+  <DB_Hammer.description>A power hammer made of platinum with a power-assisted propulsion engine that is extremely lethal, this weapon is heavily used by Diamond Bone Warriors. Some people think that the sword is only a gorgeous decoration. This is the real melee weapon.</DB_Hammer.description>
+  <DB_Hammer.tools.0.label>Swing</DB_Hammer.tools.0.label>
+  <DB_Hammer.tools.1.label>Top Explosion</DB_Hammer.tools.1.label>
+  <DB_Hammer.tools.2.label>Rocket Fall</DB_Hammer.tools.2.label>
+  <DB_Hammer_MM.label>Power Warhammer</DB_Hammer_MM.label>
+  <DB_Hammer_MM.description>Well! Warhammer is the king of weapons in the Middle Ages.</DB_Hammer_MM.description>
+  <DB_Hammer_MM.tools.0.label>Swing</DB_Hammer_MM.tools.0.label>
+  <DB_Hammer_MM.tools.1.label>Hammering</DB_Hammer_MM.tools.1.label>
+  <DB_Hammer_MM.tools.2.label>Piercing</DB_Hammer_MM.tools.2.label>
+  <DB_HammerM.label>Impact Hammer MIL</DB_HammerM.label>
+  <DB_HammerM.description>A power hammer made of platinum with a power-assisted propulsion engine that is extremely lethal, this weapon is heavily used by Diamond Bone Warriors. Some people think that the sword is only a gorgeous decoration. This is the real melee weapon.</DB_HammerM.description>
+  <DB_HammerM.tools.0.label>Swing</DB_HammerM.tools.0.label>
+  <DB_HammerM.tools.1.label>Top Explosion</DB_HammerM.tools.1.label>
+  <DB_HammerM.tools.2.label>Rocket Fall</DB_HammerM.tools.2.label>
+
+  <DB_GreatSword.label>Great Sword</DB_GreatSword.label>
+  <DB_GreatSword.description>The sword made of Multimolecular Steel has a very high toughness. The blade peak is processed by a monomolecular coating, which is very sharp but it is easy to wear. There have been no damage records for this sword brought back by a warrior from the battlefield, but there are more people thinks that he has never used...</DB_GreatSword.description>
+  <DB_GreatSword.tools.0.label>Hilt Hit</DB_GreatSword.tools.0.label>
+  <DB_GreatSword.tools.1.label>Spike</DB_GreatSword.tools.1.label>
+  <DB_GreatSword.tools.2.label>Hard Cut</DB_GreatSword.tools.2.label>
+  <DB_GreatSword_MM.label>Fighting Knife</DB_GreatSword_MM.label>
+  <DB_GreatSword_MM.description>The Great Sword transformed into a Fighting Knife. Although it reduced the lethality but it was more flexible.</DB_GreatSword_MM.description>
+  <DB_GreatSword_MM.tools.0.label>Hilt Hit</DB_GreatSword_MM.tools.0.label>
+  <DB_GreatSword_MM.tools.1.label>Spike</DB_GreatSword_MM.tools.1.label>
+  <DB_GreatSword_MM.tools.2.label>Fury Cut</DB_GreatSword_MM.tools.2.label>
+  <DB_GreatSwordM.label>Great Sword MIL</DB_GreatSwordM.label>
+  <DB_GreatSwordM.description>The sword made of Multimolecular Steel has a very high toughness. The blade peak is processed by a monomolecular coating, which is very sharp but it is easy to wear. There have been no damage records for this sword brought back by a warrior from the battlefield, but there are more people thinks that he has never used...</DB_GreatSwordM.description>
+  <DB_GreatSwordM.tools.0.label>Hilt Hit</DB_GreatSwordM.tools.0.label>
+  <DB_GreatSwordM.tools.1.label>Spike</DB_GreatSwordM.tools.1.label>
+  <DB_GreatSwordM.tools.2.label>Hard Cut</DB_GreatSwordM.tools.2.label>
+  
+  <DB_DXS.label>Blade of Red</DB_DXS.label>
+  <DB_DXS.description>The legendary redstone weapon will generate a plasma blade in response to the user's emotional changes, which can achieve the cutting effect of the high frequency knife and is very stable.The redstone cannot be shaped by temperature and physics, it can only absorb the master's ideas to "Growing", so shaped weapons are extremely rare. Diamond Bone has been conducting a lot of metamorphosis experiments, hoping to find out its principles for mass production.\n\nWhen not equipped, characters with a redstone connection will interact with the weapon, slightly increasing its damage and repairing its durability.</DB_DXS.description>
+  <DB_DXS.tools.0.label>Tooth Break</DB_DXS.tools.0.label>
+  <DB_DXS.tools.1.label>Break Through</DB_DXS.tools.1.label>
+  <DB_DXS.tools.2.label>Sweep</DB_DXS.tools.2.label>
+  <DB_DXS.tools.3.label>Cut be Half</DB_DXS.tools.3.label>
+  <DB_DXSM.label>Dragon Slayer MIL</DB_DXSM.label>
+  <DB_DXSM.description>The legendary redstone weapon will generate a plasma blade in response to the user's emotional changes, which can achieve the cutting effect of the high frequency knife and is very stable.The redstone cannot be shaped by temperature and physics, it can only absorb the master's ideas to "Growing", so shaped weapons are extremely rare. Diamond Bone has been conducting a lot of metamorphosis experiments, hoping to find out its principles for mass production. This military weapon seems to have lost its vitality.</DB_DXSM.description>
+  <DB_DXSM.tools.0.label>Tooth Break</DB_DXSM.tools.0.label>
+  <DB_DXSM.tools.1.label>Break Through</DB_DXSM.tools.1.label>
+  <DB_DXSM.tools.2.label>Sweep</DB_DXSM.tools.2.label>
+  <DB_DXSM.tools.3.label>Cut be Half</DB_DXSM.tools.3.label>
+  <DB_DXS_MMM.label>Dragon Blade MIL</DB_DXS_MMM.label>
+  <DB_DXS_MMM.description>The legendary redstone weapon will generate a plasma blade in response to the user's emotional changes, which can achieve the cutting effect of the high frequency knife and is very stable.The redstone cannot be shaped by temperature and physics, it can only absorb the master's ideas to "Growing", so shaped weapons are extremely rare. Diamond Bone has been conducting a lot of metamorphosis experiments, hoping to find out its principles for mass production. This military weapon seems to have lost its vitality.</DB_DXS_MMM.description>
+  <DB_DXS_MMM.tools.0.label>Tooth Break</DB_DXS_MMM.tools.0.label>
+  <DB_DXS_MMM.tools.1.label>Chop Through</DB_DXS_MMM.tools.1.label>
+  <DB_DXS_MMM.tools.2.label>Sweep</DB_DXS_MMM.tools.2.label>
+  <DB_DXS_MMM.tools.3.label>Behead</DB_DXS_MMM.tools.3.label>
+
+  <FL_Destoryer.label>Destroyer</FL_Destoryer.label>
+  <FL_Destoryer.description>The damage type of this weapon is heat damage. A horrible melee weapon, the power spear can effectively penetrate the armor. Because the Flame Legion often uses this weapon to poke the prisoner of war from the back for warning and barbecue, so it is also called the "Ass Burster".</FL_Destoryer.description>
+  <FL_Destoryer.tools.0.label>Beat Up</FL_Destoryer.tools.0.label>
+  <FL_Destoryer.tools.1.label>Deep Thorn</FL_Destoryer.tools.1.label>
+  <FL_Destoryer.tools.2.label>Ass Broken</FL_Destoryer.tools.2.label>
+  <FL_Destoryer_MM.label>Destruction Drill</FL_Destoryer_MM.label>
+  <FL_Destoryer_MM.description>The damage type of this weapon is heat damage. Is it difficult to plug in? Don't be afraid, we use the drill instead.</FL_Destoryer_MM.description>
+  <FL_Destoryer_MM.tools.0.label>Beat Up</FL_Destoryer_MM.tools.0.label>
+  <FL_Destoryer_MM.tools.1.label>Deep Drill</FL_Destoryer_MM.tools.1.label>
+  <FL_Destoryer_MM.tools.2.label>Ass Smash</FL_Destoryer_MM.tools.2.label>
+  <FL_DestoryerM.label>Destroyer MIL</FL_DestoryerM.label>
+  <FL_DestoryerM.description>The damage type of this weapon is heat damage. A horrible melee weapon, the power spear can effectively penetrate the armor. Because the Flame Legion often uses this weapon to poke the prisoner of war from the back for warning and barbecue, so it is also called the "Ass Burster".</FL_DestoryerM.description>
+  <FL_DestoryerM.tools.0.label>Beat Up</FL_DestoryerM.tools.0.label>
+  <FL_DestoryerM.tools.1.label>Deep Thorn</FL_DestoryerM.tools.1.label>
+  <FL_DestoryerM.tools.2.label>Ass Broken</FL_DestoryerM.tools.2.label>
+
+  <FL_Tractor.label>Tractor</FL_Tractor.label>
+  <FL_Tractor.description>This weapon has a chance to increase the pain of the target. The body of the weapon is composed of a bunch of barbs, and everything comes out as soon as it is inserted. Originally just an ordinary slaughtering tool, what made it widely known was torture called "digging treasure" in medieval civilization. During the torture, the executioner puts a piece of wet soap on the ground and then forces the victim with his bare hands to pick it up. When the prisoner stooped and bent his hips, the executioner used this weapon to perform a thrusting on his hips, and then loosened the prisoner and allowed him to die slowly. In history, this soap-picking gesture was interpreted by prisoners, and some people even picked up the soap with a side-turn, but they finally succumbed to the power of several big men and were forced to hang down in a classic pose. Although the cruelty of this torture is staggering, it is not ordinary civilians who can enjoy such torture, but some well-known persons or nobles who are opposed to those in power. They will wriggle and groan on the ground before they lose their breath. Some people will even try to put the internal organs back into their belly. This rare celebrity ugliness is extremely ornamental and topical, so every time it attracts a large number of people to eat melons and watch. As for why the Flame Legion has such weapons, I think it should be unnecessary to explain.</FL_Tractor.description>
+  <FL_Tractor.tools.0.label>Beat Up</FL_Tractor.tools.0.label>
+  <FL_Tractor.tools.1.label>Push-Pull</FL_Tractor.tools.1.label>
+  <FL_Tractor.tools.2.label>Organs Draw out</FL_Tractor.tools.2.label>
+  <FL_Tractor_MM.label>Belly Opener</FL_Tractor_MM.label>
+  <FL_Tractor_MM.description>This weapon has a chance to increase the pain of the target. When you are still looking for that hole, I have cut open the belly!</FL_Tractor_MM.description>
+  <FL_Tractor_MM.tools.0.label>Beat Up</FL_Tractor_MM.tools.0.label>
+  <FL_Tractor_MM.tools.1.label>Drag Cut</FL_Tractor_MM.tools.1.label>
+  <FL_Tractor_MM.tools.2.label>Disembowel</FL_Tractor_MM.tools.2.label>
+  <FL_TractorM.label>Tractor MIL</FL_TractorM.label>
+  <FL_TractorM.description>This weapon has a chance to increase the pain of the target. The body of the weapon is composed of a bunch of barbs, and everything comes out as soon as it is inserted. Originally just an ordinary slaughtering tool, what made it widely known was torture called "digging treasure" in medieval civilization. During the torture, the executioner puts a piece of wet soap on the ground and then forces the victim with his bare hands to pick it up. When the prisoner stooped and bent his hips, the executioner used this weapon to perform a thrusting on his hips, and then loosened the prisoner and allowed him to die slowly. In history, this soap-picking gesture was interpreted by prisoners, and some people even picked up the soap with a side-turn, but they finally succumbed to the power of several big men and were forced to hang down in a classic pose. Although the cruelty of this torture is staggering, it is not ordinary civilians who can enjoy such torture, but some well-known persons or nobles who are opposed to those in power. They will wriggle and groan on the ground before they lose their breath. Some people will even try to put the internal organs back into their belly. This rare celebrity ugliness is extremely ornamental and topical, so every time it attracts a large number of people to eat melons and watch. As for why the Flame Legion has such weapons, I think it should be unnecessary to explain.</FL_TractorM.description>
+  <FL_TractorM.tools.0.label>Beat Up</FL_TractorM.tools.0.label>
+  <FL_TractorM.tools.1.label>Push-Pull</FL_TractorM.tools.1.label>
+  <FL_TractorM.tools.2.label>Organs Draw out</FL_TractorM.tools.2.label>
+
+  <JG_PowerPunch.label>Power Punch</JG_PowerPunch.label>
+  <JG_PowerPunch.description>This weapon was made by a designer who saw an irrational prisoner punching his fist against the wall and got inspiration. Putting it on to remove the wall will not hurt your hands.</JG_PowerPunch.description>
+  <JG_PowerPunch.tools.0.label>Combo</JG_PowerPunch.tools.0.label>
+  <JG_PowerPunch.tools.1.label>Iron Fist</JG_PowerPunch.tools.1.label>
+  <JG_PowerPunch.tools.2.label>Chisel Hit</JG_PowerPunch.tools.2.label>
+  <JG_PowerPunch_MM.label>Mech Arm</JG_PowerPunch_MM.label>
+  <JG_PowerPunch_MM.description>This arm is enough to demolish the city wall!</JG_PowerPunch_MM.description>
+  <JG_PowerPunch_MM.tools.0.label>Impact</JG_PowerPunch_MM.tools.0.label>
+  <JG_PowerPunch_MM.tools.1.label>Hard Fist</JG_PowerPunch_MM.tools.1.label>
+  <JG_PowerPunch_MM.tools.2.label>Gun Chisel</JG_PowerPunch_MM.tools.2.label>
+  <JG_PowerPunchM.label>Power Punch MIL</JG_PowerPunchM.label>
+  <JG_PowerPunchM.description>This weapon was made by a designer who saw an irrational prisoner punching his fist against the wall and got inspiration. Putting it on to remove the wall will not hurt your hands.</JG_PowerPunchM.description>
+  <JG_PowerPunchM.tools.0.label>Combo</JG_PowerPunchM.tools.0.label>
+  <JG_PowerPunchM.tools.1.label>Iron Fist</JG_PowerPunchM.tools.1.label>
+  <JG_PowerPunchM.tools.2.label>Chisel Hit</JG_PowerPunchM.tools.2.label>
+
+  <SE_TwinStarTears.label>Twin Star Tears</SE_TwinStarTears.label>
+  <SE_TwinStarTears.description>This weapon has a chance to slow down the target's movement speed. There's an ancient project among the Star Explorer called Twin Star, where they're said to automatically program all identical twins into the project. To train for espionage missions, the project manager will give the twins a symmetrical object as a token that can tell right from left. There was an extremely rare and beautiful identical twin brother and sister in history, and the people in charge at the time treasured them very much. He specifically asked the craftsmen to make the two daggers out of the Star Tear as a token for them. However, that brother and sister refused to accept the mission of Twin Star when they grew up, and even committed the crime of incest because of love, forcing the person in charge to send an executive officer to solve them. In order to protect the baby sister, the brother pretended to commit suicide with his dagger, He took another dagger and pretended to be his sister. The executive officer found out that there was a problem when he raped him. The fooled executive was furious and shoot him into a honeycomb. His sister has long disappeared in this time. The story of the pseudo-sister rescued the sister quickly became a hot topic. The double-dagger was widely copied under the tale. The military of Star Explorer even thought that the weapon represented wit and courage, so it was compiled into the assault force.</SE_TwinStarTears.description>
+  <SE_TwinStarTears.tools.0.label>Combo Stab</SE_TwinStarTears.tools.0.label>
+  <SE_TwinStarTears.tools.1.label>Broken Ridge</SE_TwinStarTears.tools.1.label>
+  <SE_TwinStarTears.tools.2.label>Link Cut</SE_TwinStarTears.tools.2.label>
+  <SE_TwinStarTears_MM.label>Twin Star Arc</SE_TwinStarTears_MM.label>
+  <SE_TwinStarTears_MM.description>This weapon has a chance to slow down the target's movement speed. The two daggers are together again.</SE_TwinStarTears_MM.description>
+  <SE_TwinStarTears_MM.tools.0.label>Spiral</SE_TwinStarTears_MM.tools.0.label>
+  <SE_TwinStarTears_MM.tools.1.label>Top Cut</SE_TwinStarTears_MM.tools.1.label>
+  <SE_TwinStarTears_MM.tools.2.label>Arc Flash</SE_TwinStarTears_MM.tools.2.label>
+  <SE_TwinStarTearsM.label>Twin Star Tears MIL</SE_TwinStarTearsM.label>
+  <SE_TwinStarTearsM.description>This weapon has a chance to slow down the target's movement speed. There's an ancient project among the Star Explorer called Twin Star, where they're said to automatically program all identical twins into the project. To train for espionage missions, the project manager will give the twins a symmetrical object as a token that can tell right from left. There was an extremely rare and beautiful identical twin brother and sister in history, and the people in charge at the time treasured them very much. He specifically asked the craftsmen to make the two daggers out of the Star Tear as a token for them. However, that brother and sister refused to accept the mission of Twin Star when they grew up, and even committed the crime of incest because of love, forcing the person in charge to send an executive officer to solve them. In order to protect the baby sister, the brother pretended to commit suicide with his dagger, He took another dagger and pretended to be his sister. The executive officer found out that there was a problem when he raped him. The fooled executive was furious and shoot him into a honeycomb. His sister has long disappeared in this time. The story of the pseudo-sister rescued the sister quickly became a hot topic. The double-dagger was widely copied under the tale. The military of Star Explorer even thought that the weapon represented wit and courage, so it was compiled into the assault force.</SE_TwinStarTearsM.description>
+  <SE_TwinStarTearsM.tools.0.label>Combo Stab</SE_TwinStarTearsM.tools.0.label>
+  <SE_TwinStarTearsM.tools.1.label>Broken Ridge</SE_TwinStarTearsM.tools.1.label>
+  <SE_TwinStarTearsM.tools.2.label>Link Cut</SE_TwinStarTearsM.tools.2.label>
+
+  <XEO_HFBlade.label>High Freguency Blade</XEO_HFBlade.label>
+  <XEO_HFBlade.description>The XEO exclusive melee weapon, a blade made of Song Crystals that can cut through objects at the molecular level. Legend has it that singing can overclock this weapon and produce terrible destructive power, but many scholars point out that this is not scientific, just superstition of those assassins. Even so, XEO still has a lot of perverts singing and chopping people.</XEO_HFBlade.description>
+  <XEO_HFBlade.tools.0.label>Broken Glass</XEO_HFBlade.tools.0.label>
+  <XEO_HFBlade.tools.1.label>Cut the Wind</XEO_HFBlade.tools.1.label>
+  <XEO_HFBlade.tools.2.label>Steel Cut</XEO_HFBlade.tools.2.label>
+  <XEO_HFBlade.tools.3.label>Sing for Blade</XEO_HFBlade.tools.3.label>
+  <XEO_HFBlade_MM.label>High Freguency Tachi</XEO_HFBlade_MM.label>
+  <XEO_HFBlade_MM.description>Faster...Go Faster!</XEO_HFBlade_MM.description>
+  <XEO_HFBlade_MM.tools.0.label>Broken Glass</XEO_HFBlade_MM.tools.0.label>
+  <XEO_HFBlade_MM.tools.1.label>Chop the Wind</XEO_HFBlade_MM.tools.1.label>
+  <XEO_HFBlade_MM.tools.2.label>Draw the Sword</XEO_HFBlade_MM.tools.2.label>
+  <XEO_HFBlade_MM.tools.3.label>Fury Tachi</XEO_HFBlade_MM.tools.3.label>
+  <XEO_HFBladeM.label>High Freguency Blade MIL</XEO_HFBladeM.label>
+  <XEO_HFBladeM.description>The XEO exclusive melee weapon, a blade made of Song Crystals that can cut through objects at the molecular level. Legend has it that singing can overclock this weapon and produce terrible destructive power, but many scholars point out that this is not scientific, just superstition of those assassins. Even so, XEO still has a lot of perverts singing and chopping people.</XEO_HFBladeM.description>
+  <XEO_HFBladeM.tools.0.label>Broken Glass</XEO_HFBladeM.tools.0.label>
+  <XEO_HFBladeM.tools.1.label>Cut the Wind</XEO_HFBladeM.tools.1.label>
+  <XEO_HFBladeM.tools.2.label>Steel Cut</XEO_HFBladeM.tools.2.label>
+  <XEO_HFBladeM.tools.3.label>Sing for Blade</XEO_HFBladeM.tools.3.label>
+
+  <XOG_Katana.label>Katana</XOG_Katana.label>
+  <XOG_Katana.description>The katana has a very beautiful shape and was once known as the best chopping weapon. Even after thousands of years, many high-tech melee weapons are still based on its shape.</XOG_Katana.description>
+
+  <XOG_Bayonet.label>Bayonet</XOG_Bayonet.label>
+  <XOG_Bayonet.description>The dagger for military use, the groove on the spine and the ergonomic grip make it lighter and more flexible than ordinary daggers.</XOG_Bayonet.description>
+
+</LanguageData>

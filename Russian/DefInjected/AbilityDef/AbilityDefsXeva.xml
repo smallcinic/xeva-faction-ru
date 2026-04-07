@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <SuperBiteXF.label>super bite</SuperBiteXF.label>
+  <SuperBiteXF.description>A bite using the whole body's strength. Can even bite the head off! It takes a long time to use again.</SuperBiteXF.description>
+
+  <HairBladeXF.label>hair blade</HairBladeXF.label>
+  <HairBladeXF.description>Gather the nanomachines to a part of the hair, harden it and make a surprise attack. After using it, the nanomachines will lose energy and take some time to recover.</HairBladeXF.description>
+
+  <FlashofXeoXFWskill.label>Real-Flash of XEO</FlashofXeoXFWskill.label>
+  <FlashofXeoXFWskill.description>XvA looked up the ancient swordplay manuals of XEO and discovered an ultimate move, but no matter how hard she tried, she couldn't do it. "How is it possible to instantly strike a target 14 meters away? I want to learn!" XvA, holding the manual, ran to find the master. "Don't be foolish, no one can perform this." "If it can't be performed, why is it recorded?" XvA didn't believe it, and the master pressed her head and said, "What you're holding in your hand is a comic book..."</FlashofXeoXFWskill.description>
+
+  <XF_OccamRazordskill.label>Occam Iaido</XF_OccamRazordskill.label>
+  <XF_OccamRazordskill.description>Simple, direct, and effective; this applies to foes as well as friends.</XF_OccamRazordskill.description>
+ 
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <XGun_RoarMX.label>Roar MOD</XGun_RoarMX.label>
+  <XGun_RoarMX.description>A illegally modified version which added a preserize mod to it. Its range is longer than a normal version.</XGun_RoarMX.description>
+  <XGun_RoarMX.tools.0.label>stock</XGun_RoarMX.tools.0.label>
+  <XGun_RoarMX.tools.1.label>barrel</XGun_RoarMX.tools.1.label>
+  <XGun_RoarBM.label>Roar BM</XGun_RoarBM.label>
+  <XGun_RoarBM.description>A illegally modified version which added a preserize mod to it. Its range is longer than a normal version.</XGun_RoarBM.description>
+  <XGun_RoarBM.tools.0.label>stock</XGun_RoarBM.tools.0.label>
+  <XGun_RoarBM.tools.1.label>barrel</XGun_RoarBM.tools.1.label>
+
+  <Bullet_GvE_T.label>.50 Black Core Tracer Bullet</Bullet_GvE_T.label>
+  <XGun_GvEMX.label>Good vs Evil MOD</XGun_GvEMX.label>
+  <XGun_GvEMX.description>A illegally modified version which extand the barrel and redisgin its rifling. Its range is longer than normal version. Prepare to be blinded the fucking eyes of the target!</XGun_GvEMX.description>
+  <XGun_GvEMX.tools.0.label>good</XGun_GvEMX.tools.0.label>
+  <XGun_GvEMX.tools.1.label>evil</XGun_GvEMX.tools.1.label>
+  <XGun_GvEBM.label>Good vs Evil BM</XGun_GvEBM.label>
+  <XGun_GvEBM.description>A illegally modified version which extand the barrel and redisgin its rifling. Its range is longer than normal version. Prepare to be blinded the fucking eyes of the target!</XGun_GvEBM.description>
+  <XGun_GvEBM.tools.0.label>good</XGun_GvEBM.tools.0.label>
+  <XGun_GvEBM.tools.1.label>evil</XGun_GvEBM.tools.1.label>
+
+  <XGun_PythonMX.label>Python MOD</XGun_PythonMX.label>
+  <XGun_PythonMX.description>A illegally modified version which modified its clips and coolant. Its supressing ability is greater than normal version.</XGun_PythonMX.description>
+  <XGun_PythonMX.tools.0.label>stock</XGun_PythonMX.tools.0.label>
+  <XGun_PythonMX.tools.1.label>barrel</XGun_PythonMX.tools.1.label>
+  <XGun_PythonBM.label>Python BM</XGun_PythonBM.label>
+  <XGun_PythonBM.description>A illegally modified version which modified its clips and coolant. Its supressing ability is greater than normal version.</XGun_PythonBM.description>
+  <XGun_PythonBM.tools.0.label>stock</XGun_PythonBM.tools.0.label>
+  <XGun_PythonBM.tools.1.label>barrel</XGun_PythonBM.tools.1.label>
+  
+  <XGun_ProbeMX.label>Probe MOD</XGun_ProbeMX.label>
+  <XGun_ProbeMX.description>A illegally modified version which add on a new stabilizer, greatly improve its aiming speed.</XGun_ProbeMX.description>
+  <XGun_ProbeMX.tools.0.label>stock</XGun_ProbeMX.tools.0.label>
+  <XGun_ProbeMX.tools.1.label>barrel</XGun_ProbeMX.tools.1.label>
+  <XGun_ProbeBM.label>Probe BM</XGun_ProbeBM.label>
+  <XGun_ProbeBM.description>A illegally modified version which add on a new stabilizer, greatly improve its aiming speed.</XGun_ProbeBM.description>
+  <XGun_ProbeBM.tools.0.label>stock</XGun_ProbeBM.tools.0.label>
+  <XGun_ProbeBM.tools.1.label>barrel</XGun_ProbeBM.tools.1.label>
+
+  <Bullet_LightSpearX.label>Plasma</Bullet_LightSpearX.label>
+  <XGun_LightSpearMX.label>Light Spear MOD</XGun_LightSpearMX.label>
+  <XGun_LightSpearMX.description>A illegally modified version which modified its charging device. Its shooting mode is different from normal version.</XGun_LightSpearMX.description>
+  <XGun_LightSpearMX.tools.0.label>stock</XGun_LightSpearMX.tools.0.label>
+  <XGun_LightSpearMX.tools.1.label>barrel</XGun_LightSpearMX.tools.1.label>
+  <XGun_LightSpearBM.label>Light Spear BM</XGun_LightSpearBM.label>
+  <XGun_LightSpearBM.description>A illegally modified version which modified its charging device. Its shooting mode is different from normal version.</XGun_LightSpearBM.description>
+  <XGun_LightSpearBM.tools.0.label>stock</XGun_LightSpearBM.tools.0.label>
+  <XGun_LightSpearBM.tools.1.label>barrel</XGun_LightSpearBM.tools.1.label>
+  
+</LanguageData>
