@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <CoreBiodoll.label>Core Biodoll</CoreBiodoll.label>
+  <CoreBiodoll.corePart.parts.left_lung.customLabel>ушёл lung</CoreBiodoll.corePart.parts.left_lung.customLabel>
+  <CoreBiodoll.corePart.parts.right_lung.customLabel>право lung</CoreBiodoll.corePart.parts.right_lung.customLabel>
+  <CoreBiodoll.corePart.parts.left_kidney.customLabel>ушёл kidney</CoreBiodoll.corePart.parts.left_kidney.customLabel>
+  <CoreBiodoll.corePart.parts.right_kidney.customLabel>право kidney</CoreBiodoll.corePart.parts.right_kidney.customLabel>
+  <CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.left_eye.customLabel>ушёл глаз</CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.left_eye.customLabel>
+  <CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.right_eye.customLabel>право глаз</CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.right_eye.customLabel>
+  <CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.left_ear.customLabel>ушёл ear</CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.left_ear.customLabel>
+  <CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.right_ear.customLabel>право ear</CoreBiodoll.corePart.parts.AEXNeck.parts.AEXHead.parts.right_ear.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.customLabel>ушёл плечо</CoreBiodoll.corePart.parts.left_shoulder.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>ушёл clavicle</CoreBiodoll.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.customLabel>ушёл рука</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>ушёл humerus</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ушёл radius</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>ушёл кисть</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>ушёл pinky</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>ring finger</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>ушёл middle finger</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>ушёл index finger</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ушёл thumb</CoreBiodoll.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.customLabel>право плечо</CoreBiodoll.corePart.parts.right_shoulder.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>право clavicle</CoreBiodoll.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.customLabel>право рука</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>право humerus</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>право radius</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>право кисть</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>право pinky</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>право ring finger</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>право middle finger</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>право index finger</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>право thumb</CoreBiodoll.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.customLabel>ушёл нога</CoreBiodoll.corePart.parts.left_leg.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_femur.customLabel>ушёл femur</CoreBiodoll.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_tibia.customLabel>ушёл tibia</CoreBiodoll.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_foot.customLabel>ушёл ступня</CoreBiodoll.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>ушёл little toe</CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>ушёл fourth toe</CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>ушёл middle toe</CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>ушёл секунда toe</CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>ушёл big toe</CoreBiodoll.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.customLabel>право нога</CoreBiodoll.corePart.parts.right_leg.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_femur.customLabel>право femur</CoreBiodoll.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_tibia.customLabel>право tibia</CoreBiodoll.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_foot.customLabel>право ступня</CoreBiodoll.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>право little toe</CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>право fourth toe</CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>право middle toe</CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>право секунда toe</CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>право big toe</CoreBiodoll.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+
+</LanguageData>

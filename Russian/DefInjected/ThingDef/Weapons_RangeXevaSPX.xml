@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <XGun_RoarMX.label>Roar Мод</XGun_RoarMX.label>
+  <XGun_RoarMX.description> illegally modified версия which added preserize мод к это. Его дальность longer чем normal версия.</XGun_RoarMX.description>
+  <XGun_RoarMX.tools.0.label>приклад</XGun_RoarMX.tools.0.label>
+  <XGun_RoarMX.tools.1.label>ствол</XGun_RoarMX.tools.1.label>
+  <XGun_RoarBM.label>Roar BM</XGun_RoarBM.label>
+  <XGun_RoarBM.description> illegally modified версия which added preserize мод к это. Его дальность longer чем normal версия.</XGun_RoarBM.description>
+  <XGun_RoarBM.tools.0.label>приклад</XGun_RoarBM.tools.0.label>
+  <XGun_RoarBM.tools.1.label>ствол</XGun_RoarBM.tools.1.label>
+
+  <Bullet_GvE_T.label>.50 Чёрное Core Tracer Пуля</Bullet_GvE_T.label>
+  <XGun_GvEMX.label>Хороший vs Evil Мод</XGun_GvEMX.label>
+  <XGun_GvEMX.description> illegally modified версия which extand ствол и redisgin его rifling. Его дальность longer чем normal версия. Prepare к быть blinded fucking eyes из цель!</XGun_GvEMX.description>
+  <XGun_GvEMX.tools.0.label>хороший</XGun_GvEMX.tools.0.label>
+  <XGun_GvEMX.tools.1.label>evil</XGun_GvEMX.tools.1.label>
+  <XGun_GvEBM.label>Хороший vs Evil BM</XGun_GvEBM.label>
+  <XGun_GvEBM.description> illegally modified версия which extand ствол и redisgin его rifling. Его дальность longer чем normal версия. Prepare к быть blinded fucking eyes из цель!</XGun_GvEBM.description>
+  <XGun_GvEBM.tools.0.label>хороший</XGun_GvEBM.tools.0.label>
+  <XGun_GvEBM.tools.1.label>evil</XGun_GvEBM.tools.1.label>
+
+  <XGun_PythonMX.label>Python Мод</XGun_PythonMX.label>
+  <XGun_PythonMX.description> illegally modified версия which modified его clips и coolant. Его supressing способность greater чем normal версия.</XGun_PythonMX.description>
+  <XGun_PythonMX.tools.0.label>приклад</XGun_PythonMX.tools.0.label>
+  <XGun_PythonMX.tools.1.label>ствол</XGun_PythonMX.tools.1.label>
+  <XGun_PythonBM.label>Python BM</XGun_PythonBM.label>
+  <XGun_PythonBM.description> illegally modified версия which modified его clips и coolant. Его supressing способность greater чем normal версия.</XGun_PythonBM.description>
+  <XGun_PythonBM.tools.0.label>приклад</XGun_PythonBM.tools.0.label>
+  <XGun_PythonBM.tools.1.label>ствол</XGun_PythonBM.tools.1.label>
+  
+  <XGun_ProbeMX.label>Probe Мод</XGun_ProbeMX.label>
+  <XGun_ProbeMX.description> illegally modified версия which add на новый stabilizer, greatly improve его aiming скорость.</XGun_ProbeMX.description>
+  <XGun_ProbeMX.tools.0.label>приклад</XGun_ProbeMX.tools.0.label>
+  <XGun_ProbeMX.tools.1.label>ствол</XGun_ProbeMX.tools.1.label>
+  <XGun_ProbeBM.label>Probe BM</XGun_ProbeBM.label>
+  <XGun_ProbeBM.description> illegally modified версия which add на новый stabilizer, greatly improve его aiming скорость.</XGun_ProbeBM.description>
+  <XGun_ProbeBM.tools.0.label>приклад</XGun_ProbeBM.tools.0.label>
+  <XGun_ProbeBM.tools.1.label>ствол</XGun_ProbeBM.tools.1.label>
+
+  <Bullet_LightSpearX.label>Плазма</Bullet_LightSpearX.label>
+  <XGun_LightSpearMX.label>Лёгкий Spear Мод</XGun_LightSpearMX.label>
+  <XGun_LightSpearMX.description> illegally modified версия which modified его charging device. Его стрельба mode different от normal версия.</XGun_LightSpearMX.description>
+  <XGun_LightSpearMX.tools.0.label>приклад</XGun_LightSpearMX.tools.0.label>
+  <XGun_LightSpearMX.tools.1.label>ствол</XGun_LightSpearMX.tools.1.label>
+  <XGun_LightSpearBM.label>Лёгкий Spear BM</XGun_LightSpearBM.label>
+  <XGun_LightSpearBM.description> illegally modified версия which modified его charging device. Его стрельба mode different от normal версия.</XGun_LightSpearBM.description>
+  <XGun_LightSpearBM.tools.0.label>приклад</XGun_LightSpearBM.tools.0.label>
+  <XGun_LightSpearBM.tools.1.label>ствол</XGun_LightSpearBM.tools.1.label>
+  
+</LanguageData>

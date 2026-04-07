@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <XF_Bionics.label>XF Sculptor Бионический Series</XF_Bionics.label>
+  <XF_Bionics.description> "Sculptor Бионический" series cutting-edge experimental бионический technology secretly developed Барон и его элитный команда. Indistinguishable от человек organs в appearance, эти implants possess superior performance compared к traditional бионический organs. Не только делать они achieve peak functionality, но они также perfectly mimic человек тело aesthetically, representing ultimate fusion из biology и technology.</XF_Bionics.description>
+
+  <XFBaseTech.label>XF Base Tech</XFBaseTech.label>
+  <XFBaseTech.description>Allow player к build XF Tech Table и делать базовый clothes.</XFBaseTech.description>
+
+  <XFWPModTech.label>XF Оружие Modification Tech</XFWPModTech.label>
+  <XFWPModTech.description>Allow player к build XF Оружие Modification Table и modify некоторые XF оружие.</XFWPModTech.description>
+
+  <XFarmorTech.label>XF Броня Tech</XFarmorTech.label>
+  <XFarmorTech.description>Allow player к делать armors и helmets из Xeva Фракция от XF Tech Table.</XFarmorTech.description>
+
+  <XFweaponTech.label>XF Оружие Tech</XFweaponTech.label>
+  <XFweaponTech.description>Allow player к делать оружие из Xeva Фракция от XF Tech Table.</XFweaponTech.description>
+
+  <SecretXResearch.label>XF Anomaly Исследование</SecretXResearch.label>
+  <SecretXResearch.description>Мастер unknown силовая.</SecretXResearch.description>
+  
+  <StrangeAncientXResearch.label>XF Странный Древний Исследование</StrangeAncientXResearch.label>
+  <StrangeAncientXResearch.description>Background investigation и application из nanomechanics.</StrangeAncientXResearch.description>
+
+</LanguageData>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <XF_Redstoneinteract.label>XF_Redstoneinteract</XF_Redstoneinteract.label>
+  <XF_Redstoneinteract.description>Interact с redstone оружие.</XF_Redstoneinteract.description>
+
+  <XF_RedstonelinkH.label>Redstone Link</XF_RedstonelinkH.label>
+  <XF_RedstonelinkH.description>Connected к redstone, I'll go play games с это в bit.</XF_RedstonelinkH.description>
+
+  <XF_BloodofPhoenix.label>Кровь из Phoenix</XF_BloodofPhoenix.label>
+  <XF_BloodofPhoenix.description>Persistent nanomachine infection significantly enhances physical capabilities, но host experiences extreme боль.</XF_BloodofPhoenix.description>
+
+  <XF_NanoWeakUp.label>Nanomech Weak Вверх</XF_NanoWeakUp.label>
+  <XF_NanoWeakUp.description> nanomachines inside тело awakening. Они будет repair severe wound или missing часть из host и significantly enhance host's physical способности. После period из время, они будет enter dormancy снова.</XF_NanoWeakUp.description>
+
+  <XF_Tgood.label>Vocal Infection</XF_Tgood.label>
+  <XF_Tgood.description> это силовая из music?</XF_Tgood.description>
+
+  <XF_Tbad.label>Vocal Pollution</XF_Tbad.label>
+  <XF_Tbad.description>Oh God! Мой Fucking Мозг!</XF_Tbad.description>
+
+  <XF_Sing.label>Singing</XF_Sing.label>
+  <XF_Sing.description>Её singing может быть blessing или curse...</XF_Sing.description>
+
+  <XF_SingBad.label>Singing</XF_SingBad.label>
+  <XF_SingBad.description>Её singing может быть blessing или curse...</XF_SingBad.description>
+
+  <XF_BlackAppleInterest.label>Abyssal Gaze</XF_BlackAppleInterest.label>
+  <XF_BlackAppleInterest.description>Это один influenced чёрное яблоко, becoming disoriented и delusional.</XF_BlackAppleInterest.description>
+  <XF_BlackAppleInterest.stages.0.label>пси infection</XF_BlackAppleInterest.stages.0.label>
+
+  <XHCcut.label>Freeze</XHCcut.label>
+  <XHCcut.description>Slow движение due к decreased тело temperature.</XHCcut.description>
+  
+  <XHpull.label>Visceral Pulled</XHpull.label>
+  <XHpull.description>Visceral pulled вызывая severe боль.</XHpull.description>
+
+  <XFBlind.label>Flash Blind</XFBlind.label>
+  <XFBlind.description>Ho! Мой Fxxking Eyes!</XFBlind.description>
+
+  <XGVEBlind.label>Rock Ваш Eyes</XGVEBlind.label>
+  <XGVEBlind.description>Ho! Мой Fxxking Eyes!</XGVEBlind.description>
+  <XGVEBlind.stages.1.label>Bling Bling!</XGVEBlind.stages.1.label>
+  <XGVEBlind.stages.2.label>Тоже Shiny!</XGVEBlind.stages.2.label>
+  <XGVEBlind.stages.3.label>I'm Blind</XGVEBlind.stages.3.label>
+  <XGVEBlind.stages.4.label>Мой Fxxking Eyes!</XGVEBlind.stages.4.label>
+  
+  <XFZbomb.label>Frost</XFZbomb.label>
+  <XFZbomb.description>Slow движение due к decreased тело temperature.</XFZbomb.description>
+  
+</LanguageData>

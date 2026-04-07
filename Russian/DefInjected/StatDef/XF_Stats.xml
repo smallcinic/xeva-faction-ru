@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+<XF_CutBulletChance.label>Пуля Отклонения Шанс - Armed</XF_CutBulletChance.label>
+<XF_CutBulletChance.description> шанс к deflect projectiles в non-melee situations или когда stunned. character должен wear силовая броня и быть equipped с XF Высокий Частотный Оружие или Bladelink Оружие для это к взять effect. character begins к мастер это technique когда их Ближний навык reaches level 14. *Пуля Отклонения будет cause 1-4 points из урон к ближний weapon's durability, пока Bladelink Оружие будет только suffer wear когда deflecting attacks с урон greater чем 8, с 35% шанс из consuming 1 point из durability.(Оружие durability loss может быть disabled в Мод settings interface.)</XF_CutBulletChance.description>
+
+
+<XF_ParryChance.label>Парирование Шанс - Armed</XF_ParryChance.label>
+<XF_ParryChance.description> шанс к парирование opponent's атака в ближний combat. character должен wear силовая броня и быть equipped с ближний оружие для это к взять effect. character begins к мастер это technique когда их Ближний навык reaches level 10. *Парирование будет делать 1-3 points из урон к durability из ближний оружие, except для Bladelink оружие.(Оружие durability loss может быть disabled в Мод settings interface.)</XF_ParryChance.description>
+
+
+<XF_StunChance.label>Оглушение Шанс - Armed</XF_StunChance.label>
+<XF_StunChance.description> шанс к оглушение opponent после successful парирование в ближний combat. character должен wear силовая броня и быть equipped с ближний оружие для это к взять effect. character begins к мастер это technique когда их Ближний навык reaches level 10.</XF_StunChance.description>
+
+</LanguageData>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <XF_SAdissection.label>Странный Древний Dissection</XF_SAdissection.label>
+  <XF_SAdissection.description>Dissecting Странный Древний.</XF_SAdissection.description>
+  <XF_SAdissection.jobString>Dissecting.</XF_SAdissection.jobString>
+
+  <Xeva_DBDXSMM.label>Делать Dragon Клинок</Xeva_DBDXSMM.label>
+  <Xeva_DBDXSMM.description>Делать Dragon Клинок.</Xeva_DBDXSMM.description>
+  <Xeva_DBDXSMM.jobString>making Dragon Клинок.</Xeva_DBDXSMM.jobString>
+
+  <Xeva_DBDXS.label>Делать Redstone Оружие</Xeva_DBDXS.label>
+  <Xeva_DBDXS.description>Делать Redstone Оружие.</Xeva_DBDXS.description>
+  <Xeva_DBDXS.jobString>making Redstone Оружие.</Xeva_DBDXS.jobString>
+
+  <DisassembleRSW.label>Disassemble Красный Камень Оружие</DisassembleRSW.label>
+  <DisassembleRSW.description>Disassemble Красный Камень Оружие в красный stones.</DisassembleRSW.description>
+  <DisassembleRSW.jobString>disassemble Красный Камень Оружие.</DisassembleRSW.jobString>
+
+  <DisassembleXFARM.label>Disassemble XF Броня</DisassembleXFARM.label>
+  <DisassembleXFARM.description>Disassemble XF Броня в XF Броня Часть.</DisassembleXFARM.description>
+  <DisassembleXFARM.jobString>disassemble XF Броня.</DisassembleXFARM.jobString>
+  
+  <DisassembleXFRW.label>Disassemble XF Дальность Оружие</DisassembleXFRW.label>
+  <DisassembleXFRW.description>Disassemble XF Дальность Оружие в XF Дальность Оружие Часть.</DisassembleXFRW.description>
+  <DisassembleXFRW.jobString>disassemble XF Дальность Оружие.</DisassembleXFRW.jobString>
+
+  <DisassembleXFMW.label>Disassemble XF Ближний Оружие</DisassembleXFMW.label>
+  <DisassembleXFMW.description>Disassemble XF Ближний Оружие в XF Ближний Оружие Часть.</DisassembleXFMW.description>
+  <DisassembleXFMW.jobString>disassemble XF Ближний Оружие.</DisassembleXFMW.jobString>
+
+  <Xeva_LuciferiumMake.label>Делать Luciferium</Xeva_LuciferiumMake.label>
+  <Xeva_LuciferiumMake.description>Extract nano machinery от nano meat и synthesize Luciferium.</Xeva_LuciferiumMake.description>
+  <Xeva_LuciferiumMake.jobString>making Luciferium.</Xeva_LuciferiumMake.jobString>
+
+  <Xeva_MSHealerMake.label>Делать Healer Мех Serum</Xeva_MSHealerMake.label>
+  <Xeva_MSHealerMake.description>Extract nano machinery от nano meat и делать Healer Мех Serum.</Xeva_MSHealerMake.description>
+  <Xeva_MSHealerMake.jobString>making Healer Мех Serum.</Xeva_MSHealerMake.jobString>
+
+  <Xeva_TheBlade.label>Делать O Клинок</Xeva_TheBlade.label>
+  <Xeva_TheBlade.description>Делать O Клинок.</Xeva_TheBlade.description>
+  <Xeva_TheBlade.jobString>making O Клинок.</Xeva_TheBlade.jobString>
+
+  <Xeva_RPX.label>Делать Броня Set из Phoenix</Xeva_RPX.label>
+  <Xeva_RPX.description>Делать Броня Set из Phoenix.</Xeva_RPX.description>
+  <Xeva_RPX.jobString>making Броня Set из Phoenix.</Xeva_RPX.jobString>
+
+  <Xeva_RFW.label>Делать Броня Set из Free Будет</Xeva_RFW.label>
+  <Xeva_RFW.description>Делать Броня Set из Free Будет.</Xeva_RFW.description>
+  <Xeva_RFW.jobString>making Броня Set из Free Будет.</Xeva_RFW.jobString>
+
+  <Xeva_RFL.label>Делать Броня Set из Golden Lion</Xeva_RFL.label>
+  <Xeva_RFL.description>Делать Броня Set из Golden Lion.</Xeva_RFL.description>
+  <Xeva_RFL.jobString>making Броня Set из Golden Lion.</Xeva_RFL.jobString>
+
+  <Xeva_Rrsc.label>Делать Redstone Crystal</Xeva_Rrsc.label>
+  <Xeva_Rrsc.description>Делать Redstone Crystal.</Xeva_Rrsc.description>
+  <Xeva_Rrsc.jobString>making Redstone Crystal.</Xeva_Rrsc.jobString>
+
+  <Xeva_Rptpx.label>Делать Phoenix Броня Prototype</Xeva_Rptpx.label>
+  <Xeva_Rptpx.description>Делать Phoenix Броня Prototype.</Xeva_Rptpx.description>
+  <Xeva_Rptpx.jobString>making Phoenix Броня Prototype</Xeva_Rptpx.jobString>
+
+  <Xeva_Rptfw.label>Делать Free Будет Броня Prototype</Xeva_Rptfw.label>
+  <Xeva_Rptfw.description>Делать Free Будет Броня Prototype.</Xeva_Rptfw.description>
+  <Xeva_Rptfw.jobString>making Free Будет Броня Prototype.</Xeva_Rptfw.jobString>
+
+  <Xeva_Rptgl.label>Делать Golden Lion Броня Prototype</Xeva_Rptgl.label>
+  <Xeva_Rptgl.description>Делать Golden Lion Броня Prototype.</Xeva_Rptgl.description>
+  <Xeva_Rptgl.jobString>making Golden Lion Броня Prototype.</Xeva_Rptgl.jobString>
+
+  <XFMechCoreBiodoll.label>gestate мех biodoll</XFMechCoreBiodoll.label>
+  <XFMechCoreBiodoll.description>Gestate мех biodoll.</XFMechCoreBiodoll.description>
+  <XFMechCoreBiodoll.jobString>Gestating мех biodoll.</XFMechCoreBiodoll.jobString>
+
+  <XFCentipedeHuge.label>gestate huge centipede</XFCentipedeHuge.label>
+  <XFCentipedeHuge.description>Gestate huge centipede.</XFCentipedeHuge.description>
+  <XFCentipedeHuge.jobString>Gestating huge centipede.</XFCentipedeHuge.jobString>
+
+  <XF_MakeAminoAcids.label>делать complex amino acids</XF_MakeAminoAcids.label>
+  <XF_MakeAminoAcids.description>Manufacture из complex amino acids используется к gestate мех biodoll.</XF_MakeAminoAcids.description>
+  <XF_MakeAminoAcids.jobString>Making complex amino acids.</XF_MakeAminoAcids.jobString>
+
+</LanguageData>

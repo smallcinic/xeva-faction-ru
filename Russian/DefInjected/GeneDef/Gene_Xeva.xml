@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <Ears_SharpXF.label>Режущий Уши</Ears_SharpXF.label>
+  <Ears_SharpXF.description>Carriers из это ген иметь режущий уши.</Ears_SharpXF.description>
+
+  <Hair_BloodRedXF.label>Bloody Hair</Hair_BloodRedXF.label>
+  <Hair_BloodRedXF.description> hair из carriers из это ген как красный как fresh кровь.</Hair_BloodRedXF.description>
+ 
+  <HairXF.label>Nano-mechanical Hair</HairXF.label>
+  <HairXF.labelShortAdj>Nano-Hair</HairXF.labelShortAdj>
+  <HairXF.description>Эти hairs look like ordinary люди в первый glance, но когда они движение они look like both liquid и metal.</HairXF.description>
+
+  <FangXF.label>Disabled Sanguophage Fang</FangXF.label>
+  <FangXF.labelShortAdj>Disabled-Fang</FangXF.labelShortAdj>
+  <FangXF.description> set из mutated Sanguophage teeth, это нет bloodfeed function и не может даже быть collected в muscles above рот, но это очень strong structure.</FangXF.description>
+  
+</LanguageData>

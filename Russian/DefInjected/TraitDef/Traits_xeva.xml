@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <XF_Fool.degreeDatas.0.label>Fool</XF_Fool.degreeDatas.0.label>
+  <XF_Fool.degreeDatas.0.description>{PAWN_имяопределения} doesn't seem очень intelligent. {PAWN_pronoun} magical путь из thinking, slow к learn, и easily persuaded others. Nevertheless, fools always seem к найти happiness более easily.</XF_Fool.degreeDatas.0.description>
+
+  <XTRedScorpio.degreeDatas.0.label>&lt;color=#ff0000&gt;Красный Scorpio&lt;/color&gt;</XTRedScorpio.degreeDatas.0.label>
+  <XTRedScorpio.degreeDatas.0.description>There был однажды infamous ассасин, well known для её mastery в swordsmanship и её ghostly moves, nightmare к все те nobles и bigwigs. earning title means то [PAWN_имяопределения] perfected ближний навык.</XTRedScorpio.degreeDatas.0.description>
+  
+  <XTTheQueen.degreeDatas.0.label>&lt;color=#ff0000&gt;Королева&lt;/color&gt;</XTTheQueen.degreeDatas.0.label>
+  <XTTheQueen.degreeDatas.0.description>There был saying about снайперский who был reluctant к убить так что она aim для knee everytime, и thus она был назвал Королева. [PAWN_имяопределения] может earn это title which means то [PAWN_possessive] стрельба навык должен proven многие times.</XTTheQueen.degreeDatas.0.description>
+  
+  <XTDragon.degreeDatas.0.label>&lt;color=#ff0000&gt;Dragon&lt;/color&gt;</XTDragon.degreeDatas.0.label>
+  <XTDragon.degreeDatas.0.description>There был однажды воин who encounter 13 knights все его own и later стать лидер из reble и leading это army invaded kingdom, thus, getting имя Dragon. [PAWN_имяопределения] может win это title, means то [PAWN_possessive] battle навык remarkable.</XTDragon.degreeDatas.0.description>
+  
+  <XTEvilGunner.degreeDatas.0.label>&lt;color=#ff0000&gt;Evil Gunner&lt;/color&gt;</XTEvilGunner.degreeDatas.0.label>
+  <XTEvilGunner.degreeDatas.0.description>There был legend из SWAT whose пушка kata был tricky и deadly like devil, therefore got имя Evil Gunner. [PAWN_имяопределения] может earn это title means то [PAWN_possessive] battle навык был outstanding.</XTEvilGunner.degreeDatas.0.description>
+  
+  <XTVirtuousDoctor.degreeDatas.0.label>&lt;color=#ff0000&gt;Virtuous Doctor&lt;/color&gt;</XTVirtuousDoctor.degreeDatas.0.label>
+  <XTVirtuousDoctor.degreeDatas.0.description>Однажды revengeful designer с gifts, после стрельба его первый love право в её голова, он сейчас doctor devoted в charity в order к redeem himself. [PAWN_имяопределения] с это title meaning то [PAWN_имяопределения] gifted в medicne и craftsmanship.</XTVirtuousDoctor.degreeDatas.0.description>
+  
+  <XTEagleEye.degreeDatas.0.label>&lt;color=#ff0000&gt;Eagle Глаз&lt;/color&gt;</XTEagleEye.degreeDatas.0.label>
+  <XTEagleEye.degreeDatas.0.description>There был однажды mad снайперский назвал Eagle Глаз who, его extraordinary стрельба навык, только aiming для others' genital organ. [PAWN_имяопределения] может get это title means [PAWN_possessive] стрельба навык extraordinary.</XTEagleEye.degreeDatas.0.description>
+  
+  <XTTheScream.degreeDatas.0.label>&lt;color=#ff0000&gt;Scream&lt;/color&gt;</XTTheScream.degreeDatas.0.label>
+  <XTTheScream.degreeDatas.0.description>Однажды there был serial killer who был назвал Scream, потому что из его extreme ugliness, он torture и killed многие handsome люди и crafted их в некоторые kind из sickness art как protest к God. [PAWN_имяопределения] должен быть psychopath и really хороший в craftsmanship к earn это title.</XTTheScream.degreeDatas.0.description>
+  
+  <XTPirateLord.degreeDatas.0.label>&lt;color=#ff0000&gt;Пират Король&lt;/color&gt;</XTPirateLord.degreeDatas.0.label>
+  <XTPirateLord.degreeDatas.0.description>There был однажды пират король who invade every planet и every фракция то он feels like к. Нет один dare к stand и против его, однако, there были seven воин who challenged его. После whole night из battle, пират lord был defeated. [PAWN_possessive] battle навык должен быть getting наружу из контроль к earn это title.</XTPirateLord.degreeDatas.0.description>
+
+</LanguageData>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <JG_Trader.label>JG Торговец</JG_Trader.label>
+  <JG_Demoman.label>JG Demoman</JG_Demoman.label>
+  <JG_Assaulter.label>JG Assaulter</JG_Assaulter.label>
+  <JG_HAssaulter.label>JG Тяжёлый Assaulter</JG_HAssaulter.label>
+  <JG_Shooter.label>JG Shooter</JG_Shooter.label>
+  <JG_Sniper.label>JG Снайперский</JG_Sniper.label>
+  <JG_Infantry.label>JG Infantry</JG_Infantry.label>
+  <JG_HInfantry.label>JG Тяжёлый Infantry</JG_HInfantry.label>
+  <JG_Commander.label>JG Commander</JG_Commander.label>
+  <JG_BigHand.label>JG Big Кисть</JG_BigHand.label>
+  <JG_TheHero.label>JG Hero</JG_TheHero.label>
+  <JG_TheHero.labelPlural>JG General</JG_TheHero.labelPlural>
+
+  <JG_TraderRatkin.label>JG Торговец</JG_TraderRatkin.label>
+  <JG_DemomanRatkin.label>JG Demoman</JG_DemomanRatkin.label>
+  <JG_AssaulterRatkin.label>JG Assaulter</JG_AssaulterRatkin.label>
+  <JG_HAssaulterRatkin.label>JG Тяжёлый Assaulter</JG_HAssaulterRatkin.label>
+  <JG_ShooterRatkin.label>JG Shooter</JG_ShooterRatkin.label>
+  <JG_SniperRatkin.label>JG Снайперский</JG_SniperRatkin.label>
+  <JG_InfantryRatkin.label>JG Infantry</JG_InfantryRatkin.label>
+  <JG_HInfantryRatkin.label>JG Тяжёлый Infantry</JG_HInfantryRatkin.label>
+  <JG_CommanderRatkin.label>JG Commander</JG_CommanderRatkin.label>
+  <JG_BigHandRatkin.label>JG Big Кисть</JG_BigHandRatkin.label>
+
+  <JG_TraderAstoriel.label>JG Торговец</JG_TraderAstoriel.label>
+  <JG_DemomanAstoriel.label>JG Demoman</JG_DemomanAstoriel.label>
+  <JG_AssaulterAstoriel.label>JG Assaulter</JG_AssaulterAstoriel.label>
+  <JG_HAssaulterAstoriel.label>JG Тяжёлый Assaulter</JG_HAssaulterAstoriel.label>
+  <JG_ShooterAstoriel.label>JG Shooter</JG_ShooterAstoriel.label>
+  <JG_SniperAstoriel.label>JG Снайперский</JG_SniperAstoriel.label>
+  <JG_InfantryAstoriel.label>JG Infantry</JG_InfantryAstoriel.label>
+  <JG_HInfantryAstoriel.label>JG Тяжёлый Infantry</JG_HInfantryAstoriel.label>
+  <JG_CommanderAstoriel.label>JG Commander</JG_CommanderAstoriel.label>
+  <JG_BigHandAstoriel.label>JG Big Кисть</JG_BigHandAstoriel.label>
+
+  <JG_TraderRevia.label>JG Торговец</JG_TraderRevia.label>
+  <JG_DemomanRevia.label>JG Demoman</JG_DemomanRevia.label>
+  <JG_AssaulterRevia.label>JG Assaulter</JG_AssaulterRevia.label>
+  <JG_HAssaulterRevia.label>JG Тяжёлый Assaulter</JG_HAssaulterRevia.label>
+  <JG_ShooterRevia.label>JG Shooter</JG_ShooterRevia.label>
+  <JG_SniperRevia.label>JG Снайперский</JG_SniperRevia.label>
+  <JG_InfantryRevia.label>JG Infantry</JG_InfantryRevia.label>
+  <JG_HInfantryRevia.label>JG Тяжёлый Infantry</JG_HInfantryRevia.label>
+  <JG_CommanderRevia.label>JG Commander</JG_CommanderRevia.label>
+  <JG_BigHandRevia.label>JG Big Кисть</JG_BigHandRevia.label>
+
+  <JG_TraderFerian.label>JG Торговец</JG_TraderFerian.label>
+  <JG_DemomanFerian.label>JG Demoman</JG_DemomanFerian.label>
+  <JG_AssaulterFerian.label>JG Assaulter</JG_AssaulterFerian.label>
+  <JG_HAssaulterFerian.label>JG Тяжёлый Assaulter</JG_HAssaulterFerian.label>
+  <JG_ShooterFerian.label>JG Shooter</JG_ShooterFerian.label>
+  <JG_SniperFerian.label>JG Снайперский</JG_SniperFerian.label>
+  <JG_InfantryFerian.label>JG Infantry</JG_InfantryFerian.label>
+  <JG_HInfantryFerian.label>JG Тяжёлый Infantry</JG_HInfantryFerian.label>
+  <JG_CommanderFerian.label>JG Commander</JG_CommanderFerian.label>
+  <JG_BigHandFerian.label>JG Big Кисть</JG_BigHandFerian.label>
+
+  <JG_TraderLapelli.label>JG Торговец</JG_TraderLapelli.label>
+  <JG_DemomanLapelli.label>JG Demoman</JG_DemomanLapelli.label>
+  <JG_AssaulterLapelli.label>JG Assaulter</JG_AssaulterLapelli.label>
+  <JG_HAssaulterLapelli.label>JG Тяжёлый Assaulter</JG_HAssaulterLapelli.label>
+  <JG_ShooterLapelli.label>JG Shooter</JG_ShooterLapelli.label>
+  <JG_SniperLapelli.label>JG Снайперский</JG_SniperLapelli.label>
+  <JG_InfantryLapelli.label>JG Infantry</JG_InfantryLapelli.label>
+  <JG_HInfantryLapelli.label>JG Тяжёлый Infantry</JG_HInfantryLapelli.label>
+  <JG_CommanderLapelli.label>JG Commander</JG_CommanderLapelli.label>
+  <JG_BigHandLapelli.label>JG Big Кисть</JG_BigHandLapelli.label>
+
+  <JG_TraderKurin.label>JG Торговец</JG_TraderKurin.label>
+  <JG_DemomanKurin.label>JG Demoman</JG_DemomanKurin.label>
+  <JG_AssaulterKurin.label>JG Assaulter</JG_AssaulterKurin.label>
+  <JG_HAssaulterKurin.label>JG Тяжёлый Assaulter</JG_HAssaulterKurin.label>
+  <JG_ShooterKurin.label>JG Shooter</JG_ShooterKurin.label>
+  <JG_SniperKurin.label>JG Снайперский</JG_SniperKurin.label>
+  <JG_InfantryKurin.label>JG Infantry</JG_InfantryKurin.label>
+  <JG_HInfantryKurin.label>JG Тяжёлый Infantry</JG_HInfantryKurin.label>
+  <JG_CommanderKurin.label>JG Commander</JG_CommanderKurin.label>
+  <JG_BigHandKurin.label>JG Big Кисть</JG_BigHandKurin.label>
+
+</LanguageData>

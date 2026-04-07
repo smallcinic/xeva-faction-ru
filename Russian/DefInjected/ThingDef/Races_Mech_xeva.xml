@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <XHFBlade_MEC.label>Высокий Freguency Клинок</XHFBlade_MEC.label>
+  <XHFBlade_MEC.description> mechanical doll holds это оружие в его кисть.</XHFBlade_MEC.description>
+  <XHFBlade_MEC.tools.0.label>Broken Glass</XHFBlade_MEC.tools.0.label>
+  <XHFBlade_MEC.tools.1.label>Chop Wind</XHFBlade_MEC.tools.1.label>
+  <XHFBlade_MEC.tools.2.label>Draw Меч</XHFBlade_MEC.tools.2.label>
+  <XHFBlade_MEC.tools.3.label>Fury Tachi</XHFBlade_MEC.tools.3.label>
+  
+  <XGun_CPWMega.label>Charged Particle Оружие Mega</XGun_CPWMega.label>
+  <XGun_CPWMega.description> giant версия из Charged Particle Оружие, why technology из Алмаз Кость appeared на их? Это still mystery.</XGun_CPWMega.description>
+  <XGun_CPWMega.tools.0.label>ствол</XGun_CPWMega.tools.0.label>
+  
+  <XGun_EclipseMega.label>Eclipse Mega</XGun_EclipseMega.label>
+  <XGun_EclipseMega.description> giant версия из Eclipse, why technology из Алмаз Кость appeared на их? Это still mystery.</XGun_EclipseMega.description>
+  <XGun_EclipseMega.tools.0.label>ствол</XGun_EclipseMega.tools.0.label>
+  
+  <Mech_CentipedeHugeR.label>Huge Centipede</Mech_CentipedeHugeR.label>
+  <Mech_CentipedeHugeR.description> size, броня и lethality из Huge Centipede much более чем original один. Это terrible unit в mechanical семья. Некоторые scholars believe то variation потому что assembly process из mechanical семья affected unknown factors. Fortunately, они не обычный и sleep в mechanical cluster.</Mech_CentipedeHugeR.description>
+  <Mech_CentipedeHugeR.tools.0.label>голова</Mech_CentipedeHugeR.tools.0.label>
+  
+  <Mech_CoreBiodollR.label>Мех Biodoll</Mech_CoreBiodollR.label>
+  <Mech_CoreBiodollR.description>"What... what это? There seems к быть... humanoid жара source в то group из machines!?" "Maybe это человек будучи, должен он быть rescued?" "Oh, someone slept с mechanical семья?" "Не делай joke, взять это seriously." "Listen! Solving это mechanical cluster primary mission. Мы иметь нет время к deal с это, мы clear?" "Да, sir!" "Eh? Wait, то жара source.... Мы approaching наш side в высокий скорость." "Нет need к report anymore. Я может see это visually!" " woman!?" " woman с knife!" "Не делай mind! Огонь! Огонь Все!" "Ahhhhhhhhhhhhhhhhh..." Record - Twin Star Anti-Mech Команда. * nanomachines будет repair missing часть или wound на её тело в 4 к 6 дни.</Mech_CoreBiodollR.description>
+  <Mech_CoreBiodollR.tools.0.label>ушёл fist</Mech_CoreBiodollR.tools.0.label>
+  <Mech_CoreBiodollR.tools.1.label>право fist</Mech_CoreBiodollR.tools.1.label>
+  <Mech_CoreBiodollR.tools.2.label>teeth</Mech_CoreBiodollR.tools.2.label>
+  <Mech_CoreBiodollR.tools.3.label>голова</Mech_CoreBiodollR.tools.3.label>
+  <Mech_CoreBiodollR.tools.4.label>hair</Mech_CoreBiodollR.tools.4.label>
+
+  <CoreBiodollR.label>Biodoll</CoreBiodollR.label>
+  <CoreBiodollR.description> white-haired young девушка ношение красный mechanical cloak, с beautiful чёрное gem на её forehead. gem does не appear к быть artificially embedded, nor does это seem like часть из girl's тело. Это resembles более из illusion; upon близко inspection, один не может найти любой seam between кожа и gem, yet это definitely exists когда touched.</CoreBiodollR.description>
+  <CoreBiodollR.tools.0.label>ушёл fist</CoreBiodollR.tools.0.label>
+  <CoreBiodollR.tools.1.label>право fist</CoreBiodollR.tools.1.label>
+  <CoreBiodollR.tools.2.label>teeth</CoreBiodollR.tools.2.label>
+  <CoreBiodollR.tools.3.label>голова</CoreBiodollR.tools.3.label>
+  <CoreBiodollR.tools.4.label>hair</CoreBiodollR.tools.4.label>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.label>Странный Древний study progress</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.label>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_имяопределения} сделал significant progress в study из это странный древний individual. исследование indicates то её тело contains большой number из nanomachines, which distributed не только в её muscles и кожа но также в её hair. Эти nanomachines responsible для maintaining её physiological form; для example, когда её hair reaches certain length, excess naturally falls выкл. Это shed hair может быть refined в drug known как "Luciferium." Additionally, её singing voice способность к influence people's мысли. Это influence не transmitted через hearing но acts directly на mind, similar к telepathy. {PAWN_имяопределения} believes эти способности related к чёрное gemstone на girl's forehead, и further исследование necessary к understand это phenomenon.</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.text>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.label>Странный Древний study завершить</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.label>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.text>{PAWN_имяопределения} discovered то странный древний individual named Evan, оружие - Biodoll created sanguophage clan к compensate для их own weaknesses. Она exists both в future и past но does не belong к present потому что она actually deceased. specter wandering через wilderness may просто быть jest played archotech. {PAWN_имяопределения} discovered то gemstone на её forehead possesses очень странный physical properties; это может affect cognition из те who touch это. Для instance, Evan только стал aware из gemstone's existence когда reminded third party. Когда она touched gemstone, это seemed как если она имел penetrated past, как если gemstone не сделал exist для её, although others мог definitely touch gemstone на её forehead. {PAWN_имяопределения} believes это gemstone holds significant исследование ценность. Please decide how к proceed: вы может остановить here, или убить Evan к взять её gemstone. Если вы choose к убить её, вы может делать это directly или telling storybook "Phoenix" к let её отдых в peace.</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.text>
+  <CoreBiodollR.comps.6.activateLabelString>К put Evan к отдых.</CoreBiodollR.comps.6.activateLabelString>
+  <CoreBiodollR.comps.6.activateDescString>К put Evan к отдых, вы будет need storybook "Phoenix".</CoreBiodollR.comps.6.activateDescString>
+  <CoreBiodollR.comps.6.guiLabelString>Choose someone к tell Evan story из "Phoenix".</CoreBiodollR.comps.6.guiLabelString>
+  <CoreBiodollR.comps.6.jobString>tell Evan story из "Phoenix".</CoreBiodollR.comps.6.jobString>
+  <CoreBiodollR.comps.6.activatingStringPending>telling {0}</CoreBiodollR.comps.6.activatingStringPending>
+  <CoreBiodollR.comps.6.activatingString>telling {0}: {1}s</CoreBiodollR.comps.6.activatingString>
+
+  <XEHuman.label>Чёрное Яблоко</XEHuman.label>
+  <XEHuman.description>Vic: "What hell то в ваш кисть, Miss?"
+XvA: "Haven't вы seen это thing? Это "Vibrating" оружие сделал для меня мой мастер, little bro."
+Vic: "......" *Даже если вы хороший в slicing пули, please использовать право оружие. Когда equipped с XF Высокий Частотный Оружие, XF Красный Камень Оружие, Bladelink Оружие, character будет definitely deflect incoming пули как долгий как они не в близко combat или stunned, но быть aware то это будет cause урон к оружие.
+*Nanomachines будет repair missing часть из это unit в 4 к 6 дни.</XEHuman.description>
+  <XEHuman.tools.0.label>ушёл нога</XEHuman.tools.0.label>
+  <XEHuman.tools.1.label>право нога</XEHuman.tools.1.label>
+  <XEHuman.tools.2.label>teeth</XEHuman.tools.2.label>
+  <XEHuman.tools.3.label>голова</XEHuman.tools.3.label>
+  
+  <XEPXHuman.label>Cyborg</XEPXHuman.label>
+  <XEPXHuman.description> тело fluids и muscles из cyborgs contain большой number из nanomachines то loyal к host и resistant к foreign objects. *Когда equipped с XF Высокий Частотный Оружие, XF Красный Камень Оружие, Bladelink Оружие, character будет иметь шанс к chop выкл incoming пули как долгий как они не в близко combat или stunned, но быть aware то это будет cause урон к оружие.
+*Nanomachines будет repair missing часть из это unit в 4 к 6 дни.</XEPXHuman.description>
+  <XEPXHuman.tools.0.label>ушёл fist</XEPXHuman.tools.0.label>
+  <XEPXHuman.tools.1.label>право fist</XEPXHuman.tools.1.label>
+  <XEPXHuman.tools.2.label>teeth</XEPXHuman.tools.2.label>
+  <XEPXHuman.tools.3.label>голова</XEPXHuman.tools.3.label>
+
+  <NanoBioMeat.label>Nano Meat</NanoBioMeat.label>
+  <NanoBioMeat.description> meat obtained после butchering Biodoll. Эти meats crunchy и chicken-flavored! Это six times richer в protein чем человек meat, и большой number из nano-mechanical molecules hidden в muscle fibers и fats. После extraction, это может быть используется к produce related drugs. Это должен быть noted то nano-mechanical molecules без central контроль будет скоро остановить functioning due к loss из cohesion, так что please refrigerate как скоро как possible.</NanoBioMeat.description>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <RedStoneWeaponUF.label>Unfinished Красный Камень Оружие</RedStoneWeaponUF.label>
+  <RedStoneWeaponUF.description> Unfinished Красный Камень Оружие.</RedStoneWeaponUF.description>
+  
+  <XLAR_DBlow.label>Алмаз Кость Servant Coat</XLAR_DBlow.label>
+  <XLAR_DBlow.description> battle apparel используется Алмаз Кость солдаты. Это kind из circulating снаряжение и его performance similar к flak jacket.</XLAR_DBlow.description>
+  <XLAR_FLlow.label>Пламя Легион Мех Cloak</XLAR_FLlow.label>
+  <XLAR_FLlow.description> battle apparel используется Пламя Легион солдаты. Это kind из circulating снаряжение и его performance similar к flak jacket.</XLAR_FLlow.description> 
+  <XLAR_JGlow.label>Jaeger March Coat</XLAR_JGlow.label>
+  <XLAR_JGlow.description> battle apparel используется Jaeger солдаты. Это kind из circulating снаряжение и его performance similar к flak jacket.</XLAR_JGlow.description>
+  <XLAR_SElow.label>Star Исследователь Мех Cloak</XLAR_SElow.label>
+  <XLAR_SElow.description> battle apparel используется Star Исследователь солдаты. Это kind из circulating снаряжение и его performance similar к flak jacket.</XLAR_SElow.description>
+  <XLAR_XEOlow.label>XEO Combat Suit</XLAR_XEOlow.label>
+  <XLAR_XEOlow.description> battle apparel используется XEO солдаты. Это kind из circulating снаряжение и его performance similar к flak jacket.</XLAR_XEOlow.description>
+
+  <XLHR_DBlow.label>Алмаз Кость Servant Шлем</XLHR_DBlow.label>
+  <XLHR_DBlow.description> combat шлем используется Алмаз Кость солдаты. Это kind из circulating снаряжение и его performance similar к flak шлем.</XLHR_DBlow.description>
+  <XLHR_FLlow.label>Пламя Легион Мех Шлем</XLHR_FLlow.label>
+  <XLHR_FLlow.description> combat шлем используется Пламя Легион солдаты. Это kind из circulating снаряжение и его performance similar к flak шлем.</XLHR_FLlow.description> 
+  <XLHR_JGlow.label>Jaeger March Шлем</XLHR_JGlow.label>
+  <XLHR_JGlow.description> combat шлем используется Jaeger солдаты. Это kind из circulating снаряжение и его performance similar к flak шлем.</XLHR_JGlow.description>
+  <XLHR_SElow.label>Star Исследователь Мех Шлем</XLHR_SElow.label>
+  <XLHR_SElow.description> combat шлем используется Star Исследователь солдаты. Это kind из circulating снаряжение и его performance similar к flak шлем.</XLHR_SElow.description>
+  <XLHR_XEOlow.label>XEO Headband</XLHR_XEOlow.label>
+  <XLHR_XEOlow.description> combat шлем используется XEO солдаты. Это kind из circulating снаряжение и его performance similar к flak шлем.</XLHR_XEOlow.description>
+  <XLHR_ATG.label>Assault Tactical Goggles</XLHR_ATG.label>
+  <XLHR_ATG.description>Equipped с auxiliary aiming interface, allowing users к press trigger более quickly когда facing цель.</XLHR_ATG.description>
+  <XLHR_OTG.label>Optical Tactical Goggles</XLHR_OTG.label>
+  <XLHR_OTG.description>Снаряжение используется в особый operations, с multiple optical modes к adapt к different environments и needs, effectively improving user's стрельба точность.</XLHR_OTG.description>
+
+  <XEO_TheBlade.label>O Клинок</XEO_TheBlade.label>
+  <XEO_TheBlade.description>Не делай хотеть к infect меня...ah...ah!! ah!!!\n\nWhen не equipped, characters с redstone connection будет interact с оружие, slightly increasing его урон и repairing его durability.</XEO_TheBlade.description>
+  <XEO_TheBlade.tools.0.label>GhostCut.Первый</XEO_TheBlade.tools.0.label>
+  <XEO_TheBlade.tools.1.label>GhostCut.Секунда</XEO_TheBlade.tools.1.label>
+  <XEO_TheBlade.tools.2.label>GhostCut.Zero</XEO_TheBlade.tools.2.label>
+  <XEO_TheBlade.tools.3.label>Flash из XEO</XEO_TheBlade.tools.3.label>
+
+  <XSP_Phoenix.label>Phoenix Cloak</XSP_Phoenix.label>
+  <XSP_Phoenix.description> броня worn легендарный Phoenix reveals его experience в midst из chaotic battles. intricate mechanical structures на его cloak indicate то это броня specifically designed для близко combat. Thanks к synergy between его sensors и reaction accelerators, это может easily deflect любой incoming пули пока attacking враг, и с help из его energy transmission system, это quickly replenishes shield's operational capacity. Однако, due к rapid жара accumulation от swift movements, броня будет automatically dissipate жара когда overheated, entering cooling phase и temporarily losing все functionality.</XSP_Phoenix.description>
+  <XSP_HPhoenix.label>Phoenix Шлем</XSP_HPhoenix.label>
+  <XSP_HPhoenix.description> снаряжение worn легендарный Phoenix.</XSP_HPhoenix.description>
+ 
+  <XSP_FreeWill.label>Free Будет Броня</XSP_FreeWill.label>
+  <XSP_FreeWill.description> броня из легендарный Free Будет appears к иметь только базовый energy conversion capabilities на его щит surface. Однако, это actually incorporates counteraction field technology. Когда energy это encounters exceeds certain threshold, это counteraction field может быть activated, nullifying все урон. Если сила field shattered, броня automatically releases smoke screen, allowing wearer к either escape или regroup для counterattack. Может быть используется в Спасти Наш Корабль 2 вселенная.</XSP_FreeWill.description>
+  <XSP_FreeWill.verbs.jump.label>jump</XSP_FreeWill.verbs.jump.label>
+  <XSP_FreeWill.comps.CompApparelReloadable.chargeNoun>star tear</XSP_FreeWill.comps.CompApparelReloadable.chargeNoun>
+  <XSP_HFreeWill.label>Free Будет Шлем</XSP_HFreeWill.label>
+  <XSP_HFreeWill.description> снаряжение worn легендарный Free Будет. Может быть используется в Спасти Наш Корабль 2 вселенная.</XSP_HFreeWill.description>
+
+  <XSP_GoldenLion.label>Golden Lion Броня</XSP_GoldenLion.label>
+  <XSP_GoldenLion.description> броня worn легендарный Пират Король equipped с quantum phase щит technology. Это shield's energy dynamically adjusts с each удар это takes, either increasing или decreasing. Когда shield's energy collapses, это releases shockwave, dazing все conscious beings within дальность, including wearer themselves. Therefore, effectiveness из это броня largely depends на luck. Пират Король, fortunate как он был, managed к battle seven heroes throughout entire night. Однако, даже без considering щит, броня itself offers exceptional protection. только concern whether вы может still движение freely после putting это на. Может быть используется в Спасти Наш Корабль 2 вселенная.</XSP_GoldenLion.description>
+  <XSP_GoldenLion.verbs.launch_missile.label>launch missile</XSP_GoldenLion.verbs.launch_missile.label>
+  <XSP_HGoldenLion.comps.CompApparelReloadable.chargeNoun>missile</XSP_HGoldenLion.comps.CompApparelReloadable.chargeNoun>
+  <XSP_HGoldenLion.label>Golden Lion Шлем</XSP_HGoldenLion.label>
+  <XSP_HGoldenLion.description> снаряжение worn легендарный Пират Король. Может быть используется в Спасти Наш Корабль 2 вселенная.</XSP_HGoldenLion.description>
+
+  <XSP_Maid.label>Battle Maid Dress</XSP_Maid.label>
+  <XSP_Maid.description> maid dress был originally uniform worn maid, но since когда люди associate это с battle, и это example. Это skirt rich мужчина longing для меч maid в battlefield из heroic posture и сделал things. Он spared нет effort к invest в это project, так что то dress equipped с super-response system, high-speed servo motor, nanomuscular outer layer, как долгий как ношение это, даже ordinary люди может делать same action как cyborg. Однако, это не useful, потому что это always maid dress, в absence из броня defense в case из difficult к cope с chaotic и changing ситуация на battlefield, и это очень expensive, так что expensive то это может не быть mass-produced, и наконец rich мужчина went bankrupt, product flowed в чёрное рынок.</XSP_Maid.description>
+  <XSP_HMaid.label>Battle Maid Headwear</XSP_HMaid.label>
+  <XSP_HMaid.description>Wearers более likely к удар их цель. В order к clean кровь более efficiently, это также improves скорость из cleaning для wearer.</XSP_HMaid.description>
+
+</LanguageData>

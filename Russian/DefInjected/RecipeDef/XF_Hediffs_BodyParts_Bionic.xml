@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <InstallXFBionicEye.label>install Sculptor Бионический Глаз</InstallXFBionicEye.label>
+  <InstallXFBionicEye.description>Install Sculptor Бионический Глаз.</InstallXFBionicEye.description>
+  <InstallXFBionicEye.jobString>Installing Sculptor Бионический Глаз.</InstallXFBionicEye.jobString>
+
+  <InstallXFBionicArm.label>install Sculptor Бионический Рука</InstallXFBionicArm.label>
+  <InstallXFBionicArm.description>Install Sculptor Бионический Рука.</InstallXFBionicArm.description>
+  <InstallXFBionicArm.jobString>Installing Sculptor Бионический Рука.</InstallXFBionicArm.jobString>
+
+  <InstallXFBionicLeg.label>install Sculptor Бионический Нога</InstallXFBionicLeg.label>
+  <InstallXFBionicLeg.description>Install Sculptor Бионический Нога.</InstallXFBionicLeg.description>
+  <InstallXFBionicLeg.jobString>Installing Sculptor Бионический Нога.</InstallXFBionicLeg.jobString>
+
+  <InstallXFBionicSpine.label>install Sculptor Бионический Spine</InstallXFBionicSpine.label>
+  <InstallXFBionicSpine.description>Install Sculptor Бионический Spine.</InstallXFBionicSpine.description>
+  <InstallXFBionicSpine.jobString>Installing Sculptor Бионический Spine.</InstallXFBionicSpine.jobString>
+
+  <InstallXFBionicHeart.label>install Sculptor Бионический Сердце</InstallXFBionicHeart.label>
+  <InstallXFBionicHeart.description>Install Sculptor Бионический Сердце.</InstallXFBionicHeart.description>
+  <InstallXFBionicHeart.jobString>Installing Sculptor Бионический Сердце.</InstallXFBionicHeart.jobString>
+
+  <InstallXFBionicStomach.label>install Sculptor Бионический Stomach</InstallXFBionicStomach.label>
+  <InstallXFBionicStomach.description>Install Sculptor Бионический Stomach.</InstallXFBionicStomach.description>
+  <InstallXFBionicStomach.jobString>Installing Sculptor Бионический Stomach.</InstallXFBionicStomach.jobString>
+
+  <InstallXFBionicEar.label>install Sculptor Бионический Ear</InstallXFBionicEar.label>
+  <InstallXFBionicEar.description>Install Sculptor Бионический Ear.</InstallXFBionicEar.description>
+  <InstallXFBionicEar.jobString>Installing Sculptor Бионический Ear.</InstallXFBionicEar.jobString>
+
+  <InstallXFBionicTongue.label>install Sculptor Бионический Tongue</InstallXFBionicTongue.label>
+  <InstallXFBionicTongue.description>Install Sculptor Бионический Tongue.</InstallXFBionicTongue.description>
+  <InstallXFBionicTongue.jobString>Installing Sculptor Бионический Tongue.</InstallXFBionicTongue.jobString>
+
+  <InstallXFBionicJaw.label>install Sculptor Бионический Jaw</InstallXFBionicJaw.label>
+  <InstallXFBionicJaw.description>Install Sculptor Бионический Jaw.</InstallXFBionicJaw.description>
+  <InstallXFBionicJaw.jobString>Installing Sculptor Бионический Jaw.</InstallXFBionicJaw.jobString>
+
+  <InstallXFBionicLung.label>install Sculptor Бионический Lung</InstallXFBionicLung.label>
+  <InstallXFBionicLung.description>Install Sculptor Бионический Lung.</InstallXFBionicLung.description>
+  <InstallXFBionicLung.jobString>Installing Sculptor Бионический Lung.</InstallXFBionicLung.jobString>
+
+  <InstallXFBionicKidney.label>install Sculptor Бионический Kidney</InstallXFBionicKidney.label>
+  <InstallXFBionicKidney.description>Install Sculptor Бионический Kidney.</InstallXFBionicKidney.description>
+  <InstallXFBionicKidney.jobString>Installing Sculptor Бионический Kidney.</InstallXFBionicKidney.jobString>
+
+  <InstallXFBionicNerve.label>install Sculptor HyperSense Nerve</InstallXFBionicNerve.label>
+  <InstallXFBionicNerve.description>Install Sculptor HyperSense Nerve.</InstallXFBionicNerve.description>
+  <InstallXFBionicNerve.jobString>Installing Sculptor HyperSense Nerve.</InstallXFBionicNerve.jobString>
+
+</LanguageData>

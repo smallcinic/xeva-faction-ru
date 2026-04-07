@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <DB_Trader.label>DB Торговец</DB_Trader.label>
+  <DB_WallCrack.label>DB Wall Crack</DB_WallCrack.label>
+  <DB_Footman.label>DB Footman</DB_Footman.label>
+  <DB_HFootman.label>DB Тяжёлый Footman</DB_HFootman.label>
+  <DB_Shooter.label>DB Shooter</DB_Shooter.label>
+  <DB_Knight.label>DB Рыцарь</DB_Knight.label>
+  <DB_HGunner.label>DB Тяжёлый Gunner</DB_HGunner.label>
+  <DB_HKnight.label>DB Тяжёлый Рыцарь</DB_HKnight.label>
+  <DB_DarkKnight.label>DB Рыцарь Captain</DB_DarkKnight.label>
+  <DB_Berserker.label>DB Berserker</DB_Berserker.label>
+  <DB_TheLord.label>DB Lord</DB_TheLord.label>
+
+  <DB_TraderRatkin.label>DB Торговец</DB_TraderRatkin.label>
+  <DB_WallCrackRatkin.label>DB Wall Crack</DB_WallCrackRatkin.label>
+  <DB_FootmanRatkin.label>DB Footman</DB_FootmanRatkin.label>
+  <DB_HFootmanRatkin.label>DB Тяжёлый Footman</DB_HFootmanRatkin.label>
+  <DB_ShooterRatkin.label>DB Shooter</DB_ShooterRatkin.label>
+  <DB_KnightRatkin.label>DB Рыцарь</DB_KnightRatkin.label>
+  <DB_HGunnerRatkin.label>DB Тяжёлый Gunner</DB_HGunnerRatkin.label>  
+  <DB_HKnightRatkin.label>DB Тяжёлый Рыцарь</DB_HKnightRatkin.label>
+  <DB_DarkKnightRatkin.label>DB Рыцарь Captain</DB_DarkKnightRatkin.label>
+
+  <DB_TraderAstoriel.label>DB Торговец</DB_TraderAstoriel.label>
+  <DB_WallCrackAstoriel.label>DB Wall Crack</DB_WallCrackAstoriel.label>
+  <DB_FootmanAstoriel.label>DB Footman</DB_FootmanAstoriel.label>
+  <DB_HFootmanAstoriel.label>DB Тяжёлый Footman</DB_HFootmanAstoriel.label>
+  <DB_ShooterAstoriel.label>DB Shooter</DB_ShooterAstoriel.label>
+  <DB_KnightAstoriel.label>DB Рыцарь</DB_KnightAstoriel.label>
+  <DB_HGunnerAstoriel.label>DB Тяжёлый Gunner</DB_HGunnerAstoriel.label>  
+  <DB_HKnightAstoriel.label>DB Тяжёлый Рыцарь</DB_HKnightAstoriel.label>
+  <DB_DarkKnightAstoriel.label>DB Рыцарь Captain</DB_DarkKnightAstoriel.label>
+
+  <DB_TraderRevia.label>DB Торговец</DB_TraderRevia.label>
+  <DB_WallCrackRevia.label>DB Wall Crack</DB_WallCrackRevia.label>
+  <DB_FootmanRevia.label>DB Footman</DB_FootmanRevia.label>
+  <DB_HFootmanRevia.label>DB Тяжёлый Footman</DB_HFootmanRevia.label>
+  <DB_ShooterRevia.label>DB Shooter</DB_ShooterRevia.label>
+  <DB_KnightRevia.label>DB Рыцарь</DB_KnightRevia.label>
+  <DB_HGunnerRevia.label>DB Тяжёлый Gunner</DB_HGunnerRevia.label>  
+  <DB_HKnightRevia.label>DB Тяжёлый Рыцарь</DB_HKnightRevia.label>
+  <DB_DarkKnightRevia.label>DB Рыцарь Captain</DB_DarkKnightRevia.label>
+
+  <DB_TraderFerian.label>DB Торговец</DB_TraderFerian.label>
+  <DB_WallCrackFerian.label>DB Wall Crack</DB_WallCrackFerian.label>
+  <DB_FootmanFerian.label>DB Footman</DB_FootmanFerian.label>
+  <DB_HFootmanFerian.label>DB Тяжёлый Footman</DB_HFootmanFerian.label>
+  <DB_ShooterFerian.label>DB Shooter</DB_ShooterFerian.label>
+  <DB_KnightFerian.label>DB Рыцарь</DB_KnightFerian.label>
+  <DB_HGunnerFerian.label>DB Тяжёлый Gunner</DB_HGunnerFerian.label>  
+  <DB_HKnightFerian.label>DB Тяжёлый Рыцарь</DB_HKnightFerian.label>
+  <DB_DarkKnightFerian.label>DB Рыцарь Captain</DB_DarkKnightFerian.label>
+
+  <DB_TraderLapelli.label>DB Торговец</DB_TraderLapelli.label>
+  <DB_WallCrackLapelli.label>DB Wall Crack</DB_WallCrackLapelli.label>
+  <DB_FootmanLapelli.label>DB Footman</DB_FootmanLapelli.label>
+  <DB_HFootmanLapelli.label>DB Тяжёлый Footman</DB_HFootmanLapelli.label>
+  <DB_ShooterLapelli.label>DB Shooter</DB_ShooterLapelli.label>
+  <DB_KnightLapelli.label>DB Рыцарь</DB_KnightLapelli.label>
+  <DB_HGunnerLapelli.label>DB Тяжёлый Gunner</DB_HGunnerLapelli.label>  
+  <DB_HKnightLapelli.label>DB Тяжёлый Рыцарь</DB_HKnightLapelli.label>
+  <DB_DarkKnightLapelli.label>DB Рыцарь Captain</DB_DarkKnightLapelli.label>
+
+  <DB_TraderKurin.label>DB Торговец</DB_TraderKurin.label>
+  <DB_WallCrackKurin.label>DB Wall Crack</DB_WallCrackKurin.label>
+  <DB_FootmanKurin.label>DB Footman</DB_FootmanKurin.label>
+  <DB_HFootmanKurin.label>DB Тяжёлый Footman</DB_HFootmanKurin.label>
+  <DB_ShooterKurin.label>DB Shooter</DB_ShooterKurin.label>
+  <DB_KnightKurin.label>DB Рыцарь</DB_KnightKurin.label>
+  <DB_HGunnerKurin.label>DB Тяжёлый Gunner</DB_HGunnerKurin.label>  
+  <DB_HKnightKurin.label>DB Тяжёлый Рыцарь</DB_HKnightKurin.label>
+  <DB_DarkKnightKurin.label>DB Рыцарь Captain</DB_DarkKnightKurin.label>
+
+</LanguageData>

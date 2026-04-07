@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <XF_BionicEye.label>Sculptor Бионический Глаз</XF_BionicEye.label>
+  <XF_BionicEye.labelNoun> Sculptor Бионический Глаз</XF_BionicEye.labelNoun>
+  <XF_BionicEye.description> Sculptor Бионический Глаз revolutionary бионический vision organ, featuring ultra-high-resolution vision, продвинутый infrared и ultraviolet perception, и dynamic цель tracking. Его appearance indistinguishable от человек глаз, даже mimicking pupil responses к лёгкий, seamlessly integrating с тело.</XF_BionicEye.description>
+  
+  <XF_BionicArm.label>Sculptor Бионический Рука</XF_BionicArm.label>
+  <XF_BionicArm.labelNoun> Sculptor Бионический Рука</XF_BionicArm.labelNoun>
+  <XF_BionicArm.description> Sculptor Бионический Рука combines unmatched strength и flexibility, с nanoscale servo system для precise контроль из every движение. Его appearance mimics человек кожа и muscle texture, feeling warm и natural.</XF_BionicArm.description>
+  <XF_BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</XF_BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  
+  <XF_BionicLeg.label>Sculptor Бионический Нога</XF_BionicLeg.label>
+  <XF_BionicLeg.labelNoun>Sculptor Бионический Нога</XF_BionicLeg.labelNoun>
+  <XF_BionicLeg.description> Sculptor Бионический Нога employs продвинутый kinetic energy recovery и reinforced structural design, offering exceptional скорость и stability. Его appearance perfectly mimics человек нога, с flawless details вниз к hair и кожа texture.</XF_BionicLeg.description>
+  
+  <XF_BionicSpine.label>Sculptor Бионический Spine</XF_BionicSpine.label>
+  <XF_BionicSpine.labelNoun>Sculptor Бионический Spine</XF_BionicSpine.labelNoun>
+  <XF_BionicSpine.description> Sculptor Бионический Spine groundbreaking бионический spine с built-in neural enhancement modules, significantly boosting reaction скорость и physical coordination. Его appearance indistinguishable от real spine, seamlessly integrating с тело.</XF_BionicSpine.description>
+
+  <XF_BionicHeart.label>Sculptor Бионический Сердце</XF_BionicHeart.label>
+  <XF_BionicHeart.labelNoun>Sculptor Бионический Сердце</XF_BionicHeart.labelNoun>
+  <XF_BionicHeart.description> Sculptor Бионический Сердце high-performance бионический сердце с adaptive кровь flow regulation и energy optimization, greatly enhancing endurance и recovery скорость. Его appearance matches real сердце, даже mimicking natural heartbeat rhythms.</XF_BionicHeart.description>
+
+  <XF_BionicStomach.label>Sculptor Бионический Stomach</XF_BionicStomach.label>
+  <XF_BionicStomach.labelNoun>Sculptor Бионический Stomach</XF_BionicStomach.labelNoun>
+  <XF_BionicStomach.description> Sculptor Бионический Stomach uses продвинутый nanodecomposition technology к efficiently process various foods и nutrients, даже breaking вниз low-quality или toxic substances. Его appearance identical к real stomach, с natural feel.</XF_BionicStomach.description>
+
+  <XF_BionicEar.label>Sculptor Бионический Ear</XF_BionicEar.label>
+  <XF_BionicEar.labelNoun>Sculptor Бионический Ear</XF_BionicEar.labelNoun>
+  <XF_BionicEar.description> Sculptor Бионический Ear ultra-sensitive auditory organ с wide-frequency sound capture и directional noise cancellation, capable из precisely identifying faint sounds от distance. Его appearance indistinguishable от человек ear, с perfectly replicated details.</XF_BionicEar.description>
+
+  <XF_BionicTongue.label>Sculptor Бионический Tongue</XF_BionicTongue.label>
+  <XF_BionicTongue.labelNoun>Sculptor Бионический Tongue</XF_BionicTongue.labelNoun>
+  <XF_BionicTongue.description> Sculptor Бионический Tongue features high-precision taste и chemical analysis modules, capable из identifying complex chemical compositions и flavors. Его appearance matches real tongue, с natural moisture и elasticity.</XF_BionicTongue.description>
+
+  <XF_BionicJaw.label>Sculptor Бионический Jaw</XF_BionicJaw.label>
+  <XF_BionicJaw.labelNoun>Sculptor Бионический Jaw</XF_BionicJaw.labelNoun>
+  <XF_BionicJaw.description> Sculptor Бионический Jaw combines immense biting strength с precise motion контроль, featuring reinforced кость structure. Его appearance identical к человек jaw, с lifelike teeth и muscle texture.</XF_BionicJaw.description>
+
+  <XF_BionicLung.label>Sculptor Бионический Lung</XF_BionicLung.label>
+  <XF_BionicLung.labelNoun>Sculptor Бионический Lung</XF_BionicLung.labelNoun>
+  <XF_BionicLung.description> Sculptor Бионический Lung high-performance respiratory organ с mechanized design, featuring stark metallic и synthetic aesthetic distinctly different от человек lungs. Equipped с продвинутый gas filtration и oxygen optimization systems, это provides stable oxygen supply в extreme environments и filters toxic gases, far surpassing traditional бионический lungs.</XF_BionicLung.description>
+
+  <XF_BionicKidney.label>Sculptor Бионический Kidney</XF_BionicKidney.label>
+  <XF_BionicKidney.labelNoun>Sculptor Бионический Kidney</XF_BionicKidney.labelNoun>
+  <XF_BionicKidney.description> Sculptor Бионический Kidney features mechanized structure с precise metallic module и transparent conduit design, starkly contrasting человек kidneys. Equipped с nanoscale filtration system, это efficiently removes toxins и waste от кровь и includes self-regulating functions к adapt к varying metabolic needs, outperforming traditional бионический kidneys.</XF_BionicKidney.description>
+
+  <XF_BionicNerve.label>Sculptor HyperSense Nerve</XF_BionicNerve.label>
+  <XF_BionicNerve.labelNoun> Sculptor HyperSense Nerve</XF_BionicNerve.labelNoun>
+  <XF_BionicNerve.description> Sculptor HyperSense Nerve продвинутый бионический neural layout, indistinguishable от человек nervous system в appearance, seamlessly integrating с тело. Equipped с overclocked neural conduction modules, это significantly enhances overall physical performance и reaction скорость, enabling unparalleled agility и coordination в high-intensity activities.</XF_BionicNerve.description>
+
+</LanguageData>
