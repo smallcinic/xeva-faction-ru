@@ -1,485 +1,483 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <XFBullet_Deflection.label>Deflect Bullet</XFBullet_Deflection.label>
-<!-- HeartSeeker -->
-  <Bullet_HeartSeeker.label>.50 High Speed Dumdum Bullet</Bullet_HeartSeeker.label>
-  <XGun_HeartSeeker.label>Heart Seeker</XGun_HeartSeeker.label>
-  <XGun_HeartSeeker.description>A heavy pistol, equipped with weapons at close range of the XEO, the members of the organization like to call this weapon a "Hand Cannon". The high-speed dam bomb fired can cause great blockage and lethality to the creature and the bullet is huge. The huge firepower of the bullets led to the use of a bullet nest design for the chamber, so there were shortcomings such as insufficient storage of ammunition and inconvenient loading. But the members of the organization felt that these are not important because they always pull out their knife before finishing their shots.</XGun_HeartSeeker.description>
-  <XGun_HeartSeeker.tools.0.label>grip</XGun_HeartSeeker.tools.0.label>
-  <XGun_HeartSeeker.tools.1.label>barrel</XGun_HeartSeeker.tools.1.label>
+  <XFBullet_Deflection.label>Deflect Пуля</XFBullet_Deflection.label>
 
-  <XGun_HeartSeeker_MM.label>Heart Seeker (Melee MOD)</XGun_HeartSeeker_MM.label>
-  <XGun_HeartSeeker_MM.description>A heavy pistol, equipped with weapons at close range of the XEO, the members of the organization like to call this weapon a "Hand Cannon". The high-speed dam bomb fired can cause great blockage and lethality to the creature and the bullet is huge. The huge firepower of the bullets led to the use of a bullet nest design for the chamber, so there were shortcomings such as insufficient storage of ammunition and inconvenient loading. But the members of the organization felt that these are not important because they always pull out their knife before finishing their shots.</XGun_HeartSeeker_MM.description>
+  <Bullet_HeartSeeker.label>.50 Высокий Скорость Dumdum Пуля</Bullet_HeartSeeker.label>
+  <XGun_HeartSeeker.label>Сердце Seeker</XGun_HeartSeeker.label>
+  <XGun_HeartSeeker.description> тяжёлый пистолет, equipped с оружие в близко дальность из XEO, члены из организация like к call это оружие "Кисть Cannon". high-speed dam bomb fired может cause great blockage и lethality к creature и пуля huge. huge firepower из пули led к использовать из пуля nest design для chamber, так что there были shortcomings such как insufficient storage из ammunition и inconvenient loading. Но члены из организация чувствовал то эти не important потому что они always pull наружу их knife до finishing их shots.</XGun_HeartSeeker.description>
+  <XGun_HeartSeeker.tools.0.label>grip</XGun_HeartSeeker.tools.0.label>
+  <XGun_HeartSeeker.tools.1.label>ствол</XGun_HeartSeeker.tools.1.label>
+
+  <XGun_HeartSeeker_MM.label>Сердце Seeker (Ближний Мод)</XGun_HeartSeeker_MM.label>
+  <XGun_HeartSeeker_MM.description> тяжёлый пистолет, equipped с оружие в близко дальность из XEO, члены из организация like к call это оружие "Кисть Cannon". high-speed dam bomb fired может cause great blockage и lethality к creature и пуля huge. huge firepower из пули led к использовать из пуля nest design для chamber, так что there были shortcomings such как insufficient storage из ammunition и inconvenient loading. Но члены из организация чувствовал то эти не important потому что они always pull наружу их knife до finishing их shots.</XGun_HeartSeeker_MM.description>
   <XGun_HeartSeeker_MM.tools.0.label>sickle</XGun_HeartSeeker_MM.tools.0.label>
   <XGun_HeartSeeker_MM.tools.1.label>bayonet</XGun_HeartSeeker_MM.tools.1.label>
 
-  <XGun_HeartSeeker_SM.label>Heart Seeker (Shooting MOD)</XGun_HeartSeeker_SM.label>
-  <XGun_HeartSeeker_SM.description>A heavy pistol, equipped with weapons at close range of the XEO, the members of the organization like to call this weapon a "Hand Cannon". The high-speed dam bomb fired can cause great blockage and lethality to the creature and the bullet is huge. The huge firepower of the bullets led to the use of a bullet nest design for the chamber, so there were shortcomings such as insufficient storage of ammunition and inconvenient loading. But the members of the organization felt that these are not important because they always pull out their knife before finishing their shots.</XGun_HeartSeeker_SM.description>
+  <XGun_HeartSeeker_SM.label>Сердце Seeker (Стрельба Мод)</XGun_HeartSeeker_SM.label>
+  <XGun_HeartSeeker_SM.description> тяжёлый пистолет, equipped с оружие в близко дальность из XEO, члены из организация like к call это оружие "Кисть Cannon". high-speed dam bomb fired может cause great blockage и lethality к creature и пуля huge. huge firepower из пули led к использовать из пуля nest design для chamber, так что there были shortcomings such как insufficient storage из ammunition и inconvenient loading. Но члены из организация чувствовал то эти не important потому что они always pull наружу их knife до finishing их shots.</XGun_HeartSeeker_SM.description>
   <XGun_HeartSeeker_SM.tools.0.label>grip</XGun_HeartSeeker_SM.tools.0.label>
-  <XGun_HeartSeeker_SM.tools.1.label>barrel</XGun_HeartSeeker_SM.tools.1.label>
+  <XGun_HeartSeeker_SM.tools.1.label>ствол</XGun_HeartSeeker_SM.tools.1.label>
 
-  <XGun_HeartSeekerM.label>Heart Seeker MIL</XGun_HeartSeekerM.label>
-  <XGun_HeartSeekerM.description>A heavy pistol, equipped with weapons at close range of the XEO, the members of the organization like to call this weapon a "Hand Cannon". The high-speed dam bomb fired can cause great blockage and lethality to the creature and the bullet is huge. The huge firepower of the bullets led to the use of a bullet nest design for the chamber, so there were shortcomings such as insufficient storage of ammunition and inconvenient loading. But the members of the organization felt that these are not important because they always pull out their knife before finishing their shots.</XGun_HeartSeekerM.description>
+  <XGun_HeartSeekerM.label>Сердце Seeker Военный</XGun_HeartSeekerM.label>
+  <XGun_HeartSeekerM.description> тяжёлый пистолет, equipped с оружие в близко дальность из XEO, члены из организация like к call это оружие "Кисть Cannon". high-speed dam bomb fired может cause great blockage и lethality к creature и пуля huge. huge firepower из пули led к использовать из пуля nest design для chamber, так что there были shortcomings such как insufficient storage из ammunition и inconvenient loading. Но члены из организация чувствовал то эти не important потому что они always pull наружу их knife до finishing их shots.</XGun_HeartSeekerM.description>
   <XGun_HeartSeekerM.tools.0.label>grip</XGun_HeartSeekerM.tools.0.label>
-  <XGun_HeartSeekerM.tools.1.label>barrel</XGun_HeartSeekerM.tools.1.label>
-<!-- WhiteDwarf -->
-  <Bullet_WhiteDwarf.label>.45 MP Steel Bullet</Bullet_WhiteDwarf.label>
+  <XGun_HeartSeekerM.tools.1.label>ствол</XGun_HeartSeekerM.tools.1.label>
+
+  <Bullet_WhiteDwarf.label>.45 MP Steel Пуля</Bullet_WhiteDwarf.label>
   <XGun_WhiteDwarf.label>White Dwarf</XGun_WhiteDwarf.label>
-  <XGun_WhiteDwarf.description>The damage type of this weapon is blunt damage, and it penetrates normal energy shields. A heavy pistol, a medium and close defense weapon produced from Diamond Bone designed to effectively prevent target moving. The MP Steel Bullet with special electric field, can penetrate the normal kinetic shield and produce a strong blocking force when hitting the target. However, this bullet will have a large deviation in long-distance flight, so when you want to attack a distant target, you don’t have to waste time aiming.</XGun_WhiteDwarf.description>
+  <XGun_WhiteDwarf.description> урон тип из это оружие дробящий урон, и это penetrates normal energy shields. тяжёлый пистолет, medium и близко defense оружие produced от Алмаз Кость designed к effectively prevent цель moving. MP Steel Пуля с особый электрический field, может penetrate normal kinetic щит и produce strong blocking сила когда hitting цель. Однако, это пуля будет иметь большой deviation в long-distance flight, так что когда вы хотеть к атака distant цель, вы don’t иметь к waste время aiming.</XGun_WhiteDwarf.description>
   <XGun_WhiteDwarf.tools.0.label>grip</XGun_WhiteDwarf.tools.0.label>
-  <XGun_WhiteDwarf.tools.1.label>barrel</XGun_WhiteDwarf.tools.1.label>
+  <XGun_WhiteDwarf.tools.1.label>ствол</XGun_WhiteDwarf.tools.1.label>
 
-  <XGun_WhiteDwarf_MM.label>White Dwarf (Melee MOD)</XGun_WhiteDwarf_MM.label>
-  <XGun_WhiteDwarf_MM.description>The damage type of this weapon is blunt damage, and it penetrates normal energy shields. A heavy pistol, a medium and close defense weapon produced from Diamond Bone designed to effectively prevent target moving. The MP Steel Bullet with special electric field, can penetrate the normal kinetic shield and produce a strong blocking force when hitting the target. However, this bullet will have a large deviation in long-distance flight, so when you want to attack a distant target, you don’t have to waste time aiming.</XGun_WhiteDwarf_MM.description>
+  <XGun_WhiteDwarf_MM.label>White Dwarf (Ближний Мод)</XGun_WhiteDwarf_MM.label>
+  <XGun_WhiteDwarf_MM.description> урон тип из это оружие дробящий урон, и это penetrates normal energy shields. тяжёлый пистолет, medium и близко defense оружие produced от Алмаз Кость designed к effectively prevent цель moving. MP Steel Пуля с особый электрический field, может penetrate normal kinetic щит и produce strong blocking сила когда hitting цель. Однако, это пуля будет иметь большой deviation в long-distance flight, так что когда вы хотеть к атака distant цель, вы don’t иметь к waste время aiming.</XGun_WhiteDwarf_MM.description>
   <XGun_WhiteDwarf_MM.tools.0.label>grip</XGun_WhiteDwarf_MM.tools.0.label>
-  <XGun_WhiteDwarf_MM.tools.1.label>blade</XGun_WhiteDwarf_MM.tools.1.label>
+  <XGun_WhiteDwarf_MM.tools.1.label>клинок</XGun_WhiteDwarf_MM.tools.1.label>
 
-  <XGun_WhiteDwarf_SM.label>White Dwarf (Shooting MOD)</XGun_WhiteDwarf_SM.label>
-  <XGun_WhiteDwarf_SM.description>The damage type of this weapon is blunt damage, and it penetrates normal energy shields. A heavy pistol, a medium and close defense weapon produced from Diamond Bone designed to effectively prevent target moving. The MP Steel Bullet with special electric field, can penetrate the normal kinetic shield and produce a strong blocking force when hitting the target. However, this bullet will have a large deviation in long-distance flight, so when you want to attack a distant target, you don’t have to waste time aiming.</XGun_WhiteDwarf_SM.description>
+  <XGun_WhiteDwarf_SM.label>White Dwarf (Стрельба Мод)</XGun_WhiteDwarf_SM.label>
+  <XGun_WhiteDwarf_SM.description> урон тип из это оружие дробящий урон, и это penetrates normal energy shields. тяжёлый пистолет, medium и близко defense оружие produced от Алмаз Кость designed к effectively prevent цель moving. MP Steel Пуля с особый электрический field, может penetrate normal kinetic щит и produce strong blocking сила когда hitting цель. Однако, это пуля будет иметь большой deviation в long-distance flight, так что когда вы хотеть к атака distant цель, вы don’t иметь к waste время aiming.</XGun_WhiteDwarf_SM.description>
   <XGun_WhiteDwarf_SM.tools.0.label>grip</XGun_WhiteDwarf_SM.tools.0.label>
-  <XGun_WhiteDwarf_SM.tools.1.label>barrel</XGun_WhiteDwarf_SM.tools.1.label>
+  <XGun_WhiteDwarf_SM.tools.1.label>ствол</XGun_WhiteDwarf_SM.tools.1.label>
 
-  <XGun_WhiteDwarfM.label>White Dwarf MIL</XGun_WhiteDwarfM.label>
-  <XGun_WhiteDwarfM.description>The damage type of this weapon is blunt damage, and it penetrates normal energy shields. A heavy pistol, a medium and close defense weapon produced from Diamond Bone designed to effectively prevent target moving. The MP Steel Bullet with special electric field, can penetrate the normal kinetic shield and produce a strong blocking force when hitting the target. However, this bullet will have a large deviation in long-distance flight, so when you want to attack a distant target, you don’t have to waste time aiming.</XGun_WhiteDwarfM.description>
+  <XGun_WhiteDwarfM.label>White Dwarf Военный</XGun_WhiteDwarfM.label>
+  <XGun_WhiteDwarfM.description> урон тип из это оружие дробящий урон, и это penetrates normal energy shields. тяжёлый пистолет, medium и близко defense оружие produced от Алмаз Кость designed к effectively prevent цель moving. MP Steel Пуля с особый электрический field, может penetrate normal kinetic щит и produce strong blocking сила когда hitting цель. Однако, это пуля будет иметь большой deviation в long-distance flight, так что когда вы хотеть к атака distant цель, вы don’t иметь к waste время aiming.</XGun_WhiteDwarfM.description>
   <XGun_WhiteDwarfM.tools.0.label>grip</XGun_WhiteDwarfM.tools.0.label>
-  <XGun_WhiteDwarfM.tools.1.label>barrel</XGun_WhiteDwarfM.tools.1.label>
-<!-- FireBeast -->
-  <Bullet_FireBeast.label>High Temperature Flame</Bullet_FireBeast.label>
-  <XGun_FireBeast.label>Fire Beast</XGun_FireBeast.label>
-  <XGun_FireBeast.description>A flamethrower. Although it is bulky, it is equipped by many soldiers of the Flame Legion because they think this weapon is "Convenience". What exactly does "Convenience" mean? This is a story. According to legend, a tribal cook prepared 36 people to grill food for a festival. He felt that it was too slow to roast one by one, and he invented a "Kitchenware". Because the food is roasted tender and delicious, this "Kitchenware" has been highly praised in the banquet, and its manufacturing method has also been spread, so the meaning of "Convenience" is...</XGun_FireBeast.description>
+  <XGun_WhiteDwarfM.tools.1.label>ствол</XGun_WhiteDwarfM.tools.1.label>
+
+  <Bullet_FireBeast.label>Высокий Temperature Пламя</Bullet_FireBeast.label>
+  <XGun_FireBeast.label>Огонь Beast</XGun_FireBeast.label>
+  <XGun_FireBeast.description> flamethrower. Although это bulky, это equipped многие солдаты из Пламя Легион потому что они think это оружие "Convenience". What exactly does "Convenience" mean? Это story. According к legend, tribal cook prepared 36 люди к grill food для festival. Он чувствовал то это был тоже slow к roast один один, и он invented "Kitchenware". Потому что food roasted tender и delicious, это "Kitchenware" highly praised в banquet, и его manufacturing method также spread, так что meaning из "Convenience"...</XGun_FireBeast.description>
   <XGun_FireBeast.tools.0.label>grip</XGun_FireBeast.tools.0.label>
-  <XGun_FireBeast.tools.1.label>barrel</XGun_FireBeast.tools.1.label>
+  <XGun_FireBeast.tools.1.label>ствол</XGun_FireBeast.tools.1.label>
 
-  <Bullet_FireBeast_MM.label>High Temperature Flame</Bullet_FireBeast_MM.label>
-  <XGun_FireBeast_MM.label>Fire Beast (Melee MOD)</XGun_FireBeast_MM.label>
-  <XGun_FireBeast_MM.description>A flamethrower. Although it is bulky, it is equipped by many soldiers of the Flame Legion because they think this weapon is "Convenience". What exactly does "Convenience" mean? This is a story. According to legend, a tribal cook prepared 36 people to grill food for a festival. He felt that it was too slow to roast one by one, and he invented a "Kitchenware". Because the food is roasted tender and delicious, this "Kitchenware" has been highly praised in the banquet, and its manufacturing method has also been spread, so the meaning of "Convenience" is...</XGun_FireBeast_MM.description>
+  <Bullet_FireBeast_MM.label>Высокий Temperature Пламя</Bullet_FireBeast_MM.label>
+  <XGun_FireBeast_MM.label>Огонь Beast (Ближний Мод)</XGun_FireBeast_MM.label>
+  <XGun_FireBeast_MM.description> flamethrower. Although это bulky, это equipped многие солдаты из Пламя Легион потому что они think это оружие "Convenience". What exactly does "Convenience" mean? Это story. According к legend, tribal cook prepared 36 люди к grill food для festival. Он чувствовал то это был тоже slow к roast один один, и он invented "Kitchenware". Потому что food roasted tender и delicious, это "Kitchenware" highly praised в banquet, и его manufacturing method также spread, так что meaning из "Convenience"...</XGun_FireBeast_MM.description>
   <XGun_FireBeast_MM.tools.0.label>sickle</XGun_FireBeast_MM.tools.0.label>
-  <XGun_FireBeast_MM.tools.1.label>barrel</XGun_FireBeast_MM.tools.1.label>
+  <XGun_FireBeast_MM.tools.1.label>ствол</XGun_FireBeast_MM.tools.1.label>
 
-  <Bullet_FireBeast_SM.label>High Temperature Flame</Bullet_FireBeast_SM.label>
-  <XGun_FireBeast_SM.label>Fire Beast (Shooting MOD)</XGun_FireBeast_SM.label>
-  <XGun_FireBeast_SM.description>A flamethrower. Although it is bulky, it is equipped by many soldiers of the Flame Legion because they think this weapon is "Convenience". What exactly does "Convenience" mean? This is a story. According to legend, a tribal cook prepared 36 people to grill food for a festival. He felt that it was too slow to roast one by one, and he invented a "Kitchenware". Because the food is roasted tender and delicious, this "Kitchenware" has been highly praised in the banquet, and its manufacturing method has also been spread, so the meaning of "Convenience" is...</XGun_FireBeast_SM.description>
+  <Bullet_FireBeast_SM.label>Высокий Temperature Пламя</Bullet_FireBeast_SM.label>
+  <XGun_FireBeast_SM.label>Огонь Beast (Стрельба Мод)</XGun_FireBeast_SM.label>
+  <XGun_FireBeast_SM.description> flamethrower. Although это bulky, это equipped многие солдаты из Пламя Легион потому что они think это оружие "Convenience". What exactly does "Convenience" mean? Это story. According к legend, tribal cook prepared 36 люди к grill food для festival. Он чувствовал то это был тоже slow к roast один один, и он invented "Kitchenware". Потому что food roasted tender и delicious, это "Kitchenware" highly praised в banquet, и его manufacturing method также spread, так что meaning из "Convenience"...</XGun_FireBeast_SM.description>
   <XGun_FireBeast_SM.tools.0.label>grip</XGun_FireBeast_SM.tools.0.label>
-  <XGun_FireBeast_SM.tools.1.label>barrel</XGun_FireBeast_SM.tools.1.label>
+  <XGun_FireBeast_SM.tools.1.label>ствол</XGun_FireBeast_SM.tools.1.label>
 
-  <XGun_FireBeastM.label>Fire Beast MIL</XGun_FireBeastM.label>
-  <XGun_FireBeastM.description>A flamethrower. Although it is bulky, it is equipped by many soldiers of the Flame Legion because they think this weapon is "Convenience". What exactly does "Convenience" mean? This is a story. According to legend, a tribal cook prepared 36 people to grill food for a festival. He felt that it was too slow to roast one by one, and he invented a "Kitchenware". Because the food is roasted tender and delicious, this "Kitchenware" has been highly praised in the banquet, and its manufacturing method has also been spread, so the meaning of "Convenience" is...</XGun_FireBeastM.description>
+  <XGun_FireBeastM.label>Огонь Beast Военный</XGun_FireBeastM.label>
+  <XGun_FireBeastM.description> flamethrower. Although это bulky, это equipped многие солдаты из Пламя Легион потому что они think это оружие "Convenience". What exactly does "Convenience" mean? Это story. According к legend, tribal cook prepared 36 люди к grill food для festival. Он чувствовал то это был тоже slow к roast один один, и он invented "Kitchenware". Потому что food roasted tender и delicious, это "Kitchenware" highly praised в banquet, и его manufacturing method также spread, так что meaning из "Convenience"...</XGun_FireBeastM.description>
   <XGun_FireBeastM.tools.0.label>grip</XGun_FireBeastM.tools.0.label>
-  <XGun_FireBeastM.tools.1.label>barrel</XGun_FireBeastM.tools.1.label>
-<!-- RainStorm -->
-  <Bullet_RainStorm.label>9mm General Purpose Bullet</Bullet_RainStorm.label>
-  <XGun_RainStorm.label>Rain Storm</XGun_RainStorm.label>
-  <XGun_RainStorm.description>A light machine gun. That the Jaeger used to replace the pistol. Close-range weapons with a high rate of fire can effectively carry out cross-fire and continuous suppression. However, the stability of this gun is very poor and the bullets have floated in the middle distance. There was a record that an officer was beaten by a soldier with a Rain Storm behind because he was rushing ahead.</XGun_RainStorm.description>
-  <XGun_RainStorm.tools.0.label>grip</XGun_RainStorm.tools.0.label>
-  <XGun_RainStorm.tools.1.label>barrel</XGun_RainStorm.tools.1.label>
+  <XGun_FireBeastM.tools.1.label>ствол</XGun_FireBeastM.tools.1.label>
 
-  <XGun_RainStorm_MM.label>Rain Storm (Melee MOD)</XGun_RainStorm_MM.label>
-  <XGun_RainStorm_MM.description>A light machine gun. That the Jaeger used to replace the pistol. Close-range weapons with a high rate of fire can effectively carry out cross-fire and continuous suppression. However, the stability of this gun is very poor and the bullets have floated in the middle distance. There was a record that an officer was beaten by a soldier with a Rain Storm behind because he was rushing ahead.</XGun_RainStorm_MM.description>
+  <Bullet_RainStorm.label>9mm General Purpose Пуля</Bullet_RainStorm.label>
+  <XGun_RainStorm.label>Rain Storm</XGun_RainStorm.label>
+  <XGun_RainStorm.description> лёгкий machine пушка. То Jaeger используется к replace пистолет. Close-range оружие с высокий rate из огонь может effectively carry наружу cross-fire и continuous suppression. Однако, stability из это пушка очень poor и пули иметь floated в middle distance. There был record то officer был beaten солдат с Rain Storm behind потому что он был rushing ahead.</XGun_RainStorm.description>
+  <XGun_RainStorm.tools.0.label>grip</XGun_RainStorm.tools.0.label>
+  <XGun_RainStorm.tools.1.label>ствол</XGun_RainStorm.tools.1.label>
+
+  <XGun_RainStorm_MM.label>Rain Storm (Ближний Мод)</XGun_RainStorm_MM.label>
+  <XGun_RainStorm_MM.description> лёгкий machine пушка. То Jaeger используется к replace пистолет. Close-range оружие с высокий rate из огонь может effectively carry наружу cross-fire и continuous suppression. Однако, stability из это пушка очень poor и пули иметь floated в middle distance. There был record то officer был beaten солдат с Rain Storm behind потому что он был rushing ahead.</XGun_RainStorm_MM.description>
   <XGun_RainStorm_MM.tools.0.label>grip</XGun_RainStorm_MM.tools.0.label>
   <XGun_RainStorm_MM.tools.1.label>bayonet</XGun_RainStorm_MM.tools.1.label>
 
 
-  <XGun_RainStorm_SM.label>Rain Storm (Shooting MOD)</XGun_RainStorm_SM.label>
-  <XGun_RainStorm_SM.description>A light machine gun. That the Jaeger used to replace the pistol. Close-range weapons with a high rate of fire can effectively carry out cross-fire and continuous suppression. However, the stability of this gun is very poor and the bullets have floated in the middle distance. There was a record that an officer was beaten by a soldier with a Rain Storm behind because he was rushing ahead.</XGun_RainStorm_SM.description>
+  <XGun_RainStorm_SM.label>Rain Storm (Стрельба Мод)</XGun_RainStorm_SM.label>
+  <XGun_RainStorm_SM.description> лёгкий machine пушка. То Jaeger используется к replace пистолет. Close-range оружие с высокий rate из огонь может effectively carry наружу cross-fire и continuous suppression. Однако, stability из это пушка очень poor и пули иметь floated в middle distance. There был record то officer был beaten солдат с Rain Storm behind потому что он был rushing ahead.</XGun_RainStorm_SM.description>
   <XGun_RainStorm_SM.tools.0.label>grip</XGun_RainStorm_SM.tools.0.label>
-  <XGun_RainStorm_SM.tools.1.label>barrel</XGun_RainStorm_SM.tools.1.label>
+  <XGun_RainStorm_SM.tools.1.label>ствол</XGun_RainStorm_SM.tools.1.label>
 
-  <XGun_RainStormM.label>Rain Storm MIL</XGun_RainStormM.label>
-  <XGun_RainStormM.description>A light machine gun. That the Jaeger used to replace the pistol. Close-range weapons with a high rate of fire can effectively carry out cross-fire and continuous suppression. However, the stability of this gun is very poor and the bullets have floated in the middle distance. There was a record that an officer was beaten by a soldier with a Rain Storm behind because he was rushing ahead.</XGun_RainStormM.description>
+  <XGun_RainStormM.label>Rain Storm Военный</XGun_RainStormM.label>
+  <XGun_RainStormM.description> лёгкий machine пушка. То Jaeger используется к replace пистолет. Close-range оружие с высокий rate из огонь может effectively carry наружу cross-fire и continuous suppression. Однако, stability из это пушка очень poor и пули иметь floated в middle distance. There был record то officer был beaten солдат с Rain Storm behind потому что он был rushing ahead.</XGun_RainStormM.description>
   <XGun_RainStormM.tools.0.label>grip</XGun_RainStormM.tools.0.label>
-  <XGun_RainStormM.tools.1.label>barrel</XGun_RainStormM.tools.1.label>
-<!-- Rapid --> 
-  <Bullet_Rapid.label>9mm General Purpose Bullet</Bullet_Rapid.label> 
+  <XGun_RainStormM.tools.1.label>ствол</XGun_RainStormM.tools.1.label>
+ 
+  <Bullet_Rapid.label>9mm General Purpose Пуля</Bullet_Rapid.label> 
   <XGun_Rapid.label>Rapid</XGun_Rapid.label>
-  <XGun_Rapid.description>Semi-automatic pistol. Standard equipment for Star Explorer, weapons for home and travel. It has a high rate of fire and is stable. Most of the components are made of graphite fiber, which is hardly affected by the metal fatigue caused by the continuous fire. There have been records of 1000 shots of the pistol without jamming. Because of its light weight and low recoil, it is especially popular with women.</XGun_Rapid.description>
+  <XGun_Rapid.description>Semi-automatic пистолет. Standard снаряжение для Star Исследователь, оружие для home и travel. Это высокий rate из огонь и stable. Most из components сделал из graphite fiber, which hardly affected metal fatigue caused continuous огонь. There иметь records из 1000 shots из пистолет без jamming. Потому что из его лёгкий weight и low recoil, это especially popular с women.</XGun_Rapid.description>
   <XGun_Rapid.tools.0.label>grip</XGun_Rapid.tools.0.label>
-  <XGun_Rapid.tools.1.label>barrel</XGun_Rapid.tools.1.label>
+  <XGun_Rapid.tools.1.label>ствол</XGun_Rapid.tools.1.label>
 
-  <XGun_Rapid_MM.label>Rapid (Melee MOD)</XGun_Rapid_MM.label>
-  <XGun_Rapid_MM.description>Semi-automatic pistol. Standard equipment for Star Explorer, weapons for home and travel. It has a high rate of fire and is stable. Most of the components are made of graphite fiber, which is hardly affected by the metal fatigue caused by the continuous fire. There have been records of 1000 shots of the pistol without jamming. Because of its light weight and low recoil, it is especially popular with women.</XGun_Rapid_MM.description>
+  <XGun_Rapid_MM.label>Rapid (Ближний Мод)</XGun_Rapid_MM.label>
+  <XGun_Rapid_MM.description>Semi-automatic пистолет. Standard снаряжение для Star Исследователь, оружие для home и travel. Это высокий rate из огонь и stable. Most из components сделал из graphite fiber, which hardly affected metal fatigue caused continuous огонь. There иметь records из 1000 shots из пистолет без jamming. Потому что из его лёгкий weight и low recoil, это especially popular с women.</XGun_Rapid_MM.description>
   <XGun_Rapid_MM.tools.0.label>grip</XGun_Rapid_MM.tools.0.label>
   <XGun_Rapid_MM.tools.1.label>bayonet</XGun_Rapid_MM.tools.1.label>
 
-  <Bullet_Rapid_SM.label>9mm General Purpose Bullet</Bullet_Rapid_SM.label>
-  <XGun_Rapid_SM.label>Rapid (Shooting MOD)</XGun_Rapid_SM.label>
-  <XGun_Rapid_SM.description>Semi-automatic pistol. Standard equipment for Star Explorer, weapons for home and travel. It has a high rate of fire and is stable. Most of the components are made of graphite fiber, which is hardly affected by the metal fatigue caused by the continuous fire. There have been records of 1000 shots of the pistol without jamming. Because of its light weight and low recoil, it is especially popular with women.</XGun_Rapid_SM.description>
+  <Bullet_Rapid_SM.label>9mm General Purpose Пуля</Bullet_Rapid_SM.label>
+  <XGun_Rapid_SM.label>Rapid (Стрельба Мод)</XGun_Rapid_SM.label>
+  <XGun_Rapid_SM.description>Semi-automatic пистолет. Standard снаряжение для Star Исследователь, оружие для home и travel. Это высокий rate из огонь и stable. Most из components сделал из graphite fiber, which hardly affected metal fatigue caused continuous огонь. There иметь records из 1000 shots из пистолет без jamming. Потому что из его лёгкий weight и low recoil, это especially popular с women.</XGun_Rapid_SM.description>
   <XGun_Rapid_SM.tools.0.label>grip</XGun_Rapid_SM.tools.0.label>
-  <XGun_Rapid_SM.tools.1.label>barrel</XGun_Rapid_SM.tools.1.label>
+  <XGun_Rapid_SM.tools.1.label>ствол</XGun_Rapid_SM.tools.1.label>
 
-  <XGun_RapidM.label>Rapid MIL</XGun_RapidM.label>
-  <XGun_RapidM.description>Semi-automatic pistol. Standard equipment for Star Explorer, weapons for home and travel. It has a high rate of fire and is stable. Most of the components are made of graphite fiber, which is hardly affected by the metal fatigue caused by the continuous fire. There have been records of 1000 shots of the pistol without jamming. Because of its light weight and low recoil, it is especially popular with women.</XGun_RapidM.description>
+  <XGun_RapidM.label>Rapid Военный</XGun_RapidM.label>
+  <XGun_RapidM.description>Semi-automatic пистолет. Standard снаряжение для Star Исследователь, оружие для home и travel. Это высокий rate из огонь и stable. Most из components сделал из graphite fiber, which hardly affected metal fatigue caused continuous огонь. There иметь records из 1000 shots из пистолет без jamming. Потому что из его лёгкий weight и low recoil, это especially popular с women.</XGun_RapidM.description>
   <XGun_RapidM.tools.0.label>grip</XGun_RapidM.tools.0.label>
-  <XGun_RapidM.tools.1.label>barrel</XGun_RapidM.tools.1.label>
-<!-- GvE -->
-  <Bullet_GvE.label>.38 Black Core Bullet</Bullet_GvE.label>
-  <XGun_GvE.label>Good vs Evil</XGun_GvE.label>
-  <XGun_GvE.description>A Double pistol. It consists of two pistols with different recoil and firepower. It needs to rotate in accordance with the recoil of the fire to make the true power of these two guns. However, how can you aim at the target after rotation? So it is said that to use these guns, you must first learn Gun Fu. The scary thing is that many people blasted their mentors and even their heads in the process of learning.</XGun_GvE.description>
-  <XGun_GvE.tools.0.label>good</XGun_GvE.tools.0.label>
+  <XGun_RapidM.tools.1.label>ствол</XGun_RapidM.tools.1.label>
+
+  <Bullet_GvE.label>.38 Чёрное Core Пуля</Bullet_GvE.label>
+  <XGun_GvE.label>Хороший vs Evil</XGun_GvE.label>
+  <XGun_GvE.description> Double пистолет. Это consists из два pistols с different recoil и firepower. Это needs к rotate в accordance с recoil из огонь к делать true силовая из эти два пушки. Однако, how может вы aim в цель после rotation? Так что это said то к использовать эти пушки, вы должен первый learn Пушка Fu. scary thing то многие люди blasted их mentors и даже их heads в process из learning.</XGun_GvE.description>
+  <XGun_GvE.tools.0.label>хороший</XGun_GvE.tools.0.label>
   <XGun_GvE.tools.1.label>evil</XGun_GvE.tools.1.label>
 
-  <XGun_GvE_MM.label>Good vs Evil (Melee MOD)</XGun_GvE_MM.label>
-  <XGun_GvE_MM.description>A Double pistol. It consists of two pistols with different recoil and firepower. It needs to rotate in accordance with the recoil of the fire to make the true power of these two guns. However, how can you aim at the target after rotation? So it is said that to use these guns, you must first learn Gun Fu. The scary thing is that many people blasted their mentors and even their heads in the process of learning.</XGun_GvE_MM.description>
-  <XGun_GvE_MM.tools.0.label>good</XGun_GvE_MM.tools.0.label>
+  <XGun_GvE_MM.label>Хороший vs Evil (Ближний Мод)</XGun_GvE_MM.label>
+  <XGun_GvE_MM.description> Double пистолет. Это consists из два pistols с different recoil и firepower. Это needs к rotate в accordance с recoil из огонь к делать true силовая из эти два пушки. Однако, how может вы aim в цель после rotation? Так что это said то к использовать эти пушки, вы должен первый learn Пушка Fu. scary thing то многие люди blasted их mentors и даже их heads в process из learning.</XGun_GvE_MM.description>
+  <XGun_GvE_MM.tools.0.label>хороший</XGun_GvE_MM.tools.0.label>
   <XGun_GvE_MM.tools.1.label>evil</XGun_GvE_MM.tools.1.label>
 
-  <XGun_GvE_SM.label>Good vs Evil (Shooting MOD)</XGun_GvE_SM.label>
-  <XGun_GvE_SM.description>A Double pistol. It consists of two pistols with different recoil and firepower. It needs to rotate in accordance with the recoil of the fire to make the true power of these two guns. However, how can you aim at the target after rotation? So it is said that to use these guns, you must first learn Gun Fu. The scary thing is that many people blasted their mentors and even their heads in the process of learning.</XGun_GvE_SM.description>
-  <XGun_GvE_SM.tools.0.label>good</XGun_GvE_SM.tools.0.label>
+  <XGun_GvE_SM.label>Хороший vs Evil (Стрельба Мод)</XGun_GvE_SM.label>
+  <XGun_GvE_SM.description> Double пистолет. Это consists из два pistols с different recoil и firepower. Это needs к rotate в accordance с recoil из огонь к делать true силовая из эти два пушки. Однако, how может вы aim в цель после rotation? Так что это said то к использовать эти пушки, вы должен первый learn Пушка Fu. scary thing то многие люди blasted их mentors и даже их heads в process из learning.</XGun_GvE_SM.description>
+  <XGun_GvE_SM.tools.0.label>хороший</XGun_GvE_SM.tools.0.label>
   <XGun_GvE_SM.tools.1.label>evil</XGun_GvE_SM.tools.1.label>
-<!-- ToughGuy -->
-  <Bullet_ToughGuy.label>.44 Flat Nose Bullet</Bullet_ToughGuy.label>
+
+  <Bullet_ToughGuy.label>.44 Flat Нос Пуля</Bullet_ToughGuy.label>
   <XGun_ToughGuy.label>Tough Guy</XGun_ToughGuy.label>
-  <XGun_ToughGuy.description>The damage type of this weapon is blunt damage. A heavy pistol. There was a very stubborn pirate who insisted on using pistols as weapons. He ignored the dissuasion of his companions and commanders. He did not use other firearms, and he added sights to the pistols to deal with long-range combat. One day, he used this pistol to shoot a soldier wearing power armor, and finally fought for an afternoon. Although he was shot multiple times, he shot the soldiers to death. This weapon has also become a symbol of the tough guy "You may not be very good, but super hard".</XGun_ToughGuy.description>
+  <XGun_ToughGuy.description> урон тип из это оружие дробящий урон. тяжёлый пистолет. There был очень stubborn пират who insisted на using pistols как оружие. Он ignored dissuasion из его companions и commanders. Он сделал не использовать другой firearms, и он added sights к pistols к deal с long-range combat. Один день, он используется это пистолет к shoot солдат ношение силовая броня, и наконец fought для afternoon. Although он был выстрел multiple times, он выстрел солдаты к смерть. Это оружие также стать symbol из tough guy "Вы may не быть очень хороший, но super hard".</XGun_ToughGuy.description>
   <XGun_ToughGuy.tools.0.label>grip</XGun_ToughGuy.tools.0.label>
-  <XGun_ToughGuy.tools.1.label>barrel</XGun_ToughGuy.tools.1.label>
+  <XGun_ToughGuy.tools.1.label>ствол</XGun_ToughGuy.tools.1.label>
 
-  <XGun_ToughGuyM.label>Tough Guy MIL</XGun_ToughGuyM.label>
-  <XGun_ToughGuyM.description>The damage type of this weapon is blunt damage. A heavy pistol. There was a very stubborn pirate who insisted on using pistols as weapons. He ignored the dissuasion of his companions and commanders. He did not use other firearms, and he added sights to the pistols to deal with long-range combat. One day, he used this pistol to shoot a soldier wearing power armor, and finally fought for an afternoon. Although he was shot multiple times, he shot the soldiers to death. This weapon has also become a symbol of the tough guy "You may not be very good, but super hard".</XGun_ToughGuyM.description>
+  <XGun_ToughGuyM.label>Tough Guy Военный</XGun_ToughGuyM.label>
+  <XGun_ToughGuyM.description> урон тип из это оружие дробящий урон. тяжёлый пистолет. There был очень stubborn пират who insisted на using pistols как оружие. Он ignored dissuasion из его companions и commanders. Он сделал не использовать другой firearms, и он added sights к pistols к deal с long-range combat. Один день, он используется это пистолет к shoot солдат ношение силовая броня, и наконец fought для afternoon. Although он был выстрел multiple times, он выстрел солдаты к смерть. Это оружие также стать symbol из tough guy "Вы may не быть очень хороший, но super hard".</XGun_ToughGuyM.description>
   <XGun_ToughGuyM.tools.0.label>grip</XGun_ToughGuyM.tools.0.label>
-  <XGun_ToughGuyM.tools.1.label>barrel</XGun_ToughGuyM.tools.1.label>
-<!-- Fuse -->
-  <Bullet_Fuse.label>Plasma</Bullet_Fuse.label>
+  <XGun_ToughGuyM.tools.1.label>ствол</XGun_ToughGuyM.tools.1.label>
+
+  <Bullet_Fuse.label>Плазма</Bullet_Fuse.label>
   <XGun_Fuse.label>Fuse</XGun_Fuse.label>
-  <XGun_Fuse.description>A heat damage pistol. The weapon of the pirate king period. Launching plasma was very fatal in an environment where armor development was not mature at the time. There have been many voices against research in the pirates, but the pirate king ruled out the public opinion and insisted on creating weapons with overwhelming power. This pistol, which was first researched and mass-produced, became the fuse of his future betrayal.</XGun_Fuse.description>
+  <XGun_Fuse.description> жара урон пистолет. оружие из пират король period. Launching плазма был очень fatal в environment where броня development был не mature в время. There иметь многие voices против исследование в pirates, но пират король ruled наружу public opinion и insisted на creating оружие с overwhelming силовая. Это пистолет, which был первый researched и mass-produced, стал fuse из его future betrayal.</XGun_Fuse.description>
   <XGun_Fuse.tools.0.label>grip</XGun_Fuse.tools.0.label>
-  <XGun_Fuse.tools.1.label>barrel</XGun_Fuse.tools.1.label>
+  <XGun_Fuse.tools.1.label>ствол</XGun_Fuse.tools.1.label>
 
-  <XGun_FuseM.label>Fuse MIL</XGun_FuseM.label>
-  <XGun_FuseM.description>A heat damage pistol. The weapon of the pirate king period. Launching plasma was very fatal in an environment where armor development was not mature at the time. There have been many voices against research in the pirates, but the pirate king ruled out the public opinion and insisted on creating weapons with overwhelming power. This pistol, which was first researched and mass-produced, became the fuse of his future betrayal.</XGun_FuseM.description>
+  <XGun_FuseM.label>Fuse Военный</XGun_FuseM.label>
+  <XGun_FuseM.description> жара урон пистолет. оружие из пират король period. Launching плазма был очень fatal в environment where броня development был не mature в время. There иметь многие voices против исследование в pirates, но пират король ruled наружу public opinion и insisted на creating оружие с overwhelming силовая. Это пистолет, which был первый researched и mass-produced, стал fuse из его future betrayal.</XGun_FuseM.description>
   <XGun_FuseM.tools.0.label>grip</XGun_FuseM.tools.0.label>
-  <XGun_FuseM.tools.1.label>barrel</XGun_FuseM.tools.1.label>
-<!-- Horizon -->
-  <Bullet_Horizon.label>20mm Shock Bullet</Bullet_Horizon.label>
-  <XGun_Horizon.label>Horizon</XGun_Horizon.label>
-  <XGun_Horizon.description>A blunt damage rifle. This weapon will stun the target when it hits the head. The Diamond Bone Horizon rifle has good performance instability and a rate of fire. The special shape of its bullet warhead will generate impact when hitting the target to brake and stop the target, but in exchange for it has almost no armor-piercing effect. Some people think that this is a good thing because they like to use this gun to hit the head of the helmet family, look at their faces when they are dizzy, and grab them when they are beautiful.</XGun_Horizon.description>
-  <XGun_Horizon.tools.0.label>stock</XGun_Horizon.tools.0.label>
-  <XGun_Horizon.tools.1.label>barrel</XGun_Horizon.tools.1.label>
+  <XGun_FuseM.tools.1.label>ствол</XGun_FuseM.tools.1.label>
 
-  <XGun_Horizon_MM.label>Horizon (Melee MOD)</XGun_Horizon_MM.label>
-  <XGun_Horizon_MM.description>A blunt damage rifle. This weapon will stun the target when it hits the head. The Diamond Bone Horizon rifle has good performance instability and a rate of fire. The special shape of its bullet warhead will generate impact when hitting the target to brake and stop the target, but in exchange for it has almost no armor-piercing effect. Some people think that this is a good thing because they like to use this gun to hit the head of the helmet family, look at their faces when they are dizzy, and grab them when they are beautiful.</XGun_Horizon_MM.description>
-  <XGun_Horizon_MM.tools.0.label>stock</XGun_Horizon_MM.tools.0.label>
+  <Bullet_Horizon.label>20mm Shock Пуля</Bullet_Horizon.label>
+  <XGun_Horizon.label>Horizon</XGun_Horizon.label>
+  <XGun_Horizon.description> дробящий урон винтовка. Это оружие будет оглушение цель когда это hits голова. Алмаз Кость Horizon винтовка хороший performance instability и rate из огонь. особый shape из его пуля warhead будет generate impact когда hitting цель к brake и остановить цель, но в exchange для это almost нет armor-piercing effect. Некоторые люди think то это хороший thing потому что они like к использовать это пушка к удар голова из шлем семья, look в их faces когда они dizzy, и grab их когда они beautiful.</XGun_Horizon.description>
+  <XGun_Horizon.tools.0.label>приклад</XGun_Horizon.tools.0.label>
+  <XGun_Horizon.tools.1.label>ствол</XGun_Horizon.tools.1.label>
+
+  <XGun_Horizon_MM.label>Horizon (Ближний Мод)</XGun_Horizon_MM.label>
+  <XGun_Horizon_MM.description> дробящий урон винтовка. Это оружие будет оглушение цель когда это hits голова. Алмаз Кость Horizon винтовка хороший performance instability и rate из огонь. особый shape из его пуля warhead будет generate impact когда hitting цель к brake и остановить цель, но в exchange для это almost нет armor-piercing effect. Некоторые люди think то это хороший thing потому что они like к использовать это пушка к удар голова из шлем семья, look в их faces когда они dizzy, и grab их когда они beautiful.</XGun_Horizon_MM.description>
+  <XGun_Horizon_MM.tools.0.label>приклад</XGun_Horizon_MM.tools.0.label>
   <XGun_Horizon_MM.tools.1.label>sickle</XGun_Horizon_MM.tools.1.label>
 
-  <XGun_Horizon_SM.label>Horizon (Shooting MOD)</XGun_Horizon_SM.label>
-  <XGun_Horizon_SM.description>A blunt damage rifle. This weapon will stun the target when it hits the head. The Diamond Bone Horizon rifle has good performance instability and a rate of fire. The special shape of its bullet warhead will generate impact when hitting the target to brake and stop the target, but in exchange for it has almost no armor-piercing effect. Some people think that this is a good thing because they like to use this gun to hit the head of the helmet family, look at their faces when they are dizzy, and grab them when they are beautiful.</XGun_Horizon_SM.description>
-  <XGun_Horizon_SM.tools.0.label>stock</XGun_Horizon_SM.tools.0.label>
-  <XGun_Horizon_SM.tools.1.label>barrel</XGun_Horizon_SM.tools.1.label>
+  <XGun_Horizon_SM.label>Horizon (Стрельба Мод)</XGun_Horizon_SM.label>
+  <XGun_Horizon_SM.description> дробящий урон винтовка. Это оружие будет оглушение цель когда это hits голова. Алмаз Кость Horizon винтовка хороший performance instability и rate из огонь. особый shape из его пуля warhead будет generate impact когда hitting цель к brake и остановить цель, но в exchange для это almost нет armor-piercing effect. Некоторые люди think то это хороший thing потому что они like к использовать это пушка к удар голова из шлем семья, look в их faces когда они dizzy, и grab их когда они beautiful.</XGun_Horizon_SM.description>
+  <XGun_Horizon_SM.tools.0.label>приклад</XGun_Horizon_SM.tools.0.label>
+  <XGun_Horizon_SM.tools.1.label>ствол</XGun_Horizon_SM.tools.1.label>
 
-  <XGun_HorizonM.label>Horizon MIL</XGun_HorizonM.label>
-  <XGun_HorizonM.description>A blunt damage rifle. This weapon will stun the target when it hits the head. The Diamond Bone Horizon rifle has good performance instability and a rate of fire. The special shape of its bullet warhead will generate impact when hitting the target to brake and stop the target, but in exchange for it has almost no armor-piercing effect. Some people think that this is a good thing because they like to use this gun to hit the head of the helmet family, look at their faces when they are dizzy, and grab them when they are beautiful.</XGun_HorizonM.description>
-  <XGun_HorizonM.tools.0.label>stock</XGun_HorizonM.tools.0.label>
-  <XGun_HorizonM.tools.1.label>barrel</XGun_HorizonM.tools.1.label>
-<!-- Roar -->
-  <Bullet_Roar.label>70mm Scatter Bullet</Bullet_Roar.label>
+  <XGun_HorizonM.label>Horizon Военный</XGun_HorizonM.label>
+  <XGun_HorizonM.description> дробящий урон винтовка. Это оружие будет оглушение цель когда это hits голова. Алмаз Кость Horizon винтовка хороший performance instability и rate из огонь. особый shape из его пуля warhead будет generate impact когда hitting цель к brake и остановить цель, но в exchange для это almost нет armor-piercing effect. Некоторые люди think то это хороший thing потому что они like к использовать это пушка к удар голова из шлем семья, look в их faces когда они dizzy, и grab их когда они beautiful.</XGun_HorizonM.description>
+  <XGun_HorizonM.tools.0.label>приклад</XGun_HorizonM.tools.0.label>
+  <XGun_HorizonM.tools.1.label>ствол</XGun_HorizonM.tools.1.label>
+
+  <Bullet_Roar.label>70mm Scatter Пуля</Bullet_Roar.label>
   <XGun_Roar.label>Roar</XGun_Roar.label>
-  <XGun_Roar.description>A large heat damage shotgun. The Flame Legion's Roar shotgun is a very cruel weapon. The bullets it uses are much larger than conventional shotguns, and in order to increase the lethality, the steel balls are replaced with fragments. A military doctor once said that if a light machine gun can make people into a honeycomb, this weapon is to make people into a meat sauce. There are so many wounds that even the automatic medical bed of midworld can't handle it. The injured person said, "I think I can be rescue..e..d..." He was dead before he finished talking.</XGun_Roar.description>
-  <XGun_Roar.tools.0.label>stock</XGun_Roar.tools.0.label>
-  <XGun_Roar.tools.1.label>barrel</XGun_Roar.tools.1.label>
+  <XGun_Roar.description> большой жара урон дробовик. Пламя Legion's Roar дробовик очень cruel оружие. пули это uses much larger чем conventional shotguns, и в order к увеличить lethality, steel balls replaced с fragments. военный doctor однажды said то если лёгкий machine пушка может делать люди в honeycomb, это оружие к делать люди в meat sauce. There так что многие wounds то даже automatic медицина bed из midworld can't handle это. injured человек said, "Я think Я может быть rescue..e..d..." Он был dead до он finished talking.</XGun_Roar.description>
+  <XGun_Roar.tools.0.label>приклад</XGun_Roar.tools.0.label>
+  <XGun_Roar.tools.1.label>ствол</XGun_Roar.tools.1.label>
 
-  <Bullet_Roar_MM.label>70mm Scatter Bullet</Bullet_Roar_MM.label>
-  <XGun_Roar_MM.label>Roar (Melee MOD)</XGun_Roar_MM.label>
-  <XGun_Roar_MM.description>A large heat damage shotgun. The Flame Legion's Roar shotgun is a very cruel weapon. The bullets it uses are much larger than conventional shotguns, and in order to increase the lethality, the steel balls are replaced with fragments. A military doctor once said that if a light machine gun can make people into a honeycomb, this weapon is to make people into a meat sauce. There are so many wounds that even the automatic medical bed of midworld can't handle it. The injured person said, "I think I can be rescue..e..d..." He was dead before he finished talking.</XGun_Roar_MM.description>
-  <XGun_Roar_MM.tools.0.label>stock</XGun_Roar_MM.tools.0.label>
+  <Bullet_Roar_MM.label>70mm Scatter Пуля</Bullet_Roar_MM.label>
+  <XGun_Roar_MM.label>Roar (Ближний Мод)</XGun_Roar_MM.label>
+  <XGun_Roar_MM.description> большой жара урон дробовик. Пламя Legion's Roar дробовик очень cruel оружие. пули это uses much larger чем conventional shotguns, и в order к увеличить lethality, steel balls replaced с fragments. военный doctor однажды said то если лёгкий machine пушка может делать люди в honeycomb, это оружие к делать люди в meat sauce. There так что многие wounds то даже automatic медицина bed из midworld can't handle это. injured человек said, "Я think Я может быть rescue..e..d..." Он был dead до он finished talking.</XGun_Roar_MM.description>
+  <XGun_Roar_MM.tools.0.label>приклад</XGun_Roar_MM.tools.0.label>
   <XGun_Roar_MM.tools.1.label>bayonet</XGun_Roar_MM.tools.1.label>
 
-  <Bullet_Roar_SM.label>70mm Scatter Bullet</Bullet_Roar_SM.label>
-  <XGun_Roar_SM.label>Roar (Shooting MOD)</XGun_Roar_SM.label>
-  <XGun_Roar_SM.description>A large heat damage shotgun. The Flame Legion's Roar shotgun is a very cruel weapon. The bullets it uses are much larger than conventional shotguns, and in order to increase the lethality, the steel balls are replaced with fragments. A military doctor once said that if a light machine gun can make people into a honeycomb, this weapon is to make people into a meat sauce. There are so many wounds that even the automatic medical bed of midworld can't handle it. The injured person said, "I think I can be rescue..e..d..." He was dead before he finished talking.</XGun_Roar_SM.description>
-  <XGun_Roar_SM.tools.0.label>stock</XGun_Roar_SM.tools.0.label>
-  <XGun_Roar_SM.tools.1.label>barrel</XGun_Roar_SM.tools.1.label>
+  <Bullet_Roar_SM.label>70mm Scatter Пуля</Bullet_Roar_SM.label>
+  <XGun_Roar_SM.label>Roar (Стрельба Мод)</XGun_Roar_SM.label>
+  <XGun_Roar_SM.description> большой жара урон дробовик. Пламя Legion's Roar дробовик очень cruel оружие. пули это uses much larger чем conventional shotguns, и в order к увеличить lethality, steel balls replaced с fragments. военный doctor однажды said то если лёгкий machine пушка может делать люди в honeycomb, это оружие к делать люди в meat sauce. There так что многие wounds то даже automatic медицина bed из midworld can't handle это. injured человек said, "Я think Я может быть rescue..e..d..." Он был dead до он finished talking.</XGun_Roar_SM.description>
+  <XGun_Roar_SM.tools.0.label>приклад</XGun_Roar_SM.tools.0.label>
+  <XGun_Roar_SM.tools.1.label>ствол</XGun_Roar_SM.tools.1.label>
 
-  <XGun_RoarM.label>Roar MIL</XGun_RoarM.label>
-  <XGun_RoarM.description>A large heat damage shotgun. The Flame Legion's Roar shotgun is a very cruel weapon. The bullets it uses are much larger than conventional shotguns, and in order to increase the lethality, the steel balls are replaced with fragments. A military doctor once said that if a light machine gun can make people into a honeycomb, this weapon is to make people into a meat sauce. There are so many wounds that even the automatic medical bed of midworld can't handle it. The injured person said, "I think I can be rescue..e..d..." He was dead before he finished talking.</XGun_RoarM.description>
-  <XGun_RoarM.tools.0.label>stock</XGun_RoarM.tools.0.label>
-  <XGun_RoarM.tools.1.label>barrel</XGun_RoarM.tools.1.label>
-<!-- Python -->
-  <Bullet_Python.label>12.7 Steel Core Bullet</Bullet_Python.label>
+  <XGun_RoarM.label>Roar Военный</XGun_RoarM.label>
+  <XGun_RoarM.description> большой жара урон дробовик. Пламя Legion's Roar дробовик очень cruel оружие. пули это uses much larger чем conventional shotguns, и в order к увеличить lethality, steel balls replaced с fragments. военный doctor однажды said то если лёгкий machine пушка может делать люди в honeycomb, это оружие к делать люди в meat sauce. There так что многие wounds то даже automatic медицина bed из midworld can't handle это. injured человек said, "Я think Я может быть rescue..e..d..." Он был dead до он finished talking.</XGun_RoarM.description>
+  <XGun_RoarM.tools.0.label>приклад</XGun_RoarM.tools.0.label>
+  <XGun_RoarM.tools.1.label>ствол</XGun_RoarM.tools.1.label>
+
+  <Bullet_Python.label>12.7 Steel Core Пуля</Bullet_Python.label>
   <XGun_Python.label>Python</XGun_Python.label>
-  <XGun_Python.description>A machine gun. The python machine gun is a Jaegar's class machine gun. The bullet has a good braking force and its range is also an advantage. The Jaegar uses it to create long-range fire suppression. However, the back seat of this weapon is huge, and the gun body will rise seriously. Once, a new soldier stunned down the officer standing behind because of the recoil of the gun during training.</XGun_Python.description>
-  <XGun_Python.tools.0.label>stock</XGun_Python.tools.0.label>
-  <XGun_Python.tools.1.label>barrel</XGun_Python.tools.1.label>
+  <XGun_Python.description> machine пушка. python machine пушка Jaegar's class machine пушка. пуля хороший braking сила и его дальность также advantage. Jaegar uses это к create long-range огонь suppression. Однако, назад seat из это оружие huge, и пушка тело будет rise seriously. Однажды, новый солдат stunned вниз officer standing behind потому что из recoil из пушка во время training.</XGun_Python.description>
+  <XGun_Python.tools.0.label>приклад</XGun_Python.tools.0.label>
+  <XGun_Python.tools.1.label>ствол</XGun_Python.tools.1.label>
 
-  <Bullet_Python_MM.label>12.7 Steel Core Bullet</Bullet_Python_MM.label>
-  <XGun_Python_MM.label>Python (Melee MOD)</XGun_Python_MM.label>
-  <XGun_Python_MM.description>A machine gun. The python machine gun is a Jaegar's class machine gun. The bullet has a good braking force and its range is also an advantage. The Jaegar uses it to create long-range fire suppression. However, the back seat of this weapon is huge, and the gun body will rise seriously. Once, a new soldier stunned down the officer standing behind because of the recoil of the gun during training.</XGun_Python_MM.description>
-  <XGun_Python_MM.tools.0.label>stock</XGun_Python_MM.tools.0.label>
+  <Bullet_Python_MM.label>12.7 Steel Core Пуля</Bullet_Python_MM.label>
+  <XGun_Python_MM.label>Python (Ближний Мод)</XGun_Python_MM.label>
+  <XGun_Python_MM.description> machine пушка. python machine пушка Jaegar's class machine пушка. пуля хороший braking сила и его дальность также advantage. Jaegar uses это к create long-range огонь suppression. Однако, назад seat из это оружие huge, и пушка тело будет rise seriously. Однажды, новый солдат stunned вниз officer standing behind потому что из recoil из пушка во время training.</XGun_Python_MM.description>
+  <XGun_Python_MM.tools.0.label>приклад</XGun_Python_MM.tools.0.label>
   <XGun_Python_MM.tools.1.label>bayonet</XGun_Python_MM.tools.1.label>
 
-  <Bullet_Python_SM.label>12.7 Steel Core Bullet</Bullet_Python_SM.label>
-  <XGun_Python_SM.label>Python (Shooting MOD)</XGun_Python_SM.label>
-  <XGun_Python_SM.description>A machine gun. The python machine gun is a Jaegar's class machine gun. The bullet has a good braking force and its range is also an advantage. The Jaegar uses it to create long-range fire suppression. However, the back seat of this weapon is huge, and the gun body will rise seriously. Once, a new soldier stunned down the officer standing behind because of the recoil of the gun during training.</XGun_Python_SM.description>
-  <XGun_Python_SM.tools.0.label>stock</XGun_Python_SM.tools.0.label>
-  <XGun_Python_SM.tools.1.label>barrel</XGun_Python_SM.tools.1.label>
+  <Bullet_Python_SM.label>12.7 Steel Core Пуля</Bullet_Python_SM.label>
+  <XGun_Python_SM.label>Python (Стрельба Мод)</XGun_Python_SM.label>
+  <XGun_Python_SM.description> machine пушка. python machine пушка Jaegar's class machine пушка. пуля хороший braking сила и его дальность также advantage. Jaegar uses это к create long-range огонь suppression. Однако, назад seat из это оружие huge, и пушка тело будет rise seriously. Однажды, новый солдат stunned вниз officer standing behind потому что из recoil из пушка во время training.</XGun_Python_SM.description>
+  <XGun_Python_SM.tools.0.label>приклад</XGun_Python_SM.tools.0.label>
+  <XGun_Python_SM.tools.1.label>ствол</XGun_Python_SM.tools.1.label>
 
-  <XGun_PythonM.label>Python MIL</XGun_PythonM.label>
-  <XGun_PythonM.description>A machine gun. The python machine gun is a Jaegar's class machine gun. The bullet has a good braking force and its range is also an advantage. The Jaegar uses it to create long-range fire suppression. However, the back seat of this weapon is huge, and the gun body will rise seriously. Once, a new soldier stunned down the officer standing behind because of the recoil of the gun during training.</XGun_PythonM.description>
-  <XGun_PythonM.tools.0.label>stock</XGun_PythonM.tools.0.label>
-  <XGun_PythonM.tools.1.label>barrel</XGun_PythonM.tools.1.label>
-<!-- BlueBee -->
-  <Bullet_BlueBee.label>5mm Carbon Crystal Bullet</Bullet_BlueBee.label>
+  <XGun_PythonM.label>Python Военный</XGun_PythonM.label>
+  <XGun_PythonM.description> machine пушка. python machine пушка Jaegar's class machine пушка. пуля хороший braking сила и его дальность также advantage. Jaegar uses это к create long-range огонь suppression. Однако, назад seat из это оружие huge, и пушка тело будет rise seriously. Однажды, новый солдат stunned вниз officer standing behind потому что из recoil из пушка во время training.</XGun_PythonM.description>
+  <XGun_PythonM.tools.0.label>приклад</XGun_PythonM.tools.0.label>
+  <XGun_PythonM.tools.1.label>ствол</XGun_PythonM.tools.1.label>
+
+  <Bullet_BlueBee.label>5mm Carbon Crystal Пуля</Bullet_BlueBee.label>
   <XGun_BlueBee.label>Blue Bee</XGun_BlueBee.label>
-  <XGun_BlueBee.description>A pulse rifle. It uses carbon crystal bullets and has excellent armor-piercing effects. It is one of the products that the Star Explorer is proud of. The name Blue Bee because it will make a buzzing sound after starting. People like to call it a BB gun. The note on the butt is printed "Don’t bring this gun to animals." This is because an explorer once used this gun to tame the unicorn and was trampled into meat sauce.</XGun_BlueBee.description>
-  <XGun_BlueBee.tools.0.label>stock</XGun_BlueBee.tools.0.label>
-  <XGun_BlueBee.tools.1.label>barrel</XGun_BlueBee.tools.1.label>
+  <XGun_BlueBee.description> pulse винтовка. Это uses carbon crystal пули и excellent armor-piercing эффекты. Это один из products то Star Исследователь proud из. имя Blue Bee потому что это будет делать buzzing sound после starting. Люди like к call это BB пушка. note на butt printed "Don’t bring это пушка к животные." Это потому что исследователь однажды используется это пушка к tame unicorn и был trampled в meat sauce.</XGun_BlueBee.description>
+  <XGun_BlueBee.tools.0.label>приклад</XGun_BlueBee.tools.0.label>
+  <XGun_BlueBee.tools.1.label>ствол</XGun_BlueBee.tools.1.label>
 
-  <Bullet_BlueBee_MM.label>5mm Carbon Crystal Bullet</Bullet_BlueBee_MM.label>
-  <XGun_BlueBee_MM.label>Blue Bee (Melee MOD)</XGun_BlueBee_MM.label>
-  <XGun_BlueBee_MM.description>A pulse rifle. It uses carbon crystal bullets and has excellent armor-piercing effects. It is one of the products that the Star Explorer is proud of. The name Blue Bee because it will make a buzzing sound after starting. People like to call it a BB gun. The note on the butt is printed "Don’t bring this gun to animals." This is because an explorer once used this gun to tame the unicorn and was trampled into meat sauce.</XGun_BlueBee_MM.description>
-  <XGun_BlueBee_MM.tools.0.label>stock</XGun_BlueBee_MM.tools.0.label>
-  <XGun_BlueBee_MM.tools.1.label>blade</XGun_BlueBee_MM.tools.1.label>
+  <Bullet_BlueBee_MM.label>5mm Carbon Crystal Пуля</Bullet_BlueBee_MM.label>
+  <XGun_BlueBee_MM.label>Blue Bee (Ближний Мод)</XGun_BlueBee_MM.label>
+  <XGun_BlueBee_MM.description> pulse винтовка. Это uses carbon crystal пули и excellent armor-piercing эффекты. Это один из products то Star Исследователь proud из. имя Blue Bee потому что это будет делать buzzing sound после starting. Люди like к call это BB пушка. note на butt printed "Don’t bring это пушка к животные." Это потому что исследователь однажды используется это пушка к tame unicorn и был trampled в meat sauce.</XGun_BlueBee_MM.description>
+  <XGun_BlueBee_MM.tools.0.label>приклад</XGun_BlueBee_MM.tools.0.label>
+  <XGun_BlueBee_MM.tools.1.label>клинок</XGun_BlueBee_MM.tools.1.label>
 
-  <Bullet_BlueBee_SM.label>5mm Carbon Crystal Bullet</Bullet_BlueBee_SM.label>
-  <XGun_BlueBee_SM.label>Blue Bee (Shooting MOD)</XGun_BlueBee_SM.label>
-  <XGun_BlueBee_SM.description>A pulse rifle. It uses carbon crystal bullets and has excellent armor-piercing effects. It is one of the products that the Star Explorer is proud of. The name Blue Bee because it will make a buzzing sound after starting. People like to call it a BB gun. The note on the butt is printed "Don’t bring this gun to animals." This is because an explorer once used this gun to tame the unicorn and was trampled into meat sauce.</XGun_BlueBee_SM.description>
-  <XGun_BlueBee_SM.tools.0.label>stock</XGun_BlueBee_SM.tools.0.label>
-  <XGun_BlueBee_SM.tools.1.label>barrel</XGun_BlueBee_SM.tools.1.label>
+  <Bullet_BlueBee_SM.label>5mm Carbon Crystal Пуля</Bullet_BlueBee_SM.label>
+  <XGun_BlueBee_SM.label>Blue Bee (Стрельба Мод)</XGun_BlueBee_SM.label>
+  <XGun_BlueBee_SM.description> pulse винтовка. Это uses carbon crystal пули и excellent armor-piercing эффекты. Это один из products то Star Исследователь proud из. имя Blue Bee потому что это будет делать buzzing sound после starting. Люди like к call это BB пушка. note на butt printed "Don’t bring это пушка к животные." Это потому что исследователь однажды используется это пушка к tame unicorn и был trampled в meat sauce.</XGun_BlueBee_SM.description>
+  <XGun_BlueBee_SM.tools.0.label>приклад</XGun_BlueBee_SM.tools.0.label>
+  <XGun_BlueBee_SM.tools.1.label>ствол</XGun_BlueBee_SM.tools.1.label>
 
-  <XGun_BlueBeeM.label>Blue Bee MIL</XGun_BlueBeeM.label>
-  <XGun_BlueBeeM.description>A pulse rifle. It uses carbon crystal bullets and has excellent armor-piercing effects. It is one of the products that the Star Explorer is proud of. The name Blue Bee because it will make a buzzing sound after starting. People like to call it a BB gun. The note on the butt is printed "Don’t bring this gun to animals." This is because an explorer once used this gun to tame the unicorn and was trampled into meat sauce.</XGun_BlueBeeM.description>
-  <XGun_BlueBeeM.tools.0.label>stock</XGun_BlueBeeM.tools.0.label>
-  <XGun_BlueBeeM.tools.1.label>barrel</XGun_BlueBeeM.tools.1.label>
-<!-- Assassin -->
-  <Bullet_Assassin.label>8mm Tracer Bullet</Bullet_Assassin.label>
-  <XGun_Assassin.label>Assassin</XGun_Assassin.label>
-  <XGun_Assassin.description>A single-shot rifle. Good range, stability, and noise reduction effect. It is the favorite firearm of the XEO assassin. This gun could have auto-fire mode, and it became a single shot because of an accident. The assassins will remove the silencer before the assassination, and fire gunshot to air at a high place. The number of gunshots represents how many people will die. This is done to give the target a fair chance to survive, and the assassin can also demonstrate his ability to gain fame. This ritual is called the "Knell of Death". It is said that a female assassin once fired a gun in the clock tower without turning off the automatic mode. She shot five times in a row and one of the shots hit the big bell. There is actually only one assassination target. She hesitated whether to kill someone to fill the numbers. At this time, the assassination target that was alarmed by the bell found her and shot at her. Her knee was hit and became a "Fallen Girl". She rolled off the clock tower. Although she made a standard "Leap of Faith" at the last minute, not every bell tower has haystacks... Because her death was so funny, this thing was spread madly everywhere, which damaged the reputation of XEO. After this incident, the auto key of the gun was disappeared.</XGun_Assassin.description>
-  <XGun_Assassin.tools.0.label>stock</XGun_Assassin.tools.0.label>
-  <XGun_Assassin.tools.1.label>barrel</XGun_Assassin.tools.1.label>
+  <XGun_BlueBeeM.label>Blue Bee Военный</XGun_BlueBeeM.label>
+  <XGun_BlueBeeM.description> pulse винтовка. Это uses carbon crystal пули и excellent armor-piercing эффекты. Это один из products то Star Исследователь proud из. имя Blue Bee потому что это будет делать buzzing sound после starting. Люди like к call это BB пушка. note на butt printed "Don’t bring это пушка к животные." Это потому что исследователь однажды используется это пушка к tame unicorn и был trampled в meat sauce.</XGun_BlueBeeM.description>
+  <XGun_BlueBeeM.tools.0.label>приклад</XGun_BlueBeeM.tools.0.label>
+  <XGun_BlueBeeM.tools.1.label>ствол</XGun_BlueBeeM.tools.1.label>
 
-  <XGun_Assassin_MM.label>Assassin (Melee MOD)</XGun_Assassin_MM.label>
-  <XGun_Assassin_MM.description>A single-shot rifle. Good range, stability, and noise reduction effect. It is the favorite firearm of the XEO assassin. This gun could have auto-fire mode, and it became a single shot because of an accident. The assassins will remove the silencer before the assassination, and fire gunshot to air at a high place. The number of gunshots represents how many people will die. This is done to give the target a fair chance to survive, and the assassin can also demonstrate his ability to gain fame. This ritual is called the "Knell of Death". It is said that a female assassin once fired a gun in the clock tower without turning off the automatic mode. She shot five times in a row and one of the shots hit the big bell. There is actually only one assassination target. She hesitated whether to kill someone to fill the numbers. At this time, the assassination target that was alarmed by the bell found her and shot at her. Her knee was hit and became a "Fallen Girl". She rolled off the clock tower. Although she made a standard "Leap of Faith" at the last minute, not every bell tower has haystacks... Because her death was so funny, this thing was spread madly everywhere, which damaged the reputation of XEO. After this incident, the auto key of the gun was disappeared.</XGun_Assassin_MM.description>
-  <XGun_Assassin_MM.tools.0.label>stock</XGun_Assassin_MM.tools.0.label>
+  <Bullet_Assassin.label>8mm Tracer Пуля</Bullet_Assassin.label>
+  <XGun_Assassin.label>Ассасин</XGun_Assassin.label>
+  <XGun_Assassin.description> single-shot винтовка. Хороший дальность, stability, и noise reduction effect. Это favorite firearm из XEO ассасин. Это пушка мог иметь auto-fire mode, и это стал single выстрел потому что из accident. ассасины будет remove silencer до assassination, и огонь gunshot к air в высокий place. number из gunshots represents how многие люди будет die. Это сделано к give цель fair шанс к survive, и ассасин может также demonstrate его способность к gain fame. Это ritual назвал "Knell из Смерть". Это said то женщина ассасин однажды fired пушка в clock tower без turning выкл automatic mode. Она выстрел five times в row и один из shots удар big bell. There actually только один assassination цель. Она hesitated whether к убить someone к fill numbers. В это время, assassination цель то был alarmed bell нашёл её и выстрел в её. Её knee был удар и стал "Fallen Девушка". Она rolled выкл clock tower. Although она сделал standard "Leap из Faith" в last минута, не every bell tower haystacks... Потому что её смерть был так что funny, это thing был spread madly everywhere, which damaged reputation из XEO. После это инцидент, auto key из пушка был disappeared.</XGun_Assassin.description>
+  <XGun_Assassin.tools.0.label>приклад</XGun_Assassin.tools.0.label>
+  <XGun_Assassin.tools.1.label>ствол</XGun_Assassin.tools.1.label>
+
+  <XGun_Assassin_MM.label>Ассасин (Ближний Мод)</XGun_Assassin_MM.label>
+  <XGun_Assassin_MM.description> single-shot винтовка. Хороший дальность, stability, и noise reduction effect. Это favorite firearm из XEO ассасин. Это пушка мог иметь auto-fire mode, и это стал single выстрел потому что из accident. ассасины будет remove silencer до assassination, и огонь gunshot к air в высокий place. number из gunshots represents how многие люди будет die. Это сделано к give цель fair шанс к survive, и ассасин может также demonstrate его способность к gain fame. Это ritual назвал "Knell из Смерть". Это said то женщина ассасин однажды fired пушка в clock tower без turning выкл automatic mode. Она выстрел five times в row и один из shots удар big bell. There actually только один assassination цель. Она hesitated whether к убить someone к fill numbers. В это время, assassination цель то был alarmed bell нашёл её и выстрел в её. Её knee был удар и стал "Fallen Девушка". Она rolled выкл clock tower. Although она сделал standard "Leap из Faith" в last минута, не every bell tower haystacks... Потому что её смерть был так что funny, это thing был spread madly everywhere, which damaged reputation из XEO. После это инцидент, auto key из пушка был disappeared.</XGun_Assassin_MM.description>
+  <XGun_Assassin_MM.tools.0.label>приклад</XGun_Assassin_MM.tools.0.label>
   <XGun_Assassin_MM.tools.1.label>bayonet</XGun_Assassin_MM.tools.1.label>
 
-  <Bullet_AssassinSM.label>8mm Tracer Bullet</Bullet_AssassinSM.label>
-  <XGun_Assassin_SM.label>Assassin (Shooting MOD)</XGun_Assassin_SM.label>
-  <XGun_Assassin_SM.description>I just like to put the automatic key back.</XGun_Assassin_SM.description>
-  <XGun_Assassin_SM.tools.0.label>stock</XGun_Assassin_SM.tools.0.label>
-  <XGun_Assassin_SM.tools.1.label>barrel</XGun_Assassin_SM.tools.1.label>
+  <Bullet_AssassinSM.label>8mm Tracer Пуля</Bullet_AssassinSM.label>
+  <XGun_Assassin_SM.label>Ассасин (Стрельба Мод)</XGun_Assassin_SM.label>
+  <XGun_Assassin_SM.description>Я просто like к put automatic key назад.</XGun_Assassin_SM.description>
+  <XGun_Assassin_SM.tools.0.label>приклад</XGun_Assassin_SM.tools.0.label>
+  <XGun_Assassin_SM.tools.1.label>ствол</XGun_Assassin_SM.tools.1.label>
 
-  <XGun_AssassinM.label>Assassin MIL</XGun_AssassinM.label>
-  <XGun_AssassinM.description>A single-shot rifle. Good range, stability, and noise reduction effect. It is the favorite firearm of the XEO assassin. This gun could have auto-fire mode, and it became a single shot because of an accident. The assassins will remove the silencer before the assassination, and fire gunshot to air at a high place. The number of gunshots represents how many people will die. This is done to give the target a fair chance to survive, and the assassin can also demonstrate his ability to gain fame. This ritual is called the "Knell of Death". It is said that a female assassin once fired a gun in the clock tower without turning off the automatic mode. She shot five times in a row and one of the shots hit the big bell. There is actually only one assassination target. She hesitated whether to kill someone to fill the numbers. At this time, the assassination target that was alarmed by the bell found her and shot at her. Her knee was hit and became a "Fallen Girl". She rolled off the clock tower. Although she made a standard "Leap of Faith" at the last minute, not every bell tower has haystacks... Because her death was so funny, this thing was spread madly everywhere, which damaged the reputation of XEO. After this incident, the auto key of the gun was disappeared.</XGun_AssassinM.description>
-  <XGun_AssassinM.tools.0.label>stock</XGun_AssassinM.tools.0.label>
-  <XGun_AssassinM.tools.1.label>barrel</XGun_AssassinM.tools.1.label>
-<!-- Eclipse -->
-  <Bullet_Eclipse.label>7.62 Tracer Bullet</Bullet_Eclipse.label>
+  <XGun_AssassinM.label>Ассасин Военный</XGun_AssassinM.label>
+  <XGun_AssassinM.description> single-shot винтовка. Хороший дальность, stability, и noise reduction effect. Это favorite firearm из XEO ассасин. Это пушка мог иметь auto-fire mode, и это стал single выстрел потому что из accident. ассасины будет remove silencer до assassination, и огонь gunshot к air в высокий place. number из gunshots represents how многие люди будет die. Это сделано к give цель fair шанс к survive, и ассасин может также demonstrate его способность к gain fame. Это ritual назвал "Knell из Смерть". Это said то женщина ассасин однажды fired пушка в clock tower без turning выкл automatic mode. Она выстрел five times в row и один из shots удар big bell. There actually только один assassination цель. Она hesitated whether к убить someone к fill numbers. В это время, assassination цель то был alarmed bell нашёл её и выстрел в её. Её knee был удар и стал "Fallen Девушка". Она rolled выкл clock tower. Although она сделал standard "Leap из Faith" в last минута, не every bell tower haystacks... Потому что её смерть был так что funny, это thing был spread madly everywhere, which damaged reputation из XEO. После это инцидент, auto key из пушка был disappeared.</XGun_AssassinM.description>
+  <XGun_AssassinM.tools.0.label>приклад</XGun_AssassinM.tools.0.label>
+  <XGun_AssassinM.tools.1.label>ствол</XGun_AssassinM.tools.1.label>
+
+  <Bullet_Eclipse.label>7.62 Tracer Пуля</Bullet_Eclipse.label>
   <XGun_Eclipse.label>Eclipse</XGun_Eclipse.label>
-  <XGun_Eclipse.description>A Minigun, overwhelming bullets can cover the sun, so it is called eclipse. There was a group of aboriginal people who are trait with trigger-happy and used this weapon to repel the Jaeger, but after the battle, all the people's arms broken.</XGun_Eclipse.description>
-  <XGun_Eclipse.tools.0.label>barrel</XGun_Eclipse.tools.0.label>
+  <XGun_Eclipse.description> Minigun, overwhelming пули может cover sun, так что это назвал eclipse. There был group из aboriginal люди who черта с trigger-happy и используется это оружие к repel Jaeger, но после battle, все people's arms broken.</XGun_Eclipse.description>
+  <XGun_Eclipse.tools.0.label>ствол</XGun_Eclipse.tools.0.label>
 
-  <Bullet_Eclipse_MM.label>7.62 Tracer Bullet</Bullet_Eclipse_MM.label>
-  <XGun_Eclipse_MM.label>Eclipse (Melee MOD)</XGun_Eclipse_MM.label>
-  <XGun_Eclipse_MM.description>A Minigun, overwhelming bullets can cover the sun, so it is called eclipse. There was a group of aboriginal people who are trait with trigger-happy and used this weapon to repel the Jaeger, but after the battle, all the people's arms broken.</XGun_Eclipse_MM.description>
+  <Bullet_Eclipse_MM.label>7.62 Tracer Пуля</Bullet_Eclipse_MM.label>
+  <XGun_Eclipse_MM.label>Eclipse (Ближний Мод)</XGun_Eclipse_MM.label>
+  <XGun_Eclipse_MM.description> Minigun, overwhelming пули может cover sun, так что это назвал eclipse. There был group из aboriginal люди who черта с trigger-happy и используется это оружие к repel Jaeger, но после battle, все people's arms broken.</XGun_Eclipse_MM.description>
   <XGun_Eclipse_MM.tools.0.label>axe</XGun_Eclipse_MM.tools.0.label>
 
 
-  <Bullet_Eclipse_SM.label>7.62 Tracer Bullet</Bullet_Eclipse_SM.label>
-  <XGun_Eclipse_SM.label>Eclipse (Shooting MOD)</XGun_Eclipse_SM.label>
-  <XGun_Eclipse_SM.description>A Minigun, overwhelming bullets can cover the sun, so it is called eclipse. There was a group of aboriginal people who are trait with trigger-happy and used this weapon to repel the Jaeger, but after the battle, all the people's arms broken.</XGun_Eclipse_SM.description>
-  <XGun_Eclipse_SM.tools.0.label>barrel</XGun_Eclipse_SM.tools.0.label>
-<!-- Disturber -->
+  <Bullet_Eclipse_SM.label>7.62 Tracer Пуля</Bullet_Eclipse_SM.label>
+  <XGun_Eclipse_SM.label>Eclipse (Стрельба Мод)</XGun_Eclipse_SM.label>
+  <XGun_Eclipse_SM.description> Minigun, overwhelming пули может cover sun, так что это назвал eclipse. There был group из aboriginal люди who черта с trigger-happy и используется это оружие к repel Jaeger, но после battle, все people's arms broken.</XGun_Eclipse_SM.description>
+  <XGun_Eclipse_SM.tools.0.label>ствол</XGun_Eclipse_SM.tools.0.label>
+
   <Bullet_Disturber.label>40mm Extended Grenade</Bullet_Disturber.label>
   <XGun_Disturber.label>Disturber</XGun_Disturber.label>
-  <XGun_Disturber.description>A grenade gun. Disturber can send small grenade into the high wall, even the roof can penetrate. Do you want to watch the enemy dance? Use this to get it right. Because of its long range, large grenades cannot be used, so the destructive power is limited, but this is not important, because this weapon is originally used to make trouble, Ho Yeah!</XGun_Disturber.description>
-  <XGun_Disturber.tools.0.label>barrel</XGun_Disturber.tools.0.label>
+  <XGun_Disturber.description> grenade пушка. Disturber может send малый grenade в высокий wall, даже roof может penetrate. Делать вы хотеть к watch враг dance? Использовать это к get это право. Потому что из его долгий дальность, большой grenades не может быть используется, так что destructive силовая limited, но это не important, потому что это оружие originally используется к делать trouble, Ho Yeah!</XGun_Disturber.description>
+  <XGun_Disturber.tools.0.label>ствол</XGun_Disturber.tools.0.label>
 
   <Bullet_Disturber_EMP.label>60mm EMP Grenade</Bullet_Disturber_EMP.label>
   <XGun_Disturber_EMP.label>Disturber (EMP)</XGun_Disturber_EMP.label>
-  <XGun_Disturber_EMP.description>A grenade gun. Disturber can send small grenade into the high wall, even the roof can penetrate. Do you want to watch the enemy dance? Use this to get it right. Because of its long range, large grenades cannot be used, so the destructive power is limited, but this is not important, because this weapon is originally used to make trouble, Ho Yeah!</XGun_Disturber_EMP.description>
-  <XGun_Disturber_EMP.tools.0.label>barrel</XGun_Disturber_EMP.tools.0.label>
+  <XGun_Disturber_EMP.description> grenade пушка. Disturber может send малый grenade в высокий wall, даже roof может penetrate. Делать вы хотеть к watch враг dance? Использовать это к get это право. Потому что из его долгий дальность, большой grenades не может быть используется, так что destructive силовая limited, но это не important, потому что это оружие originally используется к делать trouble, Ho Yeah!</XGun_Disturber_EMP.description>
+  <XGun_Disturber_EMP.tools.0.label>ствол</XGun_Disturber_EMP.tools.0.label>
 
   <Bullet_Disturber_FZE.label>40mm Frozen Grenade</Bullet_Disturber_FZE.label>
   <XGun_Disturber_FZE.label>Disturber (FZE)</XGun_Disturber_FZE.label>
-  <XGun_Disturber_FZE.description>A grenade gun. Disturber can send small grenade into the high wall, even the roof can penetrate. Do you want to watch the enemy dance? Use this to get it right. Because of its long range, large grenades cannot be used, so the destructive power is limited, but this is not important, because this weapon is originally used to make trouble, Ho Yeah!</XGun_Disturber_FZE.description>
-  <XGun_Disturber_FZE.tools.0.label>barrel</XGun_Disturber_FZE.tools.0.label>
+  <XGun_Disturber_FZE.description> grenade пушка. Disturber может send малый grenade в высокий wall, даже roof может penetrate. Делать вы хотеть к watch враг dance? Использовать это к get это право. Потому что из его долгий дальность, большой grenades не может быть используется, так что destructive силовая limited, но это не important, потому что это оружие originally используется к делать trouble, Ho Yeah!</XGun_Disturber_FZE.description>
+  <XGun_Disturber_FZE.tools.0.label>ствол</XGun_Disturber_FZE.tools.0.label>
 
-  <XGun_DisturberM.label>Disturber MIL</XGun_DisturberM.label>
-  <XGun_DisturberM.description>A grenade gun. Disturber can send small grenade into the high wall, even the roof can penetrate. Do you want to watch the enemy dance? Use this to get it right. Because of its long range, large grenades cannot be used, so the destructive power is limited, but this is not important, because this weapon is originally used to make trouble, Ho Yeah!</XGun_DisturberM.description>
-  <XGun_DisturberM.tools.0.label>barrel</XGun_DisturberM.tools.0.label>
-<!-- IronBall -->
+  <XGun_DisturberM.label>Disturber Военный</XGun_DisturberM.label>
+  <XGun_DisturberM.description> grenade пушка. Disturber может send малый grenade в высокий wall, даже roof может penetrate. Делать вы хотеть к watch враг dance? Использовать это к get это право. Потому что из его долгий дальность, большой grenades не может быть используется, так что destructive силовая limited, но это не important, потому что это оружие originally используется к делать trouble, Ho Yeah!</XGun_DisturberM.description>
+  <XGun_DisturberM.tools.0.label>ствол</XGun_DisturberM.tools.0.label>
+
   <Bullet_IronBall.label>100mm Iron Ball</Bullet_IronBall.label>
   <XGun_IronBall.label>Iron Ball</XGun_IronBall.label>
-  <XGun_IronBall.description>A blunt damage rifle. The kinetic energy weapon that fired the big iron ball. It is said that the designer designed this weapon because "B-Daman" played too much. However, this is not a toy. Many people have despised this seemingly non-lethal iron ball. Finally, their "Ball" broke into pieces.</XGun_IronBall.description>
-  <XGun_IronBall.tools.0.label>stock</XGun_IronBall.tools.0.label>
-  <XGun_IronBall.tools.1.label>barrel</XGun_IronBall.tools.1.label>
+  <XGun_IronBall.description> дробящий урон винтовка. kinetic energy оружие то fired big iron ball. Это said то designer designed это оружие потому что "B-Daman" played тоже much. Однако, это не toy. Многие люди иметь despised это seemingly non-lethal iron ball. Наконец, их "Ball" broke в pieces.</XGun_IronBall.description>
+  <XGun_IronBall.tools.0.label>приклад</XGun_IronBall.tools.0.label>
+  <XGun_IronBall.tools.1.label>ствол</XGun_IronBall.tools.1.label>
 
-  <XGun_IronBallM.label>Iron Ball MIL</XGun_IronBallM.label>
-  <XGun_IronBallM.description>A blunt damage rifle. The kinetic energy weapon that fired the big iron ball. It is said that the designer designed this weapon because "B-Daman" played too much. However, this is not a toy. Many people have despised this seemingly non-lethal iron ball. Finally, their "Ball" broke into pieces.</XGun_IronBallM.description>
-  <XGun_IronBallM.tools.0.label>stock</XGun_IronBallM.tools.0.label>
-  <XGun_IronBallM.tools.1.label>barrel</XGun_IronBallM.tools.1.label>
-<!-- Heat -->
-  <Bullet_Heat.label>Plasma</Bullet_Heat.label>
-  <XGun_Heat.label>Heat</XGun_Heat.label>
-  <XGun_Heat.description>A heat damage rifle, a weapon of the pirate king period. Developed after the fuse pistol. Which fired plasma to cause heat damage, the purpose is to cope with medium and long-distance combat. In order to achieve the effect of fire suppression, a high fire rate design is used. However, the high temperature of the plasma causes the airflow to be unstable, resulting in deviations from long-range hits. The high temperature and continuous fire also cause serious metal fatigue in the barrel after a round of shooting. So only with a large amount of equipment can see the true power of this weapon.</XGun_Heat.description>
+  <XGun_IronBallM.label>Iron Ball Военный</XGun_IronBallM.label>
+  <XGun_IronBallM.description> дробящий урон винтовка. kinetic energy оружие то fired big iron ball. Это said то designer designed это оружие потому что "B-Daman" played тоже much. Однако, это не toy. Многие люди иметь despised это seemingly non-lethal iron ball. Наконец, их "Ball" broke в pieces.</XGun_IronBallM.description>
+  <XGun_IronBallM.tools.0.label>приклад</XGun_IronBallM.tools.0.label>
+  <XGun_IronBallM.tools.1.label>ствол</XGun_IronBallM.tools.1.label>
+
+  <Bullet_Heat.label>Плазма</Bullet_Heat.label>
+  <XGun_Heat.label>Жара</XGun_Heat.label>
+  <XGun_Heat.description> жара урон винтовка, оружие из пират король period. Developed после fuse пистолет. Which fired плазма к cause жара урон, purpose к cope с medium и long-distance combat. В order к achieve effect из огонь suppression, высокий огонь rate design используется. Однако, высокий temperature из плазма causes airflow к быть unstable, resulting в deviations от long-range hits. высокий temperature и continuous огонь также cause serious metal fatigue в ствол после round из стрельба. Так что только с большой amount из снаряжение может see true силовая из это оружие.</XGun_Heat.description>
   <XGun_Heat.tools.0.label>bayonet</XGun_Heat.tools.0.label>
-  <XGun_Heat.tools.1.label>barrel</XGun_Heat.tools.1.label>
+  <XGun_Heat.tools.1.label>ствол</XGun_Heat.tools.1.label>
 
-  <XGun_HeatM.label>Heat MIL</XGun_HeatM.label>
-  <XGun_HeatM.description>A heat damage rifle, a weapon of the pirate king period. Developed after the fuse pistol. Which fired plasma to cause heat damage, the purpose is to cope with medium and long-distance combat. In order to achieve the effect of fire suppression, a high fire rate design is used. However, the high temperature of the plasma causes the airflow to be unstable, resulting in deviations from long-range hits. The high temperature and continuous fire also cause serious metal fatigue in the barrel after a round of shooting. So only with a large amount of equipment can see the true power of this weapon.</XGun_HeatM.description>
+  <XGun_HeatM.label>Жара Военный</XGun_HeatM.label>
+  <XGun_HeatM.description> жара урон винтовка, оружие из пират король period. Developed после fuse пистолет. Which fired плазма к cause жара урон, purpose к cope с medium и long-distance combat. В order к achieve effect из огонь suppression, высокий огонь rate design используется. Однако, высокий temperature из плазма causes airflow к быть unstable, resulting в deviations от long-range hits. высокий temperature и continuous огонь также cause serious metal fatigue в ствол после round из стрельба. Так что только с большой amount из снаряжение может see true силовая из это оружие.</XGun_HeatM.description>
   <XGun_HeatM.tools.0.label>bayonet</XGun_HeatM.tools.0.label>
-  <XGun_HeatM.tools.1.label>barrel</XGun_HeatM.tools.1.label>
-<!-- CPW -->
-  <Bullet_CPW.label>Electron Beam</Bullet_CPW.label>
-  <XGun_CPW.label>Charged Particle Weapon</XGun_CPW.label>
-  <XGun_CPW.description>A heavy long-range weapon used by Diamond Bone. Please make sure that there are no teammates in front of you before use. Remember not to let anyone who has a record of trigger-happy use it. Once a training officer was bombed by the gun because he forgot to read the student’s "Bio Menu".</XGun_CPW.description>
-  <XGun_CPW.tools.0.label>barrel</XGun_CPW.tools.0.label>
+  <XGun_HeatM.tools.1.label>ствол</XGun_HeatM.tools.1.label>
 
-  <XGun_CPW_MM.label>Charged Particle Weapon (Melee MOD)</XGun_CPW_MM.label>
-  <XGun_CPW_MM.description>A heavy long-range weapon used by Diamond Bone. Please make sure that there are no teammates in front of you before use. Remember not to let anyone who has a record of trigger-happy use it. Once a training officer was bombed by the gun because he forgot to read the student’s "Bio Menu".</XGun_CPW_MM.description>
+  <Bullet_CPW.label>Electron Beam</Bullet_CPW.label>
+  <XGun_CPW.label>Charged Particle Оружие</XGun_CPW.label>
+  <XGun_CPW.description> тяжёлый long-range оружие используется Алмаз Кость. Please делать sure то there нет teammates в front из вы до использовать. Remember не к let anyone who record из trigger-happy использовать это. Однажды training officer был bombed пушка потому что он forgot к read student’s "Bio Menu".</XGun_CPW.description>
+  <XGun_CPW.tools.0.label>ствол</XGun_CPW.tools.0.label>
+
+  <XGun_CPW_MM.label>Charged Particle Оружие (Ближний Мод)</XGun_CPW_MM.label>
+  <XGun_CPW_MM.description> тяжёлый long-range оружие используется Алмаз Кость. Please делать sure то there нет teammates в front из вы до использовать. Remember не к let anyone who record из trigger-happy использовать это. Однажды training officer был bombed пушка потому что он forgot к read student’s "Bio Menu".</XGun_CPW_MM.description>
   <XGun_CPW_MM.tools.0.label>bayonet</XGun_CPW_MM.tools.0.label>
 
-  <XGun_CPW_SM.label>Charged Particle Weapon (Shooting MOD)</XGun_CPW_SM.label>
-  <XGun_CPW_SM.description>A heavy long-range weapon used by Diamond Bone. Please make sure that there are no teammates in front of you before use. Remember not to let anyone who has a record of trigger-happy use it. Once a training officer was bombed by the gun because he forgot to read the student’s "Bio Menu".</XGun_CPW_SM.description>
-  <XGun_CPW_SM.tools.0.label>barrel</XGun_CPW_SM.tools.0.label>
+  <XGun_CPW_SM.label>Charged Particle Оружие (Стрельба Мод)</XGun_CPW_SM.label>
+  <XGun_CPW_SM.description> тяжёлый long-range оружие используется Алмаз Кость. Please делать sure то there нет teammates в front из вы до использовать. Remember не к let anyone who record из trigger-happy использовать это. Однажды training officer был bombed пушка потому что он forgot к read student’s "Bio Menu".</XGun_CPW_SM.description>
+  <XGun_CPW_SM.tools.0.label>ствол</XGun_CPW_SM.tools.0.label>
 
-  <XGun_CPWMWC.label>Charged Particle Weapon MIL WC</XGun_CPWMWC.label>
-  <XGun_CPWMWC.description>A heavy long-range weapon used by Diamond Bone. Please make sure that there are no teammates in front of you before use. Remember not to let anyone who has a record of trigger-happy use it. Once a training officer was bombed by the gun because he forgot to read the student’s "Bio Menu".</XGun_CPWMWC.description>
-  <XGun_CPWMWC.tools.0.label>barrel</XGun_CPWMWC.tools.0.label>
-<!-- WolfHowl -->
+  <XGun_CPWMWC.label>Charged Particle Оружие Военный WC</XGun_CPWMWC.label>
+  <XGun_CPWMWC.description> тяжёлый long-range оружие используется Алмаз Кость. Please делать sure то there нет teammates в front из вы до использовать. Remember не к let anyone who record из trigger-happy использовать это. Однажды training officer был bombed пушка потому что он forgot к read student’s "Bio Menu".</XGun_CPWMWC.description>
+  <XGun_CPWMWC.tools.0.label>ствол</XGun_CPWMWC.tools.0.label>
+
   <Bullet_WolfHowl.label>Positron</Bullet_WolfHowl.label>
   <Bullet_WolfHowlMM.label>Positron</Bullet_WolfHowlMM.label>
   <Bullet_WolfHowlSM.label>Positron</Bullet_WolfHowlSM.label>
   <XGun_WolfHowl.label>Wolf Howl</XGun_WolfHowl.label>
-  <XGun_WolfHowl.description>A positron weapon, the huge echo when firing is similar to howling wolves, so it is called Wolf Howl. Many Jaeger snipers did not use this weapon in accordance with safety regulations and had made a lot of casualties in frontline troops, which made this weapon banned for a period of time. Some snipers accused by the military court refuted "It's not that my shooting skill is a problem, it's you who ran in and killed yourself."</XGun_WolfHowl.description>
-  <XGun_WolfHowl.tools.0.label>stock</XGun_WolfHowl.tools.0.label>
-  <XGun_WolfHowl.tools.1.label>barrel</XGun_WolfHowl.tools.1.label>
+  <XGun_WolfHowl.description> positron оружие, huge echo когда firing similar к howling wolves, так что это назвал Wolf Howl. Многие Jaeger snipers сделал не использовать это оружие в accordance с safety regulations и имел сделал lot из casualties в frontline troops, which сделал это оружие banned для period из время. Некоторые snipers accused военный court refuted "Это не то мой стрельба навык problem, это вы who ran в и killed yourself."</XGun_WolfHowl.description>
+  <XGun_WolfHowl.tools.0.label>приклад</XGun_WolfHowl.tools.0.label>
+  <XGun_WolfHowl.tools.1.label>ствол</XGun_WolfHowl.tools.1.label>
 
-  <XGun_WolfHowl_MM.label>Wolf Howl (Melee MOD)</XGun_WolfHowl_MM.label>
-  <XGun_WolfHowl_MM.description>A positron weapon, the huge echo when firing is similar to howling wolves, so it is called Wolf Howl. Many Jaeger snipers did not use this weapon in accordance with safety regulations and had made a lot of casualties in frontline troops, which made this weapon banned for a period of time. Some snipers accused by the military court refuted "It's not that my shooting skill is a problem, it's you who ran in and killed yourself."</XGun_WolfHowl_MM.description>
-  <XGun_WolfHowl_MM.tools.0.label>stock</XGun_WolfHowl_MM.tools.0.label>
-  <XGun_WolfHowl_MM.tools.1.label>blade</XGun_WolfHowl_MM.tools.1.label>
+  <XGun_WolfHowl_MM.label>Wolf Howl (Ближний Мод)</XGun_WolfHowl_MM.label>
+  <XGun_WolfHowl_MM.description> positron оружие, huge echo когда firing similar к howling wolves, так что это назвал Wolf Howl. Многие Jaeger snipers сделал не использовать это оружие в accordance с safety regulations и имел сделал lot из casualties в frontline troops, which сделал это оружие banned для period из время. Некоторые snipers accused военный court refuted "Это не то мой стрельба навык problem, это вы who ran в и killed yourself."</XGun_WolfHowl_MM.description>
+  <XGun_WolfHowl_MM.tools.0.label>приклад</XGun_WolfHowl_MM.tools.0.label>
+  <XGun_WolfHowl_MM.tools.1.label>клинок</XGun_WolfHowl_MM.tools.1.label>
 
-  <XGun_WolfHowl_SM.label>Wolf Howl (Shooting MOD)</XGun_WolfHowl_SM.label>
-  <XGun_WolfHowl_SM.description>A positron weapon, the huge echo when firing is similar to howling wolves, so it is called Wolf Howl. Many Jaeger snipers did not use this weapon in accordance with safety regulations and had made a lot of casualties in frontline troops, which made this weapon banned for a period of time. Some snipers accused by the military court refuted "It's not that my shooting skill is a problem, it's you who ran in and killed yourself."</XGun_WolfHowl_SM.description>
-  <XGun_WolfHowl_SM.tools.0.label>stock</XGun_WolfHowl_SM.tools.0.label>
-  <XGun_WolfHowl_SM.tools.1.label>barrel</XGun_WolfHowl_SM.tools.1.label>
-<!-- HeadShot -->
-  <Bullet_HeadShot.label>Unknown Bullet</Bullet_HeadShot.label>
-  <XGun_HeadShot.label>Head Shot</XGun_HeadShot.label>
-  <XGun_HeadShot.description>The bullets of this weapon can fly through the wall. A heat damage sniper rifle. This gun has only appeared in Flame Legion’s forces. The body of the gun has no firing structure at all. In simple terms, it is a sculpture shaped like a firearm, so the bullets it fires are very unstable. Head being hit by this unstable bullet will be like an exploding watermelon, so this weapon is called Headshot. Although it is very unscientific, it does have a large number of records of killing targets. No matter the location is a secret room, a basement, a variety of rooms...even prison cells, It also has a record of its kills. And behind this weapon is a story of an Avengers. A fat man once confessed to a "Beautiful" woman many times and was rejected, and a newly joined boy confessed to the woman for the first time and succeeded, which hurt the fat man. Curiosity, he secretly opened the boy's "Bio Menu" to check and found that all the values were lower than him, there was only one "Pretty" trait, and then the fat boy who was desperate left the village. A few years later, when the woman and her husband were intimate in the bedroom, her beautiful face suddenly exploded, scaring her husband's "Dick" to soften and urinate all over the place. And what made people more scared was that the bullet did not hit in a straight line. So there is a legend that was not a bullet shot from the gun, but a kind of anger from FFF. "Did your partner's brain suddenly spray on your face? Don't be surprised, because justice has come!"</XGun_HeadShot.description>
-  <XGun_HeadShot.tools.0.label>stock</XGun_HeadShot.tools.0.label>
-  <XGun_HeadShot.tools.1.label>barrel</XGun_HeadShot.tools.1.label>
+  <XGun_WolfHowl_SM.label>Wolf Howl (Стрельба Мод)</XGun_WolfHowl_SM.label>
+  <XGun_WolfHowl_SM.description> positron оружие, huge echo когда firing similar к howling wolves, так что это назвал Wolf Howl. Многие Jaeger snipers сделал не использовать это оружие в accordance с safety regulations и имел сделал lot из casualties в frontline troops, which сделал это оружие banned для period из время. Некоторые snipers accused военный court refuted "Это не то мой стрельба навык problem, это вы who ran в и killed yourself."</XGun_WolfHowl_SM.description>
+  <XGun_WolfHowl_SM.tools.0.label>приклад</XGun_WolfHowl_SM.tools.0.label>
+  <XGun_WolfHowl_SM.tools.1.label>ствол</XGun_WolfHowl_SM.tools.1.label>
 
-  <XGun_HeadShot_MM.label>Head Shot (Melee MOD)</XGun_HeadShot_MM.label>
-  <XGun_HeadShot_MM.description>The bullets of this weapon can fly through the wall. A heat damage sniper rifle. This gun has only appeared in Flame Legion’s forces. The body of the gun has no firing structure at all. In simple terms, it is a sculpture shaped like a firearm, so the bullets it fires are very unstable. Head being hit by this unstable bullet will be like an exploding watermelon, so this weapon is called Headshot. Although it is very unscientific, it does have a large number of records of killing targets. No matter the location is a secret room, a basement, a variety of rooms...even prison cells, It also has a record of its kills. And behind this weapon is a story of an Avengers. A fat man once confessed to a "Beautiful" woman many times and was rejected, and a newly joined boy confessed to the woman for the first time and succeeded, which hurt the fat man. Curiosity, he secretly opened the boy's "Bio Menu" to check and found that all the values were lower than him, there was only one "Pretty" trait, and then the fat boy who was desperate left the village. A few years later, when the woman and her husband were intimate in the bedroom, her beautiful face suddenly exploded, scaring her husband's "Dick" to soften and urinate all over the place. And what made people more scared was that the bullet did not hit in a straight line. So there is a legend that was not a bullet shot from the gun, but a kind of anger from FFF. "Did your partner's brain suddenly spray on your face? Don't be surprised, because justice has come!"</XGun_HeadShot_MM.description>
-  <XGun_HeadShot_MM.tools.0.label>stock</XGun_HeadShot_MM.tools.0.label>
+  <Bullet_HeadShot.label>Unknown Пуля</Bullet_HeadShot.label>
+  <XGun_HeadShot.label>Голова Выстрел</XGun_HeadShot.label>
+  <XGun_HeadShot.description> пули из это оружие может fly через wall. жара урон снайперский винтовка. Это пушка только appeared в Пламя Легион’s forces. тело из пушка нет firing structure в все. В simple terms, это sculpture shaped like firearm, так что пули это fires очень unstable. Голова будучи удар это unstable пуля будет быть like exploding watermelon, так что это оружие назвал Headshot. Although это очень unscientific, это does иметь большой number из records из killing targets. Нет matter location secret room, basement, variety из rooms...даже prison cells, Это также record из его kills. И behind это оружие story из Avengers. fat мужчина однажды confessed к "Beautiful" woman многие times и был rejected, и newly joined boy confessed к woman для первый время и succeeded, which hurt fat мужчина. Curiosity, он secretly opened boy's "Bio Menu" к check и нашёл то все values были lower чем его, there был только один "Pretty" черта, и затем fat boy who был desperate ушёл village. немногие годы later, когда woman и её husband были intimate в bedroom, её beautiful лицо suddenly exploded, scaring её husband's "Dick" к soften и urinate все над place. И what сделал люди более scared был то пуля сделал не удар в straight line. Так что there legend то был не пуля выстрел от пушка, но kind из anger от FFF. "Сделал ваш partner's мозг suddenly spray на ваш лицо? Не делай быть surprised, потому что justice come!"</XGun_HeadShot.description>
+  <XGun_HeadShot.tools.0.label>приклад</XGun_HeadShot.tools.0.label>
+  <XGun_HeadShot.tools.1.label>ствол</XGun_HeadShot.tools.1.label>
+
+  <XGun_HeadShot_MM.label>Голова Выстрел (Ближний Мод)</XGun_HeadShot_MM.label>
+  <XGun_HeadShot_MM.description> пули из это оружие может fly через wall. жара урон снайперский винтовка. Это пушка только appeared в Пламя Легион’s forces. тело из пушка нет firing structure в все. В simple terms, это sculpture shaped like firearm, так что пули это fires очень unstable. Голова будучи удар это unstable пуля будет быть like exploding watermelon, так что это оружие назвал Headshot. Although это очень unscientific, это does иметь большой number из records из killing targets. Нет matter location secret room, basement, variety из rooms...даже prison cells, Это также record из его kills. И behind это оружие story из Avengers. fat мужчина однажды confessed к "Beautiful" woman многие times и был rejected, и newly joined boy confessed к woman для первый время и succeeded, which hurt fat мужчина. Curiosity, он secretly opened boy's "Bio Menu" к check и нашёл то все values были lower чем его, there был только один "Pretty" черта, и затем fat boy who был desperate ушёл village. немногие годы later, когда woman и её husband были intimate в bedroom, её beautiful лицо suddenly exploded, scaring её husband's "Dick" к soften и urinate все над place. И what сделал люди более scared был то пуля сделал не удар в straight line. Так что there legend то был не пуля выстрел от пушка, но kind из anger от FFF. "Сделал ваш partner's мозг suddenly spray на ваш лицо? Не делай быть surprised, потому что justice come!"</XGun_HeadShot_MM.description>
+  <XGun_HeadShot_MM.tools.0.label>приклад</XGun_HeadShot_MM.tools.0.label>
   <XGun_HeadShot_MM.tools.1.label>axe</XGun_HeadShot_MM.tools.1.label>
 
-  <XGun_HeadShot_SM.label>Head Shot (Shooting MOD)</XGun_HeadShot_SM.label>
-  <XGun_HeadShot_SM.description>The bullets of this weapon can fly through the wall. A heat damage sniper rifle. This gun has only appeared in Flame Legion’s forces. The body of the gun has no firing structure at all. In simple terms, it is a sculpture shaped like a firearm, so the bullets it fires are very unstable. Head being hit by this unstable bullet will be like an exploding watermelon, so this weapon is called Headshot. Although it is very unscientific, it does have a large number of records of killing targets. No matter the location is a secret room, a basement, a variety of rooms...even prison cells, It also has a record of its kills. And behind this weapon is a story of an Avengers. A fat man once confessed to a "Beautiful" woman many times and was rejected, and a newly joined boy confessed to the woman for the first time and succeeded, which hurt the fat man. Curiosity, he secretly opened the boy's "Bio Menu" to check and found that all the values were lower than him, there was only one "Pretty" trait, and then the fat boy who was desperate left the village. A few years later, when the woman and her husband were intimate in the bedroom, her beautiful face suddenly exploded, scaring her husband's "Dick" to soften and urinate all over the place. And what made people more scared was that the bullet did not hit in a straight line. So there is a legend that was not a bullet shot from the gun, but a kind of anger from FFF. "Did your partner's brain suddenly spray on your face? Don't be surprised, because justice has come!"</XGun_HeadShot_SM.description>
-  <XGun_HeadShot_SM.tools.0.label>stock</XGun_HeadShot_SM.tools.0.label>
-  <XGun_HeadShot_SM.tools.1.label>barrel</XGun_HeadShot_SM.tools.1.label>
+  <XGun_HeadShot_SM.label>Голова Выстрел (Стрельба Мод)</XGun_HeadShot_SM.label>
+  <XGun_HeadShot_SM.description> пули из это оружие может fly через wall. жара урон снайперский винтовка. Это пушка только appeared в Пламя Легион’s forces. тело из пушка нет firing structure в все. В simple terms, это sculpture shaped like firearm, так что пули это fires очень unstable. Голова будучи удар это unstable пуля будет быть like exploding watermelon, так что это оружие назвал Headshot. Although это очень unscientific, это does иметь большой number из records из killing targets. Нет matter location secret room, basement, variety из rooms...даже prison cells, Это также record из его kills. И behind это оружие story из Avengers. fat мужчина однажды confessed к "Beautiful" woman многие times и был rejected, и newly joined boy confessed к woman для первый время и succeeded, which hurt fat мужчина. Curiosity, он secretly opened boy's "Bio Menu" к check и нашёл то все values были lower чем его, there был только один "Pretty" черта, и затем fat boy who был desperate ушёл village. немногие годы later, когда woman и её husband были intimate в bedroom, её beautiful лицо suddenly exploded, scaring её husband's "Dick" к soften и urinate все над place. И what сделал люди более scared был то пуля сделал не удар в straight line. Так что there legend то был не пуля выстрел от пушка, но kind из anger от FFF. "Сделал ваш partner's мозг suddenly spray на ваш лицо? Не делай быть surprised, потому что justice come!"</XGun_HeadShot_SM.description>
+  <XGun_HeadShot_SM.tools.0.label>приклад</XGun_HeadShot_SM.tools.0.label>
+  <XGun_HeadShot_SM.tools.1.label>ствол</XGun_HeadShot_SM.tools.1.label>
 
-  <XGun_HeadShotM.label>Head Shot MIL</XGun_HeadShotM.label>
-  <XGun_HeadShotM.description>The bullets of this weapon can fly through the wall. A heat damage sniper rifle. This gun has only appeared in Flame Legion’s forces. The body of the gun has no firing structure at all. In simple terms, it is a sculpture shaped like a firearm, so the bullets it fires are very unstable. Head being hit by this unstable bullet will be like an exploding watermelon, so this weapon is called Headshot. Although it is very unscientific, it does have a large number of records of killing targets. No matter the location is a secret room, a basement, a variety of rooms...even prison cells, It also has a record of its kills. And behind this weapon is a story of an Avengers. A fat man once confessed to a "Beautiful" woman many times and was rejected, and a newly joined boy confessed to the woman for the first time and succeeded, which hurt the fat man. Curiosity, he secretly opened the boy's "Bio Menu" to check and found that all the values were lower than him, there was only one "Pretty" trait, and then the fat boy who was desperate left the village. A few years later, when the woman and her husband were intimate in the bedroom, her beautiful face suddenly exploded, scaring her husband's "Dick" to soften and urinate all over the place. And what made people more scared was that the bullet did not hit in a straight line. So there is a legend that was not a bullet shot from the gun, but a kind of anger from FFF. "Did your partner's brain suddenly spray on your face? Don't be surprised, because justice has come!"</XGun_HeadShotM.description>
-  <XGun_HeadShotM.tools.0.label>stock</XGun_HeadShotM.tools.0.label>
-  <XGun_HeadShotM.tools.1.label>barrel</XGun_HeadShotM.tools.1.label>
-<!-- EagleEye -->
-  <Bullet_EagleEye.label>7.62 Steel Core Bullet</Bullet_EagleEye.label>
-  <XGun_EagleEye.label>Eagle Eye</XGun_EagleEye.label>
-  <XGun_EagleEye.description>Jaeger's favorite sniper rifle has the characteristics of long-range and lightweight, which makes it easy for the sniper to find and transfer the sniper point. And the double-click shooting method they usually use is from a legendary shooter. It is said that Jaeger has stimulated many resistance forces because of monopoly resources. A man of them makes Jaeger scared. His aiming speed is incredible, two consecutive shots every time. The "parts" of the human body he chooses to shoot are even more unbearable. Many Jaeger thought he did it deliberately to create fear. Because of his magical precision and speed, he was called "Eagle Eye" by Jaeger. A few years later, Eagle Eye was arrested in a spy campaign. The military sent him to torture out of curiosity. Shockingly, Eagle Eye is born with amblyopia, the reason for acting alone is because of fear of shooting teammates. As for his explanation of the extraordinary skill, he replied extraordinarily "I didn't aim at all, just hit two shots at the approximate place, but your imagination is great." Because he was so amazing, in the end, he not only without being executed, he fell in love with the torture officer and became Jaeger's sniper chief instructor. This gun is named after this.</XGun_EagleEye.description>
-  <XGun_EagleEye.tools.0.label>stock</XGun_EagleEye.tools.0.label>
-  <XGun_EagleEye.tools.1.label>barrel</XGun_EagleEye.tools.1.label>
+  <XGun_HeadShotM.label>Голова Выстрел Военный</XGun_HeadShotM.label>
+  <XGun_HeadShotM.description> пули из это оружие может fly через wall. жара урон снайперский винтовка. Это пушка только appeared в Пламя Легион’s forces. тело из пушка нет firing structure в все. В simple terms, это sculpture shaped like firearm, так что пули это fires очень unstable. Голова будучи удар это unstable пуля будет быть like exploding watermelon, так что это оружие назвал Headshot. Although это очень unscientific, это does иметь большой number из records из killing targets. Нет matter location secret room, basement, variety из rooms...даже prison cells, Это также record из его kills. И behind это оружие story из Avengers. fat мужчина однажды confessed к "Beautiful" woman многие times и был rejected, и newly joined boy confessed к woman для первый время и succeeded, which hurt fat мужчина. Curiosity, он secretly opened boy's "Bio Menu" к check и нашёл то все values были lower чем его, there был только один "Pretty" черта, и затем fat boy who был desperate ушёл village. немногие годы later, когда woman и её husband были intimate в bedroom, её beautiful лицо suddenly exploded, scaring её husband's "Dick" к soften и urinate все над place. И what сделал люди более scared был то пуля сделал не удар в straight line. Так что there legend то был не пуля выстрел от пушка, но kind из anger от FFF. "Сделал ваш partner's мозг suddenly spray на ваш лицо? Не делай быть surprised, потому что justice come!"</XGun_HeadShotM.description>
+  <XGun_HeadShotM.tools.0.label>приклад</XGun_HeadShotM.tools.0.label>
+  <XGun_HeadShotM.tools.1.label>ствол</XGun_HeadShotM.tools.1.label>
 
-  <XGun_EagleEye_MM.label>Eagle Eye (Melee MOD)</XGun_EagleEye_MM.label>
-  <XGun_EagleEye_MM.description>Jaeger's favorite sniper rifle has the characteristics of long-range and lightweight, which makes it easy for the sniper to find and transfer the sniper point. And the double-click shooting method they usually use is from a legendary shooter. It is said that Jaeger has stimulated many resistance forces because of monopoly resources. A man of them makes Jaeger scared. His aiming speed is incredible, two consecutive shots every time. The "parts" of the human body he chooses to shoot are even more unbearable. Many Jaeger thought he did it deliberately to create fear. Because of his magical precision and speed, he was called "Eagle Eye" by Jaeger. A few years later, Eagle Eye was arrested in a spy campaign. The military sent him to torture out of curiosity. Shockingly, Eagle Eye is born with amblyopia, the reason for acting alone is because of fear of shooting teammates. As for his explanation of the extraordinary skill, he replied extraordinarily "I didn't aim at all, just hit two shots at the approximate place, but your imagination is great." Because he was so amazing, in the end, he not only without being executed, he fell in love with the torture officer and became Jaeger's sniper chief instructor. This gun is named after this.</XGun_EagleEye_MM.description>
-  <XGun_EagleEye_MM.tools.0.label>stock</XGun_EagleEye_MM.tools.0.label>
-  <XGun_EagleEye_MM.tools.1.label>blade</XGun_EagleEye_MM.tools.1.label>
+  <Bullet_EagleEye.label>7.62 Steel Core Пуля</Bullet_EagleEye.label>
+  <XGun_EagleEye.label>Eagle Глаз</XGun_EagleEye.label>
+  <XGun_EagleEye.description>Jaeger's favorite снайперский винтовка characteristics из long-range и lightweight, which makes это easy для снайперский к найти и transfer снайперский point. И double-click стрельба method они usually использовать от легендарный shooter. Это said то Jaeger stimulated многие сопротивление forces потому что из monopoly ресурсы. мужчина из их makes Jaeger scared. Его aiming скорость incredible, два consecutive shots every время. "части" из человек тело он chooses к shoot даже более unbearable. Многие Jaeger мысль он сделал это deliberately к create fear. Потому что из его magical precision и скорость, он был назвал "Eagle Глаз" Jaeger. немногие годы later, Eagle Глаз был arrested в spy campaign. военный sent его к torture наружу из curiosity. Shockingly, Eagle Глаз born с amblyopia, reason для acting alone потому что из fear из стрельба teammates. Как для его explanation из extraordinary навык, он replied extraordinarily "Я не сделал aim в все, просто удар два shots в approximate place, но ваш imagination great." Потому что он был так что amazing, в конец, он не только без будучи executed, он fell в love с torture officer и стал Jaeger's снайперский chief instructor. Это пушка named после это.</XGun_EagleEye.description>
+  <XGun_EagleEye.tools.0.label>приклад</XGun_EagleEye.tools.0.label>
+  <XGun_EagleEye.tools.1.label>ствол</XGun_EagleEye.tools.1.label>
 
-  <XGun_EagleEye_SM.label>Eagle Eye (Shooting MOD)</XGun_EagleEye_SM.label>
-  <XGun_EagleEye_SM.description>Jaeger's favorite sniper rifle has the characteristics of long-range and lightweight, which makes it easy for the sniper to find and transfer the sniper point. And the double-click shooting method they usually use is from a legendary shooter. It is said that Jaeger has stimulated many resistance forces because of monopoly resources. A man of them makes Jaeger scared. His aiming speed is incredible, two consecutive shots every time. The "parts" of the human body he chooses to shoot are even more unbearable. Many Jaeger thought he did it deliberately to create fear. Because of his magical precision and speed, he was called "Eagle Eye" by Jaeger. A few years later, Eagle Eye was arrested in a spy campaign. The military sent him to torture out of curiosity. Shockingly, Eagle Eye is born with amblyopia, the reason for acting alone is because of fear of shooting teammates. As for his explanation of the extraordinary skill, he replied extraordinarily "I didn't aim at all, just hit two shots at the approximate place, but your imagination is great." Because he was so amazing, in the end, he not only without being executed, he fell in love with the torture officer and became Jaeger's sniper chief instructor. This gun is named after this.</XGun_EagleEye_SM.description>
-  <XGun_EagleEye_SM.tools.0.label>stock</XGun_EagleEye_SM.tools.0.label>
-  <XGun_EagleEye_SM.tools.1.label>barrel</XGun_EagleEye_SM.tools.1.label>
+  <XGun_EagleEye_MM.label>Eagle Глаз (Ближний Мод)</XGun_EagleEye_MM.label>
+  <XGun_EagleEye_MM.description>Jaeger's favorite снайперский винтовка characteristics из long-range и lightweight, which makes это easy для снайперский к найти и transfer снайперский point. И double-click стрельба method они usually использовать от легендарный shooter. Это said то Jaeger stimulated многие сопротивление forces потому что из monopoly ресурсы. мужчина из их makes Jaeger scared. Его aiming скорость incredible, два consecutive shots every время. "части" из человек тело он chooses к shoot даже более unbearable. Многие Jaeger мысль он сделал это deliberately к create fear. Потому что из его magical precision и скорость, он был назвал "Eagle Глаз" Jaeger. немногие годы later, Eagle Глаз был arrested в spy campaign. военный sent его к torture наружу из curiosity. Shockingly, Eagle Глаз born с amblyopia, reason для acting alone потому что из fear из стрельба teammates. Как для его explanation из extraordinary навык, он replied extraordinarily "Я не сделал aim в все, просто удар два shots в approximate place, но ваш imagination great." Потому что он был так что amazing, в конец, он не только без будучи executed, он fell в love с torture officer и стал Jaeger's снайперский chief instructor. Это пушка named после это.</XGun_EagleEye_MM.description>
+  <XGun_EagleEye_MM.tools.0.label>приклад</XGun_EagleEye_MM.tools.0.label>
+  <XGun_EagleEye_MM.tools.1.label>клинок</XGun_EagleEye_MM.tools.1.label>
 
-  <XGun_EagleEyeM.label>Eagle Eye MIL</XGun_EagleEyeM.label>
-  <XGun_EagleEyeM.description>Jaeger's favorite sniper rifle has the characteristics of long-range and lightweight, which makes it easy for the sniper to find and transfer the sniper point. And the double-click shooting method they usually use is from a legendary shooter. It is said that Jaeger has stimulated many resistance forces because of monopoly resources. A man of them makes Jaeger scared. His aiming speed is incredible, two consecutive shots every time. The "parts" of the human body he chooses to shoot are even more unbearable. Many Jaeger thought he did it deliberately to create fear. Because of his magical precision and speed, he was called "Eagle Eye" by Jaeger. A few years later, Eagle Eye was arrested in a spy campaign. The military sent him to torture out of curiosity. Shockingly, Eagle Eye is born with amblyopia, the reason for acting alone is because of fear of shooting teammates. As for his explanation of the extraordinary skill, he replied extraordinarily "I didn't aim at all, just hit two shots at the approximate place, but your imagination is great." Because he was so amazing, in the end, he not only without being executed, he fell in love with the torture officer and became Jaeger's sniper chief instructor. This gun is named after this.</XGun_EagleEyeM.description>
-  <XGun_EagleEyeM.tools.0.label>stock</XGun_EagleEyeM.tools.0.label>
-  <XGun_EagleEyeM.tools.1.label>barrel</XGun_EagleEyeM.tools.1.label>
-<!-- Probe -->
-  <Bullet_Probe.label>7.62 Carbon Crystal AP Bullet</Bullet_Probe.label>
+  <XGun_EagleEye_SM.label>Eagle Глаз (Стрельба Мод)</XGun_EagleEye_SM.label>
+  <XGun_EagleEye_SM.description>Jaeger's favorite снайперский винтовка characteristics из long-range и lightweight, which makes это easy для снайперский к найти и transfer снайперский point. И double-click стрельба method они usually использовать от легендарный shooter. Это said то Jaeger stimulated многие сопротивление forces потому что из monopoly ресурсы. мужчина из их makes Jaeger scared. Его aiming скорость incredible, два consecutive shots every время. "части" из человек тело он chooses к shoot даже более unbearable. Многие Jaeger мысль он сделал это deliberately к create fear. Потому что из его magical precision и скорость, он был назвал "Eagle Глаз" Jaeger. немногие годы later, Eagle Глаз был arrested в spy campaign. военный sent его к torture наружу из curiosity. Shockingly, Eagle Глаз born с amblyopia, reason для acting alone потому что из fear из стрельба teammates. Как для его explanation из extraordinary навык, он replied extraordinarily "Я не сделал aim в все, просто удар два shots в approximate place, но ваш imagination great." Потому что он был так что amazing, в конец, он не только без будучи executed, он fell в love с torture officer и стал Jaeger's снайперский chief instructor. Это пушка named после это.</XGun_EagleEye_SM.description>
+  <XGun_EagleEye_SM.tools.0.label>приклад</XGun_EagleEye_SM.tools.0.label>
+  <XGun_EagleEye_SM.tools.1.label>ствол</XGun_EagleEye_SM.tools.1.label>
+
+  <XGun_EagleEyeM.label>Eagle Глаз Военный</XGun_EagleEyeM.label>
+  <XGun_EagleEyeM.description>Jaeger's favorite снайперский винтовка characteristics из long-range и lightweight, which makes это easy для снайперский к найти и transfer снайперский point. И double-click стрельба method они usually использовать от легендарный shooter. Это said то Jaeger stimulated многие сопротивление forces потому что из monopoly ресурсы. мужчина из их makes Jaeger scared. Его aiming скорость incredible, два consecutive shots every время. "части" из человек тело он chooses к shoot даже более unbearable. Многие Jaeger мысль он сделал это deliberately к create fear. Потому что из его magical precision и скорость, он был назвал "Eagle Глаз" Jaeger. немногие годы later, Eagle Глаз был arrested в spy campaign. военный sent его к torture наружу из curiosity. Shockingly, Eagle Глаз born с amblyopia, reason для acting alone потому что из fear из стрельба teammates. Как для его explanation из extraordinary навык, он replied extraordinarily "Я не сделал aim в все, просто удар два shots в approximate place, но ваш imagination great." Потому что он был так что amazing, в конец, он не только без будучи executed, он fell в love с torture officer и стал Jaeger's снайперский chief instructor. Это пушка named после это.</XGun_EagleEyeM.description>
+  <XGun_EagleEyeM.tools.0.label>приклад</XGun_EagleEyeM.tools.0.label>
+  <XGun_EagleEyeM.tools.1.label>ствол</XGun_EagleEyeM.tools.1.label>
+
+  <Bullet_Probe.label>7.62 Carbon Crystal AP Пуля</Bullet_Probe.label>
   <XGun_Probe.label>Probe</XGun_Probe.label>
-  <XGun_Probe.description>A gauss sniper rifle of Star Explorer. Because of the use of lengthened magnetic rails and carbon crystal bullets, the armor-piercing effect is very good, and it can be seen in many operations and battles. A special police officer once used this gun to hold the robbers who wearing power armor and said, "If you want to turn around and run away, you must think about it. This thing is to help people detect heat without taking off their pants."</XGun_Probe.description>
-  <XGun_Probe.tools.0.label>stock</XGun_Probe.tools.0.label>
-  <XGun_Probe.tools.1.label>barrel</XGun_Probe.tools.1.label>
+  <XGun_Probe.description> gauss снайперский винтовка из Star Исследователь. Потому что из использовать из lengthened magnetic rails и carbon crystal пули, armor-piercing effect очень хороший, и это может быть seen в многие operations и battles. особый police officer однажды используется это пушка к hold robbers who ношение силовая броня и said, "Если вы хотеть к превратиться around и run away, вы должен think about это. Это thing к help люди detect жара без taking выкл их pants."</XGun_Probe.description>
+  <XGun_Probe.tools.0.label>приклад</XGun_Probe.tools.0.label>
+  <XGun_Probe.tools.1.label>ствол</XGun_Probe.tools.1.label>
 
-  <XGun_Probe_MM.label>Probe (Melee MOD)</XGun_Probe_MM.label>
-  <XGun_Probe_MM.description>A gauss sniper rifle of Star Explorer. Because of the use of lengthened magnetic rails and carbon crystal bullets, the armor-piercing effect is very good, and it can be seen in many operations and battles. A special police officer once used this gun to hold the robbers who wearing power armor and said, "If you want to turn around and run away, you must think about it. This thing is to help people detect heat without taking off their pants."</XGun_Probe_MM.description>
-  <XGun_Probe_MM.tools.0.label>stock</XGun_Probe_MM.tools.0.label>
-  <XGun_Probe_MM.tools.1.label>blade</XGun_Probe_MM.tools.1.label>
+  <XGun_Probe_MM.label>Probe (Ближний Мод)</XGun_Probe_MM.label>
+  <XGun_Probe_MM.description> gauss снайперский винтовка из Star Исследователь. Потому что из использовать из lengthened magnetic rails и carbon crystal пули, armor-piercing effect очень хороший, и это может быть seen в многие operations и battles. особый police officer однажды используется это пушка к hold robbers who ношение силовая броня и said, "Если вы хотеть к превратиться around и run away, вы должен think about это. Это thing к help люди detect жара без taking выкл их pants."</XGun_Probe_MM.description>
+  <XGun_Probe_MM.tools.0.label>приклад</XGun_Probe_MM.tools.0.label>
+  <XGun_Probe_MM.tools.1.label>клинок</XGun_Probe_MM.tools.1.label>
 
-  <XGun_Probe_SM.label>Probe (Shooting MOD)</XGun_Probe_SM.label>
-  <XGun_Probe_SM.description>A gauss sniper rifle of Star Explorer. Because of the use of lengthened magnetic rails and carbon crystal bullets, the armor-piercing effect is very good, and it can be seen in many operations and battles. A special police officer once used this gun to hold the robbers who wearing power armor and said, "If you want to turn around and run away, you must think about it. This thing is to help people detect heat without taking off their pants."</XGun_Probe_SM.description>
-  <XGun_Probe_SM.tools.0.label>stock</XGun_Probe_SM.tools.0.label>
-  <XGun_Probe_SM.tools.1.label>barrel</XGun_Probe_SM.tools.1.label>
+  <XGun_Probe_SM.label>Probe (Стрельба Мод)</XGun_Probe_SM.label>
+  <XGun_Probe_SM.description> gauss снайперский винтовка из Star Исследователь. Потому что из использовать из lengthened magnetic rails и carbon crystal пули, armor-piercing effect очень хороший, и это может быть seen в многие operations и battles. особый police officer однажды используется это пушка к hold robbers who ношение силовая броня и said, "Если вы хотеть к превратиться around и run away, вы должен think about это. Это thing к help люди detect жара без taking выкл их pants."</XGun_Probe_SM.description>
+  <XGun_Probe_SM.tools.0.label>приклад</XGun_Probe_SM.tools.0.label>
+  <XGun_Probe_SM.tools.1.label>ствол</XGun_Probe_SM.tools.1.label>
 
-  <XGun_ProbeM.label>Probe MIL</XGun_ProbeM.label>
-  <XGun_ProbeM.description>A gauss sniper rifle of Star Explorer. Because of the use of lengthened magnetic rails and carbon crystal bullets, the armor-piercing effect is very good, and it can be seen in many operations and battles. A special police officer once used this gun to hold the robbers who wearing power armor and said, "If you want to turn around and run away, you must think about it. This thing is to help people detect heat without taking off their pants."</XGun_ProbeM.description>
-  <XGun_ProbeM.tools.0.label>stock</XGun_ProbeM.tools.0.label>
-  <XGun_ProbeM.tools.1.label>barrel</XGun_ProbeM.tools.1.label>
-<!-- RedLine -->
-  <Bullet_RedLine.label>14.5 Hollow Point Bullet</Bullet_RedLine.label>
-  <XGun_RedLine.label>Red Line</XGun_RedLine.label>
-  <XGun_RedLine.description>A rifle used for the long-range assassination. The red gun body plus the red laser and the tinting sound made by the shell hitting the ground during unloading are the characteristics of this gun, as conspicuous as a star. Is it really okay to use this gun to assassinate? "Using chaos as a cloak, fear as a blade". This is why XEO's assassins are never low-key. This eye-catching gun hinted at "I'm Here". It has a poignant story. Once a pair of assassin lovers received an order from the elders to kill each other or they would be executed. They don’t want to kill each other, they can’t fight face to face, so they decided to solve it with sniping. Who found each other shot first. As a result, the dead side was holding a red-line rifle with a blank bullet in the clip. Another person knew that he was sad and committed suicide, but why would the elders give such orders? Because XEO organizations strictly prohibit homosexuality.</XGun_RedLine.description>
-  <XGun_RedLine.tools.0.label>stock</XGun_RedLine.tools.0.label>
-  <XGun_RedLine.tools.1.label>barrel</XGun_RedLine.tools.1.label>
+  <XGun_ProbeM.label>Probe Военный</XGun_ProbeM.label>
+  <XGun_ProbeM.description> gauss снайперский винтовка из Star Исследователь. Потому что из использовать из lengthened magnetic rails и carbon crystal пули, armor-piercing effect очень хороший, и это может быть seen в многие operations и battles. особый police officer однажды используется это пушка к hold robbers who ношение силовая броня и said, "Если вы хотеть к превратиться around и run away, вы должен think about это. Это thing к help люди detect жара без taking выкл их pants."</XGun_ProbeM.description>
+  <XGun_ProbeM.tools.0.label>приклад</XGun_ProbeM.tools.0.label>
+  <XGun_ProbeM.tools.1.label>ствол</XGun_ProbeM.tools.1.label>
 
-  <Bullet_RedLine_MM.label>14.5 Hollow Point Bullet</Bullet_RedLine_MM.label>
-  <XGun_RedLine_MM.label>Red Line (Melee MOD)</XGun_RedLine_MM.label>
-  <XGun_RedLine_MM.description>A rifle used for the long-range assassination. The red gun body plus the red laser and the tinting sound made by the shell hitting the ground during unloading are the characteristics of this gun, as conspicuous as a star. Is it really okay to use this gun to assassinate? "Using chaos as a cloak, fear as a blade". This is why XEO's assassins are never low-key. This eye-catching gun hinted at "I'm Here". It has a poignant story. Once a pair of assassin lovers received an order from the elders to kill each other or they would be executed. They don’t want to kill each other, they can’t fight face to face, so they decided to solve it with sniping. Who found each other shot first. As a result, the dead side was holding a red-line rifle with a blank bullet in the clip. Another person knew that he was sad and committed suicide, but why would the elders give such orders? Because XEO organizations strictly prohibit homosexuality.</XGun_RedLine_MM.description>
-  <XGun_RedLine_MM.tools.0.label>stock</XGun_RedLine_MM.tools.0.label>
-  <XGun_RedLine_MM.tools.1.label>blade</XGun_RedLine_MM.tools.1.label>
+  <Bullet_RedLine.label>14.5 Hollow Point Пуля</Bullet_RedLine.label>
+  <XGun_RedLine.label>Красный Line</XGun_RedLine.label>
+  <XGun_RedLine.description> винтовка используется для long-range assassination. красный пушка тело plus красный лазер и tinting sound сделал shell hitting ground во время unloading characteristics из это пушка, как conspicuous как star. это really okay к использовать это пушка к assassinate? "Using chaos как cloak, fear как клинок". Это why XEO's ассасины никогда low-key. Это eye-catching пушка hinted в "I'm Here". Это poignant story. Однажды pair из ассасин lovers received order от elders к убить each другой или они бы быть executed. Они don’t хотеть к убить each другой, они может’t fight лицо к лицо, так что они решил к solve это с sniping. Who нашёл each другой выстрел первый. Как result, dead side был holding red-line винтовка с blank пуля в clip. Another человек знал то он был sad и committed suicide, но why бы elders give such orders? Потому что XEO organizations strictly prohibit homosexuality.</XGun_RedLine.description>
+  <XGun_RedLine.tools.0.label>приклад</XGun_RedLine.tools.0.label>
+  <XGun_RedLine.tools.1.label>ствол</XGun_RedLine.tools.1.label>
 
-  <Bullet_RedLine_SM.label>14.5 Hollow Point Bullet</Bullet_RedLine_SM.label>
-  <XGun_RedLine_SM.label>Red Line (Shooting MOD)</XGun_RedLine_SM.label>
-  <XGun_RedLine_SM.description>A rifle used for the long-range assassination. The red gun body plus the red laser and the tinting sound made by the shell hitting the ground during unloading are the characteristics of this gun, as conspicuous as a star. Is it really okay to use this gun to assassinate? "Using chaos as a cloak, fear as a blade". This is why XEO's assassins are never low-key. This eye-catching gun hinted at "I'm Here". It has a poignant story. Once a pair of assassin lovers received an order from the elders to kill each other or they would be executed. They don’t want to kill each other, they can’t fight face to face, so they decided to solve it with sniping. Who found each other shot first. As a result, the dead side was holding a red-line rifle with a blank bullet in the clip. Another person knew that he was sad and committed suicide, but why would the elders give such orders? Because XEO organizations strictly prohibit homosexuality.</XGun_RedLine_SM.description>
-  <XGun_RedLine_SM.tools.0.label>stock</XGun_RedLine_SM.tools.0.label>
-  <XGun_RedLine_SM.tools.1.label>barrel</XGun_RedLine_SM.tools.1.label>
+  <Bullet_RedLine_MM.label>14.5 Hollow Point Пуля</Bullet_RedLine_MM.label>
+  <XGun_RedLine_MM.label>Красный Line (Ближний Мод)</XGun_RedLine_MM.label>
+  <XGun_RedLine_MM.description> винтовка используется для long-range assassination. красный пушка тело plus красный лазер и tinting sound сделал shell hitting ground во время unloading characteristics из это пушка, как conspicuous как star. это really okay к использовать это пушка к assassinate? "Using chaos как cloak, fear как клинок". Это why XEO's ассасины никогда low-key. Это eye-catching пушка hinted в "I'm Here". Это poignant story. Однажды pair из ассасин lovers received order от elders к убить each другой или они бы быть executed. Они don’t хотеть к убить each другой, они может’t fight лицо к лицо, так что они решил к solve это с sniping. Who нашёл each другой выстрел первый. Как result, dead side был holding red-line винтовка с blank пуля в clip. Another человек знал то он был sad и committed suicide, но why бы elders give such orders? Потому что XEO organizations strictly prohibit homosexuality.</XGun_RedLine_MM.description>
+  <XGun_RedLine_MM.tools.0.label>приклад</XGun_RedLine_MM.tools.0.label>
+  <XGun_RedLine_MM.tools.1.label>клинок</XGun_RedLine_MM.tools.1.label>
 
-  <XGun_RedLineM.label>Red Line MIL</XGun_RedLineM.label>
-  <XGun_RedLineM.description>A rifle used for the long-range assassination. The red gun body plus the red laser and the tinting sound made by the shell hitting the ground during unloading are the characteristics of this gun, as conspicuous as a star. Is it really okay to use this gun to assassinate? "Using chaos as a cloak, fear as a blade". This is why XEO's assassins are never low-key. This eye-catching gun hinted at "I'm Here". It has a poignant story. Once a pair of assassin lovers received an order from the elders to kill each other or they would be executed. They don’t want to kill each other, they can’t fight face to face, so they decided to solve it with sniping. Who found each other shot first. As a result, the dead side was holding a red-line rifle with a blank bullet in the clip. Another person knew that he was sad and committed suicide, but why would the elders give such orders? Because XEO organizations strictly prohibit homosexuality.</XGun_RedLineM.description>
-  <XGun_RedLineM.tools.0.label>stock</XGun_RedLineM.tools.0.label>
-  <XGun_RedLineM.tools.1.label>barrel</XGun_RedLineM.tools.1.label>
-<!-- BigCannon -->
+  <Bullet_RedLine_SM.label>14.5 Hollow Point Пуля</Bullet_RedLine_SM.label>
+  <XGun_RedLine_SM.label>Красный Line (Стрельба Мод)</XGun_RedLine_SM.label>
+  <XGun_RedLine_SM.description> винтовка используется для long-range assassination. красный пушка тело plus красный лазер и tinting sound сделал shell hitting ground во время unloading characteristics из это пушка, как conspicuous как star. это really okay к использовать это пушка к assassinate? "Using chaos как cloak, fear как клинок". Это why XEO's ассасины никогда low-key. Это eye-catching пушка hinted в "I'm Here". Это poignant story. Однажды pair из ассасин lovers received order от elders к убить each другой или они бы быть executed. Они don’t хотеть к убить each другой, они может’t fight лицо к лицо, так что они решил к solve это с sniping. Who нашёл each другой выстрел первый. Как result, dead side был holding red-line винтовка с blank пуля в clip. Another человек знал то он был sad и committed suicide, но why бы elders give such orders? Потому что XEO organizations strictly prohibit homosexuality.</XGun_RedLine_SM.description>
+  <XGun_RedLine_SM.tools.0.label>приклад</XGun_RedLine_SM.tools.0.label>
+  <XGun_RedLine_SM.tools.1.label>ствол</XGun_RedLine_SM.tools.1.label>
+
+  <XGun_RedLineM.label>Красный Line Военный</XGun_RedLineM.label>
+  <XGun_RedLineM.description> винтовка используется для long-range assassination. красный пушка тело plus красный лазер и tinting sound сделал shell hitting ground во время unloading characteristics из это пушка, как conspicuous как star. это really okay к использовать это пушка к assassinate? "Using chaos как cloak, fear как клинок". Это why XEO's ассасины никогда low-key. Это eye-catching пушка hinted в "I'm Here". Это poignant story. Однажды pair из ассасин lovers received order от elders к убить each другой или они бы быть executed. Они don’t хотеть к убить each другой, они может’t fight лицо к лицо, так что они решил к solve это с sniping. Who нашёл each другой выстрел первый. Как result, dead side был holding red-line винтовка с blank пуля в clip. Another человек знал то он был sad и committed suicide, но why бы elders give such orders? Потому что XEO organizations strictly prohibit homosexuality.</XGun_RedLineM.description>
+  <XGun_RedLineM.tools.0.label>приклад</XGun_RedLineM.tools.0.label>
+  <XGun_RedLineM.tools.1.label>ствол</XGun_RedLineM.tools.1.label>
+
   <Bullet_BigCannon.label>12 pound Ball</Bullet_BigCannon.label>
   <XGun_BigCannon.label>Big Cannon</XGun_BigCannon.label>
-  <XGun_BigCannon.description>Blunt damage weapon. The bullets of this weapon can fly through the wall. A 12-pound cannon with solid shells, although holding this weapon can make people look strange. But as a pirate, it is reasonable and logical to use this gun to bombard people.</XGun_BigCannon.description>
-  <XGun_BigCannon.tools.0.label>stock</XGun_BigCannon.tools.0.label>
-  <XGun_BigCannon.tools.1.label>barrel</XGun_BigCannon.tools.1.label>
+  <XGun_BigCannon.description>Дробящий урон оружие. пули из это оружие может fly через wall. 12-pound cannon с solid shells, although holding это оружие может делать люди look странный. Но как пират, это reasonable и logical к использовать это пушка к bombard люди.</XGun_BigCannon.description>
+  <XGun_BigCannon.tools.0.label>приклад</XGun_BigCannon.tools.0.label>
+  <XGun_BigCannon.tools.1.label>ствол</XGun_BigCannon.tools.1.label>
 
-  <XGun_BigCannonM.label>Big Cannon MIL</XGun_BigCannonM.label>
-  <XGun_BigCannonM.description>Blunt damage weapon. The bullets of this weapon can fly through the wall. A 12-pound cannon with solid shells, although holding this weapon can make people look strange. But as a pirate, it is reasonable and logical to use this gun to bombard people.</XGun_BigCannonM.description>
-  <XGun_BigCannonM.tools.0.label>stock</XGun_BigCannonM.tools.0.label>
-  <XGun_BigCannonM.tools.1.label>barrel</XGun_BigCannonM.tools.1.label>
-<!-- LightSpear -->
-  <Bullet_LightSpear.label>Plasma</Bullet_LightSpear.label>
-  <XGun_LightSpear.label>Light Spear</XGun_LightSpear.label>
-  <XGun_LightSpear.description>A heat damage sniper rifle in the Pirate King's period. It fires plasma. They were designed to compensate for the shortcomings of the hot rifles in long-range combat. They controlled the amount of plasma fired to improve the stability of long-distance flight and the time for guns to re-cool.</XGun_LightSpear.description>
-  <XGun_LightSpear.tools.0.label>stock</XGun_LightSpear.tools.0.label>
-  <XGun_LightSpear.tools.1.label>barrel</XGun_LightSpear.tools.1.label>
+  <XGun_BigCannonM.label>Big Cannon Военный</XGun_BigCannonM.label>
+  <XGun_BigCannonM.description>Дробящий урон оружие. пули из это оружие может fly через wall. 12-pound cannon с solid shells, although holding это оружие может делать люди look странный. Но как пират, это reasonable и logical к использовать это пушка к bombard люди.</XGun_BigCannonM.description>
+  <XGun_BigCannonM.tools.0.label>приклад</XGun_BigCannonM.tools.0.label>
+  <XGun_BigCannonM.tools.1.label>ствол</XGun_BigCannonM.tools.1.label>
 
-  <XGun_LightSpearM.label>Light Spear MIL</XGun_LightSpearM.label>
-  <XGun_LightSpearM.description>A heat damage sniper rifle in the Pirate King's period. It fires plasma. They were designed to compensate for the shortcomings of the hot rifles in long-range combat. They controlled the amount of plasma fired to improve the stability of long-distance flight and the time for guns to re-cool.</XGun_LightSpearM.description>
-  <XGun_LightSpearM.tools.0.label>stock</XGun_LightSpearM.tools.0.label>
-  <XGun_LightSpearM.tools.1.label>barrel</XGun_LightSpearM.tools.1.label>
-<!-- 16R -->
+  <Bullet_LightSpear.label>Плазма</Bullet_LightSpear.label>
+  <XGun_LightSpear.label>Лёгкий Spear</XGun_LightSpear.label>
+  <XGun_LightSpear.description> жара урон снайперский винтовка в Пират King's period. Это fires плазма. Они были designed к compensate для shortcomings из hot rifles в long-range combat. Они controlled amount из плазма fired к improve stability из long-distance flight и время для пушки к re-cool.</XGun_LightSpear.description>
+  <XGun_LightSpear.tools.0.label>приклад</XGun_LightSpear.tools.0.label>
+  <XGun_LightSpear.tools.1.label>ствол</XGun_LightSpear.tools.1.label>
+
+  <XGun_LightSpearM.label>Лёгкий Spear Военный</XGun_LightSpearM.label>
+  <XGun_LightSpearM.description> жара урон снайперский винтовка в Пират King's period. Это fires плазма. Они были designed к compensate для shortcomings из hot rifles в long-range combat. Они controlled amount из плазма fired к improve stability из long-distance flight и время для пушки к re-cool.</XGun_LightSpearM.description>
+  <XGun_LightSpearM.tools.0.label>приклад</XGun_LightSpearM.tools.0.label>
+  <XGun_LightSpearM.tools.1.label>ствол</XGun_LightSpearM.tools.1.label>
+
   <Bullet_16R.label>80mm Missile</Bullet_16R.label>
-  <XGun_16R.label>Ruins Maker(One-time Weapon)</XGun_16R.label>
-  <XGun_16R.description>For One-time use only. 16 rounds of rocket artillery. The lethality is huge, the weight is amazing, and of course, the cost is also amazing too. There used to be a Jaeger force attacking the town where XEO was located. Unfortunately, the soldiers were constantly harassed by the assassins. The commander was finally mad after a few days and ordered the bombing of the town with this thing. The soldiers were shocked by his decision. After a round of explosions, everyone looking at the ruins couldn't get anything, and the commander would also have to subsidize the military expenses of the operation.</XGun_16R.description>
-  <XGun_16R.tools.0.label>barrel</XGun_16R.tools.0.label>
-<!-- Shock -->
+  <XGun_16R.label>Ruins Maker(One-time Оружие)</XGun_16R.label>
+  <XGun_16R.description>Для One-time использовать только. 16 rounds из rocket artillery. lethality huge, weight amazing, и из course, стоимость также amazing тоже. There используется к быть Jaeger сила attacking town where XEO был located. Unfortunately, солдаты были constantly harassed ассасины. commander был наконец mad после немногие дни и ordered bombing из town с это thing. солдаты были shocked его decision. После round из explosions, everyone looking в ruins не мог get anything, и commander бы также иметь к subsidize военный expenses из operation.</XGun_16R.description>
+  <XGun_16R.tools.0.label>ствол</XGun_16R.tools.0.label>
+
   <Bullet_Shock.label>Shockwave</Bullet_Shock.label>
-  <XGun_Shock.label>Shock(One-time Weapon)</XGun_Shock.label>
-  <XGun_Shock.description>For One-time use only. Effective in destroying buildings and stun the target when hit. The use of special waves to cause resonance effects can cause tremendous damage to the building. Must remember where you stand before using it, and it will be terrible if you don’t. A story is printed on the cover of the manual to warn users. A story is printed on the cover of the manual to warn users. There was a model who was targeted by the leader because she was too useless. The leader asked her to tear down a wall in the town that needed to be rebuilt. If she could not complete it, she would be sold. It sounds like a very simple job, but when she saw her "Bio Menu", she realized that it was an impossible task. When she was trying to find other ways, a stargazer merchant passed by and sold her a handful of things, saying that it could be solved for her.  The merchant repeatedly told her to read the manual before using it. A few minutes later, she finished reading it and picked up the thing and shoot at the wall. Then she immediately fainted, and when she woke up again, she found herself in the wilderness, and saw the madness leader heading at her with a pistol. Yes, she has read the manual, but she can't understand what fucking is written on it.</XGun_Shock.description>
-  <XGun_Shock.tools.0.label>barrel</XGun_Shock.tools.0.label>
-<!-- MolotovExpress -->
+  <XGun_Shock.label>Shock(One-time Оружие)</XGun_Shock.label>
+  <XGun_Shock.description>Для One-time использовать только. Effective в destroying строения и оглушение цель когда удар. использовать из особый waves к cause resonance эффекты может cause tremendous урон к строение. Должен remember where вы stand до using это, и это будет быть terrible если вы don’t. story printed на cover из manual к warn users. story printed на cover из manual к warn users. There был model who был targeted лидер потому что она был тоже useless. лидер спросил её к tear вниз wall в town то needed к быть rebuilt. Если она мог не завершить это, она бы быть sold. Это sounds like очень simple работа, но когда она увидел её "Bio Menu", она осознал то это был impossible task. Когда она был trying к найти другой ways, stargazer merchant passed и sold её handful из things, saying то это мог быть solved для её. merchant repeatedly told её к read manual до using это. немногие minutes later, она finished reading это и picked вверх thing и shoot в wall. Затем она immediately fainted, и когда она woke вверх снова, она нашёл herself в wilderness, и увидел madness лидер heading в её с пистолет. Да, она read manual, но она can't understand what fucking written на это.</XGun_Shock.description>
+  <XGun_Shock.tools.0.label>ствол</XGun_Shock.tools.0.label>
+
   <Proj_GrenadeMolotov.label>Molotov</Proj_GrenadeMolotov.label>
-  <XGun_MolotovExpress.label>Molotov Express(One-time Weapon)</XGun_MolotovExpress.label>
-  <XGun_MolotovExpress.description>For One-time use only. It is said that there was a lazy drunkard who called the nearby bar every day to send drinks. His voice was very annoying and the speech was even more aggressive. On a New Year’s night, The bar business was so good and the bartender was busy but kept receiving his phone call. Finally, the bartender was annoyed by him, he used this thing to express some "Molotov" for him, and then the bartender joined the Flame Legion.</XGun_MolotovExpress.description>
-  <XGun_MolotovExpress.tools.0.label>barrel</XGun_MolotovExpress.tools.0.label>
-<!-- SightReaper -->
+  <XGun_MolotovExpress.label>Molotov Express(One-time Оружие)</XGun_MolotovExpress.label>
+  <XGun_MolotovExpress.description>Для One-time использовать только. Это said то there был lazy drunkard who назвал nearby bar every день к send drinks. Его voice был очень annoying и speech был даже более aggressive. На Новый Год’s night, bar business был так что хороший и bartender был busy но kept receiving его phone call. Наконец, bartender был annoyed его, он используется это thing к express некоторые "Molotov" для его, и затем bartender joined Пламя Легион.</XGun_MolotovExpress.description>
+  <XGun_MolotovExpress.tools.0.label>ствол</XGun_MolotovExpress.tools.0.label>
+
   <Bullet_SightReaper.label>30cm Flash Bomb</Bullet_SightReaper.label>
-  <XGun_SightReaper.label>Sight Reaper(One-time Weapon)</XGun_SightReaper.label>
-  <XGun_SightReaper.description>For One-time use only. Blinding of the hit target. Don't look around, all look at me! A BIG Bomb here!</XGun_SightReaper.description>
-  <XGun_SightReaper.tools.0.label>barrel</XGun_SightReaper.tools.0.label>
-  
-</LanguageData>
+  <XGun_SightReaper.label>Sight Reaper(One-time Оружие)</XGun_SightReaper.label>
+  <XGun_SightReaper.description>Для One-time использовать только. Blinding из удар цель. Не делай look around, все look в меня! BIG Bomb here!</XGun_SightReaper.description>
+  <XGun_SightReaper.tools.0.label>ствол</XGun_SightReaper.tools.0.label></LanguageData>

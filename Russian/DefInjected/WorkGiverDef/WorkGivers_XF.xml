@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <DoBillsXFTable.label>Do bills at XF Tech Table</DoBillsXFTable.label>
-  <DoBillsXFModTable.label>Do bills at XF Weapon Modification Table</DoBillsXFModTable.label>
-
-</LanguageData>
+  <DoBillsXFTable.label>Делать bills в XF Tech Table</DoBillsXFTable.label>
+  <DoBillsXFModTable.label>Делать bills в XF Оружие Modification Table</DoBillsXFModTable.label></LanguageData>

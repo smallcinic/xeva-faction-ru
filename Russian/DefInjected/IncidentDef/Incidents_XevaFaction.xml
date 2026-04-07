@@ -1,14 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <snakANDapple.label>Snake and Apple</snakANDapple.label>
-  <snakANDapple.letterLabel>Snake and Apple</snakANDapple.letterLabel>
-  <snakANDapple.letterText>Two hungry lost men have come to your colony. The story is not over yet, keep fighting!
+  <snakANDapple.label>Snake и Яблоко</snakANDapple.label>
+  <snakANDapple.letterLabel>Snake и Яблоко</snakANDapple.letterLabel>
+  <snakANDapple.letterText>Два hungry lost men иметь come к ваш colony. story не над yet, keep fighting! &lt;color=#ff0000&gt;Vic и XvA будет join ваш colony, influenced background из их story, и сейчас Star Исследователь и XEO стать враги с ваш colony.&lt;/color&gt;</snakANDapple.letterText>
 
-&lt;color=#ff0000&gt;Vic and XvA will join your colony, influenced by the background of their story, and now Star Explorer and XEO become enemies with your colony.&lt;/color&gt;</snakANDapple.letterText>
-
-  <XFbiodollAppeared.label>Strange Ancient</XFbiodollAppeared.label>
-  <XFbiodollAppeared.letterLabel>Strange Ancient</XFbiodollAppeared.letterLabel>
-  <XFbiodollAppeared.letterText>A Strange Ancient appeared, and she will stay here for a year. You can place some food outside to prevent her from leaving early due to lack of something to eat.\n\nIt should be noted that this event will only trigger once.\n\nIf it is found that her singing affects higher-dimensional beings, you can turn off her voice in the MOD settings.</XFbiodollAppeared.letterText>
-
-</LanguageData>
+  <XFbiodollAppeared.label>Странный Древний</XFbiodollAppeared.label>
+  <XFbiodollAppeared.letterLabel>Странный Древний</XFbiodollAppeared.letterLabel>
+  <XFbiodollAppeared.letterText> Странный Древний appeared, и она будет stay here для год. Вы может place некоторые food outside к prevent её от leaving early due к lack из something к eat.\n\nIt должен быть noted то это событие будет только trigger однажды.\n\nIf это нашёл то её singing affects higher-dimensional beings, вы может превратиться выкл её voice в Мод settings.</XFbiodollAppeared.letterText></LanguageData>

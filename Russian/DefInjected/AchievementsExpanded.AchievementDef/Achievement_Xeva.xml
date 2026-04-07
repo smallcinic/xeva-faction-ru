@@ -1,76 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <XFA_Greed.label>XFA_Greed</XFA_Greed.label>
-  <XFA_Greed.description>Slaughter the "Strange Ancient" and get the "Black Apple". </XFA_Greed.description>
+  <XFA_Greed.label>Жадность</XFA_Greed.label>
+  <XFA_Greed.description>Убейте «Странного Древнего» и получите «Чёрное Яблоко».</XFA_Greed.description>
 
-  <XFA_AnotherLife.label>Another Life</XFA_AnotherLife.label>
-  <XFA_AnotherLife.description>Complete XF secret research and make a Phoenix Cloak.</XFA_AnotherLife.description>
+  <XFA_AnotherLife.label>Другая жизнь</XFA_AnotherLife.label>
+  <XFA_AnotherLife.description>Завершите секретное исследование XF и создайте плащ «Феникс».</XFA_AnotherLife.description>
 
-  <XFA_FightForFreedom.label>Fight For Freedom</XFA_FightForFreedom.label>
-  <XFA_FightForFreedom.description>Complete XF secret research and make a Free Will Armor.</XFA_FightForFreedom.description>
+  <XFA_FightForFreedom.label>Борьба за свободу</XFA_FightForFreedom.label>
+  <XFA_FightForFreedom.description>Завершите секретное исследование XF и создайте броню «Свободная воля».</XFA_FightForFreedom.description>
 
-  <XFA_OnePiece.label>One Piece</XFA_OnePiece.label>
-  <XFA_OnePiece.description>Complete XF secret research and make a Golden Lion Armor.</XFA_OnePiece.description>
+  <XFA_OnePiece.label>Одна часть</XFA_OnePiece.label>
+  <XFA_OnePiece.description>Завершите секретное исследование XF и создайте броню «Золотой лев».</XFA_OnePiece.description>
 
-  <XFA_RedLikeBlood.label>Red Like Blood</XFA_RedLikeBlood.label>
-  <XFA_RedLikeBlood.description>Complete XF secret research and make a O Blade.</XFA_RedLikeBlood.description>
+  <XFA_RedLikeBlood.label>Красный как кровь</XFA_RedLikeBlood.label>
+  <XFA_RedLikeBlood.description>Завершите секретное исследование XF и создайте клинок O.</XFA_RedLikeBlood.description>
 
-  <XFA_TheBestArmorDB.label>The Best Armor - DB</XFA_TheBestArmorDB.label>
-  <XFA_TheBestArmorDB.description>Buy a Dark Knight Armor from the black market traders.</XFA_TheBestArmorDB.description>
+  <XFA_TheBestArmorDB.label>Лучшая броня — DB</XFA_TheBestArmorDB.label>
+  <XFA_TheBestArmorDB.description>Купите броню «Тёмный рыцарь» у торговцев чёрного рынка.</XFA_TheBestArmorDB.description>
 
-  <XFA_TheBestArmorFL.label>The Best Armor - FL</XFA_TheBestArmorFL.label>
-  <XFA_TheBestArmorFL.description>Buy a Overlord Armor from the black market traders.</XFA_TheBestArmorFL.description>
+  <XFA_TheBestArmorFL.label>Лучшая броня — FL</XFA_TheBestArmorFL.label>
+  <XFA_TheBestArmorFL.description>Купите броню «Оверлорд» у торговцев чёрного рынка.</XFA_TheBestArmorFL.description>
 
-  <XFA_TheBestArmorJG.label>The Best Armor - JG</XFA_TheBestArmorJG.label>
-  <XFA_TheBestArmorJG.description>Buy a Fenrir Armor from the black market traders.</XFA_TheBestArmorJG.description>
+  <XFA_TheBestArmorJG.label>Лучшая броня — JG</XFA_TheBestArmorJG.label>
+  <XFA_TheBestArmorJG.description>Купите броню «Фенрир» у торговцев чёрного рынка.</XFA_TheBestArmorJG.description>
 
-  <XFA_TheBestArmorSE.label>The Best Armor - SE</XFA_TheBestArmorSE.label>
-  <XFA_TheBestArmorSE.description>Buy a Transcender Armor from the black market traders.</XFA_TheBestArmorSE.description>
+  <XFA_TheBestArmorSE.label>Лучшая броня — SE</XFA_TheBestArmorSE.label>
+  <XFA_TheBestArmorSE.description>Купите броню «Трансцендент» у торговцев чёрного рынка.</XFA_TheBestArmorSE.description>
 
-  <XFA_TheBestArmorXEO.label>The Best Armor - XEO</XFA_TheBestArmorXEO.label>
-  <XFA_TheBestArmorXEO.description>Buy a Master Armor from the black market traders.</XFA_TheBestArmorXEO.description>
+  <XFA_TheBestArmorXEO.label>Лучшая броня — XEO</XFA_TheBestArmorXEO.label>
+  <XFA_TheBestArmorXEO.description>Купите «Броню мастера» у торговцев чёрного рынка.</XFA_TheBestArmorXEO.description>
 
-  <XFA_ReadWorldKBS.label>ReadWorld - King of Pirate</XFA_ReadWorldKBS.label>
-  <XFA_ReadWorldKBS.description>Carve a Giant Sculpture - King of Pirate.</XFA_ReadWorldKBS.description>
+  <XFA_ReadWorldKBS.label>ReadWorld — Король пиратов</XFA_ReadWorldKBS.label>
+  <XFA_ReadWorldKBS.description>Создайте гигантскую скульптуру «Король пиратов».</XFA_ReadWorldKBS.description>
 
-  <XFA_ReadWorldPOX.label>ReadWorld - Phoenix</XFA_ReadWorldPOX.label>
-  <XFA_ReadWorldPOX.description>Carve a Giant Sculpture - Phoenix.</XFA_ReadWorldPOX.description>
+  <XFA_ReadWorldPOX.label>ReadWorld — Феникс</XFA_ReadWorldPOX.label>
+  <XFA_ReadWorldPOX.description>Создайте гигантскую скульптуру «Феникс».</XFA_ReadWorldPOX.description>
 
-  <XFA_ReadWorldTOW.label>ReadWorld - Tale of White</XFA_ReadWorldTOW.label>
-  <XFA_ReadWorldTOW.description>Carve a Giant Sculpture - Free Will.</XFA_ReadWorldTOW.description>
+  <XFA_ReadWorldTOW.label>ReadWorld — Сказание о Белом</XFA_ReadWorldTOW.label>
+  <XFA_ReadWorldTOW.description>Создайте гигантскую скульптуру «Свободная воля».</XFA_ReadWorldTOW.description>
 
-  <XFA_ReadWorldSNA.label>ReadWorld - Snake and Apple</XFA_ReadWorldSNA.label>
-  <XFA_ReadWorldSNA.description>Carve a Giant Sculpture - Wilderness Lover.</XFA_ReadWorldSNA.description>
+  <XFA_ReadWorldSNA.label>ReadWorld — Змей и яблоко</XFA_ReadWorldSNA.label>
+  <XFA_ReadWorldSNA.description>Создайте гигантскую скульптуру «Любитель дикой природы».</XFA_ReadWorldSNA.description>
 
-  <XFA_NotTheEnd.label>Not The End</XFA_NotTheEnd.label>
-  <XFA_NotTheEnd.description>Use Vic or XvA as Storyteller, with four or more members of the colony and all members down.* v1.4 does not require Vic or XvA as Storyteller.</XFA_NotTheEnd.description>
+  <XFA_NotTheEnd.label>Это не конец</XFA_NotTheEnd.label>
+  <XFA_NotTheEnd.description>Используйте Vic или XvA как рассказчика, имея 4 или более колонистов, и когда все они будут повержены. *В версии 1.4 Vic или XvA как рассказчик не требуются.</XFA_NotTheEnd.description>
 
-  <XFA_FallinLove.label>Fall in Love</XFA_FallinLove.label>
-  <XFA_FallinLove.description>Have a colonist develop a bond with a Strange Ancient.</XFA_FallinLove.description>
+  <XFA_FallinLove.label>Влюбиться</XFA_FallinLove.label>
+  <XFA_FallinLove.description>Пусть колонист установит связь со Странным Древним.</XFA_FallinLove.description>
 
-  <XFA_BulletInTheKnee.label>Bullet In The Knee</XFA_BulletInTheKnee.label>
-  <XFA_BulletInTheKnee.description>Have a single pawn score 150 Pawns Downed.</XFA_BulletInTheKnee.description>
+  <XFA_BulletInTheKnee.label>Пуля в колене</XFA_BulletInTheKnee.label>
+  <XFA_BulletInTheKnee.description>Пусть один пешка повергнет 150 противников.</XFA_BulletInTheKnee.description>
 
-  <XFA_Atheist.label>XFA_Atheist</XFA_Atheist.label>
-  <XFA_Atheist.description>Kill 250 XEO faction members.</XFA_Atheist.description>
+  <XFA_Atheist.label>Атеист</XFA_Atheist.label>
+  <XFA_Atheist.description>Убейте 250 членов фракции XEO.</XFA_Atheist.description>
 
-  <XFA_FireExtinguisher.label>Fire Extinguisher</XFA_FireExtinguisher.label>
-  <XFA_FireExtinguisher.description>Kill 250 Flame Legion faction members.</XFA_FireExtinguisher.description>
+  <XFA_FireExtinguisher.label>Огнетушитель</XFA_FireExtinguisher.label>
+  <XFA_FireExtinguisher.description>Убейте 250 членов фракции Пламенный Легион.</XFA_FireExtinguisher.description>
 
-  <XFA_HostTheGame.label>Host The Game</XFA_HostTheGame.label>
-  <XFA_HostTheGame.description>Kill 250 Star Explorer faction members.</XFA_HostTheGame.description>
+  <XFA_HostTheGame.label>Ведущий игры</XFA_HostTheGame.label>
+  <XFA_HostTheGame.description>Убейте 250 членов фракции Star Explorer.</XFA_HostTheGame.description>
 
-  <XFA_HuntTheHunter.label>Hunt The Hunter</XFA_HuntTheHunter.label>
-  <XFA_HuntTheHunter.description>Kill 250 Jaeger faction members.</XFA_HuntTheHunter.description>
+  <XFA_HuntTheHunter.label>Охота на охотника</XFA_HuntTheHunter.label>
+  <XFA_HuntTheHunter.description>Убейте 250 членов фракции Jaeger.</XFA_HuntTheHunter.description>
 
-  <XFA_TheDragon.label>The Dragon</XFA_TheDragon.label>
-  <XFA_TheDragon.description>Kill 250 Diamond Bone faction members.</XFA_TheDragon.description>
+  <XFA_TheDragon.label>Дракон</XFA_TheDragon.label>
+  <XFA_TheDragon.description>Убейте 250 членов фракции Алмазная Кость.</XFA_TheDragon.description>
 
-  <XFA_DollSlayer.label>Doll Slayer</XFA_DollSlayer.label>
-  <XFA_DollSlayer.description>Kill 10 Mech Biodolls.</XFA_DollSlayer.description>
+  <XFA_DollSlayer.label>Истребитель кукол</XFA_DollSlayer.label>
+  <XFA_DollSlayer.description>Убейте 10 меха-биокукол.</XFA_DollSlayer.description>
 
-  <XFA_TooHugeTooHard.label>Too Huge, Too Hard</XFA_TooHugeTooHard.label>
-  <XFA_TooHugeTooHard.description>Kill 5 Huge Centipede.</XFA_TooHugeTooHard.description>
-
-</LanguageData>
+  <XFA_TooHugeTooHard.label>Слишком огромный, слишком опасный</XFA_TooHugeTooHard.label>
+  <XFA_TooHugeTooHard.description>Убейте 5 гигантских многоножек.</XFA_TooHugeTooHard.description></LanguageData>

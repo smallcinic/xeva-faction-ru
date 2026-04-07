@@ -1,184 +1,182 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <XEA_HBlade.label>Blade Hood</XEA_HBlade.label>
-  <XEA_HBlade.description>The design is origin from a lost civilization's assassin cluture, which the archaeologist can only found the disk they left behind. According to the data, some of those assassin are very "high profile", even assassination was done in the bright day light. Because it's style is quite favorable to the XEO, they decided to let the hat to shine again. However, once a weapone designer warned that: This hat will limited the wearer's sight and pose them under the threat of a bullet going through their head.</XEA_HBlade.description>
-  <XEA_Blade.label>Blade Armor</XEA_Blade.label>
-  <XEA_Blade.description>Equiped with Kinetic energy transfer field, as long as its transfer rate still in the positive, you can dance in the rain of bullet as you wish, forcing the enemise to melee with you. However, this this isn't invincible, many assassins got some extra holes in their body because they were too high on the battlefield. As for the basic defense aspect of this armor... let's us enjoy the perfect body of the wearer, shall we?</XEA_Blade.description>
-  <XEA_HBladeM.label>Blade Hood MIL</XEA_HBladeM.label>
-  <XEA_HBladeM.description>The design is origin from a lost civilization's assassin cluture, which the archaeologist can only found the disk they left behind. According to the data, some of those assassin are very "high profile", even assassination was done in the bright day light. Because it's style is quite favorable to the XEO, they decided to let the hat to shine again. However, once a weapone designer warned that: This hat will limited the wearer's sight and pose them under the threat of a bullet going through their head.</XEA_HBladeM.description>
-  <XEA_BladeM.label>Blade Armor MIL</XEA_BladeM.label>
-  <XEA_BladeM.description>Equiped with Kinetic energy transfer field, as long as its transfer rate still in the positive, you can dance in the rain of bullet as you wish, forcing the enemise to melee with you. However, this this isn't invincible, many assassins got some extra holes in their body because they were too high on the battlefield. As for the basic defense aspect of this armor... let's us enjoy the perfect body of the wearer, shall we?</XEA_BladeM.description>
+  <XEA_HBlade.label>Клинок Капюшон</XEA_HBlade.label>
+  <XEA_HBlade.description> design origin от lost civilization's ассасин cluture, which archaeologist может только нашёл disk они ушёл behind. According к data, некоторые из те ассасин очень "высокий profile", даже assassination был сделано в bright день лёгкий. Потому что это style quite favorable к XEO, они решил к let hat к shine снова. Однако, однажды weapone designer warned то: Это hat будет limited wearer's sight и pose их under threat из пуля going через их голова.</XEA_HBlade.description>
+  <XEA_Blade.label>Клинок Броня</XEA_Blade.label>
+  <XEA_Blade.description>Equiped с Kinetic energy transfer field, как долгий как его transfer rate still в positive, вы может dance в rain из пуля как вы wish, forcing enemise к ближний с вы. Однако, это это isn't invincible, многие ассасины got некоторые extra holes в их тело потому что они были тоже высокий на battlefield. Как для базовый defense aspect из это броня... let's us enjoy perfect тело из wearer, shall мы?</XEA_Blade.description>
+  <XEA_HBladeM.label>Клинок Капюшон Военный</XEA_HBladeM.label>
+  <XEA_HBladeM.description> design origin от lost civilization's ассасин cluture, which archaeologist может только нашёл disk они ушёл behind. According к data, некоторые из те ассасин очень "высокий profile", даже assassination был сделано в bright день лёгкий. Потому что это style quite favorable к XEO, они решил к let hat к shine снова. Однако, однажды weapone designer warned то: Это hat будет limited wearer's sight и pose их under threat из пуля going через их голова.</XEA_HBladeM.description>
+  <XEA_BladeM.label>Клинок Броня Военный</XEA_BladeM.label>
+  <XEA_BladeM.description>Equiped с Kinetic energy transfer field, как долгий как его transfer rate still в positive, вы может dance в rain из пуля как вы wish, forcing enemise к ближний с вы. Однако, это это isn't invincible, многие ассасины got некоторые extra holes в их тело потому что они были тоже высокий на battlefield. Как для базовый defense aspect из это броня... let's us enjoy perfect тело из wearer, shall мы?</XEA_BladeM.description>
   
-  <XEA_HMaster.label>Master Hood</XEA_HMaster.label>
-  <XEA_HMaster.description>Equipment used by XEO master assassin.</XEA_HMaster.description>
-  <XEA_Master.label>Master Armor</XEA_Master.label>
-  <XEA_Master.description>Equipment used by XEO master assassin.</XEA_Master.description>
-  <XEA_HMasterM.label>Master Hood MIL</XEA_HMasterM.label>
-  <XEA_HMasterM.description>Equipment used by XEO master assassin.</XEA_HMasterM.description>
-  <XEA_MasterM.label>Master Armor MIL</XEA_MasterM.label>
-  <XEA_MasterM.description>Equipment used by XEO master assassin.</XEA_MasterM.description>
+  <XEA_HMaster.label>Мастер Капюшон</XEA_HMaster.label>
+  <XEA_HMaster.description>Снаряжение используется XEO мастер ассасин.</XEA_HMaster.description>
+  <XEA_Master.label>Мастер Броня</XEA_Master.label>
+  <XEA_Master.description>Снаряжение используется XEO мастер ассасин.</XEA_Master.description>
+  <XEA_HMasterM.label>Мастер Капюшон Военный</XEA_HMasterM.label>
+  <XEA_HMasterM.description>Снаряжение используется XEO мастер ассасин.</XEA_HMasterM.description>
+  <XEA_MasterM.label>Мастер Броня Военный</XEA_MasterM.label>
+  <XEA_MasterM.description>Снаряжение используется XEO мастер ассасин.</XEA_MasterM.description>
   
-  <XEA_HValkyrie.label>Valkyrie Helmet</XEA_HValkyrie.label>
-  <XEA_HValkyrie.description>A heavy helmet used by XEO. Made of black steel, helmet's defensive ability are outstanding in all aspect, however, there was a record of a assassin had their nose bitten off while fighting with a turtle. Can be used in the Save Our Ship 2 universe.</XEA_HValkyrie.description>
-  <XEA_Valkyrie.label>Valkyrie Armor</XEA_Valkyrie.label>
-  <XEA_Valkyrie.description>An armor design to deal with various situation. Made of black steel, it can provide it's wearer a all-around protection. However, please keep in mind that this armor wasn't powered by a external source, but the strenght of it's wearer. Can be used in the Save Our Ship 2 universe.</XEA_Valkyrie.description>
-  <XEA_HValkyrieM.label>Valkyrie Helmet MIL</XEA_HValkyrieM.label>
-  <XEA_HValkyrieM.description>A heavy helmet used by XEO. Made of black steel, helmet's defensive ability are outstanding in all aspect, however, there was a record of a assassin had their nose bitten off while fighting with a turtle. Can be used in the Save Our Ship 2 universe.</XEA_HValkyrieM.description>
-  <XEA_ValkyrieM.label>Valkyrie Armor MIL</XEA_ValkyrieM.label>
-  <XEA_ValkyrieM.description>An armor design to deal with various situation. Made of black steel, it can provide it's wearer a all-around protection. However, please keep in mind that this armor wasn't powered by a external source, but the strenght of it's wearer. Can be used in the Save Our Ship 2 universe.</XEA_ValkyrieM.description>
+  <XEA_HValkyrie.label>Valkyrie Шлем</XEA_HValkyrie.label>
+  <XEA_HValkyrie.description> тяжёлый шлем используется XEO. Сделал из чёрное steel, helmet's defensive способность outstanding в все aspect, однако, there был record из ассасин имел их нос bitten выкл пока fighting с turtle. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HValkyrie.description>
+  <XEA_Valkyrie.label>Valkyrie Броня</XEA_Valkyrie.label>
+  <XEA_Valkyrie.description> броня design к deal с various ситуация. Сделал из чёрное steel, это может provide это wearer all-around protection. Однако, please keep в mind то это броня wasn't powered external source, но strenght из это wearer. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_Valkyrie.description>
+  <XEA_HValkyrieM.label>Valkyrie Шлем Военный</XEA_HValkyrieM.label>
+  <XEA_HValkyrieM.description> тяжёлый шлем используется XEO. Сделал из чёрное steel, helmet's defensive способность outstanding в все aspect, однако, there был record из ассасин имел их нос bitten выкл пока fighting с turtle. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HValkyrieM.description>
+  <XEA_ValkyrieM.label>Valkyrie Броня Военный</XEA_ValkyrieM.label>
+  <XEA_ValkyrieM.description> броня design к deal с various ситуация. Сделал из чёрное steel, это может provide это wearer all-around protection. Однако, please keep в mind то это броня wasn't powered external source, но strenght из это wearer. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_ValkyrieM.description>
 
   <XEA_Dancer.label>XEO Dancer Dress</XEA_Dancer.label>
-  <XEA_Dancer.description>XEO serves lots of deitied, and the goddess of harvest is one of them. Legends says that she will dance in the field wearing this suit, and inspired by her blessing the farmers will work even more efficient. However, the fact is that there are farming tools included in this suit, dancing is actually means hoeing the ground. Also there are legends says that this suit can actract wild animals, and there were grils taming animals by their song and dance wearing this suit, but the fact might be that those animals was atracted by those beefy thigh.</XEA_Dancer.description>
+  <XEA_Dancer.description>XEO serves lots из deitied, и goddess из harvest один из их. Legends says то она будет dance в field ношение это suit, и inspired её blessing farmers будет работа даже более efficient. Однако, fact то there farming tools included в это suit, dancing actually means hoeing ground. Также there legends says то это suit может actract wild животные, и there были grils taming животные их song и dance ношение это suit, но fact может быть быть то те животные был atracted те beefy thigh.</XEA_Dancer.description>
 
   <XEA_HExecutor.label>Executor Mask</XEA_HExecutor.label>
-  <XEA_HExecutor.description>Equipment of the StarExplorer Executors. Geared with oxygen supply and temperture control allow the user to travel through some harsh enviornment. But wearing this weird mask as a daily dress, you will definitly regarded as some sort of maniac.</XEA_HExecutor.description>
+  <XEA_HExecutor.description>Снаряжение из StarExplorer Executors. Geared с oxygen supply и temperture контроль allow user к travel через некоторые harsh enviornment. Но ношение это weird mask как daily dress, вы будет definitly regarded как некоторые sort из maniac.</XEA_HExecutor.description>
   <XEA_Executor.label>Executor Suit</XEA_Executor.label>
-  <XEA_Executor.description>Suit of a StarExplorer Executor. Carboncrystalfiber provid great mobility and well temperture resistance, and the V system included in the suit can also improve the wearer's shootig ability, best suited for the those who suck at shooting.</XEA_Executor.description>
-  <XEA_HExecutorM.label>Executor Mask MIL</XEA_HExecutorM.label>
-  <XEA_HExecutorM.description>Equipment of the StarExplorer Executors. Geared with oxygen supply and temperture control allow the user to travel through some harsh enviornment. But wearing this weird mask as a daily dress, you will definitly regarded as some sort of maniac.</XEA_HExecutorM.description>
-  <XEA_ExecutorM.label>Executor Suit MIL</XEA_ExecutorM.label>
-  <XEA_ExecutorM.description>Suit of a StarExplorer Executor. Carboncrystalfiber provid great mobility and well temperture resistance, and the V system included in the suit can also improve the wearer's shootig ability, best suited for the those who suck at shooting.</XEA_ExecutorM.description>
+  <XEA_Executor.description>Suit из StarExplorer Executor. Carboncrystalfiber provid great mobility и well temperture сопротивление, и V system included в suit может также improve wearer's shootig способность, лучший suited для те who suck в стрельба.</XEA_Executor.description>
+  <XEA_HExecutorM.label>Executor Mask Военный</XEA_HExecutorM.label>
+  <XEA_HExecutorM.description>Снаряжение из StarExplorer Executors. Geared с oxygen supply и temperture контроль allow user к travel через некоторые harsh enviornment. Но ношение это weird mask как daily dress, вы будет definitly regarded как некоторые sort из maniac.</XEA_HExecutorM.description>
+  <XEA_ExecutorM.label>Executor Suit Военный</XEA_ExecutorM.label>
+  <XEA_ExecutorM.description>Suit из StarExplorer Executor. Carboncrystalfiber provid great mobility и well temperture сопротивление, и V system included в suit может также improve wearer's shootig способность, лучший suited для те who suck в стрельба.</XEA_ExecutorM.description>
 
-  <XEA_HBlueStar.label>Blue Star Helmet</XEA_HBlueStar.label>
-  <XEA_HBlueStar.description>A military grade equipment of StarExplorer, suited with direct neural interface, which can control the user's endocrine system to against the psychi attack and increase focus. And its horn aren't merely decoration, many people got their ass  destroyed, because they under estimate the horn. Can be used in the Save Our Ship 2 universe.</XEA_HBlueStar.description>
-  <XEA_BlueStar.label>Blue Star Armor</XEA_BlueStar.label>
-  <XEA_BlueStar.description>A military grade equipment of StarExplorer. The invasive design and the IceTear engin provid the wearer a perfect temperture control and maintain a zero-waste body circulation, some one who is so lazy they haven't take off their suit for over a year. Can be used in the Save Our Ship 2 universe.</XEA_BlueStar.description>
-  <XEA_HBlueStarM.label>Blue Star Helmet MIL</XEA_HBlueStarM.label>
-  <XEA_HBlueStarM.description>A military grade equipment of StarExplorer, suited with direct neural interface, which can control the user's endocrine system to against the psychi attack and increase focus. And its horn aren't merely decoration, many people got their ass  destroyed, because they under estimate the horn. Can be used in the Save Our Ship 2 universe.</XEA_HBlueStarM.description>
-  <XEA_BlueStarM.label>Blue Star Armor MIL</XEA_BlueStarM.label>
-  <XEA_BlueStarM.description>A military grade equipment of StarExplorer. The invasive design and the IceTear engin provid the wearer a perfect temperture control and maintain a zero-waste body circulation, some one who is so lazy they haven't take off their suit for over a year. Can be used in the Save Our Ship 2 universe.</XEA_BlueStarM.description>
+  <XEA_HBlueStar.label>Blue Star Шлем</XEA_HBlueStar.label>
+  <XEA_HBlueStar.description> военный grade снаряжение из StarExplorer, suited с direct neural interface, which может контроль user's endocrine system к против psychi атака и увеличить focus. И его horn aren't merely decoration, многие люди got их ass destroyed, потому что они under estimate horn. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HBlueStar.description>
+  <XEA_BlueStar.label>Blue Star Броня</XEA_BlueStar.label>
+  <XEA_BlueStar.description> военный grade снаряжение из StarExplorer. invasive design и IceTear engin provid wearer perfect temperture контроль и maintain zero-waste тело circulation, некоторые один who так что lazy они haven't взять выкл их suit для над год. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_BlueStar.description>
+  <XEA_HBlueStarM.label>Blue Star Шлем Военный</XEA_HBlueStarM.label>
+  <XEA_HBlueStarM.description> военный grade снаряжение из StarExplorer, suited с direct neural interface, which может контроль user's endocrine system к против psychi атака и увеличить focus. И его horn aren't merely decoration, многие люди got их ass destroyed, потому что они under estimate horn. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HBlueStarM.description>
+  <XEA_BlueStarM.label>Blue Star Броня Военный</XEA_BlueStarM.label>
+  <XEA_BlueStarM.description> военный grade снаряжение из StarExplorer. invasive design и IceTear engin provid wearer perfect temperture контроль и maintain zero-waste тело circulation, некоторые один who так что lazy они haven't взять выкл их suit для над год. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_BlueStarM.description>
 
-  <XEA_HTranscender.label>Transcender Helmet</XEA_HTranscender.label>
-  <XEA_HTranscender.description>Equipment of the Leader of StarExplorer. Can be used in the Save Our Ship 2 universe.</XEA_HTranscender.description>
-  <XEA_Transcender.label>Transcender Armor</XEA_Transcender.label>
-  <XEA_Transcender.description>Equipment of the Leader of StarExplorer. Can be used in the Save Our Ship 2 universe.</XEA_Transcender.description>
-  <XEA_HTranscenderM.label>Transcender Helmet MIL</XEA_HTranscenderM.label>
-  <XEA_HTranscenderM.description>Equipment of the Leader of StarExplorer. Can be used in the Save Our Ship 2 universe.</XEA_HTranscenderM.description>
-  <XEA_TranscenderM.label>Transcender Armor MIL</XEA_TranscenderM.label>
-  <XEA_TranscenderM.description>Equipment of the Leader of StarExplorer. Can be used in the Save Our Ship 2 universe.</XEA_TranscenderM.description>
+  <XEA_HTranscender.label>Transcender Шлем</XEA_HTranscender.label>
+  <XEA_HTranscender.description>Снаряжение из Лидер из StarExplorer. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HTranscender.description>
+  <XEA_Transcender.label>Transcender Броня</XEA_Transcender.label>
+  <XEA_Transcender.description>Снаряжение из Лидер из StarExplorer. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_Transcender.description>
+  <XEA_HTranscenderM.label>Transcender Шлем Военный</XEA_HTranscenderM.label>
+  <XEA_HTranscenderM.description>Снаряжение из Лидер из StarExplorer. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HTranscenderM.description>
+  <XEA_TranscenderM.label>Transcender Броня Военный</XEA_TranscenderM.label>
+  <XEA_TranscenderM.description>Снаряжение из Лидер из StarExplorer. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_TranscenderM.description>
 
   <XEA_Research.label>SE Database Uniform</XEA_Research.label>
-  <XEA_Research.description>The learning AI and machine arms hidden under the cape can enhence  the Researcher's speed while crafting and analyzing data. And because the lab is in constant threat of fire due to those crazy scientist, this suit provide some fire resistant ability.</XEA_Research.description>
+  <XEA_Research.description> learning AI и machine arms hidden under cape может enhence Researcher's скорость пока создание и analyzing data. И потому что lab в constant threat из огонь due к те crazy scientist, это suit provide некоторые огонь resistant способность.</XEA_Research.description>
 
   <XEA_HFalcon.label>Falcon Battle Glasses</XEA_HFalcon.label>
-  <XEA_HFalcon.description>The aiming assist AI can provide data about the environment and target distance, but don't count on this thing to provide any kind of defense. From the data shows that many user's body have lost their thinking part.</XEA_HFalcon.description>
-  <XEA_Falcon.label>Falcon Armor</XEA_Falcon.label>
-  <XEA_Falcon.description>Special equipment for the Jaeger sniper. Insulated tights can allow the sniper to stay in hazzardous environment. In order to provide great mobility, this suit's armorplate cover only a little part of the body, but it is said that wearing so sexy can interfere opponent snipers.</XEA_Falcon.description>
-  <XEA_HFalconM.label>Falcon Battle Glasses MIL</XEA_HFalconM.label>
-  <XEA_HFalconM.description>The aiming assist AI can provide data about the environment and target distance, but don't count on this thing to provide any kind of defense. From the data shows that many user's body have lost their thinking part.</XEA_HFalconM.description>
-  <XEA_FalconM.label>Falcon Armor MIL</XEA_FalconM.label>
-  <XEA_FalconM.description>Special equipment for the Jaeger sniper. Insulated tights can allow the sniper to stay in hazzardous environment. In order to provide great mobility, this suit's armorplate cover only a little part of the body, but it is said that wearing so sexy can interfere opponent snipers.</XEA_FalconM.description>
+  <XEA_HFalcon.description> aiming assist AI может provide data about environment и цель distance, но не делай count на это thing к provide любой kind из defense. От data shows то многие user's тело иметь lost их thinking часть.</XEA_HFalcon.description>
+  <XEA_Falcon.label>Falcon Броня</XEA_Falcon.label>
+  <XEA_Falcon.description>Особый снаряжение для Jaeger снайперский. Insulated tights может allow снайперский к stay в hazzardous environment. В order к provide great mobility, это suit's armorplate cover только little часть из тело, но это said то ношение так что sexy может interfere opponent snipers.</XEA_Falcon.description>
+  <XEA_HFalconM.label>Falcon Battle Glasses Военный</XEA_HFalconM.label>
+  <XEA_HFalconM.description> aiming assist AI может provide data about environment и цель distance, но не делай count на это thing к provide любой kind из defense. От data shows то многие user's тело иметь lost их thinking часть.</XEA_HFalconM.description>
+  <XEA_FalconM.label>Falcon Броня Военный</XEA_FalconM.label>
+  <XEA_FalconM.description>Особый снаряжение для Jaeger снайперский. Insulated tights может allow снайперский к stay в hazzardous environment. В order к provide great mobility, это suit's armorplate cover только little часть из тело, но это said то ношение так что sexy может interfere opponent snipers.</XEA_FalconM.description>
 
-  <XEA_HTimberWolf.label>Timber Wolf Helmet</XEA_HTimberWolf.label>
-  <XEA_HTimberWolf.description>Made of jade, it provide the wearer great defense against penetration, and the tatical AI can assist aiming for lead by captureing and analyze the target movement, however, don't trust these AI too much, according to the data, these AI often aiming too way up from the target, where normal enemies won't be at. Can be used in the Save Our Ship 2 universe.</XEA_HTimberWolf.description>
-  <XEA_TimberWolf.label>Timber Wolf Armor</XEA_TimberWolf.label>
-  <XEA_TimberWolf.description>A battlefield specialized power armor, combining exoskeleton and armor made of jadesilver, its elastic alloy, which is able to bear great weight and defence against penetration, can absorb the kinetic energy from the weapone, but the armor increase the effect when the wearer experience blunt damage or impact. Once a person wearing this suit conducting intense exercise and thus pass out due to the excessive shock. Can be used in the Save Our Ship 2 universe.</XEA_TimberWolf.description>
-  <XEA_HTimberWolfM.label>Timber Wolf Helmet MIL</XEA_HTimberWolfM.label>
-  <XEA_HTimberWolfM.description>Made of jade, it provide the wearer great defense against penetration, and the tatical AI can assist aiming for lead by captureing and analyze the target movement, however, don't trust these AI too much, according to the data, these AI often aiming too way up from the target, where normal enemies won't be at. Can be used in the Save Our Ship 2 universe.</XEA_HTimberWolfM.description>
-  <XEA_TimberWolfM.label>Timber Wolf Armor MIL</XEA_TimberWolfM.label>
-  <XEA_TimberWolfM.description>A battlefield specialized power armor, combining exoskeleton and armor made of jadesilver, its elastic alloy, which is able to bear great weight and defence against penetration, can absorb the kinetic energy from the weapone, but the armor increase the effect when the wearer experience blunt damage or impact. Once a person wearing this suit conducting intense exercise and thus pass out due to the excessive shock. Can be used in the Save Our Ship 2 universe.</XEA_TimberWolfM.description>
+  <XEA_HTimberWolf.label>Timber Wolf Шлем</XEA_HTimberWolf.label>
+  <XEA_HTimberWolf.description>Сделал из jade, это provide wearer great defense против пробивание, и tatical AI может assist aiming для lead captureing и analyze цель движение, однако, не делай trust эти AI тоже much, according к data, эти AI often aiming тоже путь вверх от цель, where normal враги won't быть в. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HTimberWolf.description>
+  <XEA_TimberWolf.label>Timber Wolf Броня</XEA_TimberWolf.label>
+  <XEA_TimberWolf.description> battlefield specialized силовая броня, combining exoskeleton и броня сделал из jadesilver, его elastic alloy, which able к bear great weight и defence против пробивание, может absorb kinetic energy от weapone, но броня увеличить effect когда wearer experience дробящий урон или impact. Однажды человек ношение это suit conducting intense exercise и thus pass наружу due к excessive shock. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_TimberWolf.description>
+  <XEA_HTimberWolfM.label>Timber Wolf Шлем Военный</XEA_HTimberWolfM.label>
+  <XEA_HTimberWolfM.description>Сделал из jade, это provide wearer great defense против пробивание, и tatical AI может assist aiming для lead captureing и analyze цель движение, однако, не делай trust эти AI тоже much, according к data, эти AI often aiming тоже путь вверх от цель, where normal враги won't быть в. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HTimberWolfM.description>
+  <XEA_TimberWolfM.label>Timber Wolf Броня Военный</XEA_TimberWolfM.label>
+  <XEA_TimberWolfM.description> battlefield specialized силовая броня, combining exoskeleton и броня сделал из jadesilver, его elastic alloy, which able к bear great weight и defence против пробивание, может absorb kinetic energy от weapone, но броня увеличить effect когда wearer experience дробящий урон или impact. Однажды человек ношение это suit conducting intense exercise и thus pass наружу due к excessive shock. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_TimberWolfM.description>
 
-  <XEA_HFenrir.label>Fenrir Helmet</XEA_HFenrir.label>
-  <XEA_HFenrir.description>Equipment for the Jaeger commander. Can be used in the Save Our Ship 2 universe.</XEA_HFenrir.description>
-  <XEA_Fenrir.label>Fenrir Armor</XEA_Fenrir.label>
-  <XEA_Fenrir.description>Equipment for the Jaeger commander. Can be used in the Save Our Ship 2 universe.</XEA_Fenrir.description>
-  <XEA_HFenrirM.label>Fenrir Helmet MIL</XEA_HFenrirM.label>
-  <XEA_HFenrirM.description>Equipment for the Jaeger commander. Can be used in the Save Our Ship 2 universe.</XEA_HFenrirM.description>
-  <XEA_FenrirM.label>Fenrir Armor MIL</XEA_FenrirM.label>
-  <XEA_FenrirM.description>Equipment for the Jaeger commander. Can be used in the Save Our Ship 2 universe.</XEA_FenrirM.description>
+  <XEA_HFenrir.label>Fenrir Шлем</XEA_HFenrir.label>
+  <XEA_HFenrir.description>Снаряжение для Jaeger commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HFenrir.description>
+  <XEA_Fenrir.label>Fenrir Броня</XEA_Fenrir.label>
+  <XEA_Fenrir.description>Снаряжение для Jaeger commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_Fenrir.description>
+  <XEA_HFenrirM.label>Fenrir Шлем Военный</XEA_HFenrirM.label>
+  <XEA_HFenrirM.description>Снаряжение для Jaeger commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HFenrirM.description>
+  <XEA_FenrirM.label>Fenrir Броня Военный</XEA_FenrirM.label>
+  <XEA_FenrirM.description>Снаряжение для Jaeger commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_FenrirM.description>
 
   <XEA_Uniform.label>Peace Messenger</XEA_Uniform.label>
-  <XEA_Uniform.description>"Peace Messenger" is an institution of LOVE. They mediate conflict and helping orphans to find their parents. As long as you wear this uniform, people will also regard you as a person full of LOVE.</XEA_Uniform.description>
+  <XEA_Uniform.description>"Peace Messenger" institution из LOVE. Они mediate conflict и helping orphans к найти их parents. Как долгий как вы wear это uniform, люди будет также regard вы как человек full из LOVE.</XEA_Uniform.description>
 
-  <XEA_HFireFiend.label>Fire Fiend Helmet</XEA_HFireFiend.label>
-  <XEA_HFireFiend.description>Equipment for the battlefield engineer. From tip to toe all made of hard gold, can resist brick attack well. Suited with SONAR to render buildings, enable the wearer accelerate its construction speed. Can be used in the Save Our Ship 2 universe.</XEA_HFireFiend.description>
-  <XEA_FireFiend.label>Fire Fiend Armor</XEA_FireFiend.label>
-  <XEA_FireFiend.description>Equipment for the battlefield engineer. Design in order to enable personnel to fix and construct. Equiped with excavation tools and machine arms, whole armor is made of hard gold, providing great resistance to blunt damage and intense heat. Its leg's mechenical structure were modified to bearing weight, but in the cost of movement speed. Can be used in the Save Our Ship 2 universe.</XEA_FireFiend.description>
-  <XEA_HFireFiendM.label>Fire Fiend Helmet MIL</XEA_HFireFiendM.label>
-  <XEA_HFireFiendM.description>Equipment for the battlefield engineer. From tip to toe all made of hard gold, can resist brick attack well. Suited with SONAR to render buildings, enable the wearer accelerate its construction speed. Can be used in the Save Our Ship 2 universe.</XEA_HFireFiendM.description>
-  <XEA_FireFiendM.label>Fire Fiend Armor MIL</XEA_FireFiendM.label>
-  <XEA_FireFiendM.description>Equipment for the battlefield engineer. Design in order to enable personnel to fix and construct. Equiped with excavation tools and machine arms, whole armor is made of hard gold, providing great resistance to blunt damage and intense heat. Its leg's mechenical structure were modified to bearing weight, but in the cost of movement speed. Can be used in the Save Our Ship 2 universe.</XEA_FireFiendM.description>
+  <XEA_HFireFiend.label>Огонь Fiend Шлем</XEA_HFireFiend.label>
+  <XEA_HFireFiend.description>Снаряжение для battlefield engineer. От tip к toe все сделал из hard gold, может resist brick атака well. Suited с SONAR к render строения, enable wearer accelerate его строительство скорость. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HFireFiend.description>
+  <XEA_FireFiend.label>Огонь Fiend Броня</XEA_FireFiend.label>
+  <XEA_FireFiend.description>Снаряжение для battlefield engineer. Design в order к enable personnel к fix и construct. Equiped с excavation tools и machine arms, whole броня сделал из hard gold, providing great сопротивление к дробящий урон и intense жара. Его leg's mechenical structure были modified к bearing weight, но в стоимость из движение скорость. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_FireFiend.description>
+  <XEA_HFireFiendM.label>Огонь Fiend Шлем Военный</XEA_HFireFiendM.label>
+  <XEA_HFireFiendM.description>Снаряжение для battlefield engineer. От tip к toe все сделал из hard gold, может resist brick атака well. Suited с SONAR к render строения, enable wearer accelerate его строительство скорость. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HFireFiendM.description>
+  <XEA_FireFiendM.label>Огонь Fiend Броня Военный</XEA_FireFiendM.label>
+  <XEA_FireFiendM.description>Снаряжение для battlefield engineer. Design в order к enable personnel к fix и construct. Equiped с excavation tools и machine arms, whole броня сделал из hard gold, providing great сопротивление к дробящий урон и intense жара. Его leg's mechenical structure были modified к bearing weight, но в стоимость из движение скорость. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_FireFiendM.description>
 
-  <XEA_HGiantSpirit.label>Giant Spirit Helmet</XEA_HGiantSpirit.label>
-  <XEA_HGiantSpirit.description>Heavy power armor helmet of the FlameLegion. Under its astonishing weight is its extraordinary prodection. Please keep in mind that wearing the power armor first, there are already mutiple case of broken neck due to overweight because they put on the helmet first. Can be used in the Save Our Ship 2 universe.</XEA_HGiantSpirit.description>
-  <XEA_GiantSpirit.label>Giant Spirit Armor</XEA_GiantSpirit.label>
-  <XEA_GiantSpirit.description>Heavy power armor of the FlameLegion. Its extra armorplate can provide great amount of protection, but quite heavy, result in the engine strugling to survive. Can be used in the Save Our Ship 2 universe.</XEA_GiantSpirit.description>
-  <XEA_HGiantSpiritM.label>Giant Spirit Helmet MIL</XEA_HGiantSpiritM.label>
-  <XEA_HGiantSpiritM.description>Heavy power armor helmet of the FlameLegion. Under its astonishing weight is its extraordinary prodection. Please keep in mind that wearing the power armor first, there are already mutiple case of broken neck due to overweight because they put on the helmet first. Can be used in the Save Our Ship 2 universe.</XEA_HGiantSpiritM.description>
-  <XEA_GiantSpiritM.label>Giant Spirit Armor MIL</XEA_GiantSpiritM.label>
-  <XEA_GiantSpiritM.description>Heavy power armor of the FlameLegion. Its extra armorplate can provide great amount of protection, but quite heavy, result in the engine strugling to survive. Can be used in the Save Our Ship 2 universe.</XEA_GiantSpiritM.description>
+  <XEA_HGiantSpirit.label>Giant Spirit Шлем</XEA_HGiantSpirit.label>
+  <XEA_HGiantSpirit.description>Тяжёлый силовая броня шлем из FlameLegion. Under его astonishing weight его extraordinary prodection. Please keep в mind то ношение силовая броня первый, there уже mutiple case из broken neck due к overweight потому что они put на шлем первый. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HGiantSpirit.description>
+  <XEA_GiantSpirit.label>Giant Spirit Броня</XEA_GiantSpirit.label>
+  <XEA_GiantSpirit.description>Тяжёлый силовая броня из FlameLegion. Его extra armorplate может provide great amount из protection, но quite тяжёлый, result в engine strugling к survive. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_GiantSpirit.description>
+  <XEA_HGiantSpiritM.label>Giant Spirit Шлем Военный</XEA_HGiantSpiritM.label>
+  <XEA_HGiantSpiritM.description>Тяжёлый силовая броня шлем из FlameLegion. Under его astonishing weight его extraordinary prodection. Please keep в mind то ношение силовая броня первый, there уже mutiple case из broken neck due к overweight потому что они put на шлем первый. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HGiantSpiritM.description>
+  <XEA_GiantSpiritM.label>Giant Spirit Броня Военный</XEA_GiantSpiritM.label>
+  <XEA_GiantSpiritM.description>Тяжёлый силовая броня из FlameLegion. Его extra armorplate может provide great amount из protection, но quite тяжёлый, result в engine strugling к survive. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_GiantSpiritM.description>
 
-  <XEA_HOverlord.label>Overlord Helmet</XEA_HOverlord.label>
-  <XEA_HOverlord.description>Equipment of the FlameLegion commander. Can be used in the Save Our Ship 2 universe.</XEA_HOverlord.description>
-  <XEA_Overlord.label>Overlord Armor</XEA_Overlord.label>
-  <XEA_Overlord.description>Equipment of the FlameLegion commander. Can be used in the Save Our Ship 2 universe.</XEA_Overlord.description>
-  <XEA_HOverlordM.label>Overlord Helmet MIL</XEA_HOverlordM.label>
-  <XEA_HOverlordM.description>Equipment of the FlameLegion commander. Can be used in the Save Our Ship 2 universe.</XEA_HOverlordM.description>
-  <XEA_OverlordM.label>Overlord Armor MIL</XEA_OverlordM.label>
-  <XEA_OverlordM.description>Equipment of the FlameLegion commander. Can be used in the Save Our Ship 2 universe.</XEA_OverlordM.description>
+  <XEA_HOverlord.label>Overlord Шлем</XEA_HOverlord.label>
+  <XEA_HOverlord.description>Снаряжение из FlameLegion commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HOverlord.description>
+  <XEA_Overlord.label>Overlord Броня</XEA_Overlord.label>
+  <XEA_Overlord.description>Снаряжение из FlameLegion commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_Overlord.description>
+  <XEA_HOverlordM.label>Overlord Шлем Военный</XEA_HOverlordM.label>
+  <XEA_HOverlordM.description>Снаряжение из FlameLegion commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HOverlordM.description>
+  <XEA_OverlordM.label>Overlord Броня Военный</XEA_OverlordM.label>
+  <XEA_OverlordM.description>Снаряжение из FlameLegion commander. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_OverlordM.description>
 
   <XEA_Chef.label>FFF Chef Suit</XEA_Chef.label>
-  <XEA_Chef.description>FlameLegion is always very serious about food, and their chef took this attitude to sickness. Their muti-culture background result in that there are hundreds of way to cook a humand. If you wear this suit than you can feel its POWER!</XEA_Chef.description>
+  <XEA_Chef.description>FlameLegion always очень serious about food, и их chef взял это attitude к sickness. Их muti-culture background result в то there hundreds из путь к cook humand. Если вы wear это suit чем вы может feel его Силовая!</XEA_Chef.description>
   
-  <XEA_HKnight.label>Knight Helmet</XEA_HKnight.label>
-  <XEA_HKnight.description>A helmet made of MPsteel, having both toughness and penetrate resistant. The berserker sytem can control its wearer's secretory system reducing pain. But there are many user suffering mutiple compound fracture in their limbs.</XEA_HKnight.description>
-  <XEA_Knight.label>Knight Armor</XEA_Knight.label>
-  <XEA_Knight.description>This armor is one of the best of the DimondBone. It's compound joint provide its wearer stronger strenght and speed. Made of MPsteel, it has both toughness and penetrat resistance but be careful, it is prone to thermal energy. Can be used in the Save Our Ship 2 universe.</XEA_Knight.description>
-  <XEA_HKnightM.label>Knight Helmet MIL</XEA_HKnightM.label>
-  <XEA_HKnightM.description>A helmet made of MPsteel, having both toughness and penetrate resistant. The berserker sytem can control its wearer's secretory system reducing pain. But there are many user suffering mutiple compound fracture in their limbs.</XEA_HKnightM.description>
-  <XEA_KnightM.label>Knight Armor MIL</XEA_KnightM.label>
-  <XEA_KnightM.description>This armor is one of the best of the DimondBone. It's compound joint provide its wearer stronger strenght and speed. Made of MPsteel, it has both toughness and penetrat resistance but be careful, it is prone to thermal energy. Can be used in the Save Our Ship 2 universe.</XEA_KnightM.description>
+  <XEA_HKnight.label>Рыцарь Шлем</XEA_HKnight.label>
+  <XEA_HKnight.description> шлем сделал из MPsteel, having both toughness и penetrate resistant. berserker sytem может контроль его wearer's secretory system reducing боль. Но there многие user suffering mutiple compound fracture в их limbs.</XEA_HKnight.description>
+  <XEA_Knight.label>Рыцарь Броня</XEA_Knight.label>
+  <XEA_Knight.description>Это броня один из лучший из DimondBone. Это compound joint provide его wearer stronger strenght и скорость. Сделал из MPsteel, это both toughness и penetrat сопротивление но быть careful, это prone к thermal energy. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_Knight.description>
+  <XEA_HKnightM.label>Рыцарь Шлем Военный</XEA_HKnightM.label>
+  <XEA_HKnightM.description> шлем сделал из MPsteel, having both toughness и penetrate resistant. berserker sytem может контроль его wearer's secretory system reducing боль. Но there многие user suffering mutiple compound fracture в их limbs.</XEA_HKnightM.description>
+  <XEA_KnightM.label>Рыцарь Броня Военный</XEA_KnightM.label>
+  <XEA_KnightM.description>Это броня один из лучший из DimondBone. Это compound joint provide его wearer stronger strenght и скорость. Сделал из MPsteel, это both toughness и penetrat сопротивление но быть careful, это prone к thermal energy. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_KnightM.description>
 
-  <XEA_HDarkKnight.label>Dark Knight Helmet</XEA_HDarkKnight.label>
-  <XEA_HDarkKnight.description>Equipment for the Dark Knight of the DimondBone.</XEA_HDarkKnight.description>
-  <XEA_DarkKnight.label>Dark Knight Armor</XEA_DarkKnight.label>
-  <XEA_DarkKnight.description>Equipment for the Dark Knight of the DimondBone. Can be used in the Save Our Ship 2 universe.</XEA_DarkKnight.description>
-  <XEA_HDarkKnightM.label>Dark Knight Helmet MIL</XEA_HDarkKnightM.label>
-  <XEA_HDarkKnightM.description>Equipment for the Dark Knight of the DimondBone.</XEA_HDarkKnightM.description>
-  <XEA_DarkKnightM.label>Dark Knight Armor MIL</XEA_DarkKnightM.label>
-  <XEA_DarkKnightM.description>Equipment for the Dark Knight of the DimondBone. Can be used in the Save Our Ship 2 universe.</XEA_DarkKnightM.description>
+  <XEA_HDarkKnight.label>Dark Рыцарь Шлем</XEA_HDarkKnight.label>
+  <XEA_HDarkKnight.description>Снаряжение для Dark Рыцарь из DimondBone.</XEA_HDarkKnight.description>
+  <XEA_DarkKnight.label>Dark Рыцарь Броня</XEA_DarkKnight.label>
+  <XEA_DarkKnight.description>Снаряжение для Dark Рыцарь из DimondBone. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_DarkKnight.description>
+  <XEA_HDarkKnightM.label>Dark Рыцарь Шлем Военный</XEA_HDarkKnightM.label>
+  <XEA_HDarkKnightM.description>Снаряжение для Dark Рыцарь из DimondBone.</XEA_HDarkKnightM.description>
+  <XEA_DarkKnightM.label>Dark Рыцарь Броня Военный</XEA_DarkKnightM.label>
+  <XEA_DarkKnightM.description>Снаряжение для Dark Рыцарь из DimondBone. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_DarkKnightM.description>
 
-  <XEA_HPlatinum.label>Platinum Helmet</XEA_HPlatinum.label>
-  <XEA_HPlatinum.description>Made of Platinum, it has great defence against both blunt and penetration. The built in invasive neural accelerator enable the wearer to lock on target in abnormal speed, but in the cost of accuracy due to the over-reaction to the muscles casued by the acceleration. Can be used in the Save Our Ship 2 universe.</XEA_HPlatinum.description>
-  <XEA_Platinum.label>Platinum Armor</XEA_Platinum.label>
-  <XEA_Platinum.description>Made of platinum, it has great defence against both blunt and penetration, the weight is also lighter compare to other power armor. Due to the fact that this kind of metal is also prone to thermal energy, therefore, it takes a hollow design to reduce thermal conductivity, which increase it volume and cause it to be less agile. Can be used in the Save Our Ship 2 universe.</XEA_Platinum.description>
-  <XEA_HPlatinumM.label>Platinum Helmet MIL</XEA_HPlatinumM.label>
-  <XEA_HPlatinumM.description>Made of Platinum, it has great defence against both blunt and penetration. The built in invasive neural accelerator enable the wearer to lock on target in abnormal speed, but in the cost of accuracy due to the over-reaction to the muscles casued by the acceleration. Can be used in the Save Our Ship 2 universe.</XEA_HPlatinumM.description>
-  <XEA_PlatinumM.label>Platinum Armor MIL</XEA_PlatinumM.label>
-  <XEA_PlatinumM.description>Made of platinum, it has great defence against both blunt and penetration, the weight is also lighter compare to other power armor. Due to the fact that this kind of metal is also prone to thermal energy, therefore, it takes a hollow design to reduce thermal conductivity, which increase it volume and cause it to be less agile. Can be used in the Save Our Ship 2 universe.</XEA_PlatinumM.description>
+  <XEA_HPlatinum.label>Platinum Шлем</XEA_HPlatinum.label>
+  <XEA_HPlatinum.description>Сделал из Platinum, это great defence против both дробящий и пробивание. built в invasive neural accelerator enable wearer к lock на цель в abnormal скорость, но в стоимость из точность due к over-reaction к muscles casued acceleration. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HPlatinum.description>
+  <XEA_Platinum.label>Platinum Броня</XEA_Platinum.label>
+  <XEA_Platinum.description>Сделал из platinum, это great defence против both дробящий и пробивание, weight также lighter compare к другой силовая броня. Due к fact то это kind из metal также prone к thermal energy, therefore, это takes hollow design к reduce thermal conductivity, which увеличить это volume и cause это к быть менее agile. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_Platinum.description>
+  <XEA_HPlatinumM.label>Platinum Шлем Военный</XEA_HPlatinumM.label>
+  <XEA_HPlatinumM.description>Сделал из Platinum, это great defence против both дробящий и пробивание. built в invasive neural accelerator enable wearer к lock на цель в abnormal скорость, но в стоимость из точность due к over-reaction к muscles casued acceleration. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HPlatinumM.description>
+  <XEA_PlatinumM.label>Platinum Броня Военный</XEA_PlatinumM.label>
+  <XEA_PlatinumM.description>Сделал из platinum, это great defence против both дробящий и пробивание, weight также lighter compare к другой силовая броня. Due к fact то это kind из metal также prone к thermal energy, therefore, это takes hollow design к reduce thermal conductivity, which увеличить это volume и cause это к быть менее agile. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_PlatinumM.description>
 
   <XEA_Medical.label>DB Doctor Suit</XEA_Medical.label>
-  <XEA_Medical.description>Reaserchers of DimondBone are addictive to bio-techonology. After conducting numerous of inhuman experment, their knowledge in human body and medicine are deeper than those in the middle rimworld. Wearing it you can also feel its POWER!</XEA_Medical.description>
+  <XEA_Medical.description>Reaserchers из DimondBone addictive к bio-techonology. После conducting numerous из inhuman experment, их knowledge в человек тело и medicine deeper чем те в middle rimworld. Ношение это вы может также feel его Силовая!</XEA_Medical.description>
   
-  <XEA_HBlackSea.label>Black Sea Walker Helmet</XEA_HBlackSea.label>
-  <XEA_HBlackSea.description>This armor was originally reserved for Pirate Lord's stroops. The Pirate Lord like to call the univers as black sea, and this gives the armor its name. Made of blacksteel, it can adapt to variour situation. Though old, it is still popular amoung the pirate of its great performance and its story. Can be used in the Save Our Ship 2 universe.</XEA_HBlackSea.description>
-  <XEA_BlackSea.label>Black Sea Walker Armor</XEA_BlackSea.label>
-  <XEA_BlackSea.description>This armor was originally reserved for Pirate Lord's stroops. The Pirate Lord like to call the univers as black sea, and this gives the armor its name. Made of blacksteel, it can adapt to variour situation. Though old, it is still popular amoung the pirate of its great performance and its story. Can be used in the Save Our Ship 2 universe.</XEA_BlackSea.description>
-  <XEA_HBlackSeaM.label>Black Sea Walker Helmet MIL</XEA_HBlackSeaM.label>
-  <XEA_HBlackSeaM.description>This armor was originally reserved for Pirate Lord's stroops. The Pirate Lord like to call the univers as black sea, and this gives the armor its name. Made of blacksteel, it can adapt to variour situation. Though old, it is still popular amoung the pirate of its great performance and its story. Can be used in the Save Our Ship 2 universe.</XEA_HBlackSeaM.description>
-  <XEA_BlackSeaM.label>Black Sea Walker Armor MIL</XEA_BlackSeaM.label>
-  <XEA_BlackSeaM.description>This armor was originally reserved for Pirate Lord's stroops. The Pirate Lord like to call the univers as black sea, and this gives the armor its name. Made of blacksteel, it can adapt to variour situation. Though old, it is still popular amoung the pirate of its great performance and its story. Can be used in the Save Our Ship 2 universe.</XEA_BlackSeaM.description>
+  <XEA_HBlackSea.label>Чёрное Sea Walker Шлем</XEA_HBlackSea.label>
+  <XEA_HBlackSea.description>Это броня был originally reserved для Пират Lord's stroops. Пират Lord like к call univers как чёрное sea, и это gives броня его имя. Сделал из blacksteel, это может adapt к variour ситуация. Though old, это still popular amoung пират из его great performance и его story. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HBlackSea.description>
+  <XEA_BlackSea.label>Чёрное Sea Walker Броня</XEA_BlackSea.label>
+  <XEA_BlackSea.description>Это броня был originally reserved для Пират Lord's stroops. Пират Lord like к call univers как чёрное sea, и это gives броня его имя. Сделал из blacksteel, это может adapt к variour ситуация. Though old, это still popular amoung пират из его great performance и его story. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_BlackSea.description>
+  <XEA_HBlackSeaM.label>Чёрное Sea Walker Шлем Военный</XEA_HBlackSeaM.label>
+  <XEA_HBlackSeaM.description>Это броня был originally reserved для Пират Lord's stroops. Пират Lord like к call univers как чёрное sea, и это gives броня его имя. Сделал из blacksteel, это может adapt к variour ситуация. Though old, это still popular amoung пират из его great performance и его story. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_HBlackSeaM.description>
+  <XEA_BlackSeaM.label>Чёрное Sea Walker Броня Военный</XEA_BlackSeaM.label>
+  <XEA_BlackSeaM.description>Это броня был originally reserved для Пират Lord's stroops. Пират Lord like к call univers как чёрное sea, и это gives броня его имя. Сделал из blacksteel, это может adapt к variour ситуация. Though old, это still popular amoung пират из его great performance и его story. Может быть используется в Спасти Наш Корабль 2 вселенная.</XEA_BlackSeaM.description>
 
   <XEA_Gown.label>Noble Gown</XEA_Gown.label>
-  <XEA_Gown.description>The nobles are often good social animals and born with good tatlent. Put on this gown and feels their charm.</XEA_Gown.description>
+  <XEA_Gown.description> nobles often хороший социальный животные и born с хороший tatlent. Put на это gown и feels их charm.</XEA_Gown.description>
 
   <XEA_Shorts.label>Shorts</XEA_Shorts.label>
-  <XEA_Shorts.description>Underwear was originally used to hide the private parts of the body, and with the development of culture, their function have also changed.</XEA_Shorts.description>
+  <XEA_Shorts.description>Underwear был originally используется к hide private части из тело, и с development из культура, их function иметь также changed.</XEA_Shorts.description>
 
-  <XEA_Underwear.label>Female Underwear</XEA_Underwear.label>
-  <XEA_Underwear.description>Underwear was originally used to hide the private parts of the body, and with the development of culture, their function have also changed.</XEA_Underwear.description>
+  <XEA_Underwear.label>Женщина Underwear</XEA_Underwear.label>
+  <XEA_Underwear.description>Underwear был originally используется к hide private части из тело, и с development из культура, их function иметь также changed.</XEA_Underwear.description>
 
   <XEA_Tights.label>Nano Tights</XEA_Tights.label>
-  <XEA_Tights.description>A invasive tights. The nanobots in the suit will repair body tissue and accelerate the metabolism of the wearer and makes them sexy.</XEA_Tights.description>
+  <XEA_Tights.description> invasive tights. nanobots в suit будет repair тело tissue и accelerate metabolism из wearer и makes их sexy.</XEA_Tights.description>
 
   <XEA_HWedding.label>Wedding Veil</XEA_HWedding.label>
-  <XEA_HWedding.description>"If there is a day which woman is the fairest, this is the day!" Oringinal the wedding veil of the StarExplorers, its glorious carved into others memories and soon accepted by other factions' people and become a shared culture.</XEA_HWedding.description>
+  <XEA_HWedding.description>"Если there день which woman fairest, это день!" Oringinal wedding veil из StarExplorers, его glorious carved в others memories и скоро accepted другой factions' люди и стать shared культура.</XEA_HWedding.description>
 
   <XEA_Wedding.label>Wedding Dress</XEA_Wedding.label>
-  <XEA_Wedding.description>"If there is a day which woman is the fairest, this is the day!" Oringinal the wedding veil of the StarExplorers, its glorious carved into others memories and soon accepted by other factions' people and become a shared culture.</XEA_Wedding.description>
+  <XEA_Wedding.description>"Если there день which woman fairest, это день!" Oringinal wedding veil из StarExplorers, его glorious carved в others memories и скоро accepted другой factions' люди и стать shared культура.</XEA_Wedding.description>
 
   <XEA_WeddingM.label>Tuxedo</XEA_WeddingM.label>
-  <XEA_WeddingM.description>"If there is a day which man is the toughest, this is the day!" Oringinal the wedding suit of the StarExplorer, its glorious carved into others memories and soon accepted by other factions' people and become a shared culture.</XEA_WeddingM.description>
-
-</LanguageData>
+  <XEA_WeddingM.description>"Если there день which мужчина toughest, это день!" Oringinal wedding suit из StarExplorer, его glorious carved в others memories и скоро accepted другой factions' люди и стать shared культура.</XEA_WeddingM.description></LanguageData>

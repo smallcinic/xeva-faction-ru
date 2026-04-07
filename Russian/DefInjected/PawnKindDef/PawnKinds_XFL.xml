@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
   <FL_Noble.label>FL Noble</FL_Noble.label>
   <FL_Bully.label>FL Bully</FL_Bully.label>
   <FL_Grabber.label>FL Grabber</FL_Grabber.label>
   <FL_Poacher.label>FL Poacher</FL_Poacher.label>
-  <FL_Hunter.label>FL Hunter</FL_Hunter.label>
+  <FL_Hunter.label>FL Охотник</FL_Hunter.label>
   <FL_Vanguard.label>FL Vanguard</FL_Vanguard.label>
   <FL_Deadeye.label>FL Deadeye</FL_Deadeye.label>
   <FL_Looter.label>FL Looter</FL_Looter.label>
   <FL_Commander.label>FL Commander</FL_Commander.label>
   <FL_Halberdier.label>FL Halberdier</FL_Halberdier.label>
-  <FL_Leader.label>FL Corps Leader</FL_Leader.label>
+  <FL_Leader.label>FL Corps Лидер</FL_Leader.label>
 
   <FL_NobleRatkin.label>FL Noble</FL_NobleRatkin.label>
   <FL_BullyRatkin.label>FL Bully</FL_BullyRatkin.label>
   <FL_GrabberRatkin.label>FL Grabber</FL_GrabberRatkin.label>
   <FL_PoacherRatkin.label>FL Poacher</FL_PoacherRatkin.label>
-  <FL_HunterRatkin.label>FL Hunter</FL_HunterRatkin.label>
+  <FL_HunterRatkin.label>FL Охотник</FL_HunterRatkin.label>
   <FL_VanguardRatkin.label>FL Vanguard</FL_VanguardRatkin.label>
   <FL_DeadeyeRatkin.label>FL Deadeye</FL_DeadeyeRatkin.label>
   <FL_LooterRatkin.label>FL Looter</FL_LooterRatkin.label>
@@ -28,7 +28,7 @@
   <FL_BullyAstoriel.label>FL Bully</FL_BullyAstoriel.label>
   <FL_GrabberAstoriel.label>FL Grabber</FL_GrabberAstoriel.label>
   <FL_PoacherAstoriel.label>FL Poacher</FL_PoacherAstoriel.label>
-  <FL_HunterAstoriel.label>FL Hunter</FL_HunterAstoriel.label>
+  <FL_HunterAstoriel.label>FL Охотник</FL_HunterAstoriel.label>
   <FL_VanguardAstoriel.label>FL Vanguard</FL_VanguardAstoriel.label>
   <FL_DeadeyeAstoriel.label>FL Deadeye</FL_DeadeyeAstoriel.label>
   <FL_LooterAstoriel.label>FL Looter</FL_LooterAstoriel.label>
@@ -39,7 +39,7 @@
   <FL_BullyRevia.label>FL Bully</FL_BullyRevia.label>
   <FL_GrabberRevia.label>FL Grabber</FL_GrabberRevia.label>
   <FL_PoacherRevia.label>FL Poacher</FL_PoacherRevia.label>
-  <FL_HunterRevia.label>FL Hunter</FL_HunterRevia.label>
+  <FL_HunterRevia.label>FL Охотник</FL_HunterRevia.label>
   <FL_VanguardRevia.label>FL Vanguard</FL_VanguardRevia.label>
   <FL_DeadeyeRevia.label>FL Deadeye</FL_DeadeyeRevia.label>
   <FL_LooterRevia.label>FL Looter</FL_LooterRevia.label>
@@ -50,7 +50,7 @@
   <FL_BullyFerian.label>FL Bully</FL_BullyFerian.label>
   <FL_GrabberFerian.label>FL Grabber</FL_GrabberFerian.label>
   <FL_PoacherFerian.label>FL Poacher</FL_PoacherFerian.label>
-  <FL_HunterFerian.label>FL Hunter</FL_HunterFerian.label>
+  <FL_HunterFerian.label>FL Охотник</FL_HunterFerian.label>
   <FL_VanguardFerian.label>FL Vanguard</FL_VanguardFerian.label>
   <FL_DeadeyeFerian.label>FL Deadeye</FL_DeadeyeFerian.label>
   <FL_LooterFerian.label>FL Looter</FL_LooterFerian.label>
@@ -61,7 +61,7 @@
   <FL_BullyLapelli.label>FL Bully</FL_BullyLapelli.label>
   <FL_GrabberLapelli.label>FL Grabber</FL_GrabberLapelli.label>
   <FL_PoacherLapelli.label>FL Poacher</FL_PoacherLapelli.label>
-  <FL_HunterLapelli.label>FL Hunter</FL_HunterLapelli.label>
+  <FL_HunterLapelli.label>FL Охотник</FL_HunterLapelli.label>
   <FL_VanguardLapelli.label>FL Vanguard</FL_VanguardLapelli.label>
   <FL_DeadeyeLapelli.label>FL Deadeye</FL_DeadeyeLapelli.label>
   <FL_LooterLapelli.label>FL Looter</FL_LooterLapelli.label>
@@ -72,11 +72,9 @@
   <FL_BullyKurin.label>FL Bully</FL_BullyKurin.label>
   <FL_GrabberKurin.label>FL Grabber</FL_GrabberKurin.label>
   <FL_PoacherKurin.label>FL Poacher</FL_PoacherKurin.label>
-  <FL_HunterKurin.label>FL Hunter</FL_HunterKurin.label>
+  <FL_HunterKurin.label>FL Охотник</FL_HunterKurin.label>
   <FL_VanguardKurin.label>FL Vanguard</FL_VanguardKurin.label>
   <FL_DeadeyeKurin.label>FL Deadeye</FL_DeadeyeKurin.label>
   <FL_LooterKurin.label>FL Looter</FL_LooterKurin.label>
   <FL_CommanderKurin.label>FL Commander</FL_CommanderKurin.label>
-  <FL_HalberdierKurin.label>FL Halberdier</FL_HalberdierKurin.label>
-
-</LanguageData>
+  <FL_HalberdierKurin.label>FL Halberdier</FL_HalberdierKurin.label></LanguageData>

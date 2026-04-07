@@ -1,49 +1,37 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <XEFDiamondBone.label>Diamond Bone</XEFDiamondBone.label>
-  <XEFDiamondBone.description>&lt;color=#ff0000&gt;Diamond Bone and Jaeger become enemies because of the competition for resources, and the Flame Legion takes Diamond Bone as the target of looting, so Jaeger and Flame Legion are always at hostile with Diamond Bone.&lt;/color&gt;
-  
-Once there is a dragon leading barbarains wrecking the country. In the deepist despair, a savior was sent down to the earth leading army of knights to slay the dragon and this kind savior even spare the barbarians. To show their gratitude, these barbarians king this dragon-slayer and vow to serve him and his descendant. This is the legend of the foundation of Diamond Bon. However, some historian think this is merely a story crated to manipulate the people, and the dragon possibily is the reble leader at that time.</XEFDiamondBone.description>
-  <XEFDiamondBone.pawnSingular>Diamond Bone Man</XEFDiamondBone.pawnSingular>
-  <XEFDiamondBone.pawnsPlural>Diamond Bone People</XEFDiamondBone.pawnsPlural>
-  <XEFDiamondBone.leaderTitle>The King</XEFDiamondBone.leaderTitle>
-  <XEFDiamondBone.fixedName>Diamond Bone</XEFDiamondBone.fixedName>
+  <XEFDiamondBone.label>Алмаз Кость</XEFDiamondBone.label>
+  <XEFDiamondBone.description>&lt;color=#ff0000&gt;Алмаз Кость и Jaeger стать враги потому что из competition для ресурсы, и Пламя Легион takes Алмаз Кость как цель из looting, так что Jaeger и Пламя Легион always в hostile с Алмаз Кость.&lt;/color&gt; Однажды there dragon leading barbarains wrecking country. В deepist despair, savior был sent вниз к earth leading army из knights к slay dragon и это kind savior даже spare barbarians. К show их gratitude, эти barbarians король это dragon-slayer и vow к serve его и его descendant. Это legend из foundation из Алмаз Bon. Однако, некоторые historian think это merely story crated к manipulate люди, и dragon possibily reble лидер в то время.</XEFDiamondBone.description>
+  <XEFDiamondBone.pawnSingular>Алмаз Кость Мужчина</XEFDiamondBone.pawnSingular>
+  <XEFDiamondBone.pawnsPlural>Алмаз Кость Люди</XEFDiamondBone.pawnsPlural>
+  <XEFDiamondBone.leaderTitle> Король</XEFDiamondBone.leaderTitle>
+  <XEFDiamondBone.fixedName>Алмаз Кость</XEFDiamondBone.fixedName>
 
-  <XEFFlameLegion.label>Flame Legion</XEFFlameLegion.label>
-  <XEFFlameLegion.description>&lt;color=#ff0000&gt;The members of the Flame Legion hate the Star Explorer because they were banished, and the Diamond Bone hates Flame Legion because of the looting, so Star Explorer and Diamond Bone are always at hostile with Flame Legion.&lt;/color&gt;
-
-A.K.A FFF Legion, the first F represnet fire, second the fear, and third the freedom. It is founded by a StarExplorer noble who was feeling sympathy to those who were exiled, therefore founded a organization to support them. However, this organization was later disbanded by the StarExplorer congress and the nobel's house was also exciled for treason. But this noble, gratituded by those who he had helped, was made to become the leader among the exiled. So he united others who were also forsaked and the tribes to become the Flame Legion.</XEFFlameLegion.description>
-  <XEFFlameLegion.pawnSingular>Flame Legion Soldier</XEFFlameLegion.pawnSingular>
-  <XEFFlameLegion.pawnsPlural>Flame Legion Soldiers</XEFFlameLegion.pawnsPlural>
-  <XEFFlameLegion.leaderTitle>Supreme Leader</XEFFlameLegion.leaderTitle>
-  <XEFFlameLegion.fixedName>Flame Legion</XEFFlameLegion.fixedName>
+  <XEFFlameLegion.label>Пламя Легион</XEFFlameLegion.label>
+  <XEFFlameLegion.description>&lt;color=#ff0000&gt; члены из Пламя Легион hate Star Исследователь потому что они были banished, и Алмаз Кость hates Пламя Легион потому что из looting, так что Star Исследователь и Алмаз Кость always в hostile с Пламя Легион.&lt;/color&gt;.K. FFF Легион, первый F represnet огонь, секунда fear, и third freedom. Это founded StarExplorer noble who был feeling sympathy к те who были exiled, therefore founded организация к support их. Однако, это организация был later disbanded StarExplorer congress и nobel's house был также exciled для treason. Но это noble, gratituded те who он имел helped, был сделал к стать лидер among exiled. Так что он united others who были также forsaked и tribes к стать Пламя Легион.</XEFFlameLegion.description>
+  <XEFFlameLegion.pawnSingular>Пламя Легион Солдат</XEFFlameLegion.pawnSingular>
+  <XEFFlameLegion.pawnsPlural>Пламя Легион Солдаты</XEFFlameLegion.pawnsPlural>
+  <XEFFlameLegion.leaderTitle>Supreme Лидер</XEFFlameLegion.leaderTitle>
+  <XEFFlameLegion.fixedName>Пламя Легион</XEFFlameLegion.fixedName>
 
   <XEFJaegar.label>Jaeger</XEFJaegar.label>
-  <XEFJaegar.description>&lt;color=#ff0000&gt;Jaeger and Diamond Bone became enemies in order to compete for resources, the Jaeger is also hostile to XEO because of the employment contract of the Star Explorer, so Diamond Bone and XEO are always at hostile with Jaeger.&lt;/color&gt;
-
-There were once a bunch of space pirates who raid not the village but other pirates. They grow and getting stronger,  reformed and slowly become an army and eventually become a force that cannot be ignored. They raid and raid and growing bigger and bigger to the point that only by raiding cannot support it's daily operation, so they reform and evolve and become the Jaeger today.</XEFJaegar.description>
-  <XEFJaegar.pawnSingular>Jaeger Man</XEFJaegar.pawnSingular>
+  <XEFJaegar.description>&lt;color=#ff0000&gt;Jaeger и Алмаз Кость стал враги в order к compete для ресурсы, Jaeger также hostile к XEO потому что из employment contract из Star Исследователь, так что Алмаз Кость и XEO always в hostile с Jaeger.&lt;/color&gt; There были однажды bunch из space pirates who налёт не village но другой pirates. Они grow и getting stronger, reformed и slowly стать army и eventually стать сила то не может быть ignored. Они налёт и налёт и growing bigger и bigger к point то только raiding не может support это daily operation, так что они reform и evolve и стать Jaeger today.</XEFJaegar.description>
+  <XEFJaegar.pawnSingular>Jaeger Мужчина</XEFJaegar.pawnSingular>
   <XEFJaegar.pawnsPlural>Jaeger Citizen</XEFJaegar.pawnsPlural>
   <XEFJaegar.leaderTitle>Hero</XEFJaegar.leaderTitle>
   <XEFJaegar.fixedName>Jaeger</XEFJaegar.fixedName>
 
-  <XEFStarExplorer.label>Star Explorer</XEFStarExplorer.label>
-  <XEFStarExplorer.description>&lt;color=#ff0000&gt;Flame Legion is considered a threat by the Star Explorer for launching terrorist attacks, and the Star Explorer are also hostile to the XEO for historical reasons, so Flame Legion and XEO are always at hostile with Star Explorer.&lt;/color&gt;
-
-A giant faction which was originally a group of scientist who were persecuted by politic and religion. However, some of these scientist hold the technology of the space trvel and mining. Under their leadership, they lead their fellow scientist and other exiled outsider to become a high-tech organization, attracting lots of investment, and finally become the StarExplorer today.</XEFStarExplorer.description>
-  <XEFStarExplorer.pawnSingular>Star Explorer Man</XEFStarExplorer.pawnSingular>
-  <XEFStarExplorer.pawnsPlural>Star Explorer Citizen</XEFStarExplorer.pawnsPlural>
+  <XEFStarExplorer.label>Star Исследователь</XEFStarExplorer.label>
+  <XEFStarExplorer.description>&lt;color=#ff0000&gt;Пламя Легион considered threat Star Исследователь для launching terrorist attacks, и Star Исследователь также hostile к XEO для historical reasons, так что Пламя Легион и XEO always в hostile с Star Исследователь.&lt;/color&gt; giant фракция which был originally group из scientist who были persecuted politic и religion. Однако, некоторые из эти scientist hold technology из space trvel и добыча. Under их leadership, они lead их fellow scientist и другой exiled outsider к стать high-tech организация, attracting lots из investment, и наконец стать StarExplorer today.</XEFStarExplorer.description>
+  <XEFStarExplorer.pawnSingular>Star Исследователь Мужчина</XEFStarExplorer.pawnSingular>
+  <XEFStarExplorer.pawnsPlural>Star Исследователь Citizen</XEFStarExplorer.pawnsPlural>
   <XEFStarExplorer.leaderTitle>Speaker</XEFStarExplorer.leaderTitle>
-  <XEFStarExplorer.fixedName>Star Explorer</XEFStarExplorer.fixedName>
+  <XEFStarExplorer.fixedName>Star Исследователь</XEFStarExplorer.fixedName>
 
   <XEFXEO.label>XEO</XEFXEO.label>
-  <XEFXEO.description>&lt;color=#ff0000&gt;XEO is feuding with Star Explorer for historical reasons. The Star Explorer has long employed the Jaeger to hunt XEO followers, so Star Explorer and Jaeger are always at hostile with XEO.&lt;/color&gt;
-
-A mysterious assassin organization. XEO only by it's name seems meaningless, however, it is said that it's an ancient hieroglyphics representing a kind of highly poisonous plants. And the founder of XEO always use this plant to assassin those abuse their power thus getting this name.</XEFXEO.description>
+  <XEFXEO.description>&lt;color=#ff0000&gt;XEO feuding с Star Исследователь для historical reasons. Star Исследователь долгий employed Jaeger к hunt XEO followers, так что Star Исследователь и Jaeger always в hostile с XEO.&lt;/color&gt; mysterious ассасин организация. XEO только это имя seems meaningless, однако, это said то это древний hieroglyphics representing kind из highly poisonous растения. И founder из XEO always использовать это plant к ассасин те abuse их силовая thus getting это имя.</XEFXEO.description>
   <XEFXEO.pawnSingular>XEO Member</XEFXEO.pawnSingular>
-  <XEFXEO.pawnsPlural>XEO Members</XEFXEO.pawnsPlural>
+  <XEFXEO.pawnsPlural>XEO Члены</XEFXEO.pawnsPlural>
   <XEFXEO.leaderTitle>Elder</XEFXEO.leaderTitle>
-  <XEFXEO.fixedName>XEO</XEFXEO.fixedName>
-
-</LanguageData>
+  <XEFXEO.fixedName>XEO</XEFXEO.fixedName></LanguageData>

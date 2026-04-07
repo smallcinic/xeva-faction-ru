@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <AEXHead.label>head</AEXHead.label>
+  <AEXHead.label>голова</AEXHead.label>
   <AEXHair.label>hair</AEXHair.label>
   <AEXSkull.label>skull</AEXSkull.label>
   <AEXBrain.label>core</AEXBrain.label>
-  <AEXEye.label>eye</AEXEye.label>
+  <AEXEye.label>глаз</AEXEye.label>
   <AEXEar.label>ear</AEXEar.label>
-  <AEXNose.label>nose</AEXNose.label>
+  <AEXNose.label>нос</AEXNose.label>
   <AEXJaw.label>jaw</AEXJaw.label>
   <AEXNeck.label>neck</AEXNeck.label>
   <AEXRibcage.label>ribcage</AEXRibcage.label>
   <AEXSpine.label>spine</AEXSpine.label>
-  <AEXLeg.label>leg</AEXLeg.label>
-  <AEXFoot.label>foot</AEXFoot.label>
+  <AEXLeg.label>нога</AEXLeg.label>
+  <AEXFoot.label>ступня</AEXFoot.label>
   <AEXTorso.label>torso</AEXTorso.label>
-  <AEXShoulder.label>shoulder</AEXShoulder.label>
-  <AEXArm.label>arm</AEXArm.label>
-  <AEXHand.label>hand</AEXHand.label>
+  <AEXShoulder.label>плечо</AEXShoulder.label>
+  <AEXArm.label>рука</AEXArm.label>
+  <AEXHand.label>кисть</AEXHand.label>
   <AEXFinger.label>finger</AEXFinger.label>
   <AEXWaist.label>waist</AEXWaist.label>
   <AEXToe.label>toe</AEXToe.label>
@@ -28,10 +28,8 @@
   <AEXPelvis.label>pelvis</AEXPelvis.label>
   <AEXFemur.label>femur</AEXFemur.label>
   <AEXTibia.label>tibia</AEXTibia.label>
-  <AEXHeart.label>heart</AEXHeart.label>
+  <AEXHeart.label>сердце</AEXHeart.label>
   <AEXLung.label>lung</AEXLung.label>
   <AEXKidney.label>kidney</AEXKidney.label>
   <AEXLiver.label>liver</AEXLiver.label>
-  <AEXStomach.label>stomach</AEXStomach.label>
-
-</LanguageData>
+  <AEXStomach.label>stomach</AEXStomach.label></LanguageData>

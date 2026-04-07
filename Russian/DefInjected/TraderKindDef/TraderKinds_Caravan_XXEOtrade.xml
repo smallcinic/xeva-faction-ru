@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
   <Caravan_XXEO_CombatSupplier.label>Combat Supplier</Caravan_XXEO_CombatSupplier.label>
-  <Caravan_XXEO_BulkGoods.label>Bulk Goods Trader</Caravan_XXEO_BulkGoods.label>
-  <Caravan_XXEO_Exotic.label>Exotic Trader</Caravan_XXEO_Exotic.label>
-
-</LanguageData>
+  <Caravan_XXEO_BulkGoods.label>Bulk Goods Торговец</Caravan_XXEO_BulkGoods.label>
+  <Caravan_XXEO_Exotic.label>Exotic Торговец</Caravan_XXEO_Exotic.label></LanguageData>
