@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <RedStoneWeaponUF.label>Unfinished Red Stone Weapon</RedStoneWeaponUF.label>
+  <RedStoneWeaponUF.description>An Unfinished Red Stone Weapon.</RedStoneWeaponUF.description>
+  
+  <XLAR_DBlow.label>Diamond Bone Servant Coat</XLAR_DBlow.label>
+  <XLAR_DBlow.description>The battle apparel used by Diamond Bone soldiers. It is a kind of circulating equipment and its performance is similar to flak jacket.</XLAR_DBlow.description>
+  <XLAR_FLlow.label>Flame Legion Mech Cloak</XLAR_FLlow.label>
+  <XLAR_FLlow.description>The battle apparel used by Flame Legion soldiers. It is a kind of circulating equipment and its performance is similar to flak jacket.</XLAR_FLlow.description> 
+  <XLAR_JGlow.label>Jaeger March Coat</XLAR_JGlow.label>
+  <XLAR_JGlow.description>The battle apparel used by Jaeger soldiers. It is a kind of circulating equipment and its performance is similar to flak jacket.</XLAR_JGlow.description>
+  <XLAR_SElow.label>Star Explorer Mech Cloak</XLAR_SElow.label>
+  <XLAR_SElow.description>The battle apparel used by Star Explorer soldiers. It is a kind of circulating equipment and its performance is similar to flak jacket.</XLAR_SElow.description>
+  <XLAR_XEOlow.label>XEO Combat Suit</XLAR_XEOlow.label>
+  <XLAR_XEOlow.description>The battle apparel used by XEO soldiers. It is a kind of circulating equipment and its performance is similar to flak jacket.</XLAR_XEOlow.description>
+
+  <XLHR_DBlow.label>Diamond Bone Servant Helmet</XLHR_DBlow.label>
+  <XLHR_DBlow.description>The combat helmet used by Diamond Bone soldiers. It is a kind of circulating equipment and its performance is similar to flak helmet.</XLHR_DBlow.description>
+  <XLHR_FLlow.label>Flame Legion Mech Helmet</XLHR_FLlow.label>
+  <XLHR_FLlow.description>The combat helmet used by Flame Legion soldiers. It is a kind of circulating equipment and its performance is similar to flak helmet.</XLHR_FLlow.description> 
+  <XLHR_JGlow.label>Jaeger March Helmet</XLHR_JGlow.label>
+  <XLHR_JGlow.description>The combat helmet used by Jaeger soldiers. It is a kind of circulating equipment and its performance is similar to flak helmet.</XLHR_JGlow.description>
+  <XLHR_SElow.label>Star Explorer Mech Helmet</XLHR_SElow.label>
+  <XLHR_SElow.description>The combat helmet used by Star Explorer soldiers. It is a kind of circulating equipment and its performance is similar to flak helmet.</XLHR_SElow.description>
+  <XLHR_XEOlow.label>XEO Headband</XLHR_XEOlow.label>
+  <XLHR_XEOlow.description>The combat helmet used by XEO soldiers. It is a kind of circulating equipment and its performance is similar to flak helmet.</XLHR_XEOlow.description>
+  <XLHR_ATG.label>Assault Tactical Goggles</XLHR_ATG.label>
+  <XLHR_ATG.description>Equipped with an auxiliary aiming interface, allowing users to press the trigger more quickly when facing a target.</XLHR_ATG.description>
+  <XLHR_OTG.label>Optical Tactical Goggles</XLHR_OTG.label>
+  <XLHR_OTG.description>Equipment used in special operations, with multiple optical modes to adapt to different environments and needs, effectively improving the user's shooting accuracy.</XLHR_OTG.description>
+
+  <XEO_TheBlade.label>O Blade</XEO_TheBlade.label>
+  <XEO_TheBlade.description>Don't want to infect me ...ah...ah!! ah!!!\n\nWhen not equipped, characters with a redstone connection will interact with the weapon, slightly increasing its damage and repairing its durability.</XEO_TheBlade.description>
+  <XEO_TheBlade.tools.0.label>GhostCut.First</XEO_TheBlade.tools.0.label>
+  <XEO_TheBlade.tools.1.label>GhostCut.Second</XEO_TheBlade.tools.1.label>
+  <XEO_TheBlade.tools.2.label>GhostCut.Zero</XEO_TheBlade.tools.2.label>
+  <XEO_TheBlade.tools.3.label>Flash of XEO</XEO_TheBlade.tools.3.label>
+
+  <XSP_Phoenix.label>Phoenix Cloak</XSP_Phoenix.label>
+  <XSP_Phoenix.description>The armor worn by the legendary Phoenix reveals its experience in the midst of chaotic battles. The intricate mechanical structures on its cloak indicate that this armor is specifically designed for close combat. Thanks to the synergy between its sensors and reaction accelerators, it can easily deflect any incoming bullets while attacking an enemy, and with the help of its energy transmission system, it quickly replenishes the shield's operational capacity. However, due to rapid heat accumulation from swift movements, the armor will automatically dissipate heat when overheated, entering a cooling phase and temporarily losing all functionality.</XSP_Phoenix.description>
+  <XSP_HPhoenix.label>Phoenix Helmet</XSP_HPhoenix.label>
+  <XSP_HPhoenix.description>The equipment worn by the legendary Phoenix.</XSP_HPhoenix.description>
+ 
+  <XSP_FreeWill.label>Free Will Armor</XSP_FreeWill.label>
+  <XSP_FreeWill.description>The armor of the legendary Free Will appears to have only basic energy conversion capabilities on its shield surface. However, it actually incorporates counteraction field technology. When the energy it encounters exceeds a certain threshold, this counteraction field can be activated, nullifying all damage. If the force field is shattered, the armor automatically releases a smoke screen, allowing the wearer to either escape or regroup for a counterattack. Can be used in the Save Our Ship 2 universe.</XSP_FreeWill.description>
+  <XSP_FreeWill.verbs.jump.label>jump</XSP_FreeWill.verbs.jump.label>
+  <XSP_FreeWill.comps.CompApparelReloadable.chargeNoun>star tear</XSP_FreeWill.comps.CompApparelReloadable.chargeNoun>
+  <XSP_HFreeWill.label>Free Will Helmet</XSP_HFreeWill.label>
+  <XSP_HFreeWill.description>The equipment worn by the legendary Free Will. Can be used in the Save Our Ship 2 universe.</XSP_HFreeWill.description>
+
+  <XSP_GoldenLion.label>Golden Lion Armor</XSP_GoldenLion.label>
+  <XSP_GoldenLion.description>The armor worn by the legendary Pirate King is equipped with quantum phase shield technology. This shield's energy dynamically adjusts with each hit it takes, either increasing or decreasing. When the shield's energy collapses, it releases a shockwave, dazing all conscious beings within range, including the wearer themselves. Therefore, the effectiveness of this armor largely depends on luck. The Pirate King, fortunate as he was, managed to battle seven heroes throughout an entire night. However, even without considering the shield, the armor itself offers exceptional protection. The only concern is whether you can still move freely after putting it on. Can be used in the Save Our Ship 2 universe.</XSP_GoldenLion.description>
+  <XSP_GoldenLion.verbs.launch_missile.label>launch missile</XSP_GoldenLion.verbs.launch_missile.label>
+  <XSP_HGoldenLion.comps.CompApparelReloadable.chargeNoun>missile</XSP_HGoldenLion.comps.CompApparelReloadable.chargeNoun>
+  <XSP_HGoldenLion.label>Golden Lion Helmet</XSP_HGoldenLion.label>
+  <XSP_HGoldenLion.description>The equipment worn by the legendary Pirate King. Can be used in the Save Our Ship 2 universe.</XSP_HGoldenLion.description>
+
+  <XSP_Maid.label>Battle Maid Dress</XSP_Maid.label>
+  <XSP_Maid.description>The maid dress was originally a uniform worn by the maid, but since when people associate it with the battle, and this is an example.
+
+This skirt is a rich man longing for the sword maid in the battlefield of the heroic posture and made things.
+
+He spared no effort to invest in this project, so that the dress equipped with a super-response system, high-speed servo motor, nanomuscular outer layer, as long as wearing it, even ordinary people can make the same action as cyborg.
+
+However, this is not useful, because it is always a maid dress, in the absence of armor defense in the case of difficult to cope with the chaotic and changing situation on the battlefield, and it is very expensive, so expensive that it can not be mass-produced, and finally the rich man went bankrupt, the product flowed into the black market.</XSP_Maid.description>
+  <XSP_HMaid.label>Battle Maid Headwear</XSP_HMaid.label>
+  <XSP_HMaid.description>Wearers are more likely to hit their target. In order to clean the blood more efficiently, it also improves the speed of cleaning for the wearer.</XSP_HMaid.description>
+
+</LanguageData>

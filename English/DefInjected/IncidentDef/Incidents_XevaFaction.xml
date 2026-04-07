@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <snakANDapple.label>Snake and Apple</snakANDapple.label>
+  <snakANDapple.letterLabel>Snake and Apple</snakANDapple.letterLabel>
+  <snakANDapple.letterText>Two hungry lost men have come to your colony. The story is not over yet, keep fighting!
+
+&lt;color=#ff0000&gt;Vic and XvA will join your colony, influenced by the background of their story, and now Star Explorer and XEO become enemies with your colony.&lt;/color&gt;</snakANDapple.letterText>
+
+  <XFbiodollAppeared.label>Strange Ancient</XFbiodollAppeared.label>
+  <XFbiodollAppeared.letterLabel>Strange Ancient</XFbiodollAppeared.letterLabel>
+  <XFbiodollAppeared.letterText>A Strange Ancient appeared, and she will stay here for a year. You can place some food outside to prevent her from leaving early due to lack of something to eat.\n\nIt should be noted that this event will only trigger once.\n\nIf it is found that her singing affects higher-dimensional beings, you can turn off her voice in the MOD settings.</XFbiodollAppeared.letterText>
+
+</LanguageData>

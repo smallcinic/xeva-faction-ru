@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <XevaHFWeapon.label>XF High Frequency Weapon</XevaHFWeapon.label>
+  <XevaRSWeapon.label>XF Red Stone Weapon</XevaRSWeapon.label>
+  <XevaFXEWeapon.label>XF Weapon</XevaFXEWeapon.label>
+  <XevaMWeapon.label>XF Melee Weapon</XevaMWeapon.label>
+  <XevaSWeapon.label>XF Range Weapon</XevaSWeapon.label>
+  <XevaApparel.label>XF Apparel</XevaApparel.label>
+  <XevaHeadgear.label>XF Headgear</XevaHeadgear.label>
+  <X_BlackSteel.label>Black Steel</X_BlackSteel.label>
+  <X_SawSound.label>Over Voice</X_SawSound.label>
+  <X_Meta.label>Meta</X_Meta.label>
+  <X_FireHeart.label>Fire Heart</X_FireHeart.label>
+  <X_SongCrystal.label>Song Crystal</X_SongCrystal.label>
+  <X_HardGold.label>Hard Gold</X_HardGold.label>
+  <X_StarTear.label>Star Tear</X_StarTear.label>
+  <X_RedStone.label>Red Stone</X_RedStone.label>
+  <X_JadeSilver.label>Jade Silver</X_JadeSilver.label>
+  <X_MPsteel.label>Multimolecular Steel</X_MPsteel.label>
+  <X_Platinum.label>Platinum</X_Platinum.label>
+
+</LanguageData>

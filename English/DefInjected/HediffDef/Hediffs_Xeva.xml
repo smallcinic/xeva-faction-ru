@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <XF_Redstoneinteract.label>XF_Redstoneinteract</XF_Redstoneinteract.label>
+  <XF_Redstoneinteract.description>Interact with the redstone weapon.</XF_Redstoneinteract.description>
+
+  <XF_RedstonelinkH.label>Redstone Link</XF_RedstonelinkH.label>
+  <XF_RedstonelinkH.description>Connected to the redstone, I'll go play games with it in a bit.</XF_RedstonelinkH.description>
+
+  <XF_BloodofPhoenix.label>Blood of Phoenix</XF_BloodofPhoenix.label>
+  <XF_BloodofPhoenix.description>Persistent nanomachine infection significantly enhances physical capabilities, but the host experiences extreme pain.</XF_BloodofPhoenix.description>
+
+  <XF_NanoWeakUp.label>Nanomech Weak Up</XF_NanoWeakUp.label>
+  <XF_NanoWeakUp.description>The nanomachines inside the body are awakening. They will repair a severe wound or missing part of the host and significantly enhance the host's physical abilities. After a period of time, they will enter dormancy again.</XF_NanoWeakUp.description>
+
+  <XF_Tgood.label>Vocal Infection</XF_Tgood.label>
+  <XF_Tgood.description>Is this the power of music?</XF_Tgood.description>
+
+  <XF_Tbad.label>Vocal Pollution</XF_Tbad.label>
+  <XF_Tbad.description>Oh God! My Fucking Brain!</XF_Tbad.description>
+
+  <XF_Sing.label>Singing</XF_Sing.label>
+  <XF_Sing.description>Her singing can be a blessing or a curse...</XF_Sing.description>
+
+  <XF_SingBad.label>Singing</XF_SingBad.label>
+  <XF_SingBad.description>Her singing can be a blessing or a curse...</XF_SingBad.description>
+
+  <XF_BlackAppleInterest.label>Abyssal Gaze</XF_BlackAppleInterest.label>
+  <XF_BlackAppleInterest.description>This one has been influenced by the black apple, becoming disoriented and delusional.</XF_BlackAppleInterest.description>
+  <XF_BlackAppleInterest.stages.0.label>psychic infection</XF_BlackAppleInterest.stages.0.label>
+
+  <XHCcut.label>Freeze</XHCcut.label>
+  <XHCcut.description>Slow movement due to decreased body temperature.</XHCcut.description>
+  
+  <XHpull.label>Visceral Pulled</XHpull.label>
+  <XHpull.description>Visceral are pulled causing severe pain.</XHpull.description>
+
+  <XFBlind.label>Flash Blind</XFBlind.label>
+  <XFBlind.description>Ho! My Fxxking Eyes!</XFBlind.description>
+
+  <XGVEBlind.label>Rock Your Eyes</XGVEBlind.label>
+  <XGVEBlind.description>Ho! My Fxxking Eyes!</XGVEBlind.description>
+  <XGVEBlind.stages.1.label>Bling Bling!</XGVEBlind.stages.1.label>
+  <XGVEBlind.stages.2.label>Too Shiny!</XGVEBlind.stages.2.label>
+  <XGVEBlind.stages.3.label>I'm Blind</XGVEBlind.stages.3.label>
+  <XGVEBlind.stages.4.label>My Fxxking Eyes!</XGVEBlind.stages.4.label>
+  
+  <XFZbomb.label>Frost</XFZbomb.label>
+  <XFZbomb.description>Slow movement due to decreased body temperature.</XFZbomb.description>
+  
+</LanguageData>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <XF_SAdissection.label>Strange Ancient Dissection</XF_SAdissection.label>
+  <XF_SAdissection.description>Dissecting Strange Ancient.</XF_SAdissection.description>
+  <XF_SAdissection.jobString>Dissecting.</XF_SAdissection.jobString>
+
+  <Xeva_DBDXSMM.label>Make Dragon Blade</Xeva_DBDXSMM.label>
+  <Xeva_DBDXSMM.description>Make Dragon Blade.</Xeva_DBDXSMM.description>
+  <Xeva_DBDXSMM.jobString>making Dragon Blade.</Xeva_DBDXSMM.jobString>
+
+  <Xeva_DBDXS.label>Make Redstone Weapon</Xeva_DBDXS.label>
+  <Xeva_DBDXS.description>Make Redstone Weapon.</Xeva_DBDXS.description>
+  <Xeva_DBDXS.jobString>making Redstone Weapon.</Xeva_DBDXS.jobString>
+
+  <DisassembleRSW.label>Disassemble Red Stone Weapon</DisassembleRSW.label>
+  <DisassembleRSW.description>Disassemble a Red Stone Weapon into red stones.</DisassembleRSW.description>
+  <DisassembleRSW.jobString>disassemble Red Stone Weapon.</DisassembleRSW.jobString>
+
+  <DisassembleXFARM.label>Disassemble XF Armor</DisassembleXFARM.label>
+  <DisassembleXFARM.description>Disassemble a XF Armor into a XF Armor Part.</DisassembleXFARM.description>
+  <DisassembleXFARM.jobString>disassemble XF Armor.</DisassembleXFARM.jobString>
+  
+  <DisassembleXFRW.label>Disassemble XF Range Weapon</DisassembleXFRW.label>
+  <DisassembleXFRW.description>Disassemble a XF Range Weapon into a XF Range Weapon Part.</DisassembleXFRW.description>
+  <DisassembleXFRW.jobString>disassemble XF Range Weapon.</DisassembleXFRW.jobString>
+
+  <DisassembleXFMW.label>Disassemble XF Melee Weapon</DisassembleXFMW.label>
+  <DisassembleXFMW.description>Disassemble a XF Melee Weapon into a XF Melee Weapon Part.</DisassembleXFMW.description>
+  <DisassembleXFMW.jobString>disassemble XF Melee Weapon.</DisassembleXFMW.jobString>
+
+  <Xeva_LuciferiumMake.label>Make Luciferium</Xeva_LuciferiumMake.label>
+  <Xeva_LuciferiumMake.description>Extract nano machinery from nano meat and synthesize Luciferium.</Xeva_LuciferiumMake.description>
+  <Xeva_LuciferiumMake.jobString>making Luciferium.</Xeva_LuciferiumMake.jobString>
+
+  <Xeva_MSHealerMake.label>Make Healer Mech Serum</Xeva_MSHealerMake.label>
+  <Xeva_MSHealerMake.description>Extract nano machinery from nano meat and make Healer Mech Serum.</Xeva_MSHealerMake.description>
+  <Xeva_MSHealerMake.jobString>making Healer Mech Serum.</Xeva_MSHealerMake.jobString>
+
+  <Xeva_TheBlade.label>Make O Blade</Xeva_TheBlade.label>
+  <Xeva_TheBlade.description>Make O Blade.</Xeva_TheBlade.description>
+  <Xeva_TheBlade.jobString>making O Blade.</Xeva_TheBlade.jobString>
+
+  <Xeva_RPX.label>Make Armor Set of Phoenix</Xeva_RPX.label>
+  <Xeva_RPX.description>Make Armor Set of Phoenix.</Xeva_RPX.description>
+  <Xeva_RPX.jobString>making Armor Set of Phoenix.</Xeva_RPX.jobString>
+
+  <Xeva_RFW.label>Make Armor Set of Free Will</Xeva_RFW.label>
+  <Xeva_RFW.description>Make Armor Set of Free Will.</Xeva_RFW.description>
+  <Xeva_RFW.jobString>making Armor Set of Free Will.</Xeva_RFW.jobString>
+
+  <Xeva_RFL.label>Make Armor Set of Golden Lion</Xeva_RFL.label>
+  <Xeva_RFL.description>Make Armor Set of Golden Lion.</Xeva_RFL.description>
+  <Xeva_RFL.jobString>making Armor Set of Golden Lion.</Xeva_RFL.jobString>
+
+  <Xeva_Rrsc.label>Make Redstone Crystal</Xeva_Rrsc.label>
+  <Xeva_Rrsc.description>Make Redstone Crystal.</Xeva_Rrsc.description>
+  <Xeva_Rrsc.jobString>making Redstone Crystal.</Xeva_Rrsc.jobString>
+
+  <Xeva_Rptpx.label>Make Phoenix Armor Prototype</Xeva_Rptpx.label>
+  <Xeva_Rptpx.description>Make Phoenix Armor Prototype.</Xeva_Rptpx.description>
+  <Xeva_Rptpx.jobString>making Phoenix Armor Prototype</Xeva_Rptpx.jobString>
+
+  <Xeva_Rptfw.label>Make Free Will Armor Prototype</Xeva_Rptfw.label>
+  <Xeva_Rptfw.description>Make Free Will Armor Prototype.</Xeva_Rptfw.description>
+  <Xeva_Rptfw.jobString>making Free Will Armor Prototype.</Xeva_Rptfw.jobString>
+
+  <Xeva_Rptgl.label>Make Golden Lion Armor Prototype</Xeva_Rptgl.label>
+  <Xeva_Rptgl.description>Make Golden Lion Armor Prototype.</Xeva_Rptgl.description>
+  <Xeva_Rptgl.jobString>making Golden Lion Armor Prototype.</Xeva_Rptgl.jobString>
+
+  <XFMechCoreBiodoll.label>gestate mech biodoll</XFMechCoreBiodoll.label>
+  <XFMechCoreBiodoll.description>Gestate a mech biodoll.</XFMechCoreBiodoll.description>
+  <XFMechCoreBiodoll.jobString>Gestating a mech biodoll.</XFMechCoreBiodoll.jobString>
+
+  <XFCentipedeHuge.label>gestate huge centipede</XFCentipedeHuge.label>
+  <XFCentipedeHuge.description>Gestate a huge centipede.</XFCentipedeHuge.description>
+  <XFCentipedeHuge.jobString>Gestating a huge centipede.</XFCentipedeHuge.jobString>
+
+  <XF_MakeAminoAcids.label>make complex amino acids</XF_MakeAminoAcids.label>
+  <XF_MakeAminoAcids.description>Manufacture of complex amino acids used to gestate mech biodoll.</XF_MakeAminoAcids.description>
+  <XF_MakeAminoAcids.jobString>Making complex amino acids.</XF_MakeAminoAcids.jobString>
+
+</LanguageData>
