@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <XEFDiamondBone.label>Алмазная Кость</XEFDiamondBone.label>
+  <XEFDiamondBone.description>Однажды дракон возглавлял варваров, разрушающих страну. В глубоком отчаянии на землю был отправлен спаситель, ведущий армию рыцарей, чтобы убить этого дракона, и этот добрый спаситель даже пощадил варваров. Чтобы выразить свою благодарность, эти варвары подчиняются убийце драконов и клянутся служить ему и его потомкам. Это легенда об основании Алмазной Кости. Однако некоторые историки думают, что это просто история, созданная для манипулирования людьми, а дракон, возможно, был лидером мятежа в те времена. </XEFDiamondBone.description>
+  <XEFDiamondBone.fixedName>Алмазная Кость</XEFDiamondBone.fixedName>
+  <XEFDiamondBone.pawnsPlural>Люди Алмазной Кости</XEFDiamondBone.pawnsPlural>
+  <XEFDiamondBone.leaderTitle>Король</XEFDiamondBone.leaderTitle>
+
+  <XEFFlameLegion.label>Пламенный Легион</XEFFlameLegion.label>
+  <XEFFlameLegion.description>A.K.A FFF (ОСС) Легион, первая F означает fire (огонь), вторая - fear (страх), и третья - freedom (свобода). Он был основан знатным Звездным Исследователем, который сочувствовал тем, кто был изгнан и поэтому основал организацию для их поддержки. Однако позже эта организация была распущена конгрессом Звездных Исследователей, а основатель организации так же был изгнан за измену. Но, благодаря тем, кому он помог, он стал лидером среди изгнанников. Таким образом, он объединил тех, кто был забыт, а так же различные племена, и основал Пламенный Легион.</XEFFlameLegion.description>
+  <XEFFlameLegion.fixedName>Пламенный Легион</XEFFlameLegion.fixedName>
+  <XEFFlameLegion.pawnsPlural>Солдаты Пламенного Легиона</XEFFlameLegion.pawnsPlural>
+  <XEFFlameLegion.leaderTitle>Лидер</XEFFlameLegion.leaderTitle>
+
+  <XEFJaegar.label>Егерь</XEFJaegar.label>
+  <XEFJaegar.description>Когда-то была группа космических пиратов, которые совершали набеги не на поселения, а на других пиратов. Они расли и становились сильнее, реформировались и постепенно превратились в армию и в конечном итоге стали силой, которую нельзя игнорировать. Они совершают набег за набегом и становятся все больше и больше, разросшись до такой степени, что одними только рейдами они уже не могут поддерживать повседневную работоспособность, поэтому они реформируются и развиваются, и сегодня они зовутся Егерь.</XEFJaegar.description>
+  <XEFJaegar.fixedName>Егерь</XEFJaegar.fixedName>
+  <XEFJaegar.pawnsPlural>Егерь Гражданин</XEFJaegar.pawnsPlural>
+  <XEFJaegar.leaderTitle>Герой</XEFJaegar.leaderTitle>
+
+  <XEFStarExplorer.label>Звездные Исследователи</XEFStarExplorer.label>
+  <XEFStarExplorer.description>Гигантская фракция, первоначально представлявшая собой группу ученых, преследуемых политиками и церковью. Однако некоторые из этих ученых владеют технологиями космических исследований и добычи полезных ископаемых. Под их руководством они ведут своих коллег-ученых и других изгоев создавая высокотехнологичную организацию, привлекающую много инвестиций, и, наконец, становятся известны как Звездные Исследователи.</XEFStarExplorer.description>
+  <XEFStarExplorer.fixedName>Звездные Исследователи</XEFStarExplorer.fixedName>
+  <XEFStarExplorer.pawnsPlural>Гражданин Звездный Исследователь</XEFStarExplorer.pawnsPlural>
+  <XEFStarExplorer.leaderTitle>Оратор</XEFStarExplorer.leaderTitle>
+
+  <XEFXEO.label>ХЕО</XEFXEO.label>
+  <XEFXEO.description>Таинственная организация убийц. Название XEO только кажется бессмысленным, однако как говорят исследователи, это древние иероглифы, представляющие собой название разновидности очень ядовитых растений. И основатель XEO всегда использовал это растение для убийства тех, кто злоупотребляет своей властью, таким образом получив это имя.</XEFXEO.description>
+  <XEFXEO.fixedName>XEO</XEFXEO.fixedName>
+  <XEFXEO.pawnsPlural>Члены ХЕО</XEFXEO.pawnsPlural>
+  <XEFXEO.leaderTitle>Старейшина</XEFXEO.leaderTitle>
+
+
+</LanguageData>

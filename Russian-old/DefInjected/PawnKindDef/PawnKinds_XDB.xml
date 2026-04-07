@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Friendly -->
+
+  <DB_Trader.label>АК Торговец</DB_Trader.label>
+  <DB_Trader.labelPlural>АК Торговцы</DB_Trader.labelPlural>
+
+
+  <!-- LL -->
+
+  <DB_WallCrack.label>АК Стенолом</DB_WallCrack.label>
+  <DB_WallCrack.labelPlural>АК Стеноломы</DB_WallCrack.labelPlural>
+
+  <DB_Footman.label>АК Пехотинец</DB_Footman.label>
+  <DB_Footman.labelPlural>АК Пехотинцы</DB_Footman.labelPlural>
+
+  <DB_HFootman.label>АК Тяжелый Пехотинец</DB_HFootman.label>
+  <DB_HFootman.labelPlural>АК Тяжелые Пехотинцы</DB_HFootman.labelPlural>
+
+
+  <!-- HL -->
+
+  <DB_Shooter.label>АК Стрелок</DB_Shooter.label>
+  <DB_Shooter.labelPlural>АК Стрелки</DB_Shooter.labelPlural>
+
+  <DB_Knight.label>АК Рыцарь</DB_Knight.label>
+  <DB_Knight.labelPlural>АК Рыцари</DB_Knight.labelPlural>
+
+  <DB_HGunner.label>АК Тяжелый Стрелок</DB_HGunner.label>
+  <DB_HGunner.labelPlural>АК Тяжелые Стрелки</DB_HGunner.labelPlural>
+
+  <DB_HKnight.label>АК Тяжелый Рыцарь</DB_HKnight.label>
+  <DB_HKnight.labelPlural>АК Тяжелые Рыцари</DB_HKnight.labelPlural>
+
+
+  <!-- Elite -->
+
+  <DB_DarkKnight.label>АК Рыцарь Капитан</DB_DarkKnight.label>
+  <DB_DarkKnight.labelPlural>АК Рыцари Капитаны</DB_DarkKnight.labelPlural>
+
+  <DB_Berserker.label>АК Берсерк</DB_Berserker.label>
+  <DB_Berserker.labelPlural>АК Берсерки</DB_Berserker.labelPlural>
+
+  <DB_TheLord.label>АК Лорд</DB_TheLord.label>
+  <DB_TheLord.labelPlural>АК Лорды</DB_TheLord.labelPlural>
+
+
+</LanguageData>
