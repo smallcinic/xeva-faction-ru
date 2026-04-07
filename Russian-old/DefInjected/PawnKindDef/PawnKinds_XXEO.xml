@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Friendly -->
+
+  <XEO_Trader.label>ХЕО Торговец</XEO_Trader.label>
+  <XEO_Trader.labelPlural>ХЕО Торговцы</XEO_Trader.labelPlural>
+
+
+  <!-- LL -->
+
+  <XEO_Rioter.label>ХЕО Бунтарь</XEO_Rioter.label>
+  <XEO_Rioter.labelPlural>ХЕО Бунтари</XEO_Rioter.labelPlural>
+
+  <XEO_Robin.label>ХЕО Робин</XEO_Robin.label>
+  <XEO_Robin.labelPlural>ХЕО Робины</XEO_Robin.labelPlural>
+
+  <XEO_Omen.label>ХЕО Предзнаменователь</XEO_Omen.label>
+  <XEO_Omen.labelPlural>ХЕО Предзнаменователи</XEO_Omen.labelPlural>
+
+
+  <!-- HL -->
+
+  <XEO_Blade.label>ХЕО Клинок</XEO_Blade.label>
+  <XEO_Blade.labelPlural>ХЕО Клинки</XEO_Blade.labelPlural>
+
+  <XEO_Musha.label>ХЕО Муша</XEO_Musha.label>
+  <XEO_Musha.labelPlural>ХЕО Муша</XEO_Musha.labelPlural>
+
+  <XEO_TMusha.label>ХЕО Храмовник Муша</XEO_TMusha.label>
+  <XEO_TMusha.labelPlural>ХЕО Храмовники Муша</XEO_TMusha.labelPlural>
+
+
+  <!-- Elite -->
+
+  <XEO_AssassinMaster.label>ХЕО Мастер Убийца</XEO_AssassinMaster.label>
+  <XEO_AssassinMaster.labelPlural>ХЕО Мастера Убийцы</XEO_AssassinMaster.labelPlural>
+
+  <XEO_Presbyterian.label>ХЕО Старейший</XEO_Presbyterian.label>
+  <XEO_Presbyterian.labelPlural>ХЕО Старейшие</XEO_Presbyterian.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <XFBaseTech.label>XF Базовые технологии</XFBaseTech.label>
+  <XFBaseTech.description>Позволяет игроку строить XF Технологичный стол и создавать основную одежду.</XFBaseTech.description>
+
+  <XFWPModTech.label>XF Технология модификации оружия</XFWPModTech.label>
+  <XFWPModTech.description>Позволяет игроку строить XF Стол оружейных модификаций и модифицировать некоторое XF оружие.</XFWPModTech.description>
+
+  <XFarmorTech.label>XF Технологии брони</XFarmorTech.label>
+  <XFarmorTech.description>Позволяет игроку создавать броню и шлемы фракций Xeva на XF технологичном столе.</XFarmorTech.description>
+
+  <XFweaponTech.label>XF Технологии оружия</XFweaponTech.label>
+  <XFweaponTech.description>Позволяет игроку создавать оружие фракций Xeva на XF технологичном столе.</XFweaponTech.description>
+
+  <SecretXResearch.label>XF Секретные исследования</SecretXResearch.label>
+  <SecretXResearch.description>Некоторый дополнительный контент.</SecretXResearch.description>
+
+
+</LanguageData>

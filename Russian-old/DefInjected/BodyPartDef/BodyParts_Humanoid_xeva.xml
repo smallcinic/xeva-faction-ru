@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXHead.label>Голова</AEXHead.label>
+  <AEXHair.label>Волосы</AEXHair.label>
+  <AEXSkull.label>Череп</AEXSkull.label>
+  <AEXBrain.label>Ядро</AEXBrain.label>
+  <AEXEye.label>Глаз</AEXEye.label>
+  <AEXEar.label>Ухо</AEXEar.label>
+  <AEXNose.label>Нос</AEXNose.label>
+  <AEXJaw.label>Челюсть</AEXJaw.label>
+  <AEXNeck.label>Шея</AEXNeck.label>
+  <AEXRibcage.label>Грудная клетка</AEXRibcage.label>
+  <AEXSpine.label>Позвоночник</AEXSpine.label>
+  <AEXLeg.label>Нога</AEXLeg.label>
+  <AEXFoot.label>Ступня</AEXFoot.label>
+  <AEXTorso.label>Торс</AEXTorso.label>
+  <AEXShoulder.label>Плечо</AEXShoulder.label>
+  <AEXArm.label>Рука</AEXArm.label>
+  <AEXHand.label>Кисть</AEXHand.label>
+  <AEXFinger.label>Палец</AEXFinger.label>
+  <AEXWaist.label>Талия</AEXWaist.label>
+  <AEXToe.label>Палец ноги</AEXToe.label>
+
+
+  <!-- Bones -->
+
+  <AEXClavicle.label>Ключица</AEXClavicle.label>
+  <AEXSternum.label>Грудина</AEXSternum.label>
+  <AEXHumerus.label>Плечевая кость</AEXHumerus.label>
+  <AEXRadius.label>Лучевая кость</AEXRadius.label>
+  <AEXPelvis.label>Таз</AEXPelvis.label>
+  <AEXFemur.label>Бедренная кость</AEXFemur.label>
+  <AEXTibia.label>Большеберцовая кость</AEXTibia.label>
+  <AEXHeart.label>Сердце</AEXHeart.label>
+  <AEXLung.label>Легкое</AEXLung.label>
+  <AEXKidney.label>Почка</AEXKidney.label>
+  <AEXLiver.label>Печень</AEXLiver.label>
+  <AEXStomach.label>Желудок</AEXStomach.label>
+
+
+</LanguageData>

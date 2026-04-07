@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Item -->
+
+  <XFA_Greed.label>Жадность</XFA_Greed.label>
+  <XFA_Greed.description>Убейте «Странного древнего» и получите «Черное яблоко». Странные древние имеют шанс 1% появиться на карте, но не появляются в областях с сильным холодом.</XFA_Greed.description>
+
+  <XFA_AnotherLife.label>Другая жизнь</XFA_AnotherLife.label>
+  <XFA_AnotherLife.description>Завершите секретное исследование Xeva и сделайте плащ Феникса.</XFA_AnotherLife.description>
+
+  <XFA_FightForFreedom.label>Бороться за Cвободу</XFA_FightForFreedom.label>
+  <XFA_FightForFreedom.description>Завершите секретное исследование Xeva и сделайте броню Свободной Воли.</XFA_FightForFreedom.description>
+
+  <XFA_OnePiece.label>Одним Куском</XFA_OnePiece.label>
+  <XFA_OnePiece.description>Завершите секретное исследование Xeva и броню Золотого Льва.</XFA_OnePiece.description>
+
+  <XFA_RedLikeBlood.label>Красный как Кровь</XFA_RedLikeBlood.label>
+  <XFA_RedLikeBlood.description>Завершите секретное исследование Xeva и сделайте O Клинок.</XFA_RedLikeBlood.description>
+
+  <XFA_TheBestArmorDB.label>Лучшая броня - DB</XFA_TheBestArmorDB.label>
+  <XFA_TheBestArmorDB.description>Купите доспехи Темного рыцаря у торговцев на черном рынке.</XFA_TheBestArmorDB.description>
+
+  <XFA_TheBestArmorFL.label>Лучшая броня - FL</XFA_TheBestArmorFL.label>
+  <XFA_TheBestArmorFL.description>Купите доспехи Оверлорда у торговцев на черном рынке.</XFA_TheBestArmorFL.description>
+
+  <XFA_TheBestArmorJG.label>Лучшая броня - JG</XFA_TheBestArmorJG.label>
+  <XFA_TheBestArmorJG.description>Купите доспехи Фенрир у торговцев на черном рынке.</XFA_TheBestArmorJG.description>
+
+  <XFA_TheBestArmorSE.label>Лучшая броня - SE</XFA_TheBestArmorSE.label>
+  <XFA_TheBestArmorSE.description>Купите Транседентные доспехи у торговцев на черном рынке.</XFA_TheBestArmorSE.description>
+
+  <XFA_TheBestArmorXEO.label>Лучшая броня - XEO</XFA_TheBestArmorXEO.label>
+  <XFA_TheBestArmorXEO.description>Купите броню Мастера у торговцев на черном рынке.</XFA_TheBestArmorXEO.description>
+
+  <XFA_ReadWorldKBS.label>ReadWorld - Король Пиратов</XFA_ReadWorldKBS.label>
+  <XFA_ReadWorldKBS.description>Вырежьте Гигантскую Скульптуру - Король Пиратов.</XFA_ReadWorldKBS.description>
+
+  <XFA_ReadWorldPOX.label>ReadWorld - Феникс</XFA_ReadWorldPOX.label>
+  <XFA_ReadWorldPOX.description>Вырежьте Гигантскую Скульптуру - Феникс.</XFA_ReadWorldPOX.description>
+
+  <XFA_ReadWorldTOW.label>ReadWorld - Сказка о Белом</XFA_ReadWorldTOW.label>
+  <XFA_ReadWorldTOW.description>Вырежьте Гигантскую Скульптуру - Свободная Воля.</XFA_ReadWorldTOW.description>
+
+  <XFA_ReadWorldSNA.label>ReadWorld - Змея и Яблоко</XFA_ReadWorldSNA.label>
+  <XFA_ReadWorldSNA.description>Вырежьте Гигантскую Скульптуру - Дикий Влюбленный.</XFA_ReadWorldSNA.description>
+
+
+  <!-- Incidents -->
+
+  <XFA_NotTheEnd.label>Не Конец</XFA_NotTheEnd.label>
+  <XFA_NotTheEnd.description>Установите рассказчиком Вика или XvA, имейте 4 или более колонистов и все они должны пасть.</XFA_NotTheEnd.description>
+
+  <XFA_FallinLove.label>Влюбленность</XFA_FallinLove.label>
+  <XFA_FallinLove.description>Имейте колониста связанного со "Странным Древним"</XFA_FallinLove.description>
+
+
+  <!-- Records -->
+
+  <XFA_BulletInTheKnee.label>Пуля в Колене</XFA_BulletInTheKnee.label>
+  <XFA_BulletInTheKnee.description>Одна пешка должа победить 150.</XFA_BulletInTheKnee.description>
+
+
+  <!-- Kill -->
+
+  <XFA_Atheist.label>Атеист</XFA_Atheist.label>
+  <XFA_Atheist.description>Убить 250 членов фракции XEO.</XFA_Atheist.description>
+
+  <XFA_FireExtinguisher.label>Огнетушитель</XFA_FireExtinguisher.label>
+  <XFA_FireExtinguisher.description>Убить 250 членов фракции Пламенного Легиона.</XFA_FireExtinguisher.description>
+
+  <XFA_HostTheGame.label>Ведущий Игры</XFA_HostTheGame.label>
+  <XFA_HostTheGame.description>Убить 250 членов фракции Звездные Исследователи.</XFA_HostTheGame.description>
+
+  <XFA_HuntTheHunter.label>Охота на охотника</XFA_HuntTheHunter.label>
+  <XFA_HuntTheHunter.description>Убить 250 членов фракции Егеря.</XFA_HuntTheHunter.description>
+
+  <XFA_TheDragon.label>Дракон</XFA_TheDragon.label>
+  <XFA_TheDragon.description>Убить 250 членов фракции Алмазной Кости.</XFA_TheDragon.description>
+
+  <XFA_DollSlayer.label>Убийца Кукол</XFA_DollSlayer.label>
+  <XFA_DollSlayer.description>Убить 10 Биокукол.</XFA_DollSlayer.description>
+
+  <XFA_TooHugeTooHard.label>Слишком большой, Слишком жесткий</XFA_TooHugeTooHard.label>
+  <XFA_TooHugeTooHard.description>Убить 5 Огромных Сентипед.</XFA_TooHugeTooHard.description>
+
+
+</LanguageData>
