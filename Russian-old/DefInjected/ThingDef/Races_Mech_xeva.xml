@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <XHFBlade_MEC.label>Высокочастотный Клинок</XHFBlade_MEC.label>
+  <XHFBlade_MEC.description>Механическая кукла держит это оружие в своей руке.</XHFBlade_MEC.description>
+  <XHFBlade_MEC.tools.0.label>Разбитое Стекло</XHFBlade_MEC.tools.0.label>
+  <XHFBlade_MEC.tools.1.label>Рассечение Ветра</XHFBlade_MEC.tools.1.label>
+  <XHFBlade_MEC.tools.2.label>Сложить Клинок</XHFBlade_MEC.tools.2.label>
+  <XHFBlade_MEC.tools.3.label>Ярость Тати</XHFBlade_MEC.tools.3.label>
+
+  <XGun_CPWMega.label>Оружие с Заряженными Частицами Мега</XGun_CPWMega.label>
+  <XGun_CPWMega.description>Гигантская версия Оружия с Заряженными Частицами, почему у них появилась технология Алмазной Кости? Это все еще загадка.</XGun_CPWMega.description>
+  <XGun_CPWMega.tools.0.label>Ствол</XGun_CPWMega.tools.0.label>
+
+  <XGun_EclipseMega.label>Затмение Мега</XGun_EclipseMega.label>
+  <XGun_EclipseMega.description>Гигантская версия Затмения, почему у них появилась технология Алмазной Кости? Это все еще загадка.</XGun_EclipseMega.description>
+  <XGun_EclipseMega.tools.0.label>Стволы</XGun_EclipseMega.tools.0.label>
+
+
+  <!-- Centipede -->
+
+  <Mech_CentipedeHugeR.label>Огромная Сентипеда</Mech_CentipedeHugeR.label>
+  <Mech_CentipedeHugeR.description>Размер, броня и смертоносность Огромной Сентипеды намного больше, чем у оригинала. Это ужасающая боевая единица в семействе механоидов. Некоторые ученые полагают, что это изменение связано с тем, что на процесс сборки механоида повлияли неизвестные факторы. К счастью, они встречаются нечасто и спят в механическом кластере.</Mech_CentipedeHugeR.description>
+  <Mech_CentipedeHugeR.tools.0.label>Голова</Mech_CentipedeHugeR.tools.0.label>
+
+
+  <!-- CoreBiodoll -->
+
+  <Mech_CoreBiodollR.label>Биокукла Мехов</Mech_CoreBiodollR.label>
+  <Mech_CoreBiodollR.description>"Что... что это? Похоже что среди этой группы механоидов есть... человеческий источник тепла!?" "Может быть это человек, нужно ли его спасти?" "О, кажется кто-то решил поспать со своей механической семьёй?" "Не смешно, относись к этому посерьёзнее." "Слушайте! Избавиться от кластера механоидов - наша первостепенная задача. У нас нет времени заниматься этим, всё ясно?" "Да, сэр!" "Э? Погодите, этот источник тепла.... Он приближается к нам на высокой скорости." "Не нужно больше докладов. Я уже и так это вижу!" "Женщина!?" "Женщина с ножом!" "Не раздумывайте! Огонь! Всем огонь!" "Аххххххх..." Запись - Комманда Анти-Мех Двойной Звезды.</Mech_CoreBiodollR.description>
+  <Mech_CoreBiodollR.tools.0.label>Левый кулак</Mech_CoreBiodollR.tools.0.label>
+  <Mech_CoreBiodollR.tools.1.label>Правый кулак</Mech_CoreBiodollR.tools.1.label>
+  <Mech_CoreBiodollR.tools.2.label>Зубы</Mech_CoreBiodollR.tools.2.label>
+  <Mech_CoreBiodollR.tools.3.label>Голова</Mech_CoreBiodollR.tools.3.label>
+  <Mech_CoreBiodollR.tools.4.label>Волосы</Mech_CoreBiodollR.tools.4.label>
+
+  <CoreBiodollR.label>Биокукла</CoreBiodollR.label>
+  <CoreBiodollR.description>Такое чувство будто внутри меня что-то есть...</CoreBiodollR.description>
+  <CoreBiodollR.tools.0.label>Левый кулак</CoreBiodollR.tools.0.label>
+  <CoreBiodollR.tools.1.label>Правый кулак</CoreBiodollR.tools.1.label>
+  <CoreBiodollR.tools.2.label>Зубы</CoreBiodollR.tools.2.label>
+  <CoreBiodollR.tools.3.label>Голова</CoreBiodollR.tools.3.label>
+  <CoreBiodollR.tools.4.label>Волосы</CoreBiodollR.tools.4.label>
+
+
+  <!-- Sound -->
+
+  <NanoBioMeat.label>Нано Мясо</NanoBioMeat.label>
+  <NanoBioMeat.description>Мясо полученное после разделки Биокуклы. Это хрустящее мясо со вкусом курицы! Оно в шесть раз богаче белком, чем человеческое мясо, а большое количество наномеханических молекул скрыто в мышечных волокнах и жирах. После экстракции его можно использовать для производства различных препаратов. Следует отметить, что наномеханические молекулы без централизованного управления скоро перестанут функционировать из-за потери сцепления, поэтому как можно скорее охладите их.</NanoBioMeat.description>
+
+
+</LanguageData>

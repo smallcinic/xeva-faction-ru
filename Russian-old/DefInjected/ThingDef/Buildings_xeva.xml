@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <XFTTable.label>XF Тех Стол</XFTTable.label>
+  <XFTTable.description>Игрок может создавать вещи фракций Xeva на этом столе. (За исключением одноразового оружия и экипировки Черного Рынка.)</XFTTable.description>
+
+  <XFModTable.label>XF Стол Модификаций оружия</XFModTable.label>
+  <XFModTable.description>Некоторое оружие фракций Xeva может быть модифицированно на этом столе. Модифицированное оружие будет соответствовать только некоторым потребностям, но оно не будет сильнее исходного оружия, и его качество будет колебаться.</XFModTable.description>
+
+
+  <!-- Sculptures -->
+
+  <SculptureXSPX.label>Гигантская скульптура - Феникс</SculptureXSPX.label>
+  <SculptureXSPX.description>(Здесь был очень длинный текст на лунном.)</SculptureXSPX.description>
+
+  <SculptureXSFW.label>Гигантская скульптура - Свободная Воля</SculptureXSFW.label>
+  <SculptureXSFW.description>(Здесь был не очень длинный текст на лунном.)</SculptureXSFW.description>
+
+  <SculptureXSGL.label>Гигантская скульптура - Король Пиратов</SculptureXSGL.label>
+  <SculptureXSGL.description>(Здесь был не очень длинный текст на лунном.)</SculptureXSGL.description>
+
+  <SculptureXSSA.label>Гигантская скульптура - Дикий Влюбленный</SculptureXSSA.label>
+  <SculptureXSSA.description>(Здесь был длинный текст на лунном.)</SculptureXSSA.description>
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Friendly -->
+
+  <SE_Trader.label>ЗИ Бизнесмен</SE_Trader.label>
+  <SE_Trader.labelPlural>ЗИ Бизнесмены</SE_Trader.labelPlural>
+
+
+  <!-- LL -->
+
+  <SE_Opener.label>ЗИ Открывающий</SE_Opener.label>
+  <SE_Opener.labelPlural>ЗИ Открывающие</SE_Opener.labelPlural>
+
+  <SE_Assaulter.label>ЗИ Штурмовик</SE_Assaulter.label>
+  <SE_Assaulter.labelPlural>ЗИ Штурмовики</SE_Assaulter.labelPlural>
+
+  <SE_HAssaulter.label>ЗИ Тяжелый Штурмовик</SE_HAssaulter.label>
+  <SE_HAssaulter.labelPlural>ЗИ Тяжелые Штурмовики</SE_HAssaulter.labelPlural>
+
+
+  <!-- HL -->
+
+  <SE_Scout.label>ЗИ Разведчик</SE_Scout.label>
+  <SE_Scout.labelPlural>ЗИ Разведчики</SE_Scout.labelPlural>
+
+  <SE_SpecialPolice.label>ЗИ Специальный Полицейский</SE_SpecialPolice.label>
+  <SE_SpecialPolice.labelPlural>ЗИ Специальные Полицейские</SE_SpecialPolice.labelPlural>
+
+  <SE_Gunner.label>ЗИ Артеллерист</SE_Gunner.label>
+  <SE_Gunner.labelPlural>ЗИ Артеллеристы</SE_Gunner.labelPlural>
+
+  <SE_Pioneer.label>ЗИ Пионер</SE_Pioneer.label>
+  <SE_Pioneer.labelPlural>ЗИ Пионеры</SE_Pioneer.labelPlural>
+
+
+  <!-- Elite -->
+
+  <SE_Captain.label>ЗИ Капитан</SE_Captain.label>
+  <SE_Captain.labelPlural>ЗИ Капитаны</SE_Captain.labelPlural>
+
+  <SE_TwinStarAM.label>Двойная Звезда Анти-Мех</SE_TwinStarAM.label>
+  <SE_TwinStarAM.labelPlural>Двойная Звезда Анти-Мехи</SE_TwinStarAM.labelPlural>
+
+  <SE_TwinStar.label>Двойная Звезда Юнит</SE_TwinStar.label>
+  <SE_TwinStar.labelPlural>Двойная Звезда Юниты</SE_TwinStar.labelPlural>
+
+
+</LanguageData>

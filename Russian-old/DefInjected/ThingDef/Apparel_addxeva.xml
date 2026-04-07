@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- XevaLRArmor -->
+
+  <XLAR_DBlow.label>Пальто прислуги Алмазной Кости</XLAR_DBlow.label>
+  <XLAR_DBlow.description>Боевая одежда солдат из Алмазной Кости. Это разновидность переработанного оборудования, по своим характеристикам аналогичная бронежилету.</XLAR_DBlow.description>
+
+  <XLAR_FLlow.label>Мех плащ Пламенного Легиона</XLAR_FLlow.label>
+  <XLAR_FLlow.description>Боевая одежда солдат из Пламенного Легиона. Это разновидность переработанного оборудования, по своим характеристикам аналогичная бронежилету.</XLAR_FLlow.description>
+
+  <XLAR_JGlow.label>Пальто для марша Егеря</XLAR_JGlow.label>
+  <XLAR_JGlow.description>Боевая одежда солдат из Егеря. Это разновидность переработанного оборудования, по своим характеристикам аналогичная бронежилету.</XLAR_JGlow.description>
+
+  <XLAR_SElow.label>Мех плащ Звездных Исследователей</XLAR_SElow.label>
+  <XLAR_SElow.description>Боевая одежда солдат Звездных Исследователей. Это разновидность переработанного оборудования, по своим характеристикам аналогичная бронежилету.</XLAR_SElow.description>
+
+  <XLAR_XEOlow.label>Боевая форма ХЕО</XLAR_XEOlow.label>
+  <XLAR_XEOlow.description>Боевая форма солдат ХЕО. Это разновидность переработанного оборудования, по своим характеристикам аналогичная бронежилету.</XLAR_XEOlow.description>
+
+
+  <!-- XevaLRHeadgear -->
+
+  <XLHR_DBlow.label>Шлем прислуги Алмазной Кости</XLHR_DBlow.label>
+  <XLHR_DBlow.description>Боевой шлем солдат Алмазной Кости. Это разновидность переработанного оборудования, по своим характеристикам аналогичная каске.</XLHR_DBlow.description>
+
+  <XLHR_FLlow.label>Мех шлем Пламенного Легиона</XLHR_FLlow.label>
+  <XLHR_FLlow.description>Боевой шлем солдат Пламенного Легиона. Это разновидность переработанного оборудования, по своим характеристикам аналогичная каске.</XLHR_FLlow.description>
+
+  <XLHR_JGlow.label>Шлем для марша Егеря</XLHR_JGlow.label>
+  <XLHR_JGlow.description>Боевой шлем солдат из Егеря. Это разновидность переработанного оборудования, по своим характеристикам аналогичная каске.</XLHR_JGlow.description>
+
+  <XLHR_SElow.label>Мех шлем Звездых Исследователей</XLHR_SElow.label>
+  <XLHR_SElow.description>Боевой шлем солдат Звездных Исследователей. Это разновидность переработанного оборудования, по своим характеристикам аналогичная каске.</XLHR_SElow.description>
+
+  <XLHR_XEOlow.label>Повязка на голову ХЕО</XLHR_XEOlow.label>
+  <XLHR_XEOlow.description>Боевой шлем солдат ХЕО. Это разновидность переработанного оборудования, по своим характеристикам аналогичная каске.</XLHR_XEOlow.description>
+
+  <XLHR_TFFF.label>Истины FFF</XLHR_TFFF.label>
+  <XLHR_TFFF.description>Never Forget!
+Never Forgive!
+Never Fallback!
+(Никогда не Забудем!
+Никогда не Простим!
+Никогда не Отступим!)
+</XLHR_TFFF.description>
+
+
+  <!-- Secret Research -->
+
+  <RedStoneWeaponUF.label>Незаконченное оружие из краснокамня</RedStoneWeaponUF.label>
+  <RedStoneWeaponUF.description>Незаконченное оружие из краснокамня.</RedStoneWeaponUF.description>
+
+  <XEO_TheBlade.label>Клинок О</XEO_TheBlade.label>
+  <XEO_TheBlade.description>Не надо меня заражать ...а...А!! АХ!!!</XEO_TheBlade.description>
+  <XEO_TheBlade.tools.0.label>Призрачный порез Первый</XEO_TheBlade.tools.0.label>
+  <XEO_TheBlade.tools.1.label>Призрачный порез Второй</XEO_TheBlade.tools.1.label>
+  <XEO_TheBlade.tools.2.label>Призрачный порез Ноль</XEO_TheBlade.tools.2.label>
+  <XEO_TheBlade.tools.3.label>Вспышка ХЕО</XEO_TheBlade.tools.3.label>
+
+
+  <!-- Phoenix -->
+
+  <XSP_Apple.label>Черное Яблоко</XSP_Apple.label>
+  <XSP_Apple.description>Вик: "Что, черт возьми у тебя в руке?"
+	XvA: "Вы никогда такого не видели? Это "Вибрирующее" оружие сделанное моим мастером."
+	Вик: "......"
+	== Даже если вы можете разрезать пулю на лету, пожалуйста используйте правильное оружие. Работает только при использовании высокочастотного оружия Xeva, оружия из красного камня Xeva и оружия Bladelink. ==</XSP_Apple.description>
+
+  <XSP_Phoenix.label>Плащ Феникса</XSP_Phoenix.label>
+  <XSP_Phoenix.description>Экипировка легендарного Феникса.</XSP_Phoenix.description>
+
+  <XSP_HPhoenix.label>Шлем Феникса</XSP_HPhoenix.label>
+  <XSP_HPhoenix.description>Экипировка легендарного Феникса.</XSP_HPhoenix.description>
+
+
+  <!-- Free Will -->
+
+  <XSP_FreeWill.label>Броня Свободной Воли</XSP_FreeWill.label>
+  <XSP_FreeWill.description>Экипировка легендарного Вольнодумца. 
+Может использоваться в Save Our Ship 2.</XSP_FreeWill.description>
+
+  <XSP_HFreeWill.label>Шлем Свободной Воли</XSP_HFreeWill.label>
+  <XSP_HFreeWill.description>Экипировка легендарного Вольнодумца. 
+Может использоваться в Save Our Ship 2.</XSP_HFreeWill.description>
+
+
+  <!-- Golden Lion -->
+
+  <XSP_GoldenLion.label>Броня Золотого Льва</XSP_GoldenLion.label>
+  <XSP_GoldenLion.description>Экипировка легендарного Короля Пиратов. 
+Может использоваться в Save Our Ship 2.</XSP_GoldenLion.description>
+
+  <XSP_HGoldenLion.label>Шлем Золотого Льва</XSP_HGoldenLion.label>
+  <XSP_HGoldenLion.description>Экипировка легендарного Короля Пиратов. 
+Может использоваться в Save Our Ship 2.</XSP_HGoldenLion.description>
+
+
+</LanguageData>

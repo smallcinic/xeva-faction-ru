@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoreBiodoll.label>Ядро Биокуклы</CoreBiodoll.label>
+  <CoreBiodoll.corePart.parts.6.customLabel>Левое легкое</CoreBiodoll.corePart.parts.6.customLabel>
+  <CoreBiodoll.corePart.parts.7.customLabel>Правое легкое</CoreBiodoll.corePart.parts.7.customLabel>
+  <CoreBiodoll.corePart.parts.8.customLabel>Левая почка</CoreBiodoll.corePart.parts.8.customLabel>
+  <CoreBiodoll.corePart.parts.9.customLabel>Правая почка</CoreBiodoll.corePart.parts.9.customLabel>
+  <CoreBiodoll.corePart.parts.11.parts.0.parts.2.customLabel>Левый глаз</CoreBiodoll.corePart.parts.11.parts.0.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.11.parts.0.parts.3.customLabel>Правый глаз</CoreBiodoll.corePart.parts.11.parts.0.parts.3.customLabel>
+  <CoreBiodoll.corePart.parts.11.parts.0.parts.4.customLabel>Левое ухо</CoreBiodoll.corePart.parts.11.parts.0.parts.4.customLabel>
+  <CoreBiodoll.corePart.parts.11.parts.0.parts.5.customLabel>Правое ухо</CoreBiodoll.corePart.parts.11.parts.0.parts.5.customLabel>
+  <CoreBiodoll.corePart.parts.12.customLabel>Левое плечо</CoreBiodoll.corePart.parts.12.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.0.customLabel>Левая ключица</CoreBiodoll.corePart.parts.12.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.customLabel>Левая рука</CoreBiodoll.corePart.parts.12.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.0.customLabel>Левая плечевая кость</CoreBiodoll.corePart.parts.12.parts.1.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.1.customLabel>Левая лучевая кость</CoreBiodoll.corePart.parts.12.parts.1.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.2.customLabel>Левая кисть</CoreBiodoll.corePart.parts.12.parts.1.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>Левый мизинец</CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>Левый безымянный палец</CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>Левый средний палец</CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>Левый указательный палец</CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>Левый большой палец</CoreBiodoll.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <CoreBiodoll.corePart.parts.13.customLabel>Правое плечо</CoreBiodoll.corePart.parts.13.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.0.customLabel>Правая ключица</CoreBiodoll.corePart.parts.13.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.customLabel>Правая рука</CoreBiodoll.corePart.parts.13.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.0.customLabel>Правая плечевая кость</CoreBiodoll.corePart.parts.13.parts.1.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.1.customLabel>Правая лучевая кость</CoreBiodoll.corePart.parts.13.parts.1.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.2.customLabel>Правая кисть</CoreBiodoll.corePart.parts.13.parts.1.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>Правый мизинец</CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>Правый безымянный палец</CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>Правый средний палец</CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>Правый указательный палец</CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>Правый большой палец</CoreBiodoll.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <CoreBiodoll.corePart.parts.15.customLabel>Левая нога</CoreBiodoll.corePart.parts.15.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.0.customLabel>Левая бедренная кость</CoreBiodoll.corePart.parts.15.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.1.customLabel>Левая большеберцовая кость</CoreBiodoll.corePart.parts.15.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.2.customLabel>Левая ступня</CoreBiodoll.corePart.parts.15.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.2.parts.0.customLabel>Левый мизинец ноги</CoreBiodoll.corePart.parts.15.parts.2.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.2.parts.1.customLabel>Левый безымянный палец ноги</CoreBiodoll.corePart.parts.15.parts.2.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.2.parts.2.customLabel>Левый средний палец ноги</CoreBiodoll.corePart.parts.15.parts.2.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.2.parts.3.customLabel>Левый указательный палец ноги</CoreBiodoll.corePart.parts.15.parts.2.parts.3.customLabel>
+  <CoreBiodoll.corePart.parts.15.parts.2.parts.4.customLabel>Левый большой палец ноги</CoreBiodoll.corePart.parts.15.parts.2.parts.4.customLabel>
+  <CoreBiodoll.corePart.parts.16.customLabel>Правая нога</CoreBiodoll.corePart.parts.16.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.0.customLabel>Правая бедренная кость</CoreBiodoll.corePart.parts.16.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.1.customLabel>Правая большеберцовая кость</CoreBiodoll.corePart.parts.16.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.2.customLabel>Правая ступня</CoreBiodoll.corePart.parts.16.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.2.parts.0.customLabel>Правый мизинец ноги</CoreBiodoll.corePart.parts.16.parts.2.parts.0.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.2.parts.1.customLabel>Правый безымянный палец ноги</CoreBiodoll.corePart.parts.16.parts.2.parts.1.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.2.parts.2.customLabel>Правый средний палец ноги</CoreBiodoll.corePart.parts.16.parts.2.parts.2.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.2.parts.3.customLabel>Правый указательный палец ноги</CoreBiodoll.corePart.parts.16.parts.2.parts.3.customLabel>
+  <CoreBiodoll.corePart.parts.16.parts.2.parts.4.customLabel>Правый большой палец ноги</CoreBiodoll.corePart.parts.16.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

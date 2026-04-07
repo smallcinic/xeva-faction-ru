@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <XTRedScorpio.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt;Красный Скорпион&lt;/b&gt;&lt;/color&gt;</XTRedScorpio.degreeDatas.0.label>
+  <XTRedScorpio.degreeDatas.0.description>Жила когда-то печально известная убийца, хорошо известная своим мастерством фехтования и незаметными движениями, она была кошмаром для всей этой знати и воротил. Получение титула означает, что [PAWN_nameDef] в совершенстве овладел навыком рукопашного боя.</XTRedScorpio.degreeDatas.0.description>
+
+  <XTTheQueen.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt;Королева&lt;/b&gt;&lt;/color&gt;</XTTheQueen.degreeDatas.0.label>
+  <XTTheQueen.degreeDatas.0.description>Была поговорка о снайпере, которая не хотела убивать, поэтому она каждый раз целилась в колено, ее стали называть Королевой. [PAWN_nameDef] может заработать этот титул, что означает, что [PAWN_possessive] навык стрельбы должен был многократно подтвержден.</XTTheQueen.degreeDatas.0.description>
+
+  <XTDragon.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt;Дракон&lt;/b&gt;&lt;/color&gt;</XTDragon.degreeDatas.0.label>
+  <XTDragon.degreeDatas.0.description>Когда-то был воин, который сразился с 13 рыцарями, а позже стал лидером восстания и, возглавляя его, вторгся в королевство, получив таким образом имя Дракон. [PAWN_nameDef] может получить этот титул, это означает, что боевые навыки [PAWN_possessive] очень хороши.</XTDragon.degreeDatas.0.description>
+
+  <XTEvilGunner.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt;Злой Стрелок&lt;/b&gt;&lt;/color&gt;</XTEvilGunner.degreeDatas.0.label>
+  <XTEvilGunner.degreeDatas.0.description>Была легенда о спецназе, чье владение оружием было хитрым и смертоносным, как у дьявола, поэтому он получил имя Злой Стрелок. [PAWN_nameDef] может заработать это звание, это означает, что боевые навыки [PAWN_possessive] являются выдающимися.</XTEvilGunner.degreeDatas.0.description>
+
+  <XTVirtuousDoctor.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt; Добродетельный Доктор&lt;/b&gt;&lt;/color&gt;</XTVirtuousDoctor.degreeDatas.0.label>
+  <XTVirtuousDoctor.degreeDatas.0.description>Когда-то мстительный стрелок, выстреливший своей первой любви прямо в голову, а теперь доктор, посвятивший себя благотворительности, чтобы искупить свою вину. [PAWN_nameDef] с этим званием, это означает, что [PAWN_nameDef] одарен в медицине и ремесле.</XTVirtuousDoctor.degreeDatas.0.description>
+
+  <XTEagleEye.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt;Орлиный Глаз&lt;/b&gt;&lt;/color&gt;</XTEagleEye.degreeDatas.0.label>
+  <XTEagleEye.degreeDatas.0.description>Был один безумный снайпер, прозванный Орлинным Глазом, который, благодоря своим необычйным способностям к стрельбе, всегда стрелял только по гениталиям. [PAWN_nameDef] может получить этот титул, что означает [PAWN_possessive] навыки стрельбы необыкновенны.</XTEagleEye.degreeDatas.0.description>
+
+  <XTTheScream.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt;Крик&lt;/b&gt;&lt;/color&gt;</XTTheScream.degreeDatas.0.label>
+  <XTTheScream.degreeDatas.0.description>Существовал серийный убийца по прозвищу Крик, из-за своего невероятного уродства, он запытал и убил многих красивых людей и сделал из них своего рода произведения больного искусства, в знак протеста Богу. [PAWN_nameDef] должен быть психопатом и невероятно хорошим ремесленником, что бы получить этот титул.</XTTheScream.degreeDatas.0.description>
+
+  <XTPirateLord.degreeDatas.0.label>&lt;color=#ff0000&gt;&lt;b&gt;Король Пиратов&lt;/b&gt;&lt;/color&gt;</XTPirateLord.degreeDatas.0.label>
+  <XTPirateLord.degreeDatas.0.description>Когда-то был Король Пиратов, который вторгался на каждую планету и  нападал на каждую фракцию, которую он хотел. Никто не осмелился встать против него, однако, было семь воинов, которые бросили ему вызов. После целой ночи битвы Король Пиратов потерпел поражение. [PAWN_possessive] боевые навыки должны выйти из-под контроля, чтобы получить этот титул.</XTPirateLord.degreeDatas.0.description>
+
+
+</LanguageData>
