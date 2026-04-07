@@ -480,6 +480,4 @@
   <Bullet_SightReaper.label>30cm Flash Bomb</Bullet_SightReaper.label>
   <XGun_SightReaper.label>Sight Reaper(One-time Оружие)</XGun_SightReaper.label>
   <XGun_SightReaper.description>Для One-time использовать только. Blinding из удар цель. Не делай look around, все look в меня! BIG Bomb here!</XGun_SightReaper.description>
-  <XGun_SightReaper.tools.0.label>ствол</XGun_SightReaper.tools.0.label>
-  
-</LanguageData>
+  <XGun_SightReaper.tools.0.label>ствол</XGun_SightReaper.tools.0.label></LanguageData>

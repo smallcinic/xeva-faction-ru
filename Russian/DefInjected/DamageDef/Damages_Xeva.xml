@@ -37,5 +37,4 @@
   <XFBLight.label>Shock Grenade</XFBLight.label>
   <XFBLight.deathmessage>{0} died в explosion.</XFBLight.deathmessage>
   <GVETBullet.label>Phosphorus Пуля</GVETBullet.label>
-  <GVETBullet.deathmessage>{0} выстрел к смерть.</GVETBullet.deathmessage>
-</LanguageData>
+  <GVETBullet.deathmessage>{0} выстрел к смерть.</GVETBullet.deathmessage></LanguageData>

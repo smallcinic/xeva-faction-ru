@@ -1,53 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  
-  <XF_CutBulletChance>Пуля Отклонения Шанс: {0}%</XF_CutBulletChance>
-  <XF_ParryChance>Парирование Шанс: {0}%</XF_ParryChance>
-  <XF_StunChance>Оглушение Шанс: {0}%</XF_StunChance>
-  <NoApparelOrWeapon_Parry>Требуется ношение силовая броня и экипировка ближний оружие.</NoApparelOrWeapon_Parry>
-  <NoMeleeWeapon_Parry>Требуется экипировка ближний оружие.</NoMeleeWeapon_Parry>
-  <noparrygear>Требуется ношение силовая броня.</noparrygear>
-  <NoApparelOrWeapon_CutBullet>Требуется ношение силовая броня и экипировка XF Высокий Частотный Оружие, XF Красный Камень Оружие или Bladelink Оружие.</NoApparelOrWeapon_CutBullet>
-  <NoSpecialWeapon_CutBullet>Требуется экипировка XF Высокий Частотный Оружие, XF Красный Камень Оружие или Bladelink Оружие.</NoSpecialWeapon_CutBullet>
-  <nocutbulletgear>Требуется ношение силовая броня.</nocutbulletgear>
-  <NoApparelOrWeapon_Stun>Требуется ношение силовая броня и экипировка ближний оружие.</NoApparelOrWeapon_Stun>
-  <NoMeleeWeapon_Stun>Требуется экипировка ближний оружие.</NoMeleeWeapon_Stun>
-  <nostungear>Требуется ношение силовая броня.</nostungear>
-  <StatsReport_FromGear>Снаряжение Эффекты</StatsReport_FromGear>
 
-  
-  <XF_MessageBlackAppleInterest>{PAWN_labelShort} ментально заражён чёрное яблоко...</XF_MessageBlackAppleInterest>
-  <XF_BlackAppleTurnedSpree>превратиться чёрное яблоко</XF_BlackAppleTurnedSpree>
-  <XF_BlackAppleTurnedSpreeDesc>{PAWN_labelShort} successfully turned чёрное яблоко, и пси infection наконец ceased. Однако, те who имел affected его пси influence начал к go mad due к loss из connection, spewing curses и foul language incessantly. Те who были further away от source из infection стал extremely sad, wandering around like zombies.</XF_BlackAppleTurnedSpreeDesc>
-  <XF_BlackAppleTurnedSpreePawns> following люди начал к curse others wildly due к disruption из их пси connection с чёрное яблоко.</XF_BlackAppleTurnedSpreePawns>
-  <XF_BlackAppleTurnedCMPawns> following люди lost themselves due к disruption из их пси connection с чёрное яблоко.</XF_BlackAppleTurnedCMPawns>
-  <XF_CannotTurnedBlackApple>{PAWN_labelShort} refuses к превратиться чёрное яблоко.</XF_CannotTurnedBlackApple>
-  <XF_BlackAppleTurnConfirmation>Превратиться чёрное яблоко будет cause все те affected пси infection к curse others wildly, и любой заражён individuals в караван будет lose themselves. Однако, более concerning чем эти эффекты, turning чёрное яблоко мог potentially bring nightmarish disaster к colony.</XF_BlackAppleTurnConfirmation>
-  <XF_BlackAppleTurnPawnsSpree> following люди будет начать cursing wildly</XF_BlackAppleTurnPawnsSpree>
-  <XF_BlackAppleTurnPawnsCM> following люди будет wander в sadness.</XF_BlackAppleTurnPawnsCM>
-  <XF_BlackAppleTurnEnd> вы sure you're ready?</XF_BlackAppleTurnEnd>
+  <XF_CutBulletChance>Шанс отклонения пули: {0}%</XF_CutBulletChance>
+  <XF_ParryChance>Шанс парирования: {0}%</XF_ParryChance>
+  <XF_StunChance>Шанс оглушения: {0}%</XF_StunChance>
+  <NoApparelOrWeapon_Parry>Требуется силовая броня и оружие ближнего боя.</NoApparelOrWeapon_Parry>
+  <NoMeleeWeapon_Parry>Требуется оружие ближнего боя.</NoMeleeWeapon_Parry>
+  <noparrygear>Требуется силовая броня.</noparrygear>
+  <NoApparelOrWeapon_CutBullet>Требуется силовая броня и оружие XF High Frequency, XF Red Stone или Bladelink.</NoApparelOrWeapon_CutBullet>
+  <NoSpecialWeapon_CutBullet>Требуется оружие XF High Frequency, XF Red Stone или Bladelink.</NoSpecialWeapon_CutBullet>
+  <nocutbulletgear>Требуется силовая броня.</nocutbulletgear>
+  <NoApparelOrWeapon_Stun>Требуется силовая броня и оружие ближнего боя.</NoApparelOrWeapon_Stun>
+  <NoMeleeWeapon_Stun>Требуется оружие ближнего боя.</NoMeleeWeapon_Stun>
+  <nostungear>Требуется силовая броня.</nostungear>
+  <StatsReport_FromGear>Эффекты снаряжения</StatsReport_FromGear>
 
-  
-  <XF_KillPXConfirmation>Telling story из "Phoenix" к странный древний будет lead к её смерть.</XF_KillPXConfirmation>
-  <XF_KillPXEnd> вы sure вы хотеть к делать это?</XF_KillPXEnd>
+  <XF_MessageBlackAppleInterest>{PAWN_labelShort} был ментально заражён Чёрным Яблоком...</XF_MessageBlackAppleInterest>
+  <XF_BlackAppleTurnedSpree>обратить Чёрное Яблоко</XF_BlackAppleTurnedSpree>
+  <XF_BlackAppleTurnedSpreeDesc>{PAWN_labelShort} успешно обратил(а) Чёрное Яблоко, и пси-инфекция наконец прекратилась. Однако у тех, кто был под влиянием, начались приступы безумия и потоки ругани. Те, кто находился дальше от источника, впали в глубокую тоску и стали бесцельно бродить.</XF_BlackAppleTurnedSpreeDesc>
+  <XF_BlackAppleTurnedSpreePawns>Следующие люди начали безудержно ругаться из-за разрыва пси-связи с Чёрным Яблоком.</XF_BlackAppleTurnedSpreePawns>
+  <XF_BlackAppleTurnedCMPawns>Следующие люди потеряли себя из-за разрыва пси-связи с Чёрным Яблоком.</XF_BlackAppleTurnedCMPawns>
+  <XF_CannotTurnedBlackApple>{PAWN_labelShort} отказывается обращать Чёрное Яблоко.</XF_CannotTurnedBlackApple>
+  <XF_BlackAppleTurnConfirmation>Обращение Чёрного Яблока заставит часть заражённых людей безудержно ругаться, а некоторые заражённые в караване могут потерять себя. Кроме того, это может привести к по-настоящему кошмарным последствиям для колонии.</XF_BlackAppleTurnConfirmation>
+  <XF_BlackAppleTurnPawnsSpree>Следующие люди начнут безудержно ругаться.</XF_BlackAppleTurnPawnsSpree>
+  <XF_BlackAppleTurnPawnsCM>Следующие люди будут бесцельно бродить в тоске.</XF_BlackAppleTurnPawnsCM>
+  <XF_BlackAppleTurnEnd>Вы уверены, что готовы?</XF_BlackAppleTurnEnd>
 
-  
-  <XF_GroupVisitorsArrive> group из люди от {0} иметь discovered ваш colony и они иметь air-dropped некоторые gifts к вы. {1}{2}</XF_GroupVisitorsArrive>
-  <XF_GroupVisitorsArriveLeaderInfo>\n\n{1_labelShort} лидер из group.</XF_GroupVisitorsArriveLeaderInfo>
-  <XF_PawnJoined>{0} joined colony</XF_PawnJoined>
-  <XF_PawnJoinedDesc>Потому что из {1}'s decision к join, {0} chosen к join наш colony alongside их beloved!</XF_PawnJoinedDesc>
+  <XF_KillPXConfirmation>Рассказ истории о «Фениксе» Странному Древнему приведёт к её смерти.</XF_KillPXConfirmation>
+  <XF_KillPXEnd>Вы уверены, что хотите сделать это?</XF_KillPXEnd>
 
-  
-  <XF_WeaponLV>Оружие LV: </XF_WeaponLV>
-  <XF_DamageM>\nDamage Multiplier: </XF_DamageM>
+  <XF_GroupVisitorsArrive>Группа людей из {0} обнаружила вашу колонию и сбросила с воздуха подарки. {1}{2}</XF_GroupVisitorsArrive>
+  <XF_GroupVisitorsArriveLeaderInfo>\n\n{1_labelShort} — лидер группы.</XF_GroupVisitorsArriveLeaderInfo>
+  <XF_PawnJoined>{0} присоединился(ась) к колонии</XF_PawnJoined>
+  <XF_PawnJoinedDesc>Из-за решения {1} присоединиться, {0} также решил(а) вступить в нашу колонию вместе со своим любимым человеком!</XF_PawnJoinedDesc>
 
-  
-  <XF_SAsongSetup>Enable Странный Древний Singing Playback: </XF_SAsongSetup>
-  <XF_SAsongDes>Turning выкл это option disables playback из странный ancient's singing. Это только disables playback; когда она sings, это будет still affect creatures на map, и changes будет взять effect в начать из next cycle.</XF_SAsongDes>
-  <XF_SAsongEffectSetup>Enable Странный Древний Anomaly Effect: </XF_SAsongEffectSetup>
-  <XF_SAsongEffectDes>Turning выкл это option disables anomaly эффекты из странный древний. Это только disables эффекты; её singing будет still быть heard когда она sings, и changes будет взять effect в начать из next cycle.</XF_SAsongEffectDes>
-  <XF_SAlevelIncrement> level из redstone оружие increases с each successful interaction (default ценность 1): {0}</XF_SAlevelIncrement>
-  <XF_WeaponDurabilityLoss>Оружие Durability Loss Toggle для Парирование System:</XF_WeaponDurabilityLoss>
-  <XF_WeaponDurabilityLossDes>Когда это option disabled, оружие будет нет longer lose durability когда triggering пуля отклонения или парирование.</XF_WeaponDurabilityLossDes>
+  <XF_WeaponLV>Уровень оружия:</XF_WeaponLV>
+  <XF_DamageM>\nМножитель урона:</XF_DamageM>
 
-</LanguageData>
+  <XF_SAsongSetup>Включить воспроизведение пения Странного Древнего:</XF_SAsongSetup>
+  <XF_SAsongDes>Если отключить этот параметр, пение Странного Древнего не будет проигрываться. Это влияет только на звук: её пение всё равно будет действовать на существ на карте. Изменения вступят в силу с начала следующего цикла.</XF_SAsongDes>
+  <XF_SAsongEffectSetup>Включить аномальный эффект Странного Древнего:</XF_SAsongEffectSetup>
+  <XF_SAsongEffectDes>Если отключить этот параметр, аномальные эффекты Странного Древнего будут отключены. Это влияет только на эффекты: звук её пения по-прежнему будет слышен. Изменения вступят в силу с начала следующего цикла.</XF_SAsongEffectDes>
+  <XF_SAlevelIncrement>Уровень оружия Redstone увеличивается с каждым успешным взаимодействием (значение по умолчанию: 1): {0}</XF_SAlevelIncrement>
+  <XF_WeaponDurabilityLoss>Переключатель потери прочности оружия для системы парирования:</XF_WeaponDurabilityLoss>
+  <XF_WeaponDurabilityLossDes>Когда этот параметр выключен, оружие не теряет прочность при отклонении пуль и парировании.</XF_WeaponDurabilityLossDes></LanguageData>

@@ -79,6 +79,4 @@
 
   <XF_MakeAminoAcids.label>делать complex amino acids</XF_MakeAminoAcids.label>
   <XF_MakeAminoAcids.description>Manufacture из complex amino acids используется к gestate мех biodoll.</XF_MakeAminoAcids.description>
-  <XF_MakeAminoAcids.jobString>Making complex amino acids.</XF_MakeAminoAcids.jobString>
-
-</LanguageData>
+  <XF_MakeAminoAcids.jobString>Making complex amino acids.</XF_MakeAminoAcids.jobString></LanguageData>

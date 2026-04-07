@@ -10,6 +10,4 @@
 
 
 <XF_StunChance.label>Оглушение Шанс - Armed</XF_StunChance.label>
-<XF_StunChance.description> шанс к оглушение opponent после successful парирование в ближний combat. character должен wear силовая броня и быть equipped с ближний оружие для это к взять effect. character begins к мастер это technique когда их Ближний навык reaches level 10.</XF_StunChance.description>
-
-</LanguageData>
+<XF_StunChance.description> шанс к оглушение opponent после successful парирование в ближний combat. character должен wear силовая броня и быть equipped с ближний оружие для это к взять effect. character begins к мастер это technique когда их Ближний навык reaches level 10.</XF_StunChance.description></LanguageData>
