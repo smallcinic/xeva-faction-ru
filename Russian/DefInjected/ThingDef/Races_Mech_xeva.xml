@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <XHFBlade_MEC.label>High Freguency Blade</XHFBlade_MEC.label>
+  <XHFBlade_MEC.description>The mechanical doll holds this weapon in its hand.</XHFBlade_MEC.description>
+  <XHFBlade_MEC.tools.0.label>Broken Glass</XHFBlade_MEC.tools.0.label>
+  <XHFBlade_MEC.tools.1.label>Chop the Wind</XHFBlade_MEC.tools.1.label>
+  <XHFBlade_MEC.tools.2.label>Draw the Sword</XHFBlade_MEC.tools.2.label>
+  <XHFBlade_MEC.tools.3.label>Fury Tachi</XHFBlade_MEC.tools.3.label>
+  
+  <XGun_CPWMega.label>Charged Particle Weapon Mega</XGun_CPWMega.label>
+  <XGun_CPWMega.description>The giant version of the Charged Particle Weapon, why the technology of Diamond Bone appeared on them? This is still a mystery.</XGun_CPWMega.description>
+  <XGun_CPWMega.tools.0.label>barrel</XGun_CPWMega.tools.0.label>
+  
+  <XGun_EclipseMega.label>Eclipse Mega</XGun_EclipseMega.label>
+  <XGun_EclipseMega.description>The giant version of the Eclipse, why the technology of Diamond Bone appeared on them? This is still a mystery.</XGun_EclipseMega.description>
+  <XGun_EclipseMega.tools.0.label>barrel</XGun_EclipseMega.tools.0.label>
+  
+  <Mech_CentipedeHugeR.label>Huge Centipede</Mech_CentipedeHugeR.label>
+  <Mech_CentipedeHugeR.description>The size, armor and lethality of the Huge Centipede are much more than the original one. It is a terrible unit in the mechanical family. Some scholars believe that the variation is because the assembly process of the mechanical family is affected by unknown factors. Fortunately, they are not common and sleep in the mechanical cluster.</Mech_CentipedeHugeR.description>
+  <Mech_CentipedeHugeR.tools.0.label>head</Mech_CentipedeHugeR.tools.0.label>
+  
+  <Mech_CoreBiodollR.label>Mech Biodoll</Mech_CoreBiodollR.label>
+  <Mech_CoreBiodollR.description>"What... what is this? There seems to be a... humanoid heat source in that group of machines!?" "Maybe it is a human being, should he be rescued?" "Oh, someone has slept with the mechanical family?" "Don't joke, take it seriously." "Listen! Solving this mechanical cluster is the primary mission. We have no time to deal with this, are we clear?" "Yes, sir!" "Eh? Wait, that heat source... . We are approaching our side at high speed." "No need to report anymore. I can see it visually!" "A woman!?" "A woman with a knife!" "Don't mind! Fire! Fire All!" "Ahhhhhhhhhhhhhhhhh..." Record - Twin Star Anti-Mech Team. *The nanomachines will repair a missing part or wound on her body in 4 to 6 days.</Mech_CoreBiodollR.description>
+  <Mech_CoreBiodollR.tools.0.label>left fist</Mech_CoreBiodollR.tools.0.label>
+  <Mech_CoreBiodollR.tools.1.label>right fist</Mech_CoreBiodollR.tools.1.label>
+  <Mech_CoreBiodollR.tools.2.label>teeth</Mech_CoreBiodollR.tools.2.label>
+  <Mech_CoreBiodollR.tools.3.label>head</Mech_CoreBiodollR.tools.3.label>
+  <Mech_CoreBiodollR.tools.4.label>hair</Mech_CoreBiodollR.tools.4.label>
+
+  <CoreBiodollR.label>Biodoll</CoreBiodollR.label>
+  <CoreBiodollR.description>A white-haired young girl wearing a red mechanical cloak, with a beautiful black gem on her forehead. The gem does not appear to be artificially embedded, nor does it seem like a part of the girl's body. It resembles more of an illusion; upon close inspection, one cannot find any seam between the skin and the gem, yet it definitely exists when touched.</CoreBiodollR.description>
+  <CoreBiodollR.tools.0.label>left fist</CoreBiodollR.tools.0.label>
+  <CoreBiodollR.tools.1.label>right fist</CoreBiodollR.tools.1.label>
+  <CoreBiodollR.tools.2.label>teeth</CoreBiodollR.tools.2.label>
+  <CoreBiodollR.tools.3.label>head</CoreBiodollR.tools.3.label>
+  <CoreBiodollR.tools.4.label>hair</CoreBiodollR.tools.4.label>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.label>Strange Ancient study progress</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.label>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef} has made significant progress in the study of this strange ancient individual. The research indicates that her body contains a large number of nanomachines, which are distributed not only in her muscles and skin but also in her hair. These nanomachines are responsible for maintaining her physiological form; for example, when her hair reaches a certain length, the excess naturally falls off. This shed hair can be refined into a drug known as "Luciferium."
+
+Additionally, her singing voice has the ability to influence people's thoughts. This influence is not transmitted through hearing but acts directly on the mind, similar to telepathy. {PAWN_nameDef} believes these abilities are related to a black gemstone on the girl's forehead, and further research is necessary to understand this phenomenon.</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.text>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.label>Strange Ancient study complete</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.label>
+  <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.text>{PAWN_nameDef} has discovered that the strange ancient individual is named Evan, a weapon - Biodoll created by the sanguophage clan to compensate for their own weaknesses. She exists both in the future and the past but does not belong to the present because she is actually deceased. The specter wandering through the wilderness may just be a jest played by a archotech.
+
+{PAWN_nameDef} discovered that the gemstone on her forehead possesses very strange physical properties; it can affect the cognition of those who touch it. For instance, Evan only became aware of the gemstone's existence when reminded by a third party. When she touched the gemstone, it seemed as if she had penetrated the past, as if the gemstone didn't exist for her, although others could definitely touch the gemstone on her forehead.
+
+{PAWN_nameDef} believes this gemstone holds significant research value. Please decide how to proceed: you can stop here, or kill Evan to take her gemstone. If you choose to kill her, you can do it directly or by telling the storybook "Phoenix" to let her rest in peace.</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.text>
+  <CoreBiodollR.comps.6.activateLabelString>To put Evan to rest.</CoreBiodollR.comps.6.activateLabelString>
+  <CoreBiodollR.comps.6.activateDescString>To put Evan to rest, you will need the storybook "Phoenix".</CoreBiodollR.comps.6.activateDescString>
+  <CoreBiodollR.comps.6.guiLabelString>Choose someone to tell Evan the story of the "Phoenix".</CoreBiodollR.comps.6.guiLabelString>
+  <CoreBiodollR.comps.6.jobString>tell Evan the story of the "Phoenix".</CoreBiodollR.comps.6.jobString>
+  <CoreBiodollR.comps.6.activatingStringPending>telling {0}</CoreBiodollR.comps.6.activatingStringPending>
+  <CoreBiodollR.comps.6.activatingString>telling {0}: {1}s</CoreBiodollR.comps.6.activatingString>
+
+  <XEHuman.label>Black Apple</XEHuman.label>
+  <XEHuman.description>Vic: "What the hell is that in your hand, Miss?"
+XvA: "Haven't you seen this thing? It's a "Vibrating" weapon made for me by my master, little bro."
+Vic: "......"
+
+*Even if you are good at slicing bullets, please use the right weapon. When equipped with XF High Frequency Weapon, XF Red Stone Weapon, Bladelink Weapon, the character will definitely deflect the incoming bullets as long as they are not in close combat or stunned, but be aware that this will cause damage to the weapon.
+*Nanomachines will repair a missing part of this unit in 4 to 6 days.</XEHuman.description>
+  <XEHuman.tools.0.label>left leg</XEHuman.tools.0.label>
+  <XEHuman.tools.1.label>right leg</XEHuman.tools.1.label>
+  <XEHuman.tools.2.label>teeth</XEHuman.tools.2.label>
+  <XEHuman.tools.3.label>head</XEHuman.tools.3.label>
+  
+  <XEPXHuman.label>Cyborg</XEPXHuman.label>
+  <XEPXHuman.description>The body fluids and muscles of cyborgs contain a large number of nanomachines that are loyal to the host and resistant to foreign objects.
+
+*When equipped with XF High Frequency Weapon, XF Red Stone Weapon, Bladelink Weapon, the character will have a chance to chop off the incoming bullets as long as they are not in close combat or stunned, but be aware that this will cause damage to the weapon.
+*Nanomachines will repair a missing part of this unit in 4 to 6 days.</XEPXHuman.description>
+  <XEPXHuman.tools.0.label>left fist</XEPXHuman.tools.0.label>
+  <XEPXHuman.tools.1.label>right fist</XEPXHuman.tools.1.label>
+  <XEPXHuman.tools.2.label>teeth</XEPXHuman.tools.2.label>
+  <XEPXHuman.tools.3.label>head</XEPXHuman.tools.3.label>
+
+  <NanoBioMeat.label>Nano Meat</NanoBioMeat.label>
+  <NanoBioMeat.description>The meat obtained after butchering the Biodoll. These meats are crunchy and chicken-flavored! It is six times richer in protein than human meat, and a large number of nano-mechanical molecules are hidden in muscle fibers and fats. After extraction, it can be used to produce related drugs. It should be noted that nano-mechanical molecules without central control will soon stop functioning due to loss of cohesion, so please refrigerate as soon as possible.</NanoBioMeat.description>
+  
+</LanguageData>

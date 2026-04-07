@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Xe_CCut.label>Freeze Cut</Xe_CCut.label>
+  <Xe_PHit.label>Shock Blow</Xe_PHit.label>
+  <Xe_BCut.label>Plasma Cut</Xe_BCut.label>
+  <Xe_HCut.label>Heat Cut</Xe_HCut.label>
+  <Xe_HStab.label>Heat Stab</Xe_HStab.label>
+  <Xe_HStab.deathmessage>{0} has been stabbed to death.</Xe_HStab.deathmessage>
+  <Xe_MCut.label>High Frequency Cut</Xe_MCut.label>
+  <Xe_Pull.label>Pull</Xe_Pull.label>
+  <Xe_HTBullet.label>Heat Bullet</Xe_HTBullet.label>
+  <Xe_HTBullet.deathmessage>{0} has been shot to death.</Xe_HTBullet.deathmessage>
+  <Xe_BTBullet.label>Blunt Bullet</Xe_BTBullet.label>
+  <Xe_BTBullet.deathmessage>{0} has been shot to death.</Xe_BTBullet.deathmessage>
+  <Xe_CShock.label>Negative Charge</Xe_CShock.label>
+  <Xe_CShock.deathmessage>{0} has died in an explosion.</Xe_CShock.deathmessage>
+  <Xe_Shock.label>Positron</Xe_Shock.label>
+  <Xe_Shock.deathmessage>{0} has died in an explosion.</Xe_Shock.deathmessage>
+  <HBullet.label>Shock Bullet</HBullet.label>
+  <HBullet.deathmessage>{0} has been shot to death.</HBullet.deathmessage>
+  <BBullet.label>Carbon Crystal Bullet</BBullet.label>
+  <BBullet.deathmessage>{0} has been shot to death.</BBullet.deathmessage>
+  <HSBullet.label>Scatter Bullet</HSBullet.label>
+  <HSBullet.deathmessage>{0} has been shot to death.</HSBullet.deathmessage>
+  <APFBullet.label>Bullet</APFBullet.label>
+  <APFBullet.deathmessage>{0} has been shot to death.</APFBullet.deathmessage>
+  <APBBullet.label>Bullet</APBBullet.label>
+  <APBBullet.deathmessage>{0} has been shot to death.</APBBullet.deathmessage>
+  <HBBullet.label>Heat Bullet</HBBullet.label>
+  <HBBullet.deathmessage>{0} has been shot to death.</HBBullet.deathmessage>
+  <SBullet.label>Shock</SBullet.label>
+  <SBullet.deathmessage>{0} has died in an explosion.</SBullet.deathmessage>
+  <DBullet.label>Grenade</DBullet.label>
+  <DBullet.deathmessage>{0} has died in an explosion.</DBullet.deathmessage>
+  <XFzeBullet.label>Freeze Grenade</XFzeBullet.label>
+  <XFzeBullet.deathmessage>{0} has died in an explosion.</XFzeBullet.deathmessage>
+  <XFBLight.label>Shock Grenade</XFBLight.label>
+  <XFBLight.deathmessage>{0} has died in an explosion.</XFBLight.deathmessage>
+  <GVETBullet.label>Phosphorus Bullet</GVETBullet.label>
+  <GVETBullet.deathmessage>{0} has been shot to death.</GVETBullet.deathmessage>
+</LanguageData>

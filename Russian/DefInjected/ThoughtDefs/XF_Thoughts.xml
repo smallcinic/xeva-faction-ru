@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <XF_HappyFool.stages.0.label>Wow! What exactly is this?</XF_HappyFool.stages.0.label>
+  <XF_HappyFool.stages.0.description>Knowledge brings us wisdom, while ignorance brings us joy.</XF_HappyFool.stages.0.description>
+
+  <XF_ExhaustedFlame.stages.0.label>The Exhausted Flame</XF_ExhaustedFlame.stages.0.label>
+  <XF_ExhaustedFlame.stages.0.description>The Strange Ancient has been laid to rest.</XF_ExhaustedFlame.stages.0.description>
+
+  <XF_PxB.stages.0.label>Blood of Phoenix</XF_PxB.stages.0.label>
+  <XF_PxB.stages.0.description>The body feels as if it's being scorched by flames; is this what they call "Hot Blood"?</XF_PxB.stages.0.description>
+ 
+  <XF_songT.stages.0.label>Vocal Infection</XF_songT.stages.0.label>
+  <XF_songT.stages.0.description>Is this the power of music?</XF_songT.stages.0.description>
+
+  <XF_songB.stages.0.label>Vocal Pollution</XF_songB.stages.0.label>
+  <XF_songB.stages.0.description>Oh God! My Fucking Brain!</XF_songB.stages.0.description>
+
+  <XF_appleT.stages.0.label>Delusions</XF_appleT.stages.0.label>
+  <XF_appleT.stages.0.description>My mind is filled with bold ideas and RJW's delusions, making me feel terribly uncomfortable.</XF_appleT.stages.0.description>
+ 
+</LanguageData>
