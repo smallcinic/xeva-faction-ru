@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <XEO_Trader.label>XEO Торговец</XEO_Trader.label>
-  <XEO_Rioter.label>XEO Rioter</XEO_Rioter.label>
-  <XEO_Robin.label>XEO Robin</XEO_Robin.label>
-  <XEO_Omen.label>XEO Omen</XEO_Omen.label>
-  <XEO_Blade.label>XEO Клинок</XEO_Blade.label>
-  <XEO_Musha.label>XEO Musha</XEO_Musha.label>
-  <XEO_TMusha.label>XEO Templar Musha</XEO_TMusha.label>
-  <XEO_AssassinMaster.label>XEO Ассасин Мастер</XEO_AssassinMaster.label>
-  <XEO_Presbyterian.label>XEO Elder Unit</XEO_Presbyterian.label>
+  <XEO_Trader.label>ХЕО Торговец</XEO_Trader.label>
+  <XEO_Rioter.label>ХЕО Бунтарь</XEO_Rioter.label>
+  <XEO_Robin.label>ХЕО Робин</XEO_Robin.label>
+  <XEO_Omen.label>ХЕО Предзнаменователь</XEO_Omen.label>
+  <XEO_Blade.label>ХЕО Клинок</XEO_Blade.label>
+  <XEO_Musha.label>ХЕО Муша</XEO_Musha.label>
+  <XEO_TMusha.label>ХЕО Храмовник Муша</XEO_TMusha.label>
+  <XEO_AssassinMaster.label>ХЕО Мастер Убийца</XEO_AssassinMaster.label>
+  <XEO_Presbyterian.label>ХЕО Старейший</XEO_Presbyterian.label>
 
   <XEO_TraderRatkin.label>XEO Торговец</XEO_TraderRatkin.label>
   <XEO_RioterRatkin.label>XEO Rioter</XEO_RioterRatkin.label>

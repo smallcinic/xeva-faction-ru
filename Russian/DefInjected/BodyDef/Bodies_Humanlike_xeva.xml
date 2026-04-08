@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <CoreBiodoll.label>Core Biodoll</CoreBiodoll.label>
+  <CoreBiodoll.label>Странный Древний</CoreBiodoll.label>
   <CoreBiodoll.corePart.parts.left_lung.customLabel>ушёл lung</CoreBiodoll.corePart.parts.left_lung.customLabel>
   <CoreBiodoll.corePart.parts.right_lung.customLabel>право lung</CoreBiodoll.corePart.parts.right_lung.customLabel>
   <CoreBiodoll.corePart.parts.left_kidney.customLabel>ушёл kidney</CoreBiodoll.corePart.parts.left_kidney.customLabel>

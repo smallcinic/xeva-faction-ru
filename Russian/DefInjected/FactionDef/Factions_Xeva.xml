@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <XEFDiamondBone.label>Алмаз Кость</XEFDiamondBone.label>
-  <XEFDiamondBone.description>&lt;color=#ff0000&gt;Алмаз Кость и Jaeger стать враги потому что из competition для ресурсы, и Пламя Легион takes Алмаз Кость как цель из looting, так что Jaeger и Пламя Легион always в hostile с Алмаз Кость.&lt;/color&gt; Однажды there dragon leading barbarains wrecking country. В deepist despair, savior был sent вниз к earth leading army из knights к slay dragon и это kind savior даже spare barbarians. К show их gratitude, эти barbarians король это dragon-slayer и vow к serve его и его descendant. Это legend из foundation из Алмаз Bon. Однако, некоторые historian think это merely story crated к manipulate люди, и dragon possibily reble лидер в то время.</XEFDiamondBone.description>
+  <XEFDiamondBone.label>Алмазная Кость</XEFDiamondBone.label>
+  <XEFDiamondBone.description>Однажды дракон возглавлял варваров, разрушающих страну. В глубоком отчаянии на землю был отправлен спаситель, ведущий армию рыцарей, чтобы убить этого дракона, и этот добрый спаситель даже пощадил варваров. Чтобы выразить свою благодарность, эти варвары подчиняются убийце драконов и клянутся служить ему и его потомкам. Это легенда об основании Алмазной Кости. Однако некоторые историки думают, что это просто история, созданная для манипулирования людьми, а дракон, возможно, был лидером мятежа в те времена.</XEFDiamondBone.description>
   <XEFDiamondBone.pawnSingular>Алмаз Кость Мужчина</XEFDiamondBone.pawnSingular>
-  <XEFDiamondBone.pawnsPlural>Алмаз Кость Люди</XEFDiamondBone.pawnsPlural>
-  <XEFDiamondBone.leaderTitle> Король</XEFDiamondBone.leaderTitle>
-  <XEFDiamondBone.fixedName>Алмаз Кость</XEFDiamondBone.fixedName>
+  <XEFDiamondBone.pawnsPlural>Люди Алмазной Кости</XEFDiamondBone.pawnsPlural>
+  <XEFDiamondBone.leaderTitle>Король</XEFDiamondBone.leaderTitle>
+  <XEFDiamondBone.fixedName>Алмазная Кость</XEFDiamondBone.fixedName>
 
-  <XEFFlameLegion.label>Пламя Легион</XEFFlameLegion.label>
-  <XEFFlameLegion.description>&lt;color=#ff0000&gt; члены из Пламя Легион hate Star Исследователь потому что они были banished, и Алмаз Кость hates Пламя Легион потому что из looting, так что Star Исследователь и Алмаз Кость always в hostile с Пламя Легион.&lt;/color&gt;.K. FFF Легион, первый F represnet огонь, секунда fear, и third freedom. Это founded StarExplorer noble who был feeling sympathy к те who были exiled, therefore founded организация к support их. Однако, это организация был later disbanded StarExplorer congress и nobel's house был также exciled для treason. Но это noble, gratituded те who он имел helped, был сделал к стать лидер among exiled. Так что он united others who были также forsaked и tribes к стать Пламя Легион.</XEFFlameLegion.description>
+  <XEFFlameLegion.label>Пламенный Легион</XEFFlameLegion.label>
+  <XEFFlameLegion.description>A.K.A FFF (ОСС) Легион, первая F означает fire (огонь), вторая - fear (страх), и третья - freedom (свобода). Он был основан знатным Звездным Исследователем, который сочувствовал тем, кто был изгнан и поэтому основал организацию для их поддержки. Однако позже эта организация была распущена конгрессом Звездных Исследователей, а основатель организации так же был изгнан за измену. Но, благодаря тем, кому он помог, он стал лидером среди изгнанников. Таким образом, он объединил тех, кто был забыт, а так же различные племена, и основал Пламенный Легион.</XEFFlameLegion.description>
   <XEFFlameLegion.pawnSingular>Пламя Легион Солдат</XEFFlameLegion.pawnSingular>
-  <XEFFlameLegion.pawnsPlural>Пламя Легион Солдаты</XEFFlameLegion.pawnsPlural>
-  <XEFFlameLegion.leaderTitle>Supreme Лидер</XEFFlameLegion.leaderTitle>
-  <XEFFlameLegion.fixedName>Пламя Легион</XEFFlameLegion.fixedName>
+  <XEFFlameLegion.pawnsPlural>Солдаты Пламенного Легиона</XEFFlameLegion.pawnsPlural>
+  <XEFFlameLegion.leaderTitle>Лидер</XEFFlameLegion.leaderTitle>
+  <XEFFlameLegion.fixedName>Пламенный Легион</XEFFlameLegion.fixedName>
 
-  <XEFJaegar.label>Jaeger</XEFJaegar.label>
-  <XEFJaegar.description>&lt;color=#ff0000&gt;Jaeger и Алмаз Кость стал враги в order к compete для ресурсы, Jaeger также hostile к XEO потому что из employment contract из Star Исследователь, так что Алмаз Кость и XEO always в hostile с Jaeger.&lt;/color&gt; There были однажды bunch из space pirates who налёт не village но другой pirates. Они grow и getting stronger, reformed и slowly стать army и eventually стать сила то не может быть ignored. Они налёт и налёт и growing bigger и bigger к point то только raiding не может support это daily operation, так что они reform и evolve и стать Jaeger today.</XEFJaegar.description>
-  <XEFJaegar.pawnSingular>Jaeger Мужчина</XEFJaegar.pawnSingular>
-  <XEFJaegar.pawnsPlural>Jaeger Citizen</XEFJaegar.pawnsPlural>
-  <XEFJaegar.leaderTitle>Hero</XEFJaegar.leaderTitle>
-  <XEFJaegar.fixedName>Jaeger</XEFJaegar.fixedName>
+  <XEFJaegar.label>Егерь</XEFJaegar.label>
+  <XEFJaegar.description>Когда-то была группа космических пиратов, которые совершали набеги не на поселения, а на других пиратов. Они расли и становились сильнее, реформировались и постепенно превратились в армию и в конечном итоге стали силой, которую нельзя игнорировать. Они совершают набег за набегом и становятся все больше и больше, разросшись до такой степени, что одними только рейдами они уже не могут поддерживать повседневную работоспособность, поэтому они реформируются и развиваются, и сегодня они зовутся Егерь.</XEFJaegar.description>
+  <XEFJaegar.pawnSingular>Егерь</XEFJaegar.pawnSingular>
+  <XEFJaegar.pawnsPlural>Егерь Гражданин</XEFJaegar.pawnsPlural>
+  <XEFJaegar.leaderTitle>Герой</XEFJaegar.leaderTitle>
+  <XEFJaegar.fixedName>Егерь</XEFJaegar.fixedName>
 
-  <XEFStarExplorer.label>Star Исследователь</XEFStarExplorer.label>
-  <XEFStarExplorer.description>&lt;color=#ff0000&gt;Пламя Легион considered threat Star Исследователь для launching terrorist attacks, и Star Исследователь также hostile к XEO для historical reasons, так что Пламя Легион и XEO always в hostile с Star Исследователь.&lt;/color&gt; giant фракция which был originally group из scientist who были persecuted politic и religion. Однако, некоторые из эти scientist hold technology из space trvel и добыча. Under их leadership, они lead их fellow scientist и другой exiled outsider к стать high-tech организация, attracting lots из investment, и наконец стать StarExplorer today.</XEFStarExplorer.description>
-  <XEFStarExplorer.pawnSingular>Star Исследователь Мужчина</XEFStarExplorer.pawnSingular>
-  <XEFStarExplorer.pawnsPlural>Star Исследователь Citizen</XEFStarExplorer.pawnsPlural>
-  <XEFStarExplorer.leaderTitle>Speaker</XEFStarExplorer.leaderTitle>
-  <XEFStarExplorer.fixedName>Star Исследователь</XEFStarExplorer.fixedName>
+  <XEFStarExplorer.label>Звездные Исследователи</XEFStarExplorer.label>
+  <XEFStarExplorer.description>Гигантская фракция, первоначально представлявшая собой группу ученых, преследуемых политиками и церковью. Однако некоторые из этих ученых владеют технологиями космических исследований и добычи полезных ископаемых. Под их руководством они ведут своих коллег-ученых и других изгоев создавая высокотехнологичную организацию, привлекающую много инвестиций, и, наконец, становятся известны как Звездные Исследователи.</XEFStarExplorer.description>
+  <XEFStarExplorer.pawnSingular>Звёздный исследователь</XEFStarExplorer.pawnSingular>
+  <XEFStarExplorer.pawnsPlural>Гражданин Звездный Исследователь</XEFStarExplorer.pawnsPlural>
+  <XEFStarExplorer.leaderTitle>Оратор</XEFStarExplorer.leaderTitle>
+  <XEFStarExplorer.fixedName>Звездные Исследователи</XEFStarExplorer.fixedName>
 
-  <XEFXEO.label>XEO</XEFXEO.label>
-  <XEFXEO.description>&lt;color=#ff0000&gt;XEO feuding с Star Исследователь для historical reasons. Star Исследователь долгий employed Jaeger к hunt XEO followers, так что Star Исследователь и Jaeger always в hostile с XEO.&lt;/color&gt; mysterious ассасин организация. XEO только это имя seems meaningless, однако, это said то это древний hieroglyphics representing kind из highly poisonous растения. И founder из XEO always использовать это plant к ассасин те abuse их силовая thus getting это имя.</XEFXEO.description>
-  <XEFXEO.pawnSingular>XEO Member</XEFXEO.pawnSingular>
-  <XEFXEO.pawnsPlural>XEO Члены</XEFXEO.pawnsPlural>
-  <XEFXEO.leaderTitle>Elder</XEFXEO.leaderTitle>
+  <XEFXEO.label>ХЕО</XEFXEO.label>
+  <XEFXEO.description>Таинственная организация убийц. Название XEO только кажется бессмысленным, однако как говорят исследователи, это древние иероглифы, представляющие собой название разновидности очень ядовитых растений. И основатель XEO всегда использовал это растение для убийства тех, кто злоупотребляет своей властью, таким образом получив это имя.</XEFXEO.description>
+  <XEFXEO.pawnSingular>Член XEO</XEFXEO.pawnSingular>
+  <XEFXEO.pawnsPlural>Члены ХЕО</XEFXEO.pawnsPlural>
+  <XEFXEO.leaderTitle>Старейшина</XEFXEO.leaderTitle>
   <XEFXEO.fixedName>XEO</XEFXEO.fixedName></LanguageData>

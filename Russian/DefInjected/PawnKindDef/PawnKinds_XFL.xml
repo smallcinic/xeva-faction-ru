@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <FL_Noble.label>FL Noble</FL_Noble.label>
-  <FL_Bully.label>FL Bully</FL_Bully.label>
-  <FL_Grabber.label>FL Grabber</FL_Grabber.label>
-  <FL_Poacher.label>FL Poacher</FL_Poacher.label>
-  <FL_Hunter.label>FL Охотник</FL_Hunter.label>
-  <FL_Vanguard.label>FL Vanguard</FL_Vanguard.label>
-  <FL_Deadeye.label>FL Deadeye</FL_Deadeye.label>
-  <FL_Looter.label>FL Looter</FL_Looter.label>
-  <FL_Commander.label>FL Commander</FL_Commander.label>
-  <FL_Halberdier.label>FL Halberdier</FL_Halberdier.label>
-  <FL_Leader.label>FL Corps Лидер</FL_Leader.label>
+  <FL_Noble.label>ПЛ Дворянин</FL_Noble.label>
+  <FL_Bully.label>ПЛ Задира</FL_Bully.label>
+  <FL_Grabber.label>ПЛ Грабитель</FL_Grabber.label>
+  <FL_Poacher.label>ПЛ Браконьер</FL_Poacher.label>
+  <FL_Hunter.label>ПЛ Охотник</FL_Hunter.label>
+  <FL_Vanguard.label>ПЛ Авангард</FL_Vanguard.label>
+  <FL_Deadeye.label>ПЛ Снайпер</FL_Deadeye.label>
+  <FL_Looter.label>ПЛ Мародер</FL_Looter.label>
+  <FL_Commander.label>ПЛ Командир</FL_Commander.label>
+  <FL_Halberdier.label>ПЛ Алебардист</FL_Halberdier.label>
+  <FL_Leader.label>ПЛ Лидер Корпуса</FL_Leader.label>
 
   <FL_NobleRatkin.label>FL Noble</FL_NobleRatkin.label>
   <FL_BullyRatkin.label>FL Bully</FL_BullyRatkin.label>
