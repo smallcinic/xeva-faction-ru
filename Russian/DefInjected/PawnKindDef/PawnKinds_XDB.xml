@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <DB_Trader.label>DB Торговец</DB_Trader.label>
-  <DB_WallCrack.label>DB Wall Crack</DB_WallCrack.label>
-  <DB_Footman.label>DB Footman</DB_Footman.label>
-  <DB_HFootman.label>DB Тяжёлый Footman</DB_HFootman.label>
-  <DB_Shooter.label>DB Shooter</DB_Shooter.label>
-  <DB_Knight.label>DB Рыцарь</DB_Knight.label>
-  <DB_HGunner.label>DB Тяжёлый Gunner</DB_HGunner.label>
-  <DB_HKnight.label>DB Тяжёлый Рыцарь</DB_HKnight.label>
-  <DB_DarkKnight.label>DB Рыцарь Captain</DB_DarkKnight.label>
-  <DB_Berserker.label>DB Berserker</DB_Berserker.label>
-  <DB_TheLord.label>DB Lord</DB_TheLord.label>
+  <DB_Trader.label>АК Торговец</DB_Trader.label>
+  <DB_WallCrack.label>АК Стенолом</DB_WallCrack.label>
+  <DB_Footman.label>АК Пехотинец</DB_Footman.label>
+  <DB_HFootman.label>АК Тяжелый Пехотинец</DB_HFootman.label>
+  <DB_Shooter.label>АК Стрелок</DB_Shooter.label>
+  <DB_Knight.label>АК Рыцарь</DB_Knight.label>
+  <DB_HGunner.label>АК Тяжелый Стрелок</DB_HGunner.label>
+  <DB_HKnight.label>АК Тяжелый Рыцарь</DB_HKnight.label>
+  <DB_DarkKnight.label>АК Рыцарь Капитан</DB_DarkKnight.label>
+  <DB_Berserker.label>АК Берсерк</DB_Berserker.label>
+  <DB_TheLord.label>АК Лорд</DB_TheLord.label>
 
   <DB_TraderRatkin.label>DB Торговец</DB_TraderRatkin.label>
   <DB_WallCrackRatkin.label>DB Wall Crack</DB_WallCrackRatkin.label>

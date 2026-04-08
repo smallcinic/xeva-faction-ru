@@ -1,72 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <AP_Chainsaw.label>Chain Увидел</AP_Chainsaw.label>
-  <AP_Chainsaw.description>Sawwwwwwwwwwwww!!! Legend это то Пират Король был lumberjack до он стал король, и после его многие battles, он discovered he'd никогда forgotten feel из chainsaw. Так что Пират Король спросил мастер craftsman из время к design оружие. Он был очень pleased с huge и terrifying shape из оружие. pirates были так что impressed то они начал к делать copies из оружие, но это был так что тяжёлый то ordinary люди мог не использовать это properly. Некоторые scholars believe это был main cause из Пират King's смерть в assassination.</AP_Chainsaw.description>
-  <AP_Chainsaw.tools.0.label>Swing</AP_Chainsaw.tools.0.label>
-  <AP_Chainsaw.tools.1.label>Drag Увидел</AP_Chainsaw.tools.1.label>
-  <AP_Chainsaw.tools.2.label>Увидел Разрез</AP_Chainsaw.tools.2.label>
-  <AP_ChainsawM.label>Chain Увидел Военный</AP_ChainsawM.label>
-  <AP_ChainsawM.description>Sawwwwwwwwwwwww!!! Legend это то Пират Король был lumberjack до он стал король, и после его многие battles, он discovered he'd никогда forgotten feel из chainsaw. Так что Пират Король спросил мастер craftsman из время к design оружие. Он был очень pleased с huge и terrifying shape из оружие. pirates были так что impressed то они начал к делать copies из оружие, но это был так что тяжёлый то ordinary люди мог не использовать это properly. Некоторые scholars believe это был main cause из Пират King's смерть в assassination.</AP_ChainsawM.description>
-  <AP_ChainsawM.tools.0.label>Swing</AP_ChainsawM.tools.0.label>
-  <AP_ChainsawM.tools.1.label>Drag Увидел</AP_ChainsawM.tools.1.label>
-  <AP_ChainsawM.tools.2.label>Увидел Разрез</AP_ChainsawM.tools.2.label>
+  <AP_Chainsaw.label>Цепная Пила</AP_Chainsaw.label>
+  <AP_Chainsaw.description>Пилааааааааааааа!!! Легенда гласит, что Король Пиратов был лесорубом, прежде чем стал Королем, и после многих битв он обнаружил, что никак не может забыть ощущение бензопилы в руках. Поэтому Король пиратов попросил мастера того времени спроектировать оружие. Он был очень доволен огромной и устрашающей формой оружия. Пираты были так впечатлены, что начали делать копии оружия, но оно было настолько тяжелым, что обычные люди не могли им пользоваться должным образом. Некоторые ученые считают, что это была основная причина смерти Короля Пиратов.</AP_Chainsaw.description>
+  <AP_Chainsaw.tools.0.label>Наотмашь</AP_Chainsaw.tools.0.label>
+  <AP_Chainsaw.tools.1.label>Затяжное Пиление</AP_Chainsaw.tools.1.label>
+  <AP_Chainsaw.tools.2.label>Порез Пилой</AP_Chainsaw.tools.2.label>
+  <AP_ChainsawM.label>Цепная Пила MIL</AP_ChainsawM.label>
+  <AP_ChainsawM.description>Пилааааааааааааа!!! Легенда гласит, что Король Пиратов был лесорубом, прежде чем стал Королем, и после многих битв он обнаружил, что никак не может забыть ощущение бензопилы в руках. Поэтому Король пиратов попросил мастера того времени спроектировать оружие. Он был очень доволен огромной и устрашающей формой оружия. Пираты были так впечатлены, что начали делать копии оружия, но оно было настолько тяжелым, что обычные люди не могли им пользоваться должным образом. Некоторые ученые считают, что это была основная причина смерти Короля Пиратов.</AP_ChainsawM.description>
+  <AP_ChainsawM.tools.0.label>Наотмашь</AP_ChainsawM.tools.0.label>
+  <AP_ChainsawM.tools.1.label>Затяжное Пиление</AP_ChainsawM.tools.1.label>
+  <AP_ChainsawM.tools.2.label>Порез Пилой</AP_ChainsawM.tools.2.label>
 
-  <AP_CutSaber.label>Разрез Saber</AP_CutSaber.label>
-  <AP_CutSaber.description> урон тип из это оружие жара урон. Thermal оружие от Пират King's время, although древний, их thermal blades still effective против most modern броня, и некоторые nostalgic pirates использовать их как ближний оружие.</AP_CutSaber.description>
-  <AP_CutSaber.tools.0.label>Hilt Удар</AP_CutSaber.tools.0.label>
-  <AP_CutSaber.tools.1.label>Slice</AP_CutSaber.tools.1.label>
-  <AP_CutSaber.tools.2.label>Row Разрез</AP_CutSaber.tools.2.label>
-  <AP_CutSaberM.label>Разрез Saber Военный</AP_CutSaberM.label>
-  <AP_CutSaberM.description> урон тип из это оружие жара урон. Thermal оружие от Пират King's время, although древний, их thermal blades still effective против most modern броня, и некоторые nostalgic pirates использовать их как ближний оружие.</AP_CutSaberM.description>
-  <AP_CutSaberM.tools.0.label>Hilt Удар</AP_CutSaberM.tools.0.label>
-  <AP_CutSaberM.tools.1.label>Slice</AP_CutSaberM.tools.1.label>
-  <AP_CutSaberM.tools.2.label>Row Разрез</AP_CutSaberM.tools.2.label>
+  <AP_CutSaber.label>Режущая Сабля</AP_CutSaber.label>
+  <AP_CutSaber.description>Термическо оружие времен Короля Пиратов, несмотря на древность, их термические лезвия всё ещё эффективны против большей части современной брони, и некоторые тоскующие по прошлому пираты используют их как оружие ближнего боя.</AP_CutSaber.description>
+  <AP_CutSaber.tools.0.label>Удар Рукояткой</AP_CutSaber.tools.0.label>
+  <AP_CutSaber.tools.1.label>Нарезка</AP_CutSaber.tools.1.label>
+  <AP_CutSaber.tools.2.label>Порез</AP_CutSaber.tools.2.label>
+  <AP_CutSaberM.label>Режущая Сабля MIL</AP_CutSaberM.label>
+  <AP_CutSaberM.description>Термическо оружие времен Короля Пиратов, несмотря на древность, их термические лезвия всё ещё эффективны против большей части современной брони, и некоторые тоскующие по прошлому пираты используют их как оружие ближнего боя.</AP_CutSaberM.description>
+  <AP_CutSaberM.tools.0.label>Удар Рукояткой</AP_CutSaberM.tools.0.label>
+  <AP_CutSaberM.tools.1.label>Нарезка</AP_CutSaberM.tools.1.label>
+  <AP_CutSaberM.tools.2.label>Порез</AP_CutSaberM.tools.2.label>
 
-  <DB_Hammer.label>Impact Hammer</DB_Hammer.label>
-  <DB_Hammer.description> силовая hammer сделал из platinum с power-assisted propulsion engine то extremely lethal, это оружие heavily используется Алмаз Кость Warriors. Некоторые люди think то меч только gorgeous decoration. Это real ближний оружие.</DB_Hammer.description>
-  <DB_Hammer.tools.0.label>Swing</DB_Hammer.tools.0.label>
-  <DB_Hammer.tools.1.label>Top Explosion</DB_Hammer.tools.1.label>
-  <DB_Hammer.tools.2.label>Rocket Fall</DB_Hammer.tools.2.label>
-  <DB_Hammer_MM.label>Силовая Warhammer</DB_Hammer_MM.label>
-  <DB_Hammer_MM.description>Well! Warhammer король из оружие в Middle Ages.</DB_Hammer_MM.description>
-  <DB_Hammer_MM.tools.0.label>Swing</DB_Hammer_MM.tools.0.label>
-  <DB_Hammer_MM.tools.1.label>Hammering</DB_Hammer_MM.tools.1.label>
-  <DB_Hammer_MM.tools.2.label>Бронебойный</DB_Hammer_MM.tools.2.label>
-  <DB_HammerM.label>Impact Hammer Военный</DB_HammerM.label>
-  <DB_HammerM.description> силовая hammer сделал из platinum с power-assisted propulsion engine то extremely lethal, это оружие heavily используется Алмаз Кость Warriors. Некоторые люди think то меч только gorgeous decoration. Это real ближний оружие.</DB_HammerM.description>
-  <DB_HammerM.tools.0.label>Swing</DB_HammerM.tools.0.label>
-  <DB_HammerM.tools.1.label>Top Explosion</DB_HammerM.tools.1.label>
-  <DB_HammerM.tools.2.label>Rocket Fall</DB_HammerM.tools.2.label>
+  <DB_Hammer.label>Ударный Молот</DB_Hammer.label>
+  <DB_Hammer.description>Силовой молот из платины с чрезвычайно смертоносным силовым двигателем, это оружие активно используется воинами Алмазной Комти. Некоторые думают, что меч - это только шикарное украшение. А вот ЭТО - настоящее холодное оружие.</DB_Hammer.description>
+  <DB_Hammer.tools.0.label>Наотмашь</DB_Hammer.tools.0.label>
+  <DB_Hammer.tools.1.label>Взрыв Навершия</DB_Hammer.tools.1.label>
+  <DB_Hammer.tools.2.label>Падение Ракеты</DB_Hammer.tools.2.label>
+  <DB_Hammer_MM.label>Силовой Боевой Молот</DB_Hammer_MM.label>
+  <DB_Hammer_MM.description>Что ж! Боевой молот это король среди оружия в Средние Века.</DB_Hammer_MM.description>
+  <DB_Hammer_MM.tools.0.label>Наотмашь</DB_Hammer_MM.tools.0.label>
+  <DB_Hammer_MM.tools.1.label>Молотить</DB_Hammer_MM.tools.1.label>
+  <DB_Hammer_MM.tools.2.label>Пробивать</DB_Hammer_MM.tools.2.label>
+  <DB_HammerM.label>Ударный Молот MIL</DB_HammerM.label>
+  <DB_HammerM.description>Силовой молот из платины с чрезвычайно смертоносным силовым двигателем, это оружие активно используется воинами Алмазной Комти. Некоторые думают, что меч - это только шикарное украшение. А вот ЭТО - настоящее холодное оружие.</DB_HammerM.description>
+  <DB_HammerM.tools.0.label>Наотмашь</DB_HammerM.tools.0.label>
+  <DB_HammerM.tools.1.label>Взрыв Навершия</DB_HammerM.tools.1.label>
+  <DB_HammerM.tools.2.label>Падение Ракеты</DB_HammerM.tools.2.label>
 
-  <DB_GreatSword.label>Great Меч</DB_GreatSword.label>
-  <DB_GreatSword.description> меч сделал из Multimolecular Steel очень высокий toughness. клинок peak processed monomolecular coating, which очень режущий но это easy к wear. There иметь нет урон records для это меч brought назад воин от battlefield, но there более люди thinks то он никогда используется...</DB_GreatSword.description>
-  <DB_GreatSword.tools.0.label>Hilt Удар</DB_GreatSword.tools.0.label>
-  <DB_GreatSword.tools.1.label>Spike</DB_GreatSword.tools.1.label>
-  <DB_GreatSword.tools.2.label>Hard Разрез</DB_GreatSword.tools.2.label>
-  <DB_GreatSword_MM.label>Fighting Knife</DB_GreatSword_MM.label>
-  <DB_GreatSword_MM.description> Great Меч transformed в Fighting Knife. Although это reduced lethality но это был более flexible.</DB_GreatSword_MM.description>
-  <DB_GreatSword_MM.tools.0.label>Hilt Удар</DB_GreatSword_MM.tools.0.label>
-  <DB_GreatSword_MM.tools.1.label>Spike</DB_GreatSword_MM.tools.1.label>
-  <DB_GreatSword_MM.tools.2.label>Fury Разрез</DB_GreatSword_MM.tools.2.label>
-  <DB_GreatSwordM.label>Great Меч Военный</DB_GreatSwordM.label>
-  <DB_GreatSwordM.description> меч сделал из Multimolecular Steel очень высокий toughness. клинок peak processed monomolecular coating, which очень режущий но это easy к wear. There иметь нет урон records для это меч brought назад воин от battlefield, но there более люди thinks то он никогда используется...</DB_GreatSwordM.description>
-  <DB_GreatSwordM.tools.0.label>Hilt Удар</DB_GreatSwordM.tools.0.label>
-  <DB_GreatSwordM.tools.1.label>Spike</DB_GreatSwordM.tools.1.label>
-  <DB_GreatSwordM.tools.2.label>Hard Разрез</DB_GreatSwordM.tools.2.label>
+  <DB_GreatSword.label>Великий Меч</DB_GreatSword.label>
+  <DB_GreatSword.description>Меч из мультимолекулярной стали, обладает очень высокой прочностью. На острие лезвия нанесено мономолекулярное покрытие, которое очень острое. Не было никаких записей о повреждениях этого меча, принесенного воином с поля битвы, но есть огромное количество людей, которые думают, что его никогда не использовали...</DB_GreatSword.description>
+  <DB_GreatSword.tools.0.label>Удар Рукояткой</DB_GreatSword.tools.0.label>
+  <DB_GreatSword.tools.1.label>Укол</DB_GreatSword.tools.1.label>
+  <DB_GreatSword.tools.2.label>Тяжелый Разрез</DB_GreatSword.tools.2.label>
+  <DB_GreatSword_MM.label>Бойцовский Нож</DB_GreatSword_MM.label>
+  <DB_GreatSword_MM.description>Великий Меч переделали в Бойцовский Нож. Хоть он и стал менее смертоносным, его стало проще использовать.</DB_GreatSword_MM.description>
+  <DB_GreatSword_MM.tools.0.label>Удар Рукояткой</DB_GreatSword_MM.tools.0.label>
+  <DB_GreatSword_MM.tools.1.label>Укол</DB_GreatSword_MM.tools.1.label>
+  <DB_GreatSword_MM.tools.2.label>Яростный Разрез</DB_GreatSword_MM.tools.2.label>
+  <DB_GreatSwordM.label>Великий Меч MIL</DB_GreatSwordM.label>
+  <DB_GreatSwordM.description>Меч из мультимолекулярной стали, обладает очень высокой прочностью. На острие лезвия нанесено мономолекулярное покрытие, которое очень острое. Не было никаких записей о повреждениях этого меча, принесенного воином с поля битвы, но есть огромное количество людей, которые думают, что его никогда не использовали...</DB_GreatSwordM.description>
+  <DB_GreatSwordM.tools.0.label>Удар Рукояткой</DB_GreatSwordM.tools.0.label>
+  <DB_GreatSwordM.tools.1.label>Укол</DB_GreatSwordM.tools.1.label>
+  <DB_GreatSwordM.tools.2.label>Тяжелый Разрез</DB_GreatSwordM.tools.2.label>
   
-  <DB_DXS.label>Клинок из Красный</DB_DXS.label>
-  <DB_DXS.description> легендарный redstone оружие будет generate плазма клинок в response к user's emotional changes, which может achieve cutting effect из высокий частотный knife и очень stable. redstone не может быть shaped temperature и physics, это может только absorb master's ideas к "Growing", так что shaped оружие extremely редкий. Алмаз Кость conducting lot из metamorphosis experiments, hoping к найти наружу его principles для mass производство.\n\nWhen не equipped, characters с redstone connection будет interact с оружие, slightly increasing его урон и repairing его durability.</DB_DXS.description>
-  <DB_DXS.tools.0.label>Tooth Break</DB_DXS.tools.0.label>
-  <DB_DXS.tools.1.label>Break Через</DB_DXS.tools.1.label>
-  <DB_DXS.tools.2.label>Sweep</DB_DXS.tools.2.label>
-  <DB_DXS.tools.3.label>Разрез быть Half</DB_DXS.tools.3.label>
-  <DB_DXSM.label>Dragon Slayer Военный</DB_DXSM.label>
-  <DB_DXSM.description> легендарный redstone оружие будет generate плазма клинок в response к user's emotional changes, which может achieve cutting effect из высокий частотный knife и очень stable. redstone не может быть shaped temperature и physics, это может только absorb master's ideas к "Growing", так что shaped оружие extremely редкий. Алмаз Кость conducting lot из metamorphosis experiments, hoping к найти наружу его principles для mass производство. Это военный оружие seems к иметь lost его vitality.</DB_DXSM.description>
-  <DB_DXSM.tools.0.label>Tooth Break</DB_DXSM.tools.0.label>
-  <DB_DXSM.tools.1.label>Break Через</DB_DXSM.tools.1.label>
-  <DB_DXSM.tools.2.label>Sweep</DB_DXSM.tools.2.label>
-  <DB_DXSM.tools.3.label>Разрез быть Half</DB_DXSM.tools.3.label>
+  <DB_DXS.label>Убийца Драконов</DB_DXS.label>
+  <DB_DXS.description>Легендарное оружие из краснокамня, генерирует плазменное лезвие в ответ на эмоциональные изменения пользователя, из-за чего может достигнуть остроты высокочастотного ножа и высокой стабильности. Краснокамень нельзя обработать нагревом или физическим воздействием,  он может только впитывать идеи мастера о «Росте», поэтому сформированное оружие встречается крайне редко. Алмазная Кость проводили множество экспериментов по метаморфозам краснокамня, надеясь выяснить их принципы для массового производства. Этот меч намного больше обычного оружия из краснокамня.</DB_DXS.description>
+  <DB_DXS.tools.0.label>Зуболом</DB_DXS.tools.0.label>
+  <DB_DXS.tools.1.label>Прорыв</DB_DXS.tools.1.label>
+  <DB_DXS.tools.2.label>Сметание</DB_DXS.tools.2.label>
+  <DB_DXS.tools.3.label>Разрубание</DB_DXS.tools.3.label>
+  <DB_DXSM.label>Убийца Драконов MIL</DB_DXSM.label>
+  <DB_DXSM.description>Легендарное оружие из краснокамня, генерирует плазменное лезвие в ответ на эмоциональные изменения пользователя, из-за чего может достигнуть остроты высокочастотного ножа и высокой стабильности. Краснокамень нельзя обработать нагревом или физическим воздействием,  он может только впитывать идеи мастера о «Росте», поэтому сформированное оружие встречается крайне редко. Алмазная Кость проводили множество экспериментов по метаморфозам краснокамня, надеясь выяснить их принципы для массового производства. Этот меч намного больше обычного оружия из краснокамня.</DB_DXSM.description>
+  <DB_DXSM.tools.0.label>Зуболом</DB_DXSM.tools.0.label>
+  <DB_DXSM.tools.1.label>Прорыв</DB_DXSM.tools.1.label>
+  <DB_DXSM.tools.2.label>Сметание</DB_DXSM.tools.2.label>
+  <DB_DXSM.tools.3.label>Разрубание</DB_DXSM.tools.3.label>
   <DB_DXS_MMM.label>Dragon Клинок Военный</DB_DXS_MMM.label>
   <DB_DXS_MMM.description> легендарный redstone оружие будет generate плазма клинок в response к user's emotional changes, which может achieve cutting effect из высокий частотный knife и очень stable. redstone не может быть shaped temperature и physics, это может только absorb master's ideas к "Growing", так что shaped оружие extremely редкий. Алмаз Кость conducting lot из metamorphosis experiments, hoping к найти наружу его principles для mass производство. Это военный оружие seems к иметь lost его vitality.</DB_DXS_MMM.description>
   <DB_DXS_MMM.tools.0.label>Tooth Break</DB_DXS_MMM.tools.0.label>
@@ -74,91 +74,91 @@
   <DB_DXS_MMM.tools.2.label>Sweep</DB_DXS_MMM.tools.2.label>
   <DB_DXS_MMM.tools.3.label>Behead</DB_DXS_MMM.tools.3.label>
 
-  <FL_Destoryer.label>Destroyer</FL_Destoryer.label>
-  <FL_Destoryer.description> урон тип из это оружие жара урон. horrible ближний оружие, силовая spear может effectively penetrate броня. Потому что Пламя Легион often uses это оружие к poke prisoner из war от назад для warning и barbecue, так что это также назвал "Ass Burster".</FL_Destoryer.description>
-  <FL_Destoryer.tools.0.label>Beat Вверх</FL_Destoryer.tools.0.label>
-  <FL_Destoryer.tools.1.label>Deep Thorn</FL_Destoryer.tools.1.label>
-  <FL_Destoryer.tools.2.label>Ass Broken</FL_Destoryer.tools.2.label>
-  <FL_Destoryer_MM.label>Destruction Drill</FL_Destoryer_MM.label>
-  <FL_Destoryer_MM.description> урон тип из это оружие жара урон. это difficult к plug в? Не делай быть afraid, мы использовать drill instead.</FL_Destoryer_MM.description>
-  <FL_Destoryer_MM.tools.0.label>Beat Вверх</FL_Destoryer_MM.tools.0.label>
-  <FL_Destoryer_MM.tools.1.label>Deep Drill</FL_Destoryer_MM.tools.1.label>
-  <FL_Destoryer_MM.tools.2.label>Ass Smash</FL_Destoryer_MM.tools.2.label>
-  <FL_DestoryerM.label>Destroyer Военный</FL_DestoryerM.label>
-  <FL_DestoryerM.description> урон тип из это оружие жара урон. horrible ближний оружие, силовая spear может effectively penetrate броня. Потому что Пламя Легион often uses это оружие к poke prisoner из war от назад для warning и barbecue, так что это также назвал "Ass Burster".</FL_DestoryerM.description>
-  <FL_DestoryerM.tools.0.label>Beat Вверх</FL_DestoryerM.tools.0.label>
-  <FL_DestoryerM.tools.1.label>Deep Thorn</FL_DestoryerM.tools.1.label>
-  <FL_DestoryerM.tools.2.label>Ass Broken</FL_DestoryerM.tools.2.label>
+  <FL_Destoryer.label>Уничтожитель</FL_Destoryer.label>
+  <FL_Destoryer.description>Ужасающее оружие ближнего боя, силовое копье которое может эффективно пробивать броню. Поскольку Пламенный Легион часто использует это оружие, чтобы ткнуть военнопленного со спины для предупреждения, а так же для барбекю, его еще называют «Жопоразрыватель».</FL_Destoryer.description>
+  <FL_Destoryer.tools.0.label>Удар</FL_Destoryer.tools.0.label>
+  <FL_Destoryer.tools.1.label>Глубокий Укол</FL_Destoryer.tools.1.label>
+  <FL_Destoryer.tools.2.label>Жополом</FL_Destoryer.tools.2.label>
+  <FL_Destoryer_MM.label>Разрушительная Дрель</FL_Destoryer_MM.label>
+  <FL_Destoryer_MM.description>Трудно воткнуть? Не бойтесь, вместо этого мы используем дрель.</FL_Destoryer_MM.description>
+  <FL_Destoryer_MM.tools.0.label>Удар</FL_Destoryer_MM.tools.0.label>
+  <FL_Destoryer_MM.tools.1.label>Глубокое Сверление</FL_Destoryer_MM.tools.1.label>
+  <FL_Destoryer_MM.tools.2.label>Жоподавилка</FL_Destoryer_MM.tools.2.label>
+  <FL_DestoryerM.label>Уничтожитель MIL</FL_DestoryerM.label>
+  <FL_DestoryerM.description>Ужасающее оружие ближнего боя, силовое копье которое может эффективно пробивать броню. Поскольку Пламенный Легион часто использует это оружие, чтобы ткнуть военнопленного со спины для предупреждения, а так же для барбекю, его еще называют «Жопоразрыватель».</FL_DestoryerM.description>
+  <FL_DestoryerM.tools.0.label>Удар</FL_DestoryerM.tools.0.label>
+  <FL_DestoryerM.tools.1.label>Глубокий Укол</FL_DestoryerM.tools.1.label>
+  <FL_DestoryerM.tools.2.label>Жополом</FL_DestoryerM.tools.2.label>
 
-  <FL_Tractor.label>Tractor</FL_Tractor.label>
-  <FL_Tractor.description>Это оружие шанс к увеличить боль из цель. тело из оружие composed из bunch из barbs, и everything comes наружу как скоро как это inserted. Originally просто ordinary slaughtering tool, what сделал это widely known был torture назвал "digging treasure" в medieval civilization. Во время torture, executioner puts piece из wet soap на ground и затем forces victim с его bare hands к pick это вверх. Когда prisoner stooped и bent его hips, executioner используется это оружие к perform thrusting на его hips, и затем loosened prisoner и allowed его к die slowly. В history, это soap-picking gesture был interpreted prisoners, и некоторые люди даже picked вверх soap с side-turn, но они наконец succumbed к силовая из several big men и были forced к hang вниз в classic pose. Although cruelty из это torture staggering, это не ordinary civilians who может enjoy such torture, но некоторые well-known persons или nobles who opposed к те в силовая. Они будет wriggle и groan на ground до они lose их breath. Некоторые люди будет даже try к put internal organs назад в их belly. Это редкий celebrity ugliness extremely ornamental и topical, так что every время это attracts большой number из люди к eat melons и watch. Как для why Пламя Легион such оружие, Я think это должен быть unnecessary к explain.</FL_Tractor.description>
-  <FL_Tractor.tools.0.label>Beat Вверх</FL_Tractor.tools.0.label>
-  <FL_Tractor.tools.1.label>Push-Pull</FL_Tractor.tools.1.label>
-  <FL_Tractor.tools.2.label>Organs Draw наружу</FL_Tractor.tools.2.label>
-  <FL_Tractor_MM.label>Belly Opener</FL_Tractor_MM.label>
-  <FL_Tractor_MM.description>Это оружие шанс к увеличить боль из цель. Когда вы still looking для то hole, Я иметь разрез открыть belly!</FL_Tractor_MM.description>
-  <FL_Tractor_MM.tools.0.label>Beat Вверх</FL_Tractor_MM.tools.0.label>
-  <FL_Tractor_MM.tools.1.label>Drag Разрез</FL_Tractor_MM.tools.1.label>
-  <FL_Tractor_MM.tools.2.label>Disembowel</FL_Tractor_MM.tools.2.label>
-  <FL_TractorM.label>Tractor Военный</FL_TractorM.label>
-  <FL_TractorM.description>Это оружие шанс к увеличить боль из цель. тело из оружие composed из bunch из barbs, и everything comes наружу как скоро как это inserted. Originally просто ordinary slaughtering tool, what сделал это widely known был torture назвал "digging treasure" в medieval civilization. Во время torture, executioner puts piece из wet soap на ground и затем forces victim с его bare hands к pick это вверх. Когда prisoner stooped и bent его hips, executioner используется это оружие к perform thrusting на его hips, и затем loosened prisoner и allowed его к die slowly. В history, это soap-picking gesture был interpreted prisoners, и некоторые люди даже picked вверх soap с side-turn, но они наконец succumbed к силовая из several big men и были forced к hang вниз в classic pose. Although cruelty из это torture staggering, это не ordinary civilians who может enjoy such torture, но некоторые well-known persons или nobles who opposed к те в силовая. Они будет wriggle и groan на ground до они lose их breath. Некоторые люди будет даже try к put internal organs назад в их belly. Это редкий celebrity ugliness extremely ornamental и topical, так что every время это attracts большой number из люди к eat melons и watch. Как для why Пламя Легион such оружие, Я think это должен быть unnecessary к explain.</FL_TractorM.description>
-  <FL_TractorM.tools.0.label>Beat Вверх</FL_TractorM.tools.0.label>
-  <FL_TractorM.tools.1.label>Push-Pull</FL_TractorM.tools.1.label>
-  <FL_TractorM.tools.2.label>Organs Draw наружу</FL_TractorM.tools.2.label>
+  <FL_Tractor.label>Трактор</FL_Tractor.label>
+  <FL_Tractor.description>Корпус оружия состоит из множества зазубрин, и все органы выпадают, как только оно попадает по телу. Изначально это просто орудие для забоя, широкую известность ему принесла пытка, которую в средневековой цивилизации называли «копание сокровищ». Во время пыток палач кладет на землю кусок влажного мыла, а затем голыми руками заставляет жертву поднять его. Когда заключенный наклонялся и сгибал бедра, палач использовал это оружие, чтобы нанести удар ему по бедрам, а затем позволял ему медленно умерать. В истории этот жест поднятия мыла интерпретировался заключенными, и некоторые люди даже поднимали мыло поворотом боком, но в конце концов они уступали силе нескольких здоровенных людей и были вынуждены сидеть в классической позе. Хотя жестокость этой пытки ошеломляет, она не для обычных людей которые могли бы наслаждаться подобной пыткой, но для некоторых известных лиц или дворян что выступают против власть имущих. Они будут корчиться и стонать на земле, прежде чем испустят дух. Некоторые люди даже пытаются засунуть внутренние органы обратно в живот. Это редкое уродство для знаменитостей чрезвычайно декоративно и актуально, потому что каждый раз оно привлекает большое количество людей, чтобы поесть дынь и посмотреть. Что касается того, почему у Пламенного Легиона есть такое оружие, я думаю, нет необходимости объяснять.</FL_Tractor.description>
+  <FL_Tractor.tools.0.label>Избивание</FL_Tractor.tools.0.label>
+  <FL_Tractor.tools.1.label>Толкай-Тяни</FL_Tractor.tools.1.label>
+  <FL_Tractor.tools.2.label>Вырывание Органов</FL_Tractor.tools.2.label>
+  <FL_Tractor_MM.label>Вскрыватель Животов</FL_Tractor_MM.label>
+  <FL_Tractor_MM.description>Пока ты все еще ищешь эту дырку, я уже вспорол тебе живот!</FL_Tractor_MM.description>
+  <FL_Tractor_MM.tools.0.label>Избивание</FL_Tractor_MM.tools.0.label>
+  <FL_Tractor_MM.tools.1.label>Тянущийся Порез</FL_Tractor_MM.tools.1.label>
+  <FL_Tractor_MM.tools.2.label>Потрошение</FL_Tractor_MM.tools.2.label>
+  <FL_TractorM.label>Трактор MIL</FL_TractorM.label>
+  <FL_TractorM.description>Корпус оружия состоит из множества зазубрин, и все органы выпадают, как только оно попадает по телу. Изначально это просто орудие для забоя, широкую известность ему принесла пытка, которую в средневековой цивилизации называли «копание сокровищ». Во время пыток палач кладет на землю кусок влажного мыла, а затем голыми руками заставляет жертву поднять его. Когда заключенный наклонялся и сгибал бедра, палач использовал это оружие, чтобы нанести удар ему по бедрам, а затем позволял ему медленно умерать. В истории этот жест поднятия мыла интерпретировался заключенными, и некоторые люди даже поднимали мыло поворотом боком, но в конце концов они уступали силе нескольких здоровенных людей и были вынуждены сидеть в классической позе. Хотя жестокость этой пытки ошеломляет, она не для обычных людей которые могли бы наслаждаться подобной пыткой, но для некоторых известных лиц или дворян что выступают против власть имущих. Они будут корчиться и стонать на земле, прежде чем испустят дух. Некоторые люди даже пытаются засунуть внутренние органы обратно в живот. Это редкое уродство для знаменитостей чрезвычайно декоративно и актуально, потому что каждый раз оно привлекает большое количество людей, чтобы поесть дынь и посмотреть. Что касается того, почему у Пламенного Легиона есть такое оружие, я думаю, нет необходимости объяснять.</FL_TractorM.description>
+  <FL_TractorM.tools.0.label>Избивание</FL_TractorM.tools.0.label>
+  <FL_TractorM.tools.1.label>Толкай-Тяни</FL_TractorM.tools.1.label>
+  <FL_TractorM.tools.2.label>Вырывание Органов</FL_TractorM.tools.2.label>
 
-  <JG_PowerPunch.label>Силовая Punch</JG_PowerPunch.label>
-  <JG_PowerPunch.description>Это оружие был сделал designer who увидел irrational prisoner punching его fist против wall и got inspiration. Putting это на к remove wall будет не hurt ваш hands.</JG_PowerPunch.description>
-  <JG_PowerPunch.tools.0.label>Combo</JG_PowerPunch.tools.0.label>
-  <JG_PowerPunch.tools.1.label>Iron Fist</JG_PowerPunch.tools.1.label>
-  <JG_PowerPunch.tools.2.label>Chisel Удар</JG_PowerPunch.tools.2.label>
-  <JG_PowerPunch_MM.label>Мех Рука</JG_PowerPunch_MM.label>
-  <JG_PowerPunch_MM.description>Это рука enough к demolish city wall!</JG_PowerPunch_MM.description>
-  <JG_PowerPunch_MM.tools.0.label>Impact</JG_PowerPunch_MM.tools.0.label>
-  <JG_PowerPunch_MM.tools.1.label>Hard Fist</JG_PowerPunch_MM.tools.1.label>
-  <JG_PowerPunch_MM.tools.2.label>Пушка Chisel</JG_PowerPunch_MM.tools.2.label>
-  <JG_PowerPunchM.label>Силовая Punch Военный</JG_PowerPunchM.label>
-  <JG_PowerPunchM.description>Это оружие был сделал designer who увидел irrational prisoner punching его fist против wall и got inspiration. Putting это на к remove wall будет не hurt ваш hands.</JG_PowerPunchM.description>
-  <JG_PowerPunchM.tools.0.label>Combo</JG_PowerPunchM.tools.0.label>
-  <JG_PowerPunchM.tools.1.label>Iron Fist</JG_PowerPunchM.tools.1.label>
-  <JG_PowerPunchM.tools.2.label>Chisel Удар</JG_PowerPunchM.tools.2.label>
+  <JG_PowerPunch.label>Силовой Кулак</JG_PowerPunch.label>
+  <JG_PowerPunch.description>Это оружие создал дизайнер, который увидел, как нелогичный заключенный бьет кулаком по стене, и получил вдохновение. Наденьте его для сноса стены и ваши руки не будут повреждены.</JG_PowerPunch.description>
+  <JG_PowerPunch.tools.0.label>Комбо</JG_PowerPunch.tools.0.label>
+  <JG_PowerPunch.tools.1.label>Железный Кулак</JG_PowerPunch.tools.1.label>
+  <JG_PowerPunch.tools.2.label>Удар Зубилом</JG_PowerPunch.tools.2.label>
+  <JG_PowerPunch_MM.label>Меха Рука</JG_PowerPunch_MM.label>
+  <JG_PowerPunch_MM.description>Этой руки хватит, чтобы снести городскую стену!</JG_PowerPunch_MM.description>
+  <JG_PowerPunch_MM.tools.0.label>Удар</JG_PowerPunch_MM.tools.0.label>
+  <JG_PowerPunch_MM.tools.1.label>Твердый Кулак</JG_PowerPunch_MM.tools.1.label>
+  <JG_PowerPunch_MM.tools.2.label>Боевое Зубило</JG_PowerPunch_MM.tools.2.label>
+  <JG_PowerPunchM.label>Силовой Кулак MIL</JG_PowerPunchM.label>
+  <JG_PowerPunchM.description>Это оружие создал дизайнер, который увидел, как нелогичный заключенный бьет кулаком по стене, и получил вдохновение. Наденьте его для сноса стены и ваши руки не будут повреждены.</JG_PowerPunchM.description>
+  <JG_PowerPunchM.tools.0.label>Комбо</JG_PowerPunchM.tools.0.label>
+  <JG_PowerPunchM.tools.1.label>Железный Кулак</JG_PowerPunchM.tools.1.label>
+  <JG_PowerPunchM.tools.2.label>Удар Зубилом</JG_PowerPunchM.tools.2.label>
 
-  <SE_TwinStarTears.label>Twin Star Tears</SE_TwinStarTears.label>
-  <SE_TwinStarTears.description>Это оружие шанс к slow вниз target's движение скорость. There's древний project among Star Исследователь назвал Twin Star, where they're said к automatically program все identical twins в project. К train для espionage missions, project manager будет give twins symmetrical object как token то может tell право от ушёл. There был extremely редкий и beautiful identical twin brother и sister в history, и люди в charge в время treasured их очень much. Он specifically спросил craftsmen к делать два daggers наружу из Star Tear как token для их. Однако, то brother и sister refused к accept mission из Twin Star когда они grew вверх, и даже committed crime из incest потому что из love, forcing человек в charge к send executive officer к solve их. В order к protect baby sister, brother pretended к commit suicide с его dagger, Он взял another dagger и pretended к быть его sister. executive officer нашёл наружу то there был problem когда он raped его. fooled executive был furious и shoot его в honeycomb. Его sister долгий disappeared в это время. story из pseudo-sister rescued sister quickly стал hot topic. double-dagger был widely copied under tale. военный из Star Исследователь даже мысль то оружие represented wit и courage, так что это был compiled в assault сила.</SE_TwinStarTears.description>
-  <SE_TwinStarTears.tools.0.label>Combo Stab</SE_TwinStarTears.tools.0.label>
-  <SE_TwinStarTears.tools.1.label>Broken Ridge</SE_TwinStarTears.tools.1.label>
-  <SE_TwinStarTears.tools.2.label>Link Разрез</SE_TwinStarTears.tools.2.label>
-  <SE_TwinStarTears_MM.label>Twin Star Arc</SE_TwinStarTears_MM.label>
-  <SE_TwinStarTears_MM.description>Это оружие шанс к slow вниз target's движение скорость. два daggers together снова.</SE_TwinStarTears_MM.description>
-  <SE_TwinStarTears_MM.tools.0.label>Spiral</SE_TwinStarTears_MM.tools.0.label>
-  <SE_TwinStarTears_MM.tools.1.label>Top Разрез</SE_TwinStarTears_MM.tools.1.label>
-  <SE_TwinStarTears_MM.tools.2.label>Arc Flash</SE_TwinStarTears_MM.tools.2.label>
-  <SE_TwinStarTearsM.label>Twin Star Tears Военный</SE_TwinStarTearsM.label>
-  <SE_TwinStarTearsM.description>Это оружие шанс к slow вниз target's движение скорость. There's древний project among Star Исследователь назвал Twin Star, where they're said к automatically program все identical twins в project. К train для espionage missions, project manager будет give twins symmetrical object как token то может tell право от ушёл. There был extremely редкий и beautiful identical twin brother и sister в history, и люди в charge в время treasured их очень much. Он specifically спросил craftsmen к делать два daggers наружу из Star Tear как token для их. Однако, то brother и sister refused к accept mission из Twin Star когда они grew вверх, и даже committed crime из incest потому что из love, forcing человек в charge к send executive officer к solve их. В order к protect baby sister, brother pretended к commit suicide с его dagger, Он взял another dagger и pretended к быть его sister. executive officer нашёл наружу то there был problem когда он raped его. fooled executive был furious и shoot его в honeycomb. Его sister долгий disappeared в это время. story из pseudo-sister rescued sister quickly стал hot topic. double-dagger был widely copied under tale. военный из Star Исследователь даже мысль то оружие represented wit и courage, так что это был compiled в assault сила.</SE_TwinStarTearsM.description>
-  <SE_TwinStarTearsM.tools.0.label>Combo Stab</SE_TwinStarTearsM.tools.0.label>
-  <SE_TwinStarTearsM.tools.1.label>Broken Ridge</SE_TwinStarTearsM.tools.1.label>
-  <SE_TwinStarTearsM.tools.2.label>Link Разрез</SE_TwinStarTearsM.tools.2.label>
+  <SE_TwinStarTears.label>Слезы Двойной Звезды</SE_TwinStarTears.label>
+  <SE_TwinStarTears.description>Среди Звездных Исследователей существует древний проект называемый Двойная Звезда, в который, как говорят автоматически включают всех рождающихся однояйцевых близнецов. Чтобы подготовить их к шпионским миссиям, менеджер проекта дает близнецам некий симметричный объект в качестве знака отличия. В истории были чрезвычайно редкие и красивые однояйцевые близнецы - брат и сестра, и руководители в то время очень дорожили ими. Они специально попросили мастеров сделать два кинжала из Звездной Слезы в качестве знака для них. Тем не менее, эти брат с сестрой отказались от участия в проекте "Двойная Звезда" когда выросли, и более того они совершили ужасное преступление - погрязли в инцесте, вынудив руководителей выслать исполнительного офицера для разрешения этой проблемы. Доя того что бы защитить свою беременную сестру, брат сделал вид, что совершил самоубийство своим кинжалом. Он взял другой кинжал и притворился своей сестрой. Это стало проблемой когда исполнительный оффицер нашел его и решил изнасиловать. Обманутый офицер пришел в ярость и отстрелил ему яйца. Его сестра к тому времени уже давно исчезла. История о том как псевдо-сестра спасла сестру быстро стала самой обсуждаемой. Из-за этой истории двойные кинжалы стали повсеместно копировать. Военные Звездных Исследователей даже думали, что это оружие олицетворяет остроумие и храбрость, поэтому оно стало оружием штурмовых сил.</SE_TwinStarTears.description>
+  <SE_TwinStarTears.tools.0.label>Комбинация Уколов</SE_TwinStarTears.tools.0.label>
+  <SE_TwinStarTears.tools.1.label>Сломанный Хребет</SE_TwinStarTears.tools.1.label>
+  <SE_TwinStarTears.tools.2.label>Связанный Разрез</SE_TwinStarTears.tools.2.label>
+  <SE_TwinStarTears_MM.label>Дуга Двойная Звезда</SE_TwinStarTears_MM.label>
+  <SE_TwinStarTears_MM.description>Два кинжала снова стали одним.</SE_TwinStarTears_MM.description>
+  <SE_TwinStarTears_MM.tools.0.label>Спираль</SE_TwinStarTears_MM.tools.0.label>
+  <SE_TwinStarTears_MM.tools.1.label>Верхний Разрез</SE_TwinStarTears_MM.tools.1.label>
+  <SE_TwinStarTears_MM.tools.2.label>Дуговая Вспышка</SE_TwinStarTears_MM.tools.2.label>
+  <SE_TwinStarTearsM.label>Слезы Двойной Звезды MIL</SE_TwinStarTearsM.label>
+  <SE_TwinStarTearsM.description>Среди Звездных Исследователей существует древний проект называемый Двойная Звезда, в который, как говорят автоматически включают всех рождающихся однояйцевых близнецов. Чтобы подготовить их к шпионским миссиям, менеджер проекта дает близнецам некий симметричный объект в качестве знака отличия. В истории были чрезвычайно редкие и красивые однояйцевые близнецы - брат и сестра, и руководители в то время очень дорожили ими. Они специально попросили мастеров сделать два кинжала из Звездной Слезы в качестве знака для них. Тем не менее, эти брат с сестрой отказались от участия в проекте "Двойная Звезда" когда выросли, и более того они совершили ужасное преступление - погрязли в инцесте, вынудив руководителей выслать исполнительного офицера для разрешения этой проблемы. Доя того что бы защитить свою беременную сестру, брат сделал вид, что совершил самоубийство своим кинжалом. Он взял другой кинжал и притворился своей сестрой. Это стало проблемой когда исполнительный оффицер нашел его и решил изнасиловать. Обманутый офицер пришел в ярость и отстрелил ему яйца. Его сестра к тому времени уже давно исчезла. История о том как псевдо-сестра спасла сестру быстро стала самой обсуждаемой. Из-за этой истории двойные кинжалы стали повсеместно копировать. Военные Звездных Исследователей даже думали, что это оружие олицетворяет остроумие и храбрость, поэтому оно стало оружием штурмовых сил.</SE_TwinStarTearsM.description>
+  <SE_TwinStarTearsM.tools.0.label>Комбинация Уколов</SE_TwinStarTearsM.tools.0.label>
+  <SE_TwinStarTearsM.tools.1.label>Сломанный Хребет</SE_TwinStarTearsM.tools.1.label>
+  <SE_TwinStarTearsM.tools.2.label>Связанный Разрез</SE_TwinStarTearsM.tools.2.label>
 
-  <XEO_HFBlade.label>Высокий Freguency Клинок</XEO_HFBlade.label>
-  <XEO_HFBlade.description> XEO exclusive ближний оружие, клинок сделал из Song Crystals то может разрез через objects в molecular level. Legend это то singing может overclock это оружие и produce terrible destructive силовая, но многие scholars point наружу то это не scientific, просто superstition из те ассасины. Даже так что, XEO still lot из perverts singing и chopping люди.</XEO_HFBlade.description>
-  <XEO_HFBlade.tools.0.label>Broken Glass</XEO_HFBlade.tools.0.label>
-  <XEO_HFBlade.tools.1.label>Разрез Wind</XEO_HFBlade.tools.1.label>
-  <XEO_HFBlade.tools.2.label>Steel Разрез</XEO_HFBlade.tools.2.label>
-  <XEO_HFBlade.tools.3.label>Sing для Клинок</XEO_HFBlade.tools.3.label>
-  <XEO_HFBlade_MM.label>Высокий Freguency Tachi</XEO_HFBlade_MM.label>
-  <XEO_HFBlade_MM.description>Faster...Go Faster!</XEO_HFBlade_MM.description>
-  <XEO_HFBlade_MM.tools.0.label>Broken Glass</XEO_HFBlade_MM.tools.0.label>
-  <XEO_HFBlade_MM.tools.1.label>Chop Wind</XEO_HFBlade_MM.tools.1.label>
-  <XEO_HFBlade_MM.tools.2.label>Draw Меч</XEO_HFBlade_MM.tools.2.label>
-  <XEO_HFBlade_MM.tools.3.label>Fury Tachi</XEO_HFBlade_MM.tools.3.label>
-  <XEO_HFBladeM.label>Высокий Freguency Клинок Военный</XEO_HFBladeM.label>
-  <XEO_HFBladeM.description> XEO exclusive ближний оружие, клинок сделал из Song Crystals то может разрез через objects в molecular level. Legend это то singing может overclock это оружие и produce terrible destructive силовая, но многие scholars point наружу то это не scientific, просто superstition из те ассасины. Даже так что, XEO still lot из perverts singing и chopping люди.</XEO_HFBladeM.description>
-  <XEO_HFBladeM.tools.0.label>Broken Glass</XEO_HFBladeM.tools.0.label>
-  <XEO_HFBladeM.tools.1.label>Разрез Wind</XEO_HFBladeM.tools.1.label>
-  <XEO_HFBladeM.tools.2.label>Steel Разрез</XEO_HFBladeM.tools.2.label>
-  <XEO_HFBladeM.tools.3.label>Sing для Клинок</XEO_HFBladeM.tools.3.label>
+  <XEO_HFBlade.label>Высокочастотный клинок</XEO_HFBlade.label>
+  <XEO_HFBlade.description>Эксклюзивное оружие ближнего боя ХЕО, клинок из Поющих Кристалов что может разрезать всё на молекулярном уровне. Легенда гласит, что пение может усилить это оружие создав по истине ужасающее оружие, но многие ученые отмечают, что просто суеверие этих убийц. Несмотря на это, в XEO по-прежнему много извращенцев, которые поют и рубят людей.</XEO_HFBlade.description>
+  <XEO_HFBlade.tools.0.label>Разбитое Стекло</XEO_HFBlade.tools.0.label>
+  <XEO_HFBlade.tools.1.label>Рассечение Ветра</XEO_HFBlade.tools.1.label>
+  <XEO_HFBlade.tools.2.label>Стальной Разрез</XEO_HFBlade.tools.2.label>
+  <XEO_HFBlade.tools.3.label>Песня для Клинка</XEO_HFBlade.tools.3.label>
+  <XEO_HFBlade_MM.label>Высокочастотное Тати</XEO_HFBlade_MM.label>
+  <XEO_HFBlade_MM.description>Быстрее...БЫСТРЕЕ!</XEO_HFBlade_MM.description>
+  <XEO_HFBlade_MM.tools.0.label>Разбитое Стекло</XEO_HFBlade_MM.tools.0.label>
+  <XEO_HFBlade_MM.tools.1.label>Рассечение Ветра</XEO_HFBlade_MM.tools.1.label>
+  <XEO_HFBlade_MM.tools.2.label>Сложить Клинок</XEO_HFBlade_MM.tools.2.label>
+  <XEO_HFBlade_MM.tools.3.label>Ярость Тати</XEO_HFBlade_MM.tools.3.label>
+  <XEO_HFBladeM.label>Высокочастотный клинок MIL</XEO_HFBladeM.label>
+  <XEO_HFBladeM.description>Эксклюзивное оружие ближнего боя ХЕО, клинок из Поющих Кристалов что может разрезать всё на молекулярном уровне. Легенда гласит, что пение может усилить это оружие создав по истине ужасающее оружие, но многие ученые отмечают, что просто суеверие этих убийц. Несмотря на это, в XEO по-прежнему много извращенцев, которые поют и рубят людей.</XEO_HFBladeM.description>
+  <XEO_HFBladeM.tools.0.label>Разбитое Стекло</XEO_HFBladeM.tools.0.label>
+  <XEO_HFBladeM.tools.1.label>Рассечение Ветра</XEO_HFBladeM.tools.1.label>
+  <XEO_HFBladeM.tools.2.label>Стальной Разрез</XEO_HFBladeM.tools.2.label>
+  <XEO_HFBladeM.tools.3.label>Песня для Клинка</XEO_HFBladeM.tools.3.label>
 
-  <XOG_Katana.label>Katana</XOG_Katana.label>
-  <XOG_Katana.description> katana очень beautiful shape и был однажды known как лучший chopping оружие. Даже после thousands из годы, многие high-tech ближний оружие still based на его shape.</XOG_Katana.description>
+  <XOG_Katana.label>Катана</XOG_Katana.label>
+  <XOG_Katana.description>Катана имеет очень красивую форму и когда-то была известна как лучшее рубящее оружие. Даже спустя тысячи лет многие виды высокотехнологичного холодного оружия все еще основаны на её форме.</XOG_Katana.description>
 
-  <XOG_Bayonet.label>Bayonet</XOG_Bayonet.label>
-  <XOG_Bayonet.description> dagger для военный использовать, groove на spine и ergonomic grip делать это lighter и более flexible чем ordinary daggers.</XOG_Bayonet.description></LanguageData>
+  <XOG_Bayonet.label>Штык</XOG_Bayonet.label>
+  <XOG_Bayonet.description>Кинжал для использования в военных целях, выемка на лезвии и эргономичная рукоятка делают его более легким и гибким по сравнению с обычными кинжалами.</XOG_Bayonet.description></LanguageData>

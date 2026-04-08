@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <SuperBiteXF.label>super bite</SuperBiteXF.label>
-  <SuperBiteXF.description> bite using whole body's strength. Может даже bite голова выкл! Это takes долгий время к использовать снова.</SuperBiteXF.description>
+  <SuperBiteXF.label>Суперукус</SuperBiteXF.label>
+  <SuperBiteXF.description>Укус с использованием силы всего тела. Может даже отключить цель попаданием в голову! После применения требуется много времени на перезарядку.</SuperBiteXF.description>
 
-  <HairBladeXF.label>hair клинок</HairBladeXF.label>
-  <HairBladeXF.description>Gather nanomachines к часть из hair, harden это и делать surprise атака. После using это, nanomachines будет lose energy и взять некоторые время к recover.</HairBladeXF.description>
+  <HairBladeXF.label>Клинок из волос</HairBladeXF.label>
+  <HairBladeXF.description>Собирает наномашины в части волос, затвердевает их и выполняет внезапную атаку. После использования наномашины теряют энергию и требуют времени на восстановление.</HairBladeXF.description>
 
-  <FlashofXeoXFWskill.label>Real-Flash из XEO</FlashofXeoXFWskill.label>
-  <FlashofXeoXFWskill.description>XvA looked вверх древний swordplay manuals из XEO и discovered ultimate движение, но нет matter how hard она tried, она не мог делать это. "How это possible к instantly strike цель 14 meters away? Я хотеть к learn!" XvA, holding manual, ran к найти мастер. "Не делай быть foolish, нет один может perform это." "Если это can't быть performed, why это recorded?" XvA не сделал believe это, и мастер pressed её голова и said, "What you're holding в ваш кисть comic книга..."</FlashofXeoXFWskill.description>
+  <FlashofXeoXFWskill.label>Истинная вспышка XEO</FlashofXeoXFWskill.label>
+  <FlashofXeoXFWskill.description>XvA изучала древние руководства по фехтованию XEO и обнаружила высшую технику, но как бы ни старалась, повторить её не могла. «Как вообще можно мгновенно поразить цель в 14 метрах? Я хочу это освоить!» — с этими словами XvA побежала к мастеру. «Не глупи, такое никому не под силу». — «Тогда зачем это записано?» XvA не поверила, а мастер постучал её по голове и сказал: «То, что у тебя в руках, — это комикс...»</FlashofXeoXFWskill.description>
 
-  <XF_OccamRazordskill.label>Occam Iaido</XF_OccamRazordskill.label>
-  <XF_OccamRazordskill.description>Simple, direct, и effective; это applies к foes как well как friends.</XF_OccamRazordskill.description></LanguageData>
+  <XF_OccamRazordskill.label>Иайдо Оккама</XF_OccamRazordskill.label>
+  <XF_OccamRazordskill.description>Простая, прямая и эффективная техника; поражает как врагов, так и союзников.</XF_OccamRazordskill.description></LanguageData>

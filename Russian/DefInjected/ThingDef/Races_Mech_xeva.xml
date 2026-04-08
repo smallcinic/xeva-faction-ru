@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 
-  <XHFBlade_MEC.label>Высокий Freguency Клинок</XHFBlade_MEC.label>
-  <XHFBlade_MEC.description> mechanical doll holds это оружие в его кисть.</XHFBlade_MEC.description>
-  <XHFBlade_MEC.tools.0.label>Broken Glass</XHFBlade_MEC.tools.0.label>
-  <XHFBlade_MEC.tools.1.label>Chop Wind</XHFBlade_MEC.tools.1.label>
-  <XHFBlade_MEC.tools.2.label>Draw Меч</XHFBlade_MEC.tools.2.label>
-  <XHFBlade_MEC.tools.3.label>Fury Tachi</XHFBlade_MEC.tools.3.label>
+  <XHFBlade_MEC.label>Высокочастотный Клинок</XHFBlade_MEC.label>
+  <XHFBlade_MEC.description>Механическая кукла держит это оружие в своей руке.</XHFBlade_MEC.description>
+  <XHFBlade_MEC.tools.0.label>Разбитое Стекло</XHFBlade_MEC.tools.0.label>
+  <XHFBlade_MEC.tools.1.label>Рассечение Ветра</XHFBlade_MEC.tools.1.label>
+  <XHFBlade_MEC.tools.2.label>Сложить Клинок</XHFBlade_MEC.tools.2.label>
+  <XHFBlade_MEC.tools.3.label>Ярость Тати</XHFBlade_MEC.tools.3.label>
   
-  <XGun_CPWMega.label>Charged Particle Оружие Mega</XGun_CPWMega.label>
-  <XGun_CPWMega.description> giant версия из Charged Particle Оружие, why technology из Алмаз Кость appeared на их? Это still mystery.</XGun_CPWMega.description>
-  <XGun_CPWMega.tools.0.label>ствол</XGun_CPWMega.tools.0.label>
+  <XGun_CPWMega.label>Оружие с Заряженными Частицами Мега</XGun_CPWMega.label>
+  <XGun_CPWMega.description>Гигантская версия Оружия с Заряженными Частицами, почему у них появилась технология Алмазной Кости? Это все еще загадка.</XGun_CPWMega.description>
+  <XGun_CPWMega.tools.0.label>Ствол</XGun_CPWMega.tools.0.label>
   
-  <XGun_EclipseMega.label>Eclipse Mega</XGun_EclipseMega.label>
-  <XGun_EclipseMega.description> giant версия из Eclipse, why technology из Алмаз Кость appeared на их? Это still mystery.</XGun_EclipseMega.description>
-  <XGun_EclipseMega.tools.0.label>ствол</XGun_EclipseMega.tools.0.label>
+  <XGun_EclipseMega.label>Затмение Мега</XGun_EclipseMega.label>
+  <XGun_EclipseMega.description>Гигантская версия Затмения, почему у них появилась технология Алмазной Кости? Это все еще загадка.</XGun_EclipseMega.description>
+  <XGun_EclipseMega.tools.0.label>Стволы</XGun_EclipseMega.tools.0.label>
   
-  <Mech_CentipedeHugeR.label>Huge Centipede</Mech_CentipedeHugeR.label>
-  <Mech_CentipedeHugeR.description> size, броня и lethality из Huge Centipede much более чем original один. Это terrible unit в mechanical семья. Некоторые scholars believe то variation потому что assembly process из mechanical семья affected unknown factors. Fortunately, они не обычный и sleep в mechanical cluster.</Mech_CentipedeHugeR.description>
-  <Mech_CentipedeHugeR.tools.0.label>голова</Mech_CentipedeHugeR.tools.0.label>
+  <Mech_CentipedeHugeR.label>Огромная Сентипеда</Mech_CentipedeHugeR.label>
+  <Mech_CentipedeHugeR.description>Размер, броня и смертоносность Огромной Сентипеды намного больше, чем у оригинала. Это ужасающая боевая единица в семействе механоидов. Некоторые ученые полагают, что это изменение связано с тем, что на процесс сборки механоида повлияли неизвестные факторы. К счастью, они встречаются нечасто и спят в механическом кластере.</Mech_CentipedeHugeR.description>
+  <Mech_CentipedeHugeR.tools.0.label>Голова</Mech_CentipedeHugeR.tools.0.label>
   
-  <Mech_CoreBiodollR.label>Мех Biodoll</Mech_CoreBiodollR.label>
-  <Mech_CoreBiodollR.description>"What... what это? There seems к быть... humanoid жара source в то group из machines!?" "Maybe это человек будучи, должен он быть rescued?" "Oh, someone slept с mechanical семья?" "Не делай joke, взять это seriously." "Listen! Solving это mechanical cluster primary mission. Мы иметь нет время к deal с это, мы clear?" "Да, sir!" "Eh? Wait, то жара source.... Мы approaching наш side в высокий скорость." "Нет need к report anymore. Я может see это visually!" " woman!?" " woman с knife!" "Не делай mind! Огонь! Огонь Все!" "Ahhhhhhhhhhhhhhhhh..." Record - Twin Star Anti-Mech Команда. * nanomachines будет repair missing часть или wound на её тело в 4 к 6 дни.</Mech_CoreBiodollR.description>
-  <Mech_CoreBiodollR.tools.0.label>ушёл fist</Mech_CoreBiodollR.tools.0.label>
-  <Mech_CoreBiodollR.tools.1.label>право fist</Mech_CoreBiodollR.tools.1.label>
-  <Mech_CoreBiodollR.tools.2.label>teeth</Mech_CoreBiodollR.tools.2.label>
-  <Mech_CoreBiodollR.tools.3.label>голова</Mech_CoreBiodollR.tools.3.label>
-  <Mech_CoreBiodollR.tools.4.label>hair</Mech_CoreBiodollR.tools.4.label>
+  <Mech_CoreBiodollR.label>Биокукла Мехов</Mech_CoreBiodollR.label>
+  <Mech_CoreBiodollR.description>"Что... что это? Похоже что среди этой группы механоидов есть... человеческий источник тепла!?" "Может быть это человек, нужно ли его спасти?" "О, кажется кто-то решил поспать со своей механической семьёй?" "Не смешно, относись к этому посерьёзнее." "Слушайте! Избавиться от кластера механоидов - наша первостепенная задача. У нас нет времени заниматься этим, всё ясно?" "Да, сэр!" "Э? Погодите, этот источник тепла.... Он приближается к нам на высокой скорости." "Не нужно больше докладов. Я уже и так это вижу!" "Женщина!?" "Женщина с ножом!" "Не раздумывайте! Огонь! Всем огонь!" "Аххххххх..." Запись - Комманда Анти-Мех Двойной Звезды.</Mech_CoreBiodollR.description>
+  <Mech_CoreBiodollR.tools.0.label>Левый кулак</Mech_CoreBiodollR.tools.0.label>
+  <Mech_CoreBiodollR.tools.1.label>Правый кулак</Mech_CoreBiodollR.tools.1.label>
+  <Mech_CoreBiodollR.tools.2.label>Зубы</Mech_CoreBiodollR.tools.2.label>
+  <Mech_CoreBiodollR.tools.3.label>Голова</Mech_CoreBiodollR.tools.3.label>
+  <Mech_CoreBiodollR.tools.4.label>Волосы</Mech_CoreBiodollR.tools.4.label>
 
-  <CoreBiodollR.label>Biodoll</CoreBiodollR.label>
-  <CoreBiodollR.description> white-haired young девушка ношение красный mechanical cloak, с beautiful чёрное gem на её forehead. gem does не appear к быть artificially embedded, nor does это seem like часть из girl's тело. Это resembles более из illusion; upon близко inspection, один не может найти любой seam between кожа и gem, yet это definitely exists когда touched.</CoreBiodollR.description>
-  <CoreBiodollR.tools.0.label>ушёл fist</CoreBiodollR.tools.0.label>
-  <CoreBiodollR.tools.1.label>право fist</CoreBiodollR.tools.1.label>
-  <CoreBiodollR.tools.2.label>teeth</CoreBiodollR.tools.2.label>
-  <CoreBiodollR.tools.3.label>голова</CoreBiodollR.tools.3.label>
-  <CoreBiodollR.tools.4.label>hair</CoreBiodollR.tools.4.label>
+  <CoreBiodollR.label>Биокукла</CoreBiodollR.label>
+  <CoreBiodollR.description>Такое чувство будто внутри меня что-то есть...</CoreBiodollR.description>
+  <CoreBiodollR.tools.0.label>Левый кулак</CoreBiodollR.tools.0.label>
+  <CoreBiodollR.tools.1.label>Правый кулак</CoreBiodollR.tools.1.label>
+  <CoreBiodollR.tools.2.label>Зубы</CoreBiodollR.tools.2.label>
+  <CoreBiodollR.tools.3.label>Голова</CoreBiodollR.tools.3.label>
+  <CoreBiodollR.tools.4.label>Волосы</CoreBiodollR.tools.4.label>
   <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.label>Странный Древний study progress</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.label>
   <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_имяопределения} сделал significant progress в study из это странный древний individual. исследование indicates то её тело contains большой number из nanomachines, which distributed не только в её muscles и кожа но также в её hair. Эти nanomachines responsible для maintaining её physiological form; для example, когда её hair reaches certain length, excess naturally falls выкл. Это shed hair может быть refined в drug known как "Luciferium." Additionally, её singing voice способность к influence people's мысли. Это influence не transmitted через hearing но acts directly на mind, similar к telepathy. {PAWN_имяопределения} believes эти способности related к чёрное gemstone на girl's forehead, и further исследование necessary к understand это phenomenon.</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.0.text>
   <CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.label>Странный Древний study завершить</CoreBiodollR.comps.CompStudyUnlocks.studyNotes.1.label>
@@ -64,5 +64,5 @@ Vic: "......" *Даже если вы хороший в slicing пули, please
   <XEPXHuman.tools.2.label>teeth</XEPXHuman.tools.2.label>
   <XEPXHuman.tools.3.label>голова</XEPXHuman.tools.3.label>
 
-  <NanoBioMeat.label>Nano Meat</NanoBioMeat.label>
-  <NanoBioMeat.description> meat obtained после butchering Biodoll. Эти meats crunchy и chicken-flavored! Это six times richer в protein чем человек meat, и большой number из nano-mechanical molecules hidden в muscle fibers и fats. После extraction, это может быть используется к produce related drugs. Это должен быть noted то nano-mechanical molecules без central контроль будет скоро остановить functioning due к loss из cohesion, так что please refrigerate как скоро как possible.</NanoBioMeat.description></LanguageData>
+  <NanoBioMeat.label>Нано Мясо</NanoBioMeat.label>
+  <NanoBioMeat.description>Мясо полученное после разделки Биокуклы. Это хрустящее мясо со вкусом курицы! Оно в шесть раз богаче белком, чем человеческое мясо, а большое количество наномеханических молекул скрыто в мышечных волокнах и жирах. После экстракции его можно использовать для производства различных препаратов. Следует отметить, что наномеханические молекулы без централизованного управления скоро перестанут функционировать из-за потери сцепления, поэтому как можно скорее охладите их.</NanoBioMeat.description></LanguageData>

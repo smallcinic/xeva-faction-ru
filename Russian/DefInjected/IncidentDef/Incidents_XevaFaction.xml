@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <snakANDapple.label>Snake и Яблоко</snakANDapple.label>
-  <snakANDapple.letterLabel>Snake и Яблоко</snakANDapple.letterLabel>
-  <snakANDapple.letterText>Два hungry lost men иметь come к ваш colony. story не над yet, keep fighting! &lt;color=#ff0000&gt;Vic и XvA будет join ваш colony, influenced background из их story, и сейчас Star Исследователь и XEO стать враги с ваш colony.&lt;/color&gt;</snakANDapple.letterText>
+  <snakANDapple.label>Змея и Яблоко</snakANDapple.label>
+  <snakANDapple.letterLabel>Змея и Яблоко</snakANDapple.letterLabel>
+  <snakANDapple.letterText>Предвидя неприятности, прибыл таинственный [PAWN_kind].\n\nСможет ли [PAWN_pronoun] всё исправить?</snakANDapple.letterText>
 
   <XFbiodollAppeared.label>Странный Древний</XFbiodollAppeared.label>
   <XFbiodollAppeared.letterLabel>Странный Древний</XFbiodollAppeared.letterLabel>

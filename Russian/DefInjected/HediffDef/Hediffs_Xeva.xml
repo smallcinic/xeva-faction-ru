@@ -29,21 +29,21 @@
   <XF_BlackAppleInterest.description>Это один influenced чёрное яблоко, becoming disoriented и delusional.</XF_BlackAppleInterest.description>
   <XF_BlackAppleInterest.stages.0.label>пси infection</XF_BlackAppleInterest.stages.0.label>
 
-  <XHCcut.label>Freeze</XHCcut.label>
-  <XHCcut.description>Slow движение due к decreased тело temperature.</XHCcut.description>
+  <XHCcut.label>Заморозка</XHCcut.label>
+  <XHCcut.description>Медленная скорость движения из-за пониженной температуры тела.</XHCcut.description>
   
-  <XHpull.label>Visceral Pulled</XHpull.label>
-  <XHpull.description>Visceral pulled вызывая severe боль.</XHpull.description>
+  <XHpull.label>Висцеральное вытягивание</XHpull.label>
+  <XHpull.description>Висцералы вытягиваются, что вызывает сильную боль.</XHpull.description>
 
-  <XFBlind.label>Flash Blind</XFBlind.label>
-  <XFBlind.description>Ho! Мой Fxxking Eyes!</XFBlind.description>
+  <XFBlind.label>Ослепляющая вспышка</XFBlind.label>
+  <XFBlind.description>Черт! Мои Глаза!</XFBlind.description>
 
-  <XGVEBlind.label>Rock Ваш Eyes</XGVEBlind.label>
-  <XGVEBlind.description>Ho! Мой Fxxking Eyes!</XGVEBlind.description>
-  <XGVEBlind.stages.1.label>Bling Bling!</XGVEBlind.stages.1.label>
-  <XGVEBlind.stages.2.label>Тоже Shiny!</XGVEBlind.stages.2.label>
-  <XGVEBlind.stages.3.label>I'm Blind</XGVEBlind.stages.3.label>
-  <XGVEBlind.stages.4.label>Мой Fxxking Eyes!</XGVEBlind.stages.4.label>
+  <XGVEBlind.label>Камни в глаза</XGVEBlind.label>
+  <XGVEBlind.description>Черт! Мои Глаза!</XGVEBlind.description>
+  <XGVEBlind.stages.1.label>Всё мигает!</XGVEBlind.stages.1.label>
+  <XGVEBlind.stages.2.label>Слишком Ярко!</XGVEBlind.stages.2.label>
+  <XGVEBlind.stages.3.label>Я Ослеп!</XGVEBlind.stages.3.label>
+  <XGVEBlind.stages.4.label>Мои Чертовы Глаза!</XGVEBlind.stages.4.label>
   
-  <XFZbomb.label>Frost</XFZbomb.label>
-  <XFZbomb.description>Slow движение due к decreased тело temperature.</XFZbomb.description></LanguageData>
+  <XFZbomb.label>Заморозка</XFZbomb.label>
+  <XFZbomb.description>Медленная скорость движения из-за пониженной температуры тела.</XFZbomb.description></LanguageData>

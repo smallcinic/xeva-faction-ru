@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
   
-  <AEXHead.label>голова</AEXHead.label>
-  <AEXHair.label>hair</AEXHair.label>
-  <AEXSkull.label>skull</AEXSkull.label>
-  <AEXBrain.label>core</AEXBrain.label>
-  <AEXEye.label>глаз</AEXEye.label>
-  <AEXEar.label>ear</AEXEar.label>
-  <AEXNose.label>нос</AEXNose.label>
-  <AEXJaw.label>jaw</AEXJaw.label>
-  <AEXNeck.label>neck</AEXNeck.label>
-  <AEXRibcage.label>ribcage</AEXRibcage.label>
-  <AEXSpine.label>spine</AEXSpine.label>
-  <AEXLeg.label>нога</AEXLeg.label>
-  <AEXFoot.label>ступня</AEXFoot.label>
-  <AEXTorso.label>torso</AEXTorso.label>
-  <AEXShoulder.label>плечо</AEXShoulder.label>
-  <AEXArm.label>рука</AEXArm.label>
-  <AEXHand.label>кисть</AEXHand.label>
-  <AEXFinger.label>finger</AEXFinger.label>
-  <AEXWaist.label>waist</AEXWaist.label>
-  <AEXToe.label>toe</AEXToe.label>
-  <AEXClavicle.label>clavicle</AEXClavicle.label>
-  <AEXSternum.label>sternum</AEXSternum.label>
-  <AEXHumerus.label>humerus</AEXHumerus.label>
-  <AEXRadius.label>radius</AEXRadius.label>
-  <AEXPelvis.label>pelvis</AEXPelvis.label>
-  <AEXFemur.label>femur</AEXFemur.label>
-  <AEXTibia.label>tibia</AEXTibia.label>
-  <AEXHeart.label>сердце</AEXHeart.label>
-  <AEXLung.label>lung</AEXLung.label>
-  <AEXKidney.label>kidney</AEXKidney.label>
-  <AEXLiver.label>liver</AEXLiver.label>
-  <AEXStomach.label>stomach</AEXStomach.label></LanguageData>
+  <AEXHead.label>Голова</AEXHead.label>
+  <AEXHair.label>Волосы</AEXHair.label>
+  <AEXSkull.label>Череп</AEXSkull.label>
+  <AEXBrain.label>Ядро</AEXBrain.label>
+  <AEXEye.label>Глаз</AEXEye.label>
+  <AEXEar.label>Ухо</AEXEar.label>
+  <AEXNose.label>Нос</AEXNose.label>
+  <AEXJaw.label>Челюсть</AEXJaw.label>
+  <AEXNeck.label>Шея</AEXNeck.label>
+  <AEXRibcage.label>Грудная клетка</AEXRibcage.label>
+  <AEXSpine.label>Позвоночник</AEXSpine.label>
+  <AEXLeg.label>Нога</AEXLeg.label>
+  <AEXFoot.label>Ступня</AEXFoot.label>
+  <AEXTorso.label>Торс</AEXTorso.label>
+  <AEXShoulder.label>Плечо</AEXShoulder.label>
+  <AEXArm.label>Рука</AEXArm.label>
+  <AEXHand.label>Кисть</AEXHand.label>
+  <AEXFinger.label>Палец</AEXFinger.label>
+  <AEXWaist.label>Талия</AEXWaist.label>
+  <AEXToe.label>Палец ноги</AEXToe.label>
+  <AEXClavicle.label>Ключица</AEXClavicle.label>
+  <AEXSternum.label>Грудина</AEXSternum.label>
+  <AEXHumerus.label>Плечевая кость</AEXHumerus.label>
+  <AEXRadius.label>Лучевая кость</AEXRadius.label>
+  <AEXPelvis.label>Таз</AEXPelvis.label>
+  <AEXFemur.label>Бедренная кость</AEXFemur.label>
+  <AEXTibia.label>Большеберцовая кость</AEXTibia.label>
+  <AEXHeart.label>Сердце</AEXHeart.label>
+  <AEXLung.label>Легкое</AEXLung.label>
+  <AEXKidney.label>Почка</AEXKidney.label>
+  <AEXLiver.label>Печень</AEXLiver.label>
+  <AEXStomach.label>Желудок</AEXStomach.label></LanguageData>
